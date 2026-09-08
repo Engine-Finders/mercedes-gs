@@ -1,0 +1,34 @@
+{
+  "titlePre": "MERCEDES-AMG M139",
+  "titleHighlight": "BY POWERTRAIN VARIANT",
+  "intro": "The M139 is available in two power variants. Choose the specification that matches your vehicle to ensure correct compatibility and performance.",
+  "image": "/engine/sec9b.webp",
+  "imageMobile": "/engine/sec9b_mobile.webp",
+  "cards": [
+    {
+      "number": "01",
+      "thumbnail": "/engine/engine_trim.webp",
+      "title": "STANDARD M139",
+      "hp": "382 HP",
+      "applicationsLabel": "Applications:",
+      "applications": "A 45 AMG, C 43 AMG, CLA 45 AMG, GLA 45 AMG, GLC 43 AMG, SL 43.",
+      "note": "This is the 382 hp version of the engine."
+    },
+    {
+      "number": "02",
+      "thumbnail": "/engine/engine_trim.webp",
+      "title": "M139 S",
+      "hp": "421 HP",
+      "applicationsLabel": "Applications:",
+      "applications": "A 45 S AMG, CLA 45 S AMG, GLA 45 S AMG.",
+      "note": "The 'S' designation denotes the more powerful 421 hp variant."
+    }
+  ],
+  "prompt": {
+    "icon": "note",
+    "titlePre": "Not seeing your exact model above?",
+    "subtext": "Send us your registration and we'll confirm your exact spec.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

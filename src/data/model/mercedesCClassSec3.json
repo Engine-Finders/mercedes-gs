@@ -1,0 +1,45 @@
+{
+  "kicker": "Transparent Pricing",
+  "h2": "Mercedes C-Class|Rebuild Pricing",
+  "startingFromLabel": "Starting From:",
+  "image": "/model/sec3.webp",
+  "imageMobile": "/model/sec3_mobile.webp",
+  "cardImage": "/model/engine_trim.webp",
+  "cards": [
+    {
+      "titlePre": "4-Cylinder",
+      "titleHighlight": "Rebuild",
+      "code": "(OM651 / OM654 / M274)",
+      "price": "£2,200",
+      "featured": false
+    },
+    {
+      "titlePre": "6-Cylinder",
+      "titleHighlight": "Rebuild",
+      "code": "(M276)",
+      "price": "£3,200",
+      "featured": false
+    },
+    {
+      "titlePre": "AMG V8",
+      "titleHighlight": "Rebuild",
+      "code": "(M156 / M177)",
+      "price": "£6,500",
+      "featured": true
+    },
+    {
+      "titlePre": "Nationwide",
+      "titleHighlight": "Recovery",
+      "code": "",
+      "price": "£70",
+      "featured": false
+    }
+  ],
+  "disclaimer": "Exact price depends on engine code, condition and parts required — full pricing further down this page.",
+  "cta": {
+    "line1": "Get Your Fixed-Price Quote",
+    "line2": "In Under 30 Minutes",
+    "buttonLabel": "Request Quote",
+    "href": "#quote-form"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "brand": "MERCEDESENGINES.UK",
+  "blurb": "Mercedes-Benz engine rebuild specialists. OM651, OM642, AMG V8, V12 & more. Cars, SUVs, AMG and commercial vehicles. Fixed-price quotes, 12-month unlimited-mileage warranty.",
+  "columns": [
+    {
+      "title": "Company",
+      "links": [
+        { "label": "About Us", "href": "/about" },
+        { "label": "Our Workshop", "href": "/about#workshop" },
+        { "label": "Recovery", "href": "/recovery" },
+        { "label": "Contact", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "Engines",
+      "links": [
+        { "label": "OM651", "href": "/mercedes-om651-engine" },
+        { "label": "OM642", "href": "/mercedes-om642-engine" },
+        { "label": "M271", "href": "/mercedes-m271-engine" },
+        { "label": "OM654", "href": "/mercedes-om654-engine" },
+        { "label": "AMG V8", "href": "/mercedes-amg-v8-engine" },
+        { "label": "M275", "href": "/mercedes-m275-engine" }
+      ]
+    },
+    {
+      "title": "Symptoms",
+      "links": [
+        { "label": "Timing Chain Noise", "href": "/symptoms/timing-chain-noise" },
+        { "label": "White Smoke", "href": "/symptoms/white-smoke" },
+        { "label": "Blue Smoke", "href": "/symptoms/blue-smoke" },
+        { "label": "Engine Overheating", "href": "/symptoms/engine-overheating" }
+      ]
+    }
+  ],
+  "contact": {
+    "address": "Unit A5 Windsor Road, Commercial Estate, Ramsden Heath, Billericay, CM11 1QE",
+    "phone": "+44 01268 944 234",
+    "email": "info@mercedesgarage.uk",
+    "hours": "Mo-Fr 09:00-18:00, Sa 11:00-14:00"
+  },
+  "social": [
+    { "label": "Facebook", "href": "https://facebook.com/mercedesrebuildgarageuk" },
+    { "label": "Twitter", "href": "https://twitter.com/mercedesrebuildgarageuk" },
+    { "label": "Instagram", "href": "https://instagram.com/mercedesrebuildgarageuk" },
+    { "label": "TikTok", "href": "https://tiktok.com/@mercedesrebuildgarageuk" }
+  ],
+  "copyright": "© 2026 Mercedes Garage. All rights reserved. Independent Mercedes-Benz specialist — not affiliated with Mercedes-Benz AG."
+}

@@ -1,0 +1,77 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES AMG GT 53 ENGINE",
+    "paragraphs": [
+      "The AMG GT 53 is part of the second-generation R190 AMG GT range introduced in 2023. Unlike the V8-powered AMG GT 63 and GT 63 S, the AMG GT 53 uses the M256 — a 3.0-litre inline-six petrol engine with mild-hybrid assistance. This is a different engine family from the M178 V8 used in the first-generation C190 cars, and it's also distinct from the V8 M178 found in the current R190 GT 63 models. The M256 is a sophisticated unit with integrated starter-generator and electric auxiliary compressor, delivering strong performance while maintaining efficiency."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every AMG GT 53 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES AMG GT 53 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the AMG GT 53 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 AMG GT 53"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES AMG GT 53 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the AMG GT 53 uses the M256 — a different engine from the V8 units in the GT 63 range — fitting the wrong replacement or assuming parts from other AMG GT variants will work risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M256",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic AMG GT quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES AMG GT 53 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "R190",
+        "chassis": "R190",
+        "years": "2023–present",
+        "engineCode": "M256",
+        "fuel": "Petrol Mild Hybrid"
+      }
+    ]
+  }
+}

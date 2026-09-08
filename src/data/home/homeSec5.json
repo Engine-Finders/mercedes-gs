@@ -1,0 +1,73 @@
+{
+  "h2": "Mercedes Engine Problems|We See|Every Week",
+  "description": "These are the engines we rebuild most often. If yours is here, we know exactly what to do.",
+  "engines": [
+    {
+      "code": "OM651",
+      "spec": "2.1L Diesel",
+      "models": "C-Class, E-Class, GLK, Vito",
+      "years": "2008–2015",
+      "symptom": "Rattling on cold start, rough idle, loss of power",
+      "cost": "From £1,900",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/mercedes-om651-engine"
+    },
+    {
+      "code": "OM642",
+      "spec": "3.0L Diesel V6",
+      "models": "E-Class, ML, GL, S-Class",
+      "years": "2006–2016",
+      "symptom": "Turbo lag, warning lights, oil leaks, injector faults",
+      "cost": "From £2,800",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/mercedes-om642-engine"
+    },
+    {
+      "code": "OM654",
+      "spec": "2.0L Diesel",
+      "models": "C-Class, E-Class, GLC",
+      "years": "2018–present",
+      "symptom": "AdBlue faults, EGR issues, DPF problems, loss of power",
+      "cost": "From £2,100",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/mercedes-om654-engine"
+    },
+    {
+      "code": "M274",
+      "spec": "2.0L Petrol Turbo",
+      "models": "C-Class, E-Class, CLA, GLA",
+      "years": "2011–2017",
+      "symptom": "Rattling on cold start, timing issues, oil leaks",
+      "cost": "From £2,600",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/mercedes-m274-engine"
+    },
+    {
+      "code": "M276",
+      "spec": "3.5L V6 Petrol",
+      "models": "E-Class, S-Class, CLS, GLE",
+      "years": "2008–present",
+      "symptom": "Oil leaks, balance shaft wear, timing problems",
+      "cost": "From £4,500",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/mercedes-m276-engine"
+    },
+    {
+      "code": "M177",
+      "spec": "4.0L V8 Bi-Turbo",
+      "models": "AMG C63, E63, GLE 63, GT",
+      "years": "2015–present",
+      "symptom": "Oil leaks, misfires, overheating, turbo issues",
+      "cost": "From £5,500",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/mercedes-m177-engine"
+    }
+  ],
+  "cta": { "label": "See All Rebuilds", "href": "/engines" }
+}

@@ -1,0 +1,20 @@
+{
+  "paragraphs": [
+    "Our Billericay workshop is dedicated entirely to Mercedes-Benz engine rebuilds.",
+    "From recovery to road test, every Mercedes that arrives is stripped, inspected, rebuilt, tested, and signed off by our team of Mercedes-Benz-trained technicians."
+  ],
+  "note": "We're part of the same specialist group that's been rebuilding engines since 2009.",
+  "bgImage": "/home/sec11.webp",
+  "mobileImage": "/home/sec11_mobile.webp",
+  "cardImage": "/home/sec11_car.webp",
+  "cta": { "label": "Learn More", "href": "#" },
+  "strip": [
+    { "label": "Nationwide Recovery", "icon": "truck" },
+    { "label": "Engine Stripping", "icon": "gear" },
+    { "label": "Expert Rebuilding", "icon": "tech" },
+    { "label": "Machine Shop", "icon": "tool" },
+    { "label": "Rigorous Testing", "icon": "monitor" },
+    { "label": "Road Test & Quality Check", "icon": "car" }
+  ],
+  "footerTagline": "The Right Parts. The Right Way. Every Time."
+}

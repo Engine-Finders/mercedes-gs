@@ -1,0 +1,41 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Mercedes C-Class Variant",
+  "tabs": ["Mercedes C-Class Saloon", "Mercedes C-Class Estate"],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      { "label": "C180" },
+      { "label": "C200" },
+      { "label": "C220d" },
+      { "label": "C250" },
+      { "label": "C250d" },
+      { "label": "C300" },
+      { "label": "C300d" },
+      { "label": "C350" },
+      { "label": "C350e" },
+      { "label": "C43 AMG" },
+      { "label": "C63 AMG" }
+    ],
+    [
+      { "label": "C200" },
+      { "label": "C220d" },
+      { "label": "C250d" },
+      { "label": "C300" },
+      { "label": "C300d" },
+      { "label": "C43 AMG" },
+      { "label": "C63 AMG" }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

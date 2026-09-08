@@ -1,0 +1,95 @@
+﻿Typography System
+Desktop
+Element
+	Font Size
+	Weight
+	Letter Spacing
+	H1 (Hero)
+	65px
+	900 Italic
+	-0.5px
+	H2 (Main Sections)
+	55px
+	800/900 Italic
+	-0.5px
+	H3 (Sub Sections / Cards)
+	32px
+	700/800
+	-0.5px
+	H4
+	24px
+	700
+	-0.5px
+	Body Text
+	18px
+	400
+	—
+	Small Text / Labels
+	12–14px
+	500/600
+	—
+	Buttons
+	15–16px
+	600/700
+	—
+	________________
+
+
+Mobile
+Element
+	Font Size
+	Weight
+	Letter Spacing
+	H1 (Hero)
+	32px
+	900 Italic
+	-0.5px
+	H2 (Main Sections)
+	28px
+	800/900 Italic
+	-0.5px
+	H3 (Sub Sections / Cards)
+	24px
+	700/800
+	-0.5px
+	H4
+	20px
+	700
+	-0.5px
+	Body Text
+	14px
+	400
+	—
+	Small Text / Labels / Badges
+	11–12px
+	500/600
+	—
+	Buttons
+	14–15px
+	600/700
+	—
+	________________
+
+
+Font Family
+Headings
+Use:
+Roboto Condensed
+* Weight: 700–900 depending on hierarchy
+* Style: Italic for H1/H2 where required
+* Letter spacing: -0.5px
+Example:
+* H1 → Roboto Condensed 900 Italic
+* H2 → Roboto Condensed 900 Italic
+* H3 → Roboto Condensed 700/800
+* H4 → Roboto Condensed 700
+________________
+
+
+Body & Supporting Text
+Use the existing body font system:
+Inter
+* Body text → Inter Regular 400
+* Buttons → Inter Semi Bold/Bold 600–700
+* Labels → Inter Medium/Semi Bold 500–600
+This keeps the premium automotive heading style while maintaining clean readability for paragraphs, cards, badges, and UI elements.
