@@ -1,0 +1,56 @@
+{
+  "kicker": "Transparent Pricing",
+  "h2": "Mercedes CLS|Rebuild Pricing",
+  "startingFromLabel": "Starting From:",
+  "image": "/model/sec3.webp",
+  "imageMobile": "/model/sec3_mobile.webp",
+  "cardImage": "/model/engine_trim.webp",
+  "cards": [
+    {
+      "titlePre": "V6 Diesel",
+      "titleHighlight": "Rebuild",
+      "code": "(OM642)",
+      "price": "£2,800",
+      "featured": false,
+      "codeHref": "/mercedes-om642-engine"
+    },
+    {
+      "titlePre": "V6 Petrol",
+      "titleHighlight": "Rebuild",
+      "code": "(M276)",
+      "price": "£3,200",
+      "featured": false,
+      "codeHref": "/mercedes-m276-engine"
+    },
+    {
+      "titlePre": "V8",
+      "titleHighlight": "Rebuild",
+      "code": "(M278)",
+      "price": "£4,500",
+      "featured": false,
+      "codeHref": "/mercedes-m278-engine"
+    },
+    {
+      "titlePre": "AMG V8",
+      "titleHighlight": "Rebuild",
+      "code": "(M157/M177)",
+      "price": "£6,500",
+      "featured": true,
+      "codeHref": "/mercedes-m157-engine"
+    },
+    {
+      "titlePre": "Nationwide",
+      "titleHighlight": "Recovery",
+      "code": "",
+      "price": "£from £70",
+      "featured": false
+    }
+  ],
+  "disclaimer": "Exact price depends on engine code, condition and parts required — full pricing further down this page.",
+  "cta": {
+    "line1": "Get Your Fixed-Price Quote",
+    "line2": "In Under 30 Minutes",
+    "buttonLabel": "Request Quote",
+    "href": "#quote-form"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "kicker": "Transparent Pricing",
+  "h2": "Mercedes GLS|Rebuild Pricing",
+  "startingFromLabel": "Starting From:",
+  "image": "/model/sec3.webp",
+  "imageMobile": "/model/sec3_mobile.webp",
+  "cardImage": "/model/engine_trim.webp",
+  "cards": [
+    {
+      "titlePre": "6-Cylinder",
+      "titleHighlight": "Rebuild",
+      "code": "(OM642/OM656/M276/M256)",
+      "price": "£2,800",
+      "featured": false,
+      "codeHref": "/mercedes-om642-engine"
+    },
+    {
+      "titlePre": "AMG V8",
+      "titleHighlight": "Rebuild",
+      "code": "(M177/M178)",
+      "price": "£6,500",
+      "featured": true,
+      "codeHref": "/mercedes-m177-engine"
+    },
+    {
+      "titlePre": "Nationwide",
+      "titleHighlight": "Recovery",
+      "code": "",
+      "price": "£from £70",
+      "featured": false
+    }
+  ],
+  "disclaimer": "Exact price depends on engine code, condition and parts required — full pricing further down this page.",
+  "cta": {
+    "line1": "Get Your Fixed-Price Quote",
+    "line2": "In Under 30 Minutes",
+    "buttonLabel": "Request Quote",
+    "href": "#quote-form"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes SLK350",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes SLK350"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "SLK"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "SLK350"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "M272"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "3.5L V6"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "R171 (2004–2011) · R172 (2011–2016)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£3,200",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The SLK350 uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes GLS450",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes GLS450"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "GLS"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "GLS450"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol MHEV"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "M276 (X166) or M256 (X167)"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "3.0L V6/I6"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "X166 (2016–2019) · X167 (2019–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£3,200",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The GLS450 uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

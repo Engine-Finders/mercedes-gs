@@ -1,0 +1,49 @@
+{
+  "headlinePre": "Mercedes S63 AMG",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£6,500",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M157",
+      "generation": "W221 (2008–2013)",
+      "price": "£6,500",
+      "codeHref": "/mercedes-m157-engine"
+    },
+    {
+      "code": "M157",
+      "generation": "W222 (2013–2020)",
+      "price": "£6,500",
+      "codeHref": "/mercedes-m157-engine"
+    },
+    {
+      "code": "M177",
+      "generation": "W223 (2020–present)",
+      "price": "£6,500",
+      "codeHref": "/mercedes-m177-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes S63 AMG Known Issues by Engine ",
+    "titleHighlight": "",
+    "paragraphs": [
+      "If your S63 AMG has the M157 engine (W221 or W222 generation), valve seal and coolant system wear is a known pattern on this twin-turbo V8. We replace valve seals and coolant system components as standard on every M157 rebuild.",
+      "If your S63 AMG has the M177 engine (W223 generation), valve seal and coolant system wear is also a known pattern, consistent with the broader AMG V8 family. We replace these as standard on every M177 rebuild."
+    ],
+    "source": "Source: established AMG specialist pattern, per G-BRF and VRF-mercedes-s-class.md. Both codes are explicitly included in the claim"
+  }
+}

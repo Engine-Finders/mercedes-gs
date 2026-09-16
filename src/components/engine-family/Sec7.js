@@ -4,7 +4,7 @@ import AMGBadge from "@/components/reusable/AMGBadge";
 
 export default function Sec7({ data }) {
   return (
-    <section className="relative overflow-hidden bg-hero-dark">
+    <section className="theme-dark relative overflow-hidden">
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-7 md:hidden">
         <div
@@ -15,7 +15,7 @@ export default function Sec7({ data }) {
           <MercedesLogo className="h-8 w-8" />
           <AMGBadge className="h-3.5" />
         </div>
-        <h2 className="mt-2 text-xl font-bold uppercase leading-[1.05] tracking-tighter">
+        <h2 className="h2 mt-2 uppercase">
           <span className="text-white">{data.titlePre}</span>
           <span className="text-hero-blue">{data.titleHighlight}</span>
         </h2>
@@ -58,14 +58,23 @@ export default function Sec7({ data }) {
           className="relative mx-auto max-w-6xl overflow-hidden rounded-2xl p-10"
           style={{ border: "1px solid rgba(173,135,92,0.4)", boxShadow: "0 0 45px -12px rgba(173,135,92,0.35)" }}
         >
-          <div className="flex items-center gap-3">
-            <MercedesLogo className="h-11 w-11" />
-            <AMGBadge className="h-5" />
+          <div className="flex items-center gap-5">
+            <MercedesLogo className="h-24 w-24 shrink-0" />
+            <div className="h-20 w-px shrink-0 bg-white/15" aria-hidden="true" />
+            <div>
+              <AMGBadge
+                className="h-7"
+                barWidthClass="w-2"
+                barGapClass="gap-1.5"
+                gapClass="gap-3"
+                textSizeClass="text-4xl"
+              />
+              <h2 className="h2 mt-1 uppercase">
+                <span className="text-white">{data.titlePre}</span>
+                <span className="text-hero-blue">{data.titleHighlight}</span>
+              </h2>
+            </div>
           </div>
-          <h2 className="mt-3 text-3xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
-            <span className="text-white">{data.titlePre}</span>
-            <span className="text-hero-blue">{data.titleHighlight}</span>
-          </h2>
 
           <div className="relative mt-10 grid grid-cols-10 gap-2">
             <span className="pointer-events-none absolute left-[5%] right-[5%] top-9 border-t border-hero-blue/50" aria-hidden="true" />

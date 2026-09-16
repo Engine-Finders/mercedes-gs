@@ -1,0 +1,273 @@
+{
+  "slug": "mercedes-engine-compatibility",
+  "metaTitle": "Mercedes-Benz Engine Compatibility & Application Matching | Mercedes Garage",
+  "metaDescription": "Professional engine compatibility matching for Mercedes-Benz. VIN verification, physical fit, ECU coding & ancillary alignment. Ensure the correct engine for your vehicle.",
+  "h1": "Mercedes-Benz Engine Compatibility & Application Matching",
+  "lede": "We verify physical fit, electronic integration, specification alignment and ancillary compatibility – making sure the correct engine is matched to your exact Mercedes-Benz.",
+  "ctas": [
+    {
+      "label": "Get a compatibility check",
+      "href": "/contact"
+    },
+    {
+      "label": "Call us now",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec5.webp",
+    "/model/sec5.webp",
+    "/variant/sec11.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What engine compatibility matching involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "A professional engine compatibility check goes far beyond comparing engine codes. We carry out a structured assessment across four key areas to ensure the engine can be correctly installed, operated, and integrated into your specific Mercedes-Benz."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Physical fit** – engine mounts, overall dimensions, bellhousing pattern, and exhaust/manifold routing.",
+            "**Electronic integration** – ECU programming, sensor compatibility, and full CAN bus communication.",
+            "**Specification alignment** – displacement, power output, emission standards, and model-year calibration.",
+            "**Ancillary compatibility** – AC compressor, power steering pump, alternator mounting, and drive belt routing."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We use the vehicle's VIN to identify the original engine specification, then cross-reference the engine family, variant, and engine number prefix. After installation, we perform all necessary electronic adaptation and coding."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Compatibility assessment pricing",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Compatibility & application check** from £250",
+            "The assessment fee is deductible from any subsequent rebuild or replacement work. [Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Models we match",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We perform engine compatibility checks for the full Mercedes-Benz range – including passenger cars, SUVs, AMG models, and commercial vehicles."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "C-Class",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "AMG GT",
+              "href": "/mercedes-amg-gt-engines"
+            },
+            {
+              "label": "G-Class",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "Sprinter",
+              "href": "/mercedes-sprinter-engines"
+            },
+            {
+              "label": "Vito",
+              "href": "/mercedes-vito-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Specific variants where compatibility matching is especially critical:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "C 220 d",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E 220 d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "E 350 d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S 350 d",
+              "href": "/mercedes-s350d-engines"
+            },
+            {
+              "label": "S 450",
+              "href": "/mercedes-s450-engines"
+            },
+            {
+              "label": "G 63 AMG",
+              "href": "/mercedes-g-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "If your model isn't listed, contact us – we have application data for every Mercedes-Benz engine family."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our compatibility matching process",
+      "steps": [
+        {
+          "title": "",
+          "body": "We identify the original engine specification using the vehicle's VIN and check the engine number prefix."
+        },
+        {
+          "title": "",
+          "body": "We verify engine mount positions, bellhousing pattern, exhaust routing, and overall dimensions."
+        },
+        {
+          "title": "",
+          "body": "We confirm ECU compatibility, sensor signal matching, and CAN bus communication protocols."
+        },
+        {
+          "title": "",
+          "body": "We ensure displacement, power output, and emission standards match the vehicle's original calibration."
+        },
+        {
+          "title": "",
+          "body": "We check AC compressor, power steering pump, alternator, and drive belt routing for that model."
+        },
+        {
+          "title": "",
+          "body": "Once matched, we install the engine and carry out all required electronic adaptation and coding."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why choose us for engine matching",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Mercedes-Benz specialists since 2009** – we have deep experience with every Mercedes engine family and chassis generation. [About us](/about)",
+            "**Full manufacturer application data** – we cross-reference engine codes, variants, and model-year changes to avoid mismatches.",
+            "**VIN-locked ECU handling** – we use professional diagnostic equipment to re-programme and adapt ECUs that are linked to the vehicle.",
+            "**Same-engine, different specs** – we don't assume two engines with the same code are interchangeable; we verify displacement, tune, and ancillary layout.",
+            "**Transparent assessment report** – you receive a clear compatibility report before any work proceeds."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How the compatibility check works",
+      "steps": [
+        {
+          "title": "",
+          "body": "We look up your vehicle's original engine specification and chassis data."
+        },
+        {
+          "title": "",
+          "body": "We check physical fit, electronics, specs, and ancillaries against our application database."
+        },
+        {
+          "title": "",
+          "body": "You receive a clear assessment with the recommended path forward."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Other engine services that rely on accurate compatibility matching:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Matching by Registration & VIN](/mercedes-engine-matching)",
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
+            "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Mercedes-Benz Nationwide Engine Recovery](/mercedes-engine-recovery)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Not sure if your engine is compatible? [Contact us](/contact) and we'll check for you."
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "Why can't I just fit any engine with the same engine code?",
+          "a": "Mercedes-Benz often uses the same engine family (e.g. M276) with different displacements, tunes, and ancillary layouts. Even minor differences in sensor type or ECU software can prevent the engine from working correctly in your vehicle."
+        },
+        {
+          "q": "What happens if the engine number doesn't match the VIN?",
+          "a": "We check whether the engine is a correct alternative for that chassis. If it's a different variant, we assess physical fit, electronic integration, and calibration – and advise on the work needed to make it compatible."
+        },
+        {
+          "q": "Do you handle VIN-locked ECUs?",
+          "a": "Yes. Many Mercedes-Benz ECUs are coded to the vehicle's VIN. We use professional diagnostic equipment to re-programme and adapt the ECU to the replacement engine."
+        },
+        {
+          "q": "What is included in the compatibility assessment?",
+          "a": "We check physical mounting, bellhousing, electronics (ECU, sensors, CAN bus), specification (displacement, emissions, power output), and ancillaries (AC, alternator, power steering)."
+        },
+        {
+          "q": "Can a petrol engine be replaced with a diesel (or vice versa)?",
+          "a": "This is extremely rare and usually requires extensive changes to the wiring loom, fuel system, cooling system, and ECU. Our compatibility check will assess whether it's technically feasible – but we always advise on the preferred, factory-matched option."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "kicker": "Transparent Pricing",
+  "h2": "Mercedes SLS AMG|Rebuild Pricing",
+  "startingFromLabel": "Starting From:",
+  "image": "/model/sec3.webp",
+  "imageMobile": "/model/sec3_mobile.webp",
+  "cardImage": "/model/engine_trim.webp",
+  "cards": [
+    {
+      "titlePre": "V8",
+      "titleHighlight": "Rebuild",
+      "code": "(M159)",
+      "price": "£6,500",
+      "featured": false,
+      "codeHref": "/mercedes-m159-engine"
+    },
+    {
+      "titlePre": "Nationwide",
+      "titleHighlight": "Recovery",
+      "code": "",
+      "price": "£from £70",
+      "featured": false
+    }
+  ],
+  "disclaimer": "Exact price depends on engine code, condition and parts required — full pricing further down this page.",
+  "cta": {
+    "line1": "Get Your Fixed-Price Quote",
+    "line2": "In Under 30 Minutes",
+    "buttonLabel": "Request Quote",
+    "href": "#quote-form"
+  }
+}

@@ -4,17 +4,60 @@
   "titleHighlight": "BY YEAR",
   "description": "From the R190's launch in 2023, the AMG GT 53 has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
   "columns": [
-    { "icon": "calendar", "label": "Year" },
-    { "icon": "car", "label": "Generation" },
-    { "icon": "gear", "label": "Engine Code" },
-    { "icon": "fuel", "label": "Fuel" },
-    { "icon": "wrench", "label": "Service" }
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
   ],
   "rows": [
-    { "year": "2023", "generation": "R190", "engineCode": "M256", "fuel": "Petrol Mild Hybrid", "service": "Rebuild / Replacement" },
-    { "year": "2024", "generation": "R190", "engineCode": "M256", "fuel": "Petrol Mild Hybrid", "service": "Rebuild / Replacement" },
-    { "year": "2025", "generation": "R190", "engineCode": "M256", "fuel": "Petrol Mild Hybrid", "service": "Rebuild / Replacement" },
-    { "year": "2026", "generation": "R190", "engineCode": "M256", "fuel": "Petrol Mild Hybrid", "service": "Rebuild / Replacement" }
+    {
+      "year": "2023",
+      "generation": "R190",
+      "engineCode": "M256",
+      "fuel": "Petrol Mild Hybrid",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m256-engine"
+    },
+    {
+      "year": "2024",
+      "generation": "R190",
+      "engineCode": "M256",
+      "fuel": "Petrol Mild Hybrid",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m256-engine"
+    },
+    {
+      "year": "2025",
+      "generation": "R190",
+      "engineCode": "M256",
+      "fuel": "Petrol Mild Hybrid",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m256-engine"
+    },
+    {
+      "year": "2026",
+      "generation": "R190",
+      "engineCode": "M256",
+      "fuel": "Petrol Mild Hybrid",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m256-engine"
+    }
   ],
   "notice": {
     "highlight": "The M256",

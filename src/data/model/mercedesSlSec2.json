@@ -1,0 +1,40 @@
+{
+  "kicker": "Known Issue",
+  "h2": "Mercedes SL|V8 Valve Seal|& AMG Issues?",
+  "description": "The M113/M273 V8s are known for valve seal and coolant system wear at higher mileage, an established Mercedes specialist pattern. If your SL is a 63 AMG with the M157/M177 twin-turbo V8, the same valve seal and coolant issue applies, established separately in AMG specialist circles.",
+  "descriptionEmphasis": "No hidden extras.",
+  "image": "/model/sec2.webp",
+  "imageMobile": "/model/sec2_mobile.webp",
+  "callout": {
+    "icon": "shield-check",
+    "title": "A Well-Documented Issue",
+    "body": "OM651 injector seal leaks and timing chain wear are widely documented across Mercedes specialist forums and official TSBs."
+  },
+  "heroHook": {
+    "icon": "shield-check",
+    "title": "Include In Hero Hook:",
+    "body": "Yes — both verified: OM651 widely documented with multiple TSBs; M156 pre-2012 established AMG specialist pattern."
+  },
+  "features": [
+    {
+      "icon": "link",
+      "title": "New Timing Chains",
+      "body": "Replaced as standard (where worn or damaged)"
+    },
+    {
+      "icon": "gear",
+      "title": "New Tensioners",
+      "body": "For maximum reliability"
+    },
+    {
+      "icon": "guide",
+      "title": "New Injector Seals",
+      "body": "Updated OEM components"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Peace Of Mind",
+      "body": "No hidden extras — just a stronger, longer-lasting engine"
+    }
+  ]
+}

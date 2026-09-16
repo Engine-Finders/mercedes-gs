@@ -1,0 +1,69 @@
+{
+  "yearBanner": {
+    "titlePre": "WE COVER ",
+    "titleHighlight": "EVERY",
+    "titlePost": " MERCEDES GLK200 MODEL YEAR:",
+    "years": [
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg.",
+    "vehicleLabel": "Mercedes GLK200"
+  },
+  "costs": {
+    "titlePre": "MERCEDES GLK200 ENGINE ",
+    "titleHighlight": "COSTS",
+    "intro": "A Mercedes GLK200 engine rebuild starts from",
+    "price": "£2,200",
+    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/sec10_engine.webp",
+    "warranty": {
+      "line1": "12 MONTH",
+      "line2": "UNLIMITED-MILEAGE",
+      "line3": "WARRANTY"
+    },
+    "subCards": [
+      {
+        "icon": "engine",
+        "title": "MERCEDES GLK200 ENGINE SIZES",
+        "item": "Mercedes GLK200 3.0 Litre Engine (M256, I6)"
+      },
+      {
+        "icon": "fuel",
+        "title": "MERCEDES GLK200 FUEL TYPES",
+        "item": "Mercedes GLK200 Petrol Mild Hybrid Engine Rebuilds"
+      }
+    ]
+  },
+  "bottomInfo": {
+    "timeframe": {
+      "icon": "clock",
+      "textPre": "Most Mercedes GLK-Class engine rebuilds are completed within ",
+      "textHighlight": "3-5 working days",
+      "textPost": "."
+    },
+    "recoveryText": "Nationwide recovery and collection available for all GLK-Class models.",
+    "image": "/variant/mercedes_car.webp"
+  },
+  "related": {
+    "title": "RELATED MERCEDES GLK-CLASS VARIANTS",
+    "links": [
+      {
+        "label": "Mercedes GLK250 Engine",
+        "href": "/mercedes-glk250-engines"
+      },
+      {
+        "label": "Mercedes GLK350 Engine",
+        "href": "/mercedes-glk350-engines"
+      }
+    ],
+    "viewAll": "View All Mercedes GLK-Class Engines",
+    "viewAllHref": "/mercedes-glk-class-engines"
+  }
+}

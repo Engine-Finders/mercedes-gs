@@ -1,0 +1,40 @@
+{
+  "kicker": "Known Issue",
+  "h2": "Mercedes S-Class|**OM642**|& AMG V8/V12 Issues?",
+  "description": "The OM642 diesel V6 is known for swirl flap and injector wear, an established pattern with multiple TSBs. If your S-Class is an AMG with the M157/M177 V8, valve seal and coolant system wear is a separately documented pattern. The S65's M275 V12 is a genuinely high-complexity rebuild that we always assess and price individually.",
+  "descriptionEmphasis": "No hidden extras.",
+  "image": "/model/sec2.webp",
+  "imageMobile": "/model/sec2_mobile.webp",
+  "callout": {
+    "icon": "shield-check",
+    "title": "A Well-Documented Issue",
+    "body": "OM651 injector seal leaks and timing chain wear are widely documented across Mercedes specialist forums and official TSBs."
+  },
+  "heroHook": {
+    "icon": "shield-check",
+    "title": "Include In Hero Hook:",
+    "body": "Yes — both verified: OM651 widely documented with multiple TSBs; M156 pre-2012 established AMG specialist pattern."
+  },
+  "features": [
+    {
+      "icon": "link",
+      "title": "New Timing Chains",
+      "body": "Replaced as standard (where worn or damaged)"
+    },
+    {
+      "icon": "gear",
+      "title": "New Tensioners",
+      "body": "For maximum reliability"
+    },
+    {
+      "icon": "guide",
+      "title": "New Injector Seals",
+      "body": "Updated OEM components"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Peace Of Mind",
+      "body": "No hidden extras — just a stronger, longer-lasting engine"
+    }
+  ]
+}

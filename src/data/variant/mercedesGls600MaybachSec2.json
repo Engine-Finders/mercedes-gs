@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes GLS600 Maybach",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes GLS600 Maybach"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "GLS"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "GLS600 Maybach"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol Twin-Turbo V8"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "M177"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "4.0L"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "X167 (2021–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£6,500",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The GLS600 MAYBACH uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

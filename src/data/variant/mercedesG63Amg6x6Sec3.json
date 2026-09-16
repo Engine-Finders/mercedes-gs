@@ -1,0 +1,37 @@
+{
+  "headlinePre": "Mercedes G63 AMG 6x6",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£6,500",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M157",
+      "generation": "W463 (2013–2015)",
+      "price": "£6,500",
+      "codeHref": "/mercedes-m157-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes G63 AMG 6x6 Valve Seal & Coolant System Wear ",
+    "titleHighlight": "",
+    "paragraphs": [
+      "G63 AMG 6x6 models with the M157 twin-turbo V8 — fitted to every 6x6 produced — commonly show valve seal and coolant system wear. This is a well-documented pattern across the M157 engine family, confirmed in specialist circles across the wider Mercedes AMG range. We replace valve seals, coolant components and timing chain components as standard on every M157 rebuild.",
+      "include_in_hero_hook: yes for M157 — Source: established AMG specialist pattern, confirmed across the wider Mercedes G-BRF (S-Class, CLS, E-Class) where the same M157 family is documented. Applicability specifically to G63 AMG 6x6 sourced from VRF-mercedes-g-class.md."
+    ],
+    "source": "Source: established AMG specialist pattern, confirmed across the wider Mercedes G-BRF (S-Class, CLS, E-Class) where the same M157 family is documented. Applicability specifically to G63 AMG 6x6 sourced from VRF-mercedes-g-class.md"
+  }
+}

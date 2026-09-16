@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SLK230 ENGINE",
+    "paragraphs": [
+      "The SLK230 was part of the first-generation SLK (R170) range, produced from 1996 to 2004. It uses the M111 — a 2.3-litre 4-cylinder petrol engine that was widely used across Mercedes models of that era. The SLK230 was the mid-range petrol option in the R170 line-up, sitting between the SLK200 and the V6-powered SLK320. The SLK was discontinued in 2016 and succeeded by the SLC, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SLK230 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SLK230 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M111",
+        "codeRest": "",
+        "body": "A 2.3-litre 4-cylinder petrol engine fitted to the SLK230 throughout the R170 generation (1996–2004). No specific known issue has been independently confirmed for this engine in SLK230 application. We replace timing chain, timing gears and gaskets as standard on every M111 rebuild.",
+        "cta": "Check Your M111 SLK230",
+        "codeHref": "/mercedes-m111-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SLK230 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the SLK230 only uses one engine across its entire production run — the M111 — there's less compatibility risk than with models that changed engine code mid-generation. However, we still confirm your exact build before we quote anything:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M111",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic SLK quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SLK230 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "R170",
+        "chassis": "R170",
+        "years": "1996–2004",
+        "engineCode": "M111",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m111-engine"
+      }
+    ]
+  }
+}

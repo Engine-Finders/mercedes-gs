@@ -1,0 +1,117 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SL500 SL550 ENGINE",
+    "paragraphs": [
+      "The SL500 (and its later SL550 badging) has been a cornerstone of the Mercedes SL range since 1989. Across its four generations, the SL500 has used three different V8 engines: the M113 (5.0L) on earlier cars, the M273 (5.5L) on the R230 facelift period, and the M278 (4.7L twin-turbo) on the R231. Each is a robust V8 in its own right, though all share the same well-documented wear pattern on valve seals and coolant components at higher mileage — which is why we replace both as standard on every SL500/SL550 rebuild, regardless of which engine code your car has."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SL500 SL550 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SL500 SL550 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M113",
+        "codeRest": "(R129, R230)",
+        "body": "A 5.0-litre V8 fitted to the SL500 from 1989 to the early R230 years. Known for valve seal wear and coolant system deterioration at higher mileage — see the callout above. We replace valve seals, coolant components, timing chain and bearings as standard on every M113 rebuild.",
+        "cta": "Check Your M113 SL500 SL550",
+        "codeHref": "/mercedes-m113-engine"
+      },
+      {
+        "codeHighlight": "M273",
+        "codeRest": "(R230)",
+        "body": "A 5.5-litre V8 introduced during the R230 generation. Shares the same V8 pattern as the M113 on valve seal and coolant wear. We replace the same components as standard.",
+        "cta": "Check Your M273 SL500 SL550",
+        "codeHref": "/mercedes-m273-engine"
+      },
+      {
+        "codeHighlight": "M278",
+        "codeRest": "(R231)",
+        "body": "A 4.7-litre twin-turbo V8 fitted to the R231 SL500/SL550. While a newer, more advanced design, the M278 still shows the same V8 valve seal and coolant wear pattern over time. We replace valve seals, coolant components, timing chain and bearings as standard on every M278 rebuild.",
+        "cta": "Check Your M278 SL500 SL550",
+        "codeHref": "/mercedes-m278-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SL500 SL550 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The SL500/SL550 spans three different V8 engines across four generations. Fitting the wrong replacement — or assuming an M273 part will work on an M278 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M113",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic SL quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SL500 SL550 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "R129",
+        "chassis": "R129",
+        "years": "1989–2002",
+        "engineCode": "M113",
+        "fuel": "Petrol V8",
+        "codeHref": "/mercedes-m113-engine"
+      },
+      {
+        "generation": "R230",
+        "chassis": "R230",
+        "years": "2001–2012",
+        "engineCode": "M113",
+        "fuel": "Petrol V8",
+        "codeHref": "/mercedes-m113-engine"
+      },
+      {
+        "generation": "R230",
+        "chassis": "R230",
+        "years": "2001–2012",
+        "engineCode": "M273",
+        "fuel": "Petrol V8",
+        "codeHref": "/mercedes-m273-engine"
+      },
+      {
+        "generation": "R231",
+        "chassis": "R231",
+        "years": "2012–2021",
+        "engineCode": "M278",
+        "fuel": "Petrol Twin-Turbo",
+        "codeHref": "/mercedes-m278-engine"
+      }
+    ]
+  }
+}

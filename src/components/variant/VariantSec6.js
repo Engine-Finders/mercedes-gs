@@ -7,7 +7,7 @@ export default function VariantSec6({ data }) {
     <section className="theme-light relative overflow-hidden">
       {/* ===== mobile ===== */}
       <div
-        className="relative rounded-xl px-4 py-10 md:hidden"
+        className="relative rounded-xl px-4 pb-10 pt-7 md:hidden"
         style={{ boxShadow: "0 12px 28px -18px rgba(16,24,40,0.35)" }}
       >
         <h2 className="h2 text-[#101828] uppercase">

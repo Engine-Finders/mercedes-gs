@@ -1,0 +1,298 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "MERCEDES SL500 SL550 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the R190's launch in 2023, the SL500 SL550 has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1989",
+      "generation": "R129",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "1990",
+      "generation": "R129",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "1991",
+      "generation": "R129",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "1992",
+      "generation": "R129",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "1993",
+      "generation": "R129",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "1994",
+      "generation": "R129",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "1995",
+      "generation": "R129",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "1996",
+      "generation": "R129",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "1997",
+      "generation": "R129",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "1998",
+      "generation": "R129",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "1999",
+      "generation": "R129",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "2000",
+      "generation": "R129",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "2001",
+      "generation": "R129/R230",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "2002",
+      "generation": "R129/R230",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "2003",
+      "generation": "R230",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "2004",
+      "generation": "R230",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "2005",
+      "generation": "R230",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "2006",
+      "generation": "R230",
+      "engineCode": "M113",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "2007",
+      "generation": "R230",
+      "engineCode": "M113/M273",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "year": "2008",
+      "generation": "R230",
+      "engineCode": "M273",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m273-engine"
+    },
+    {
+      "year": "2009",
+      "generation": "R230",
+      "engineCode": "M273",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m273-engine"
+    },
+    {
+      "year": "2010",
+      "generation": "R230",
+      "engineCode": "M273",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m273-engine"
+    },
+    {
+      "year": "2011",
+      "generation": "R230",
+      "engineCode": "M273",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m273-engine"
+    },
+    {
+      "year": "2012",
+      "generation": "R230/R231",
+      "engineCode": "M273/M278",
+      "fuel": "Petrol V8",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m273-engine"
+    },
+    {
+      "year": "2013",
+      "generation": "R231",
+      "engineCode": "M278",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m278-engine"
+    },
+    {
+      "year": "2014",
+      "generation": "R231",
+      "engineCode": "M278",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m278-engine"
+    },
+    {
+      "year": "2015",
+      "generation": "R231",
+      "engineCode": "M278",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m278-engine"
+    },
+    {
+      "year": "2016",
+      "generation": "R231",
+      "engineCode": "M278",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m278-engine"
+    },
+    {
+      "year": "2017",
+      "generation": "R231",
+      "engineCode": "M278",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m278-engine"
+    },
+    {
+      "year": "2018",
+      "generation": "R231",
+      "engineCode": "M278",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m278-engine"
+    },
+    {
+      "year": "2019",
+      "generation": "R231",
+      "engineCode": "M278",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m278-engine"
+    },
+    {
+      "year": "2020",
+      "generation": "R231",
+      "engineCode": "M278",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m278-engine"
+    },
+    {
+      "year": "2021",
+      "generation": "R231",
+      "engineCode": "M278",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m278-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "The M256",
+    "rest": " has been fitted to every SL500 SL550 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headlinePre": "Mercedes AMG GT C",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£5,500",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M178",
+      "generation": "C190 (2015–2023)",
+      "price": "£5,500",
+      "codeHref": "/mercedes-m178-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes AMG GT C Oil Leaks & Coolant System Wear ",
+    "titleHighlight": "(M178)",
+    "paragraphs": [
+      "AMG GT C engines with the M178 4.0-litre V8 — that's the C190 generation, built from 2015 to 2023 — commonly show oil leaks from the valve covers and coolant system wear. This is a well-established pattern on M178 engines, confirmed by AMG specialist consensus across the UK. We replace valve covers, gaskets and coolant system components as standard on every M178 rebuild.",
+      "include_in_hero_hook: yes — Source: established AMG specialist pattern (per G-BRF/VRF-mercedes-amg-gt.md)."
+    ],
+    "source": "Source: established AMG specialist pattern (per G-BRF/VRF-mercedes-amg-gt.md)"
+  }
+}

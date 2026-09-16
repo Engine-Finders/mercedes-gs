@@ -1,0 +1,98 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Mercedes-Benz M256 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "AMG GT",
+      "variant": "AMG GT 53",
+      "generation": "X290",
+      "chassis": "X290",
+      "years": "2018–present",
+      "powertrain": "",
+      "modelHref": "/mercedes-amg-gt-engines",
+      "variantHref": "/mercedes-amg-gt-53-engines"
+    },
+    {
+      "model": "C-Class",
+      "variant": "C 43 AMG",
+      "generation": "W206",
+      "chassis": "W206",
+      "years": "2023–present",
+      "powertrain": "",
+      "modelHref": "/mercedes-c-class-engines"
+    },
+    {
+      "model": "E-Class",
+      "variant": "E 53 AMG",
+      "generation": "W213",
+      "chassis": "W213",
+      "years": "2018–2023",
+      "powertrain": "",
+      "modelHref": "/mercedes-e-class-engines"
+    },
+    {
+      "model": "GLE-Class",
+      "variant": "GLE 450",
+      "generation": "W167",
+      "chassis": "W167",
+      "years": "2019–present",
+      "powertrain": "",
+      "modelHref": "/mercedes-gle-class-engines"
+    },
+    {
+      "model": "GLE-Class",
+      "variant": "GLE 53 AMG",
+      "generation": "W167",
+      "chassis": "W167",
+      "years": "2019–present",
+      "powertrain": "",
+      "modelHref": "/mercedes-gle-class-engines"
+    },
+    {
+      "model": "GLS",
+      "variant": "GLS 450",
+      "generation": "X167",
+      "chassis": "X167",
+      "years": "2019–present",
+      "powertrain": "",
+      "modelHref": "/mercedes-gls-engines"
+    },
+    {
+      "model": "GLS",
+      "variant": "GLS 580",
+      "generation": "X167",
+      "chassis": "X167",
+      "years": "2019–present",
+      "powertrain": "",
+      "modelHref": "/mercedes-gls-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

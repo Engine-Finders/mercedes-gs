@@ -1,0 +1,32 @@
+{
+  "kicker": "Transparent Pricing",
+  "h2": "Mercedes B-Class|Rebuild Pricing",
+  "startingFromLabel": "Starting From:",
+  "image": "/model/sec3.webp",
+  "imageMobile": "/model/sec3_mobile.webp",
+  "cardImage": "/model/engine_trim.webp",
+  "cards": [
+    {
+      "titlePre": "4-Cylinder",
+      "titleHighlight": "Rebuild",
+      "code": "(OM607/OM640/M270)",
+      "price": "£2,200",
+      "featured": false,
+      "codeHref": "/mercedes-om607-engine"
+    },
+    {
+      "titlePre": "Nationwide",
+      "titleHighlight": "Recovery",
+      "code": "",
+      "price": "£from £70",
+      "featured": false
+    }
+  ],
+  "disclaimer": "Exact price depends on engine code, condition and parts required — full pricing further down this page.",
+  "cta": {
+    "line1": "Get Your Fixed-Price Quote",
+    "line2": "In Under 30 Minutes",
+    "buttonLabel": "Request Quote",
+    "href": "#quote-form"
+  }
+}

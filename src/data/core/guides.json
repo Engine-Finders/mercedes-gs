@@ -1,0 +1,135 @@
+{
+  "title": "Mercedes Guides",
+  "subtitle": "Expert guides and articles on Mercedes engine repair, rebuilds and common issues.",
+  "groups": [
+    {
+      "heading": "",
+      "items": [
+        {
+          "label": "Mercedes 4-Cylinder Timing Chain Repair (M270/M274)",
+          "href": "/mercedes-4cyl-timing-chain-repair"
+        },
+        {
+          "label": "Mercedes AMG V8 Valve Seal & Coolant Repair",
+          "href": "/mercedes-amg-v8-valve-seal-repair"
+        },
+        {
+          "label": "Mercedes Cylinder Head Repair & Rebuild",
+          "href": "/mercedes-cylinder-head-repair"
+        },
+        {
+          "label": "Mercedes Diesel Timing Chain & Injector Repair",
+          "href": "/mercedes-diesel-timing-chain-repair"
+        },
+        {
+          "label": "Mercedes Engine Bearing Replacement",
+          "href": "/mercedes-engine-bearing-replacement"
+        },
+        {
+          "label": "Mercedes Engine Machining & Rebuild Preparation",
+          "href": "/mercedes-engine-machining"
+        },
+        {
+          "label": "Mercedes Oil Leak & Gasket Repair",
+          "href": "/mercedes-oil-leak-gasket-repair"
+        },
+        {
+          "label": "Mercedes OM654 Coolant System Repair",
+          "href": "/mercedes-om654-coolant-repair"
+        },
+        {
+          "label": "Mercedes Turbo & Ancillary Repair",
+          "href": "/mercedes-turbo-ancillary-repair"
+        },
+        {
+          "label": "Mercedes-AMG Performance Engine Rebuild",
+          "href": "/mercedes-amg-performance-engine-rebuild"
+        },
+        {
+          "label": "Mercedes-Benz Engine Breakdown Recovery & Nationwide Collection",
+          "href": "/mercedes-engine-recovery"
+        },
+        {
+          "label": "Mercedes-Benz Engine Compatibility & Application Matching",
+          "href": "/mercedes-engine-compatibility"
+        },
+        {
+          "label": "Mercedes-Benz Engine Components We Replace (Overview)",
+          "href": "/mercedes-engine-components-replaced"
+        },
+        {
+          "label": "Mercedes-Benz Engine Failure Repair Specialists",
+          "href": "/mercedes-engine-failure-repair"
+        },
+        {
+          "label": "Mercedes-Benz Engine Inspection & Assessment",
+          "href": "/mercedes-engine-inspection-assessment"
+        },
+        {
+          "label": "Mercedes-Benz Engine Matching by Registration & VIN",
+          "href": "/mercedes-engine-matching"
+        },
+        {
+          "label": "Mercedes-Benz Engine Rebuild Process",
+          "href": "/mercedes-engine-rebuild-process"
+        },
+        {
+          "label": "Mercedes-Benz Engine Rebuild Specialists",
+          "href": "/mercedes-engine-rebuild"
+        },
+        {
+          "label": "Mercedes-Benz Engine Rebuild vs Replacement",
+          "href": "/mercedes-rebuild-vs-replacement"
+        },
+        {
+          "label": "Mercedes-Benz Engine Rebuild Warranty Explained",
+          "href": "/mercedes-engine-rebuild-warranty"
+        },
+        {
+          "label": "Mercedes-Benz Engine Removal, Refit & Final Testing",
+          "href": "/mercedes-engine-removal-refit"
+        },
+        {
+          "label": "Mercedes-Benz Engine Replacement & Fitting",
+          "href": "/mercedes-engine-replacement"
+        },
+        {
+          "label": "Mercedes-Benz Engine Supply & Fit",
+          "href": "/mercedes-engine-supply-fit"
+        },
+        {
+          "label": "Mercedes-Benz Failed Engine Rebuild Remediation",
+          "href": "/mercedes-failed-rebuild-remediation"
+        },
+        {
+          "label": "Mercedes-Benz High-Mileage Engine Rebuild",
+          "href": "/mercedes-high-mileage-engine-rebuild"
+        },
+        {
+          "label": "Mercedes-Benz Rebuild vs Reconditioned",
+          "href": "/mercedes-rebuild-vs-reconditioned"
+        },
+        {
+          "label": "Mercedes-Benz Rebuild vs Remanufactured",
+          "href": "/mercedes-rebuild-vs-remanufactured"
+        },
+        {
+          "label": "Mercedes-Benz Rebuild vs Used Engine",
+          "href": "/mercedes-rebuild-vs-used"
+        },
+        {
+          "label": "Mercedes-Benz Repair vs Full Rebuild",
+          "href": "/mercedes-repair-vs-rebuild"
+        },
+        {
+          "label": "Mercedes-Benz Timing Chain Failure Repair",
+          "href": "/mercedes-timing-chain-failure-repair"
+        },
+        {
+          "label": "Mercedes-Benz Trade & Fleet Engine Services",
+          "href": "/mercedes-trade-fleet-engine-services"
+        }
+      ]
+    }
+  ]
+}

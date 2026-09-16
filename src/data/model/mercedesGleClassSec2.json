@@ -1,0 +1,40 @@
+{
+  "kicker": "Known Issue",
+  "h2": "Mercedes GLE-Class|**OM642** Swirl|Flap Issues?",
+  "description": "The GLE's diesel V6 shares the same swirl flap and injector wear pattern documented across the wider Mercedes OM642 family, including E-Class and S-Class applications. We replace worn swirl flaps and injectors as standard.",
+  "descriptionEmphasis": "No hidden extras.",
+  "image": "/model/sec2.webp",
+  "imageMobile": "/model/sec2_mobile.webp",
+  "callout": {
+    "icon": "shield-check",
+    "title": "A Well-Documented Issue",
+    "body": "OM651 injector seal leaks and timing chain wear are widely documented across Mercedes specialist forums and official TSBs."
+  },
+  "heroHook": {
+    "icon": "shield-check",
+    "title": "Include In Hero Hook:",
+    "body": "Yes — both verified: OM651 widely documented with multiple TSBs; M156 pre-2012 established AMG specialist pattern."
+  },
+  "features": [
+    {
+      "icon": "link",
+      "title": "New Timing Chains",
+      "body": "Replaced as standard (where worn or damaged)"
+    },
+    {
+      "icon": "gear",
+      "title": "New Tensioners",
+      "body": "For maximum reliability"
+    },
+    {
+      "icon": "guide",
+      "title": "New Injector Seals",
+      "body": "Updated OEM components"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Peace Of Mind",
+      "body": "No hidden extras — just a stronger, longer-lasting engine"
+    }
+  ]
+}

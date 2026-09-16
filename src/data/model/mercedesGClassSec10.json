@@ -1,0 +1,35 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes G-Class Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes G-Class engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes G350d",
+      "spec": "3.0L V6 / 2.9L I6 Diesel (OM642 (pre-2018) or OM656 (2018-present))",
+      "href": "/mercedes-g350d-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes G400d",
+      "spec": "2.9L I6 Diesel (OM656)",
+      "href": "/mercedes-g400d-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes G500",
+      "spec": "5.0L–5.5L & 4.0L Petrol (M113, M273 & M176)",
+      "href": "/mercedes-g500-engines"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes G63 AMG",
+      "spec": "5.5L V8 Petrol Twin-Turbo (M157)",
+      "href": "/mercedes-g63-amg-engines"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES R350 CDI ENGINE",
+    "paragraphs": [
+      "The R350 CDI uses the OM642 — a 3.0-litre V6 diesel that served as Mercedes' workhorse six-cylinder diesel across much of the late 2000s and early 2010s. It was fitted throughout the R-Class's entire production run from 2006 to 2013, across both the W251 (standard wheelbase) and V251 (long wheelbase) chassis. The OM642 is a robust engine, but one with a well-documented pattern of swirl flap and injector wear over time — which is precisely what we address as standard on every rebuild."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every R350 CDI on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES R350 CDI ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the R350 CDI from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 R350 CDI",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES R350 CDI ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the R350 CDI uses the M256 — a different engine from the V8 units in the GT 63 range — fitting the wrong replacement or assuming parts from other R-Class variants will work risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM642",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic R-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES R350 CDI ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W251/V251",
+        "chassis": "W251/V251",
+        "years": "2006–2013",
+        "engineCode": "OM642",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om642-engine"
+      }
+    ]
+  }
+}

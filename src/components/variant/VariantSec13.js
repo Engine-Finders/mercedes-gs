@@ -4,6 +4,7 @@ import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import MercedesStripe from "@/components/reusable/MercedesStripe";
+import MercedesLogo from "@/components/reusable/MercedesLogo";
 
 function FaqCard({ item, isOpen, onToggle, compact = false }) {
   return (
@@ -57,9 +58,9 @@ export default function VariantSec13({ data }) {
   }
 
   return (
-    <section className="theme-light relative overflow-hidden">
+    <section id="quote-form" className="theme-light relative scroll-mt-6 overflow-hidden">
       {/* ===== mobile ===== */}
-      <div className="relative px-4 py-7 md:hidden">
+      <div className="relative px-4 pb-7 pt-5 md:hidden">
         <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
           <MercedesStripe className="float-left mr-2 mt-0.5 h-6 w-12 shrink-0" />
           <span className="text-[#101828]">{data.kicker} </span>
@@ -85,7 +86,7 @@ export default function VariantSec13({ data }) {
 
           <div className="relative">
             <h3 className="h3 origin-left scale-y-110 scale-x-90 uppercase">
-              <MercedesStripe className="float-left mr-2 mt-0.5 h-5 w-10 shrink-0" />
+              <MercedesLogo className="float-left mr-2 mt-0.5 h-8 w-8 shrink-0" />
               <span className="text-white">{data.form.headlinePre} </span>
               <span className="text-hero-blue">{data.form.headlineHighlight}</span>{" "}
               <span className="text-white">{data.form.headlinePost}</span>
@@ -151,13 +152,10 @@ export default function VariantSec13({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
       <div className="relative mx-auto max-w-6xl">
-        <div className="flex items-center gap-2">
-          <MercedesStripe className="h-10 w-16 shrink-0" />
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
-            <span className="text-[#101828]">{data.kicker} </span>
-            <span className="text-hero-blue">{data.kickerHighlight}</span>
-          </h2>
-        </div>
+        <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+          <span className="text-[#101828]">{data.kicker} </span>
+          <span className="text-hero-blue">{data.kickerHighlight}</span>
+        </h2>
 
         <div className="mt-5 grid grid-cols-2 gap-4">
           <div className="space-y-4">
@@ -185,7 +183,7 @@ export default function VariantSec13({ data }) {
           </div>
 
           <div className="relative">
-            <MercedesStripe className="mb-2 h-4 w-8" />
+            <MercedesLogo className="mb-2 h-10 w-10" />
             <h3 className="h3 origin-left scale-y-110 scale-x-90 whitespace-nowrap text-white uppercase">
               {data.form.headlinePre} <span className="text-hero-blue">{data.form.headlineHighlight}</span>{" "}
               {data.form.headlinePost}

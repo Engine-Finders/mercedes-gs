@@ -12,7 +12,7 @@ export default function VariantSec9({ data }) {
           <div className="absolute inset-0 bg-linear-to-r from-black/85 via-black/45 to-transparent" />
         </div>
 
-        <div className="relative px-4 pb-6 pt-6">
+        <div className="relative px-4 pb-6 pt-4">
           <div className="max-w-[88%]">
             <h2 className="h2 uppercase">
               <span className="block text-white">{data.headlinePre}</span>

@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES VARIO 818D ENGINE",
+    "paragraphs": [
+      "The Vario 818D sits at the top of the Vario range, wearing the heaviest chassis rating of the series. It was produced from 1996 to 2013, spanning the entire W670 generation alongside the rest of the Vario line. Across its production run, the 818D used two different diesel engines — the OM612 and the OM647 — both shared with the equivalent-era Sprinter. The Vario 818D is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every VARIO 818D on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES VARIO 818D ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "OM612",
+        "codeRest": "",
+        "body": "A diesel engine fitted to the Vario 818D from 1996 to 2013 across the W670 generation. Known for timing chain and injector seal wear — see the callout above. We replace timing chain components, timing gears, injector seals and gaskets as standard on every OM612 rebuild.",
+        "cta": "Check Your OM612 Vario 818D",
+        "codeHref": "/mercedes-om612-engine"
+      },
+      {
+        "codeHighlight": "OM647",
+        "codeRest": "",
+        "body": "A diesel engine fitted to the Vario 818D from 1996 to 2013 across the W670 generation. Shares the same known wear pattern as the OM612 — timing chain and injector seal wear — and we replace the same components on every OM647 rebuild.",
+        "cta": "Check Your OM647 Vario 818D",
+        "codeHref": "/mercedes-om647-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES VARIO 818D ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The Vario 818D uses two different engine codes — OM612 and OM647 — across the same generation. Fitting the wrong replacement, or assuming parts are interchangeable between them, risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM612",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Vario quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES VARIO 818D ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W670",
+        "chassis": "W670",
+        "years": "1996–2013",
+        "engineCode": "OM612",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om612-engine"
+      },
+      {
+        "generation": "W670",
+        "chassis": "W670",
+        "years": "1996–2013",
+        "engineCode": "OM647",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om647-engine"
+      }
+    ]
+  }
+}

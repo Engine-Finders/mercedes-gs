@@ -1,0 +1,43 @@
+{
+  "headlinePre": "Mercedes V250 V250d",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,200",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "OM651",
+      "generation": "W447 (early)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-om651-engine"
+    },
+    {
+      "code": "OM654",
+      "generation": "W447 (current, 2025 refresh)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-om654-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes V250/V250d Injector Seal & Timing Chain Wear ",
+    "titleHighlight": "(Early W447, OM651)",
+    "paragraphs": [
+      "If your V250/V250d is an earlier W447 model with the OM651 diesel — that's the pre-2025 refresh generation — injector seal leaks and timing chain wear are a well-documented pattern on this engine, shared across the wider Mercedes range. We replace injector seals, timing chain components, and gaskets as standard on every OM651 rebuild.",
+      "The current W447 generation (2025 refresh onward) uses a different engine, the OM654 — which doesn't share this specific issue. It's a newer design with its own characteristics, though we continue to monitor it closely."
+    ],
+    "source": "Source: established specialist pattern (per G-BRF). OM654 explicitly excluded from this claim per VRF, correctly scoped to early W447/OM651 only"
+  }
+}

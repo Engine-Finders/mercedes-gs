@@ -1,0 +1,252 @@
+{
+  "slug": "mercedes-engine-replacement",
+  "metaTitle": "Mercedes-Benz Engine Replacement & Fitting | Mercedes Garage",
+  "metaDescription": "Professional Mercedes-Benz engine replacement service. Complete removal, fitting, and programming with Xentry diagnostics. Nationwide recovery available.",
+  "h1": "Mercedes-Benz Engine Replacement & Fitting",
+  "lede": "Professional engine replacement service for all Mercedes-Benz models. Complete removal, fitting, and programming with manufacturer-grade tools.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec11.webp",
+    "/engine/sec8.webp",
+    "/model/sec7.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our engine replacement service covers the complete removal of your vehicle's existing engine and the fitting of a professionally prepared replacement unit. We handle every step in-house at our Billericay workshop:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Full vehicle inspection and system check prior to work",
+            "Safe removal of the old engine using specialised lifting equipment",
+            "Thorough cleaning and preparation of the engine bay",
+            "Transfer of all ancillary components (alternator, pumps, sensors, wiring)",
+            "Precise installation of the replacement engine with manufacturer-specified torque settings",
+            "Reconnection of cooling, fuel, exhaust, and electrical systems",
+            "Fluid filling and system bleeding (oil, coolant, transmission fluid where required)",
+            "ECU programming and adaptation using **Xentry** diagnostic system – including 48V mild-hybrid and V12 M275 engines",
+            "Comprehensive road testing and final quality control"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We use genuine Mercedes-Benz service data and tooling to ensure full compatibility and performance. For modern 48V systems, we follow strict high-voltage safety protocols. For V12 engines, we apply specialised timing and torque procedures."
+        },
+        {
+          "t": "p",
+          "html": "[Read about our full workshop process →](/mercedes-engine-rebuild-process)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Pricing & Quotation",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our engine replacement costs are quoted per vehicle based on the specific engine type and condition. As a guide, our **engine rebuild** starting prices are listed below – replacement pricing includes the cost of the replacement unit and is provided as a fixed quote after inspection."
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "[Pricing disclaimer](/pricing-legal-disclaimer) – actual replacement costs vary; contact us for a personalised quote."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Get Your Quote](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Mercedes-Benz Models",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We replace engines across the entire Mercedes-Benz range, from compact A-Class to the G-Class, S-Class, and AMG models. Below are some of the most common model families we support:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class (W176/W177)",
+              "href": "/mercedes-a-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For specific variants, see:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[C220d (OM651/OM654)](/mercedes-c-class-engines)",
+            "[E220d (OM654)](/mercedes-e-class-engines)",
+            "[S350d (OM642/OM656)](/mercedes-s350d-engines)",
+            "[GLC300 (M274)](/mercedes-glc300-engines)",
+            "[G63 AMG (M157/M177)](/mercedes-g-class-engines)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Not sure if your model is covered? [Contact us](/contact) for confirmation."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Step-by-Step Engine Replacement Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "We inspect your vehicle to confirm the engine specification and document all connections."
+        },
+        {
+          "title": "",
+          "body": "Drain fluids, disconnect ancillaries, and carefully remove the old engine using a hoist."
+        },
+        {
+          "title": "",
+          "body": "Transfer required components, install new seals and gaskets, and verify compatibility."
+        },
+        {
+          "title": "",
+          "body": "Lower the replacement engine into place, secure mounts, and reconnect all systems."
+        },
+        {
+          "title": "",
+          "body": "Fill with correct fluids and perform ECU adaptation using Xentry diagnostic tools."
+        },
+        {
+          "title": "",
+          "body": "Conduct thorough leak checks, road testing, and final quality control before collection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**12-month, unlimited-mileage warranty** on all engine replacement work",
+            "**Nationwide recovery** from £70 – most vehicles collected within hours",
+            "**Under-30-minute quote** during working hours after initial contact",
+            "**Manufacturer-grade diagnostics** – Xentry and Vediamo for full ECU programming",
+            "**48V and V12 expertise** – we handle all Mercedes engine systems",
+            "**3–5 working day turnaround** for rebuilds; replacement times quoted per job",
+            "**Established since 2009** – trusted by Mercedes owners across the UK"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How to Get Your Engine Replaced",
+      "steps": [
+        {
+          "title": "",
+          "body": "Call, email, or use our online form to describe your vehicle and requirement."
+        },
+        {
+          "title": "",
+          "body": "We'll provide a fixed-price quote within 30 minutes during working hours."
+        },
+        {
+          "title": "",
+          "body": "We can recover your vehicle nationwide, or you can deliver to our workshop."
+        },
+        {
+          "title": "",
+          "body": "We carry out the work and test thoroughly before handover."
+        },
+        {
+          "title": "",
+          "body": "Collect your Mercedes with a 12-month warranty on the work."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Explore other Mercedes engine services we offer:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes Diesel Timing Chain & Injector Repair](/mercedes-diesel-timing-chain-repair)",
+            "[Nationwide Engine Recovery](/mercedes-engine-recovery)",
+            "[Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[AMG Performance Engine Rebuild](/mercedes-amg-performance-engine-rebuild)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What does a Mercedes-Benz engine replacement involve?",
+          "a": "The process includes vehicle inspection, removal of the old engine, preparation of the replacement unit, installation, connection of all ancillaries, fluid fills, ECU programming with Xentry, and final road testing."
+        },
+        {
+          "q": "How long does an engine replacement take?",
+          "a": "Most Mercedes engine replacements are completed within 2 working days, depending on the model and complexity. We prioritise efficient turnaround while ensuring thorough quality checks."
+        },
+        {
+          "q": "What warranty do you offer on an engine replacement?",
+          "a": "All our engine replacement work comes with a 12-month, unlimited-mileage warranty covering parts and labour."
+        },
+        {
+          "q": "Do you handle 48V mild-hybrid and V12 engines?",
+          "a": "Yes. We are fully equipped to replace engines from all Mercedes model lines, including 48V MHEV systems and the complex V12 M275, using manufacturer-level diagnostic tools and safety protocols."
+        },
+        {
+          "q": "Do I need to bring the car to you, or do you offer collection?",
+          "a": "We offer nationwide recovery from £70, with most vehicles collected within a few hours of booking. We also accept vehicles delivered to our Billericay workshop."
+        }
+      ]
+    }
+  ]
+}

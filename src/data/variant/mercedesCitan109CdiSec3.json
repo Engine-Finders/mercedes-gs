@@ -1,0 +1,49 @@
+{
+  "headlinePre": "Mercedes Citan 109 CDI",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,200",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "K9K",
+      "generation": "W415 (2012–2021)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-k9k-engine"
+    },
+    {
+      "code": "OM607",
+      "generation": "W420 (2021–present)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-om607-engine"
+    },
+    {
+      "code": "OM608",
+      "generation": "W420 (2021–present)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-om608-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes Citan 109 CDI Injector & EGR Issues ",
+    "titleHighlight": "(W415, K9K)",
+    "paragraphs": [
+      "If your Citan 109 CDI is a pre-2021 model with the K9K diesel engine — that's the W415 generation — injector failure and EGR clogging is a well-documented pattern on this Renault-sourced engine, recognised across the Mercedes commercial vehicle range. We replace injectors, EGR components and gaskets as standard on every K9K rebuild.",
+      "The newer W420 generation uses different engines — OM607 or OM608 — which are not independently confirmed to share the same pattern. We'll confirm your exact engine code by registration before any work begins."
+    ],
+    "source": "Source: general Renault/Mercedes commercial vehicle consensus, per VRF-mercedes-citan.md. OM607/OM608 (W420) not independently confirmed"
+  }
+}

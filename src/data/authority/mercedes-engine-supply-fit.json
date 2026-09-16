@@ -1,0 +1,248 @@
+{
+  "slug": "mercedes-engine-supply-fit",
+  "metaTitle": "Mercedes-Benz Engine Supply & Fit | Mercedes Garage",
+  "metaDescription": "Professional Mercedes-Benz engine supply and fitting service. Expert sourcing, matching, removal, and installation for all models. Get a quote today.",
+  "h1": "Mercedes-Benz Engine Supply & Fit",
+  "lede": "Because every engine and vehicle is different, we provide a fixed-price quote after we've matched the correct unit to your car. Contact us for a no-obligation estimate.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec3.webp",
+    "/engine/sec3.webp",
+    "/model/sec2.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Our Engine Supply & Fit Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We handle the complete engine replacement process – from sourcing the correct replacement unit to final road testing. Our service includes:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Compatibility verification** – matching the engine to your vehicle's VIN, chassis code, and specification.",
+            "**Secure sourcing** – using verified engines with documented history and serial numbers.",
+            "**Full removal and fitting** – including all ancillaries, mounts, and fluids.",
+            "**ECU coding and integration** – using Mercedes-Benz Xentry/Star Diagnosis for proper programming.",
+            "**Post-installation testing** – oil pressure checks, leak testing, and road tests.",
+            "**12-month unlimited mileage warranty** – covering parts and labour."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We never supply engines without fitting – every unit is installed by our experienced technicians at our Essex workshop."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Get a Personalised Quote",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Because every engine and vehicle is different, we provide a fixed-price quote after we've matched the correct unit to your car. Contact us for a no-obligation estimate."
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Call us on 0203 488 4649** or [Request a Quote Online](/contact)",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engine Families",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our supply and fit service covers all Mercedes-Benz models and engine types. Below are just some of the most common we work with:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class",
+              "href": "/mercedes-a-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Popular engine families we supply and fit:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[OM651 4-cyl diesel](/mercedes-om651-engine) – fitted across many models",
+            "[OM642 V6 diesel](/mercedes-om642-engine) – common in E-Class, ML, etc.",
+            "[M276 V6 petrol](/mercedes-m276-engine) – widely used",
+            "[M177 V8 AMG](/mercedes-m177-engine) – high-performance units",
+            "[OM654 4-cyl diesel](/mercedes-om654-engine) – newer generation"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For variant-specific information, see our [C220d](/mercedes-c-class-engines), [E220d](/mercedes-e-class-engines), [S350d](/mercedes-s350d-engines), and other detailed variant pages."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Engine Supply & Fit Process",
+      "steps": [
+        {
+          "title": "Compatibility & Sourcing",
+          "body": "We verify your vehicle's VIN, chassis, and engine code to source the correct replacement unit. We only use units with verifiable history."
+        },
+        {
+          "title": "Preparation & Removal",
+          "body": "Drain all fluids, disconnect all systems, and safely remove the old engine using proper hoisting and lifting equipment."
+        },
+        {
+          "title": "Component Transfer & Fitting",
+          "body": "Transfer ancillaries, mounts, and wiring harnesses to the replacement unit. Install the new engine with correct torque settings and alignment."
+        },
+        {
+          "title": "ECU Programming & Integration",
+          "body": "We use Mercedes-Benz Xentry/Star Diagnosis to code the ECU, match immobiliser data, and calibrate sensors for seamless operation."
+        },
+        {
+          "title": "Testing & Quality Control",
+          "body": "We prime the oil system, start the engine, check oil pressure, look for leaks, run diagnostics, and perform a thorough road test."
+        },
+        {
+          "title": "Handover & Warranty",
+          "body": "We explain the work done and provide a 12-month unlimited-mileage warranty covering parts and labour. We're here for any follow-up questions."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Enter Your Registration",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Use our quick lookup to get started – we'll confirm your engine type and provide a tailored quote."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage for Your Engine Supply & Fit",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Established since 2009** – with a dedicated Mercedes-Benz workshop in Essex.",
+            "**Genuine specialist equipment** – including Mercedes-Benz Xentry/Star Diagnosis.",
+            "**12-month unlimited-mileage warranty** – on all parts and labour.",
+            "**Nationwide recovery** – we can collect your vehicle from anywhere in the UK (separate charge).",
+            "**Quick turnaround** – most jobs completed within 3-5 working days.",
+            "**Transparent quoting** – fixed price after inspection, no hidden extras."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works – Simple Steps",
+      "steps": [
+        {
+          "title": "Contact Us",
+          "body": "Call or fill in our quote form with your vehicle details."
+        },
+        {
+          "title": "We Match Your Engine",
+          "body": "We verify VIN, engine code, and source the correct unit."
+        },
+        {
+          "title": "Installation & Testing",
+          "body": "We fit the engine, code the ECU, and road-test thoroughly."
+        },
+        {
+          "title": "Enjoy Peace of Mind",
+          "body": "Drive away with a 12-month unlimited-mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
+            "[Nationwide Engine Recovery](/mercedes-engine-recovery)",
+            "[Diesel Timing Chain Repair](/mercedes-diesel-timing-chain-repair)",
+            "[AMG V8 Valve Seal Repair](/mercedes-amg-v8-valve-seal-repair)",
+            "[Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What is included in your engine supply and fit service?",
+          "a": "We source the correct replacement engine, match it to your vehicle, remove the old unit, install the new engine with all ancillaries, program the ECU, and perform full testing – all covered by our 12-month warranty."
+        },
+        {
+          "q": "How long does the whole process take?",
+          "a": "Typically 3-5 working days from arrival at our workshop, depending on parts availability and any unforeseen complications."
+        },
+        {
+          "q": "Do you supply engines without fitting?",
+          "a": "No – we only offer supply and fit as a complete service. This ensures correct installation, coding, and warranty coverage."
+        },
+        {
+          "q": "Will my engine be matched to my specific vehicle?",
+          "a": "Yes. We verify your VIN, chassis code, and engine number to source a unit that is fully compatible with your Mercedes-Benz."
+        },
+        {
+          "q": "What warranty do you provide?",
+          "a": "All our supply and fit work comes with a 12-month unlimited-mileage warranty covering parts and labour."
+        },
+        {
+          "q": "Can you collect my vehicle?",
+          "a": "Yes – we offer nationwide recovery from £70 (separate charge). We can arrange collection and delivery back to you."
+        }
+      ]
+    }
+  ]
+}

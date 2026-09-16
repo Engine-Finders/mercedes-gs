@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes V250 V250d",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes V250 V250d"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "V-Class"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "V250 V250d"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Diesel"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "OM651 (early W447) or OM654 (current W447)"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "2.0L–2.1L"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "W447 (2014–present, refreshed 2025)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,200",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The V250 V250D uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

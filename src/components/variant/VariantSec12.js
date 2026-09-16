@@ -9,7 +9,7 @@ export default function VariantSec12({ data }) {
   return (
     <section className="theme-light relative overflow-hidden">
       {/* ===== mobile ===== */}
-      <div className="relative px-4 py-10 md:hidden">
+      <div className="relative px-4 pb-10 pt-7 md:hidden">
         <div className="glass-card rounded-2xl p-4">
           <p className="font-title max-w-[85%] text-base font-bold uppercase leading-snug text-[#101828]">
             {yearBanner.titlePre}

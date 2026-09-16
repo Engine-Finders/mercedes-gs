@@ -1,0 +1,79 @@
+{
+  "headlinePre": "Mercedes GLC Coupe",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,200",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M274 (4-cyl petrol)",
+      "generation": "X253 (2015–2022)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-m274-engine"
+    },
+    {
+      "code": "M254 (4-cyl petrol MHEV)",
+      "generation": "X254 (2022–present)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-m254-engine"
+    },
+    {
+      "code": "OM651 (4-cyl diesel)",
+      "generation": "X253 (2015–early)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-om651-engine"
+    },
+    {
+      "code": "OM654 (4-cyl diesel)",
+      "generation": "X253 (late)/X254 (2022–present)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-om654-engine"
+    },
+    {
+      "code": "OM656 (6-cyl diesel MHEV)",
+      "generation": "X254 (2022–present)",
+      "price": "£2,800",
+      "codeHref": "/mercedes-om656-engine"
+    },
+    {
+      "code": "M276 (6-cyl petrol, GLC43)",
+      "generation": "X253 (2015–2022)",
+      "price": "£3,200",
+      "codeHref": "/mercedes-m276-engine"
+    },
+    {
+      "code": "M139 (4-cyl hybrid, GLC43/GLC63)",
+      "generation": "X254 (2022–present)",
+      "price": "£[MISSING: not established for X254]",
+      "codeHref": "/mercedes-amg-m139-engine"
+    },
+    {
+      "code": "M177 (V8, GLC63)",
+      "generation": "X253 (2015–2022)",
+      "price": "£6,500",
+      "codeHref": "/mercedes-m177-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes GLC Coupe Known Issues by Engine ",
+    "titleHighlight": "",
+    "paragraphs": [
+      "If your GLC Coupe has the OM651 diesel (early X253 generation, pre-facelift): injector seal leakage and timing chain wear is a well-documented pattern, shared with the C-Class family. We replace injector seals and timing chain components as standard on every OM651 rebuild.",
+      "If your GLC Coupe has the M177 V8 (X253 GLC63 AMG): valve seal and coolant system wear is a known AMG pattern. We replace valve seals, coolant components and timing chain components as standard on every M177 rebuild."
+    ],
+    "source": "Source: Established M256 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
+  }
+}

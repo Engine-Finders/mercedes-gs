@@ -1,0 +1,259 @@
+{
+  "slug": "mercedes-engine-machining",
+  "metaTitle": "Mercedes Engine Machining & Rebuild Preparation | Mercedes Garage",
+  "metaDescription": "Precision engine machining for Mercedes-Benz: cylinder boring, honing, crank grinding, deck surfacing and align honing. In-house facility with manufacturer-grade equipment.",
+  "h1": "Mercedes Engine Machining & Rebuild Preparation",
+  "lede": "Precision cylinder boring, honing, crankshaft grinding, and deck surfacing for Mercedes-Benz engines — performed in-house to factory tolerances.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec9_bottom.webp",
+    "/variant/sec3.webp",
+    "/engine/sec3.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "At Mercedes Garage, engine machining is the foundation of every rebuild we undertake. Our in-house machine shop is equipped to handle every precision operation required to return your Mercedes-Benz engine to factory specifications."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Main bore align honing** — restores bearing bore alignment and corrects distortion using a dedicated align honing machine",
+            "**Cylinder boring and honing** — oversized boring followed by finish honing using manufacturer-grade tools, with **torque plates** to simulate cylinder head clamping stress",
+            "**Deck resurfacing** — precision milling of the cylinder block face to ensure a perfectly flat, parallel surface for head gasket sealing",
+            "**Crankshaft grinding and micro-polishing** — journal restoration to standard undersizes with a mirror-like finish for bearing longevity",
+            "**Full cleaning and inspection** — block and crank are hot-tanked, inspected, and measured with certified equipment before any machining begins"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We use dedicated tooling for each Mercedes engine family — including specific torque plates for M156, M157, OM642, and M276 blocks. Modern Mercedes alloys such as **Silitec** (aluminium-silicon) and closed-deck AMG castings are processed with the correct cutter geometry and speeds to prevent surface damage."
+        },
+        {
+          "t": "p",
+          "html": "Read our full machine shop guide →"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Pricing & Quotation",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our engine machining service is provided as part of a full engine rebuild. The table below shows our rebuild starting prices — machining is included in these figures."
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "[Pricing disclaimer](/pricing-legal-disclaimer) – machining is a preparatory stage included in our rebuild quotes. Contact us for a detailed estimate based on your specific engine."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Get Your Quote](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Mercedes-Benz Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our in-house machining services cover the entire Mercedes-Benz passenger car and commercial range, including:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "C-Class (W204/W205/W206)",
+              "href": "/mercedes-c-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Specific engine families we regularly machine:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[M156 – AMG 6.2L V8](/mercedes-m156-engine) (W204 C63, W212 E63, W221 S63)",
+            "[M157 – AMG 5.5L biturbo V8](/mercedes-m157-engine) (W212 E63, W218 CLS63, W221 S63)",
+            "[OM642 – 3.0L V6 diesel](/mercedes-om642-engine) (E350d, GLE350d, Sprinter)",
+            "[M276 – 3.5L V6 petrol](/mercedes-m276-engine) (E350, CLS350, SL350)",
+            "[M274 – 2.0L 4-cyl petrol](/mercedes-m274-engine) (C200, E200, GLC200)",
+            "[OM654 – 2.0L 4-cyl diesel](/mercedes-om654-engine) (E220d, C220d, GLC220d)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Need a specific engine machined? [Contact us](/contact) with your engine code and we'll confirm our tooling availability."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Step-by-Step Machining Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "Block and crank are thoroughly cleaned and inspected. All critical dimensions are measured with certified tools to determine the required machining operations."
+        },
+        {
+          "title": "",
+          "body": "All casting flash and sharp edges are removed using die grinders. This prevents stress risers before precision machining begins."
+        },
+        {
+          "title": "",
+          "body": "The main bearing bores are align-honed to correct any distortion and establish a perfectly straight crankshaft axis."
+        },
+        {
+          "title": "",
+          "body": "Bores are bored to the required oversize, then finish-honed using a torque plate to simulate head bolt clamping force."
+        },
+        {
+          "title": "",
+          "body": "Block deck is precision-milled to ensure a flat, parallel surface for the head gasket — critical for compression and sealing."
+        },
+        {
+          "title": "",
+          "body": "Journals are ground to undersize and micro-polished to a mirror finish, followed by oil-hole chamfering and thorough cleaning."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Find Your Vehicle's Details",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Enter your registration to see model-specific information and get a tailored quote for machining and rebuild."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage for Machining",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**In-house machine shop** — all work performed on-site, not outsourced, with full quality control",
+            "**Manufacturer-grade equipment** — dedicated honing, grinding, and milling machines calibrated for Mercedes tolerances",
+            "**Engine-specific torque plates** — we hold plates for M156, M157, M276, OM642, M270, and more",
+            "**Silitec & AMG expertise** — correct tooling and techniques for aluminium-silicon and closed-deck blocks",
+            "**Micron-level quality checks** — every dimension is verified with certified bore gauges and dial indicators",
+            "**Part of a full rebuild service** — machining is integrated with assembly, ensuring correct clearances",
+            "**Established since 2009** — trusted by Mercedes owners across the UK"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop and equipment →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How to Get Your Engine Machined",
+      "steps": [
+        {
+          "title": "",
+          "body": "Call, email, or use our online form to tell us about your vehicle and engine."
+        },
+        {
+          "title": "",
+          "body": "We provide a fixed-price quote for the full rebuild, including all machining work."
+        },
+        {
+          "title": "",
+          "body": "We can recover your vehicle nationwide, or you can deliver it to our Billericay workshop."
+        },
+        {
+          "title": "",
+          "body": "We carry out all machining in-house, followed by full assembly and testing."
+        },
+        {
+          "title": "",
+          "body": "Collect your Mercedes with a 12-month warranty on the entire rebuild."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Explore other Mercedes engine services we offer:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes Cylinder Head Repair & Rebuild](/mercedes-cylinder-head-repair)",
+            "[Mercedes-Benz Engine Failure Repair](/mercedes-engine-failure-repair)",
+            "[Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Engine Bearing Replacement](/mercedes-engine-bearing-replacement)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What does engine machining for a Mercedes-Benz involve?",
+          "a": "It includes main bore align honing, cylinder boring and honing (using torque plates to simulate head bolt stress), deck resurfacing, and crankshaft grinding with micro-polishing. Each operation is performed to factory-specified tolerances using dedicated machine tools."
+        },
+        {
+          "q": "Why do you use torque plates when honing Mercedes cylinders?",
+          "a": "Torque plates simulate the clamping force of the cylinder head. This prevents cylinder distortion during honing, ensuring the bores remain perfectly round when the head is torqued in final assembly. This is especially critical for high-compression Mercedes engines."
+        },
+        {
+          "q": "Can you machine all Mercedes engine types, including AMG V8s and diesel V6s?",
+          "a": "Yes. Our machine shop is equipped to handle all Mercedes engine families, from four-cylinder M270/OM654 units to V8 M156/M157, V6 OM642, and the V12 M275. We have specific torque plates and tooling for each engine family."
+        },
+        {
+          "q": "What precision standards do you work to during machining?",
+          "a": "We work to manufacturer-defined tolerances. For modern Mercedes engines, this includes micron-level accuracy, with H7 fit specifications, radial run-out below 3 µm, and angle tolerances of ±0.025° where specified. Every dimension is verified with certified measuring equipment."
+        },
+        {
+          "q": "Do you supply the new parts (pistons, bearings, etc.) or just do the machining?",
+          "a": "We supply and fit all required new components as part of our full engine rebuild service. Machining is performed in-house as the preparation stage for the rebuild, using pistons and bearings supplied by us to ensure correct clearances."
+        }
+      ]
+    }
+  ]
+}

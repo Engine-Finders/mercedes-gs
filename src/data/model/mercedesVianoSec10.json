@@ -1,0 +1,41 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes Viano Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes Viano engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes Viano 2.0",
+      "spec": "2.0L I4 Petrol (M111)",
+      "href": "/mercedes-viano-2-0-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes Viano 2.2 CDI",
+      "spec": "2.2L I4 Diesel (OM646)",
+      "href": "/mercedes-viano-2-2-cdi-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes Viano 3.0",
+      "spec": "3.0L V6 Petrol (M272)",
+      "href": "/mercedes-viano-3-0-engines"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes Viano 3.0 CDI",
+      "spec": "3.0L V6 Diesel (OM642)",
+      "href": "/mercedes-viano-3-0-cdi-engines"
+    },
+    {
+      "number": "05",
+      "model": "Mercedes Viano 3.5",
+      "spec": "3.5L V6 Petrol (M272)",
+      "href": "/mercedes-viano-3-5-engines"
+    }
+  ]
+}

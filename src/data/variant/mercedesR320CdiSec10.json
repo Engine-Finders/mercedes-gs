@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES R320 CDI ENGINE",
+    "paragraphs": [
+      "The R320 CDI uses the OM642 — a 3.0-litre V6 diesel that was fitted across the R-Class range from launch in 2006 through to the model's discontinuation in 2013. This was the same engine family used across a wide range of Mercedes models of that era, including the E-Class, S-Class and M-Class, and it was the diesel engine most R-Class buyers chose. The R-Class was discontinued in 2013 and was never sold in large numbers even when new, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every R320 CDI on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES R320 CDI ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the R320 CDI from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 R320 CDI",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES R320 CDI ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The R320 CDI uses the OM642 engine across its entire production run, but fitting the wrong replacement — or assuming parts from a different OM642 application will work without verification — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM642",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic R-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES R320 CDI ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W251/V251",
+        "chassis": "W251/V251",
+        "years": "2006–2013",
+        "engineCode": "OM642",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om642-engine"
+      }
+    ]
+  }
+}

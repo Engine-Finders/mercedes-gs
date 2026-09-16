@@ -3,7 +3,12 @@
     "titlePre": "WE COVER ",
     "titleHighlight": "EVERY",
     "titlePost": " MERCEDES AMG GT 53 MODEL YEAR:",
-    "years": ["2023", "2024", "2025", "2026"],
+    "years": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
     "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg.",
     "vehicleLabel": "Mercedes AMG GT 53"
   },
@@ -45,13 +50,34 @@
   "related": {
     "title": "RELATED MERCEDES AMG GT VARIANTS",
     "links": [
-      { "label": "Mercedes AMG GT Engine", "href": "/mercedes-amg-gt-engines" },
-      { "label": "Mercedes AMG GT S Engine", "href": "/mercedes-amg-gt-s-engines" },
-      { "label": "Mercedes AMG GT C Engine", "href": "/mercedes-amg-gt-c-engines" },
-      { "label": "Mercedes AMG GT R Engine", "href": "/mercedes-amg-gt-r-engines" },
-      { "label": "Mercedes AMG GT Roadster Engine", "href": "/mercedes-amg-gt-roadster-engines" },
-      { "label": "Mercedes AMG GT 63 Engine", "href": "/mercedes-amg-gt-63-engines" },
-      { "label": "Mercedes AMG GT 63 S Engine", "href": "/mercedes-amg-gt-63-s-engines" }
+      {
+        "label": "Mercedes AMG GT Engine",
+        "href": "/mercedes-amg-gt-engines"
+      },
+      {
+        "label": "Mercedes AMG GT S Engine",
+        "href": "/mercedes-amg-gt-s-engines"
+      },
+      {
+        "label": "Mercedes AMG GT C Engine",
+        "href": "/mercedes-amg-gt-c-engines"
+      },
+      {
+        "label": "Mercedes AMG GT R Engine",
+        "href": "/mercedes-amg-gt-r-engines"
+      },
+      {
+        "label": "Mercedes AMG GT Roadster Engine",
+        "href": "/mercedes-amg-gt-roadster-engines"
+      },
+      {
+        "label": "Mercedes AMG GT 63 Engine",
+        "href": "/mercedes-amg-gt-63-engines"
+      },
+      {
+        "label": "Mercedes AMG GT 63 S Engine",
+        "href": "/mercedes-amg-gt-63-s-engines"
+      }
     ],
     "viewAll": "View All Mercedes AMG GT Engines",
     "viewAllHref": "/mercedes-amg-gt-engines"

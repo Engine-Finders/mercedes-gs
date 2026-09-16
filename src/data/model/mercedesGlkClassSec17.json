@@ -1,0 +1,35 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Mercedes GLK-Class Variant",
+  "tabs": [
+    "All Variants"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Mercedes GLK200",
+        "href": "/mercedes-glk200-engines"
+      },
+      {
+        "label": "GLK250",
+        "href": "/mercedes-glk250-engines"
+      },
+      {
+        "label": "GLK350",
+        "href": "/mercedes-glk350-engines"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

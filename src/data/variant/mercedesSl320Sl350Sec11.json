@@ -1,0 +1,58 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "MERCEDES SL320 SL350 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the R190's launch in 2023, the SL320 SL350 has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1989‑2002",
+      "generation": "R129",
+      "engineCode": "M112",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m112-engine"
+    },
+    {
+      "year": "2001‑2012",
+      "generation": "R230",
+      "engineCode": "M112 / M272",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m112-engine"
+    },
+    {
+      "year": "2012‑2021",
+      "generation": "R231",
+      "engineCode": "M272 / M276",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "The M256",
+    "rest": " has been fitted to every SL320 SL350 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

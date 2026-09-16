@@ -1,0 +1,89 @@
+{
+  "yearBanner": {
+    "titlePre": "WE COVER ",
+    "titleHighlight": "EVERY",
+    "titlePost": " MERCEDES GLE63 AMG MODEL YEAR:",
+    "years": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg.",
+    "vehicleLabel": "Mercedes GLE63 AMG"
+  },
+  "costs": {
+    "titlePre": "MERCEDES GLE63 AMG ENGINE ",
+    "titleHighlight": "COSTS",
+    "intro": "A Mercedes GLE63 AMG engine rebuild starts from",
+    "price": "£6,500",
+    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/sec10_engine.webp",
+    "warranty": {
+      "line1": "12 MONTH",
+      "line2": "UNLIMITED-MILEAGE",
+      "line3": "WARRANTY"
+    },
+    "subCards": [
+      {
+        "icon": "engine",
+        "title": "MERCEDES GLE63 AMG ENGINE SIZES",
+        "item": "Mercedes GLE63 AMG 3.0 Litre Engine (M256, I6)"
+      },
+      {
+        "icon": "fuel",
+        "title": "MERCEDES GLE63 AMG FUEL TYPES",
+        "item": "Mercedes GLE63 AMG Petrol Mild Hybrid Engine Rebuilds"
+      }
+    ]
+  },
+  "bottomInfo": {
+    "timeframe": {
+      "icon": "clock",
+      "textPre": "Most Mercedes GLE-Class engine rebuilds are completed within ",
+      "textHighlight": "3-5 working days",
+      "textPost": "."
+    },
+    "recoveryText": "Nationwide recovery and collection available for all GLE-Class models.",
+    "image": "/variant/mercedes_car.webp"
+  },
+  "related": {
+    "title": "RELATED MERCEDES GLE-CLASS VARIANTS",
+    "links": [
+      {
+        "label": "Mercedes GLE300d Engine",
+        "href": "/mercedes-gle300d-engines"
+      },
+      {
+        "label": "Mercedes GLE350d Engine",
+        "href": "/mercedes-gle350d-engines"
+      },
+      {
+        "label": "Mercedes GLE400d Engine",
+        "href": "/mercedes-gle400d-engines"
+      },
+      {
+        "label": "Mercedes GLE450 Engine",
+        "href": "/mercedes-gle450-engines"
+      },
+      {
+        "label": "Mercedes GLE580 Engine",
+        "href": "/mercedes-gle580-engines"
+      },
+      {
+        "label": "Mercedes GLE53 AMG Engine",
+        "href": "/mercedes-gle53-amg-engines"
+      }
+    ],
+    "viewAll": "View All Mercedes GLE-Class Engines",
+    "viewAllHref": "/mercedes-gle-class-engines"
+  }
+}

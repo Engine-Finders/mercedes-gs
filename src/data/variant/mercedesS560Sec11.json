@@ -1,0 +1,66 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "MERCEDES S560 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the R190's launch in 2023, the S560 has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2017",
+      "generation": "W222",
+      "engineCode": "M176",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m176-engine"
+    },
+    {
+      "year": "2018",
+      "generation": "W222",
+      "engineCode": "M176",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m176-engine"
+    },
+    {
+      "year": "2019",
+      "generation": "W222",
+      "engineCode": "M176",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m176-engine"
+    },
+    {
+      "year": "2020",
+      "generation": "W222",
+      "engineCode": "M176",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m176-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "The M256",
+    "rest": " has been fitted to every S560 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

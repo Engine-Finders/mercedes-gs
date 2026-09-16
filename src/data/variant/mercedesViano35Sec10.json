@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES VIANO 3.5 ENGINE",
+    "paragraphs": [
+      "The Viano 3.5 uses the M272 — a 3.5-litre V6 petrol engine. It was fitted throughout the W639 generation from 2003 to 2014. The M272 was one of Mercedes' most widely used V6 petrol engines of the era, also appearing in the C-Class, E-Class, SLK and other models of that period. The Viano 3.5 represents the flagship petrol option in the Viano range."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every VIANO 3.5 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES VIANO 3.5 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the VIANO 3.5 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 VIANO 3.5",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES VIANO 3.5 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the Viano 3.5 uses a single engine family across its production, we can confirm compatibility directly. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M272",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Viano quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES VIANO 3.5 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W639",
+        "chassis": "W639",
+        "years": "2003–2014",
+        "engineCode": "M272",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m272-engine"
+      }
+    ]
+  }
+}

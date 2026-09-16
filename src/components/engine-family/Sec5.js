@@ -12,12 +12,12 @@ export default function Sec5({ data }) {
   const mobileItems = showAll ? data.items : data.items.slice(0, MOBILE_VISIBLE_COUNT);
 
   return (
-    <section className="relative overflow-hidden bg-hero-dark text-white">
+    <section className="theme-dark relative overflow-hidden">
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-7 md:hidden">
-        <div className="overflow-hidden">
-          <MercedesStripe className="float-left mr-2 h-6 w-12 shrink-0" />
-          <h2 className="text-2xl font-bold uppercase leading-[1.05] tracking-tighter">
+        <div className="flex items-center gap-2">
+          <MercedesStripe className="h-6 w-12 shrink-0" />
+          <h2 className="h2 uppercase">
             {data.titlePre}
             <span className="text-hero-blue">{data.titleHighlight}</span>
           </h2>
@@ -25,10 +25,10 @@ export default function Sec5({ data }) {
 
         <div className="mt-5 grid grid-cols-2 gap-3">
           {mobileItems.map((it) => (
-            <div key={it.number} className="neon-card relative rounded-xl">
+            <div key={it.number} className="neon-card neon-card--soft relative rounded-xl">
               <div className="relative aspect-[4/3]">
                 <Image src={it.image} alt={it.label} fill className="object-cover" sizes="50vw" />
-                <span className="absolute left-2 top-2 rounded bg-hero-blue px-1.5 py-0.5 text-[9px] font-extrabold text-white">{it.number}</span>
+                <span className="absolute bottom-2 left-2 rounded-sm bg-hero-blue px-1.5 py-0.5 text-[9px] font-extrabold text-white">{it.number}</span>
               </div>
               <div className="px-2.5 py-2" style={{ background: "rgba(13,13,13,0.9)" }}>
                 <p className="text-[9px] font-extrabold uppercase leading-tight text-white">{it.label}</p>
@@ -72,8 +72,8 @@ export default function Sec5({ data }) {
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
         <div className="relative mx-auto max-w-6xl">
           <div className="flex items-center gap-3">
-            <MercedesStripe className="h-7 w-14 shrink-0" />
-            <h2 className="text-3xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+            <MercedesStripe className="h-10 w-16 shrink-0" />
+            <h2 className="h2 uppercase">
               {data.titlePre}
               <span className="text-hero-blue">{data.titleHighlight}</span>
             </h2>
@@ -81,10 +81,10 @@ export default function Sec5({ data }) {
 
           <div className="mt-6 grid grid-cols-5 gap-4">
             {data.items.map((it) => (
-              <div key={it.number} className="neon-card relative rounded-xl">
+              <div key={it.number} className="neon-card neon-card--soft relative rounded-xl">
                 <div className="relative aspect-square">
                   <Image src={it.image} alt={it.label} fill className="object-cover" sizes="20vw" />
-                  <span className="absolute left-2 top-2 rounded bg-hero-blue px-2 py-1 text-[11px] font-extrabold text-white">{it.number}</span>
+                  <span className="absolute bottom-2 left-2 rounded-sm bg-hero-blue px-2 py-1 text-[11px] font-extrabold text-white">{it.number}</span>
                 </div>
                 <div className="px-3 py-2.5 backdrop-blur-md" style={{ background: "rgba(13,13,13,0.9)" }}>
                   <p className="text-[11px] font-extrabold uppercase leading-tight text-white">{it.label}</p>

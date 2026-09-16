@@ -9,11 +9,11 @@ import MercedesStripe from "@/components/reusable/MercedesStripe";
 
 const HEX_POINTS = "50,2 96,25 96,75 50,98 4,75 4,25";
 
-function HexIcon({ icon, boxClass, iconClass }) {
+function HexIcon({ icon, boxClass, iconClass, strokeOpacity = 1, strokeWidth = 4 }) {
   return (
     <div className={`relative shrink-0 ${boxClass}`}>
       <svg viewBox="0 0 100 100" className="absolute inset-0 h-full w-full">
-        <polygon points={HEX_POINTS} fill="none" stroke="#ad875c" strokeWidth="4" />
+        <polygon points={HEX_POINTS} fill="none" stroke="#ad875c" strokeOpacity={strokeOpacity} strokeWidth={strokeWidth} />
       </svg>
       <div className="absolute inset-0 flex items-center justify-center">
         <Icon name={icon} className={`${iconClass} text-hero-blue`} />
@@ -87,7 +87,7 @@ export default function Sec11({ data }) {
   return (
     <>
       {/* ============ engine rebuild cost ============ */}
-      <section className="relative overflow-hidden bg-hero-dark text-white">
+      <section className="theme-dark relative overflow-hidden">
         {/* ===== mobile ===== */}
         <div className="relative px-4 pt-7 md:hidden">
           <div className="flex items-center gap-2">
@@ -95,7 +95,7 @@ export default function Sec11({ data }) {
             <AMGBadge className="h-3.5" />
           </div>
           <p className="mt-2 text-xs font-bold uppercase tracking-widest text-hero-blue">{costBanner.titlePre}</p>
-          <h2 className="mt-1 text-2xl font-bold uppercase leading-[1.05] tracking-tighter">
+          <h2 className="h2 mt-1 uppercase">
             <span className="text-white">{costBanner.titleHighlight}</span>
             <span className="text-hero-blue">{costBanner.titlePost}</span>
           </h2>
@@ -147,7 +147,7 @@ export default function Sec11({ data }) {
                 <AMGBadge className="h-4" />
               </div>
               <p className="mt-3 text-sm font-bold uppercase tracking-widest text-hero-blue">{costBanner.titlePre}</p>
-              <h2 className="mt-1 text-4xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-5xl">
+              <h2 className="h2 mt-1 uppercase">
                 <span className="text-white">{costBanner.titleHighlight}</span>
                 <span className="text-hero-blue">{costBanner.titlePost}</span>
               </h2>
@@ -173,16 +173,16 @@ export default function Sec11({ data }) {
       </section>
 
       {/* ============ rebuild vs replacement vs used ============ */}
-      <section className="relative overflow-hidden bg-[#f7f4ee]">
+      <section className="theme-light relative overflow-hidden">
         {/* ===== mobile ===== */}
         <div className="relative px-4 py-7 md:hidden">
           <p className="text-xs font-bold uppercase tracking-widest text-hero-blue">{comparison.titlePre}</p>
-          <h2 className="mt-1 text-2xl font-bold uppercase leading-[1.05] tracking-tighter text-[#101828]">{comparison.titleHighlight}</h2>
+          <h2 className="h2 mt-1 uppercase text-[#101828]">{comparison.titleHighlight}</h2>
           <span className="mt-2 block h-0.5 w-24 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
 
           <div className="mt-5 space-y-4">
-            {comparison.cards.map((c) => (
-              <div key={c.titleHighlight} className="glass-card rounded-2xl p-4">
+            {comparison.cards.map((c, i) => (
+              <div key={i} className="glass-card rounded-2xl p-4">
                 <div className="flex items-center gap-3">
                   <HexIcon icon={c.icon} boxClass="h-12 w-12" iconClass="h-6 w-6" />
                   <div className="min-w-0">
@@ -209,12 +209,12 @@ export default function Sec11({ data }) {
         <div className="relative hidden px-4 py-14 sm:px-6 md:block lg:px-8">
           <div className="mx-auto max-w-6xl">
             <p className="text-sm font-bold uppercase tracking-widest text-hero-blue">{comparison.titlePre}</p>
-            <h2 className="mt-1 text-4xl font-bold uppercase leading-[1.05] tracking-tighter text-[#101828] lg:text-5xl">{comparison.titleHighlight}</h2>
+            <h2 className="h2 mt-1 uppercase text-[#101828]">{comparison.titleHighlight}</h2>
             <span className="mt-4 block h-0.5 w-40 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
 
             <div className="mt-8 grid grid-cols-3 gap-6">
-              {comparison.cards.map((c) => (
-                <div key={c.titleHighlight} className="glass-card rounded-2xl p-6">
+              {comparison.cards.map((c, i) => (
+                <div key={i} className="glass-card rounded-2xl p-6">
                   <div className="flex items-center gap-4">
                     <HexIcon icon={c.icon} boxClass="h-14 w-14" iconClass="h-7 w-7" />
                     <div className="min-w-0">
@@ -239,12 +239,12 @@ export default function Sec11({ data }) {
       </section>
 
       {/* ============ reconditioned / refurbished / remanufactured ============ */}
-      <section className="relative overflow-hidden bg-hero-dark text-white">
+      <section className="theme-dark relative overflow-hidden">
         {/* ===== mobile ===== */}
         <div className="px-4 py-7 md:hidden">
           <div className="space-y-3">
-            {options.map((o) => (
-              <div key={o.titleHighlight} className="glass-card-dark rounded-2xl p-4">
+            {options.map((o, i) => (
+              <div key={i} className="glass-card-dark rounded-2xl p-4">
                 <div className="flex items-center gap-3">
                   <HexIcon icon={o.icon} boxClass="h-14 w-14" iconClass="h-7 w-7" />
                   <div className="min-w-0">
@@ -266,7 +266,7 @@ export default function Sec11({ data }) {
         <div className="relative hidden px-4 py-12 sm:px-6 md:block lg:px-8">
           <div className="mx-auto grid max-w-6xl grid-cols-3 divide-x divide-white/10">
             {options.map((o, i) => (
-              <div key={o.titleHighlight} className={i === 0 ? "pr-8" : i === options.length - 1 ? "pl-8" : "px-8"}>
+              <div key={i} className={i === 0 ? "pr-8" : i === options.length - 1 ? "pl-8" : "px-8"}>
                 <div className="flex items-center gap-4">
                   <HexIcon icon={o.icon} boxClass="h-20 w-20" iconClass="h-10 w-10" />
                   <div className="min-w-0">
@@ -289,14 +289,14 @@ export default function Sec11({ data }) {
       </section>
 
       {/* ============ faq ============ */}
-      <section className="relative overflow-hidden bg-[#eef2f7]">
+      <section className="theme-light relative overflow-hidden">
         {/* ===== mobile ===== */}
         <div className="relative px-4 py-7 md:hidden">
           <div className="flex items-center gap-2.5">
             <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-hero-blue">
               <Icon name="note" className="h-4 w-4 text-hero-blue" />
             </span>
-            <h2 className="text-lg font-bold uppercase leading-none tracking-tight">
+            <h2 className="h2 uppercase">
               <span className="text-[#101828]">{faq.kicker} </span>
               <span className="text-hero-blue">{faq.kickerHighlight}</span>
             </h2>
@@ -316,7 +316,7 @@ export default function Sec11({ data }) {
               <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-hero-blue">
                 <Icon name="note" className="h-5 w-5 text-hero-blue" />
               </span>
-              <h2 className="text-xl font-bold uppercase leading-none tracking-tight lg:text-2xl">
+              <h2 className="h2 uppercase">
                 <span className="text-[#101828]">{faq.kicker} </span>
                 <span className="text-hero-blue">{faq.kickerHighlight}</span>
               </h2>
@@ -340,20 +340,18 @@ export default function Sec11({ data }) {
       </section>
 
       {/* ============ quote form ============ */}
-      <section className="relative overflow-hidden bg-hero-dark text-white" id="quote-form">
+      <section className="theme-dark relative overflow-hidden" id="quote-form">
         {/* ===== mobile ===== */}
         <div className="px-4 py-7 md:hidden">
-          <div className="flex items-center gap-3">
-            <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg border border-hero-blue">
-              <Icon name={quote.icon} className="h-5 w-5 text-hero-blue" />
-            </span>
-            <h2 className="text-xl font-bold uppercase leading-tight tracking-tighter">
+          <div className="flex items-start gap-3">
+            <HexIcon icon={quote.icon} boxClass="h-14 w-14" iconClass="h-5 w-5" strokeOpacity={0.45} strokeWidth={3} />
+            <h2 className="h2 uppercase">
               <span className="block text-white">{quote.headlinePre}</span>
               <span className="block text-hero-blue">{quote.headlineHighlight}</span>
               <span className="block text-white">{quote.headlinePost}</span>
             </h2>
           </div>
-          <span className="mt-2 block h-0.5 w-24 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
+          <span className="ml-17 mt-2 block h-0.5 w-24 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
           <p className="mt-2 text-xs text-white/70">{quote.subtext}</p>
 
           <form onSubmit={handleSubmit} className="mt-5 space-y-3">
@@ -396,15 +394,15 @@ export default function Sec11({ data }) {
         <div className="relative hidden px-4 py-14 sm:px-6 md:block lg:px-8">
           <div className="mx-auto grid max-w-6xl grid-cols-[minmax(0,1fr)_minmax(0,1.3fr)] gap-14">
             <div>
-              <span className="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl border border-hero-blue">
-                <Icon name={quote.icon} className="h-8 w-8 text-hero-blue" />
-              </span>
-              <h2 className="mt-4 text-3xl font-bold uppercase leading-tight tracking-tighter lg:text-4xl">
-                <span className="block text-white">{quote.headlinePre}</span>
-                <span className="block text-hero-blue">{quote.headlineHighlight}</span>
-                <span className="block text-white">{quote.headlinePost}</span>
-              </h2>
-              <span className="mt-4 block h-0.5 w-32 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
+              <div className="flex items-start gap-4">
+                <HexIcon icon={quote.icon} boxClass="h-20 w-20" iconClass="h-8 w-8" strokeOpacity={0.45} strokeWidth={3} />
+                <h2 className="h2 uppercase">
+                  <span className="block text-white">{quote.headlinePre}</span>
+                  <span className="block text-hero-blue">{quote.headlineHighlight}</span>
+                  <span className="block text-white">{quote.headlinePost}</span>
+                </h2>
+              </div>
+              <span className="ml-24 mt-4 block h-0.5 w-32 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
               <p className="mt-4 text-sm text-white/70">{quote.subtext}</p>
             </div>
 

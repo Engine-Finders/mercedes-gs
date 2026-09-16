@@ -1,0 +1,327 @@
+{
+  "slug": "mercedes-cylinder-head-repair",
+  "metaTitle": "Mercedes Cylinder Head Repair & Rebuild | Mercedes Garage",
+  "metaDescription": "Precision cylinder head repair and rebuild for all Mercedes-Benz engines. Full disassembly, machining, valve train overhaul, and reassembly with genuine parts.",
+  "h1": "Mercedes Cylinder Head Repair & Rebuild",
+  "lede": "Precision cylinder head overhaul for all Mercedes-Benz petrol and diesel engines — from 4-cylinder to V12. Full disassembly, machine-shop work, valve train service, and reassembly with OEM-spec parts.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec3.webp",
+    "/model/sec2.webp",
+    "/variant/sec4.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "steps",
+      "heading": "What Cylinder Head Repair & Rebuild Involves",
+      "steps": [
+        {
+          "title": "",
+          "body": "Engine cooled, battery disconnected, coolant and oil drained. All ancillaries, intake, exhaust, turbochargers (where fitted), and timing components are carefully removed. The head is lifted using a fixture after timing is locked."
+        },
+        {
+          "title": "",
+          "body": "Valves, springs, retainers, hydraulic lifters, and valve guides are stripped. Each component is inspected and measured against factory tolerances."
+        },
+        {
+          "title": "",
+          "body": "Heads are checked for flatness (max 0.1mm warpage) and resurfaced if needed (max 0.2mm removal). Valve seats are machined with 45° + correction angles, guides replaced, and valve-to-seat sealing verified with a vacuum tester."
+        },
+        {
+          "title": "",
+          "body": "New valve stem seals, lifters (if required), and all gaskets are fitted. Cylinder head bolts **must** be replaced — they are torque-to-yield and single-use. Reassembly follows the Mercedes-spec torque sequence with angle-tightening, and timing is reset using factory locking tools."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Pricing for Cylinder Head Work",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "Cylinder head repair and rebuild is included as part of our full engine rebuild service. **Rebuilds start from:**",
+            "[Pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Mercedes Models & Engines We Rebuild Cylinder Heads For",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Cylinder head repair is available for every Mercedes engine family we cover. Below are the most common models and engine codes."
+        },
+        {
+          "t": "h3",
+          "text": "Model families"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "C-Class",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "G-Class",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "SL",
+              "href": "/mercedes-sl-engines"
+            },
+            {
+              "label": "Sprinter",
+              "href": "/mercedes-sprinter-engines"
+            },
+            {
+              "label": "Vito",
+              "href": "/mercedes-vito-engines"
+            },
+            {
+              "label": "GLE",
+              "href": "/mercedes-gle-class-engines"
+            },
+            {
+              "label": "GLC",
+              "href": "/mercedes-glc-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Key engine families"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "M271 (4-cyl petrol)",
+              "href": "/mercedes-m271-engine"
+            },
+            {
+              "label": "M274 (4-cyl petrol)",
+              "href": "/mercedes-m274-engine"
+            },
+            {
+              "label": "M276 (V6 petrol)",
+              "href": "/mercedes-m276-engine"
+            },
+            {
+              "label": "M278 (V8 petrol)",
+              "href": "/mercedes-m278-engine"
+            },
+            {
+              "label": "M177 (AMG V8)",
+              "href": "/mercedes-m177-engine"
+            },
+            {
+              "label": "OM651 (4-cyl diesel)",
+              "href": "/mercedes-om651-engine"
+            },
+            {
+              "label": "OM642 (V6 diesel)",
+              "href": "/mercedes-om642-engine"
+            },
+            {
+              "label": "OM654 (4-cyl diesel)",
+              "href": "/mercedes-om654-engine"
+            },
+            {
+              "label": "OM656 (I6 diesel)",
+              "href": "/mercedes-om656-engine"
+            },
+            {
+              "label": "M275 (V12)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Example variant links"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "C220d",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E220d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S350d",
+              "href": "/mercedes-s350d-engines"
+            },
+            {
+              "label": "SLK200",
+              "href": "/mercedes-slk200-engines"
+            },
+            {
+              "label": "CLS 63 AMG",
+              "href": "/mercedes-cls-63-amg-engines"
+            },
+            {
+              "label": "Sprinter 313 CDI",
+              "href": "/mercedes-sprinter-313319-cdi-engines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Cylinder Head Rebuild Process — In Detail",
+      "steps": [
+        {
+          "title": "",
+          "body": "We visually inspect the head and perform a leak test if the engine is still assembled. We assess the extent of work needed: valve guide wear, seat condition, and flatness."
+        },
+        {
+          "title": "",
+          "body": "All components are removed and cleaned in a thermal cleaning oven to remove carbon deposits. Valves, guides, and springs are laid out for measurement."
+        },
+        {
+          "title": "",
+          "body": "Heads are checked for warpage with a straight edge; resurfaced if within tolerance (max 0.2mm removal). Valve seats are machined to correct angles, and guides are replaced if worn."
+        },
+        {
+          "title": "",
+          "body": "New valve stem seals, springs, and hydraulic lifters (where required) are installed. Valve-to-seat sealing is verified with a vacuum test."
+        },
+        {
+          "title": "",
+          "body": "New TTY head bolts are installed and tightened in the correct sequence with angle torque. Timing is set using factory locking tools. All gaskets and seals are replaced."
+        },
+        {
+          "title": "",
+          "body": "After reassembly, the engine is filled with fresh Mercedes-approved oil and coolant. We run the engine, check for leaks, and use Mercedes-Benz Star Diagnostic (Xentry) to clear codes and run adaptations."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage for Cylinder Head Work?",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Mercedes-specialist workshop** — we work exclusively on Mercedes-Benz engines, from A-Class to Sprinter.",
+            "**In-house machine shop** — we perform all resurfacing, valve seat machining, and guide replacement ourselves, ensuring quality control.",
+            "**OEM-correct procedures** — we follow factory torque sequences, timing locking, and use genuine or OEM-equivalent parts.",
+            "**Mercedes Star Diagnostic (Xentry)** — final adaptation and fault clearing are performed with the factory-level tool.",
+            "**12-month unlimited-mileage warranty** — [covered on every rebuild we complete](/warranty).",
+            "[Learn more about our workshop →](/about)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Cylinder Head Rebuild Fits Into Our Full Engine Service",
+      "steps": [
+        {
+          "title": "",
+          "body": "We assess your engine and determine if a cylinder head overhaul is needed, along with any other work."
+        },
+        {
+          "title": "",
+          "body": "The head is removed, disassembled, and machined in our workshop."
+        },
+        {
+          "title": "",
+          "body": "New parts are fitted, head bolts torqued, timing set."
+        },
+        {
+          "title": "",
+          "body": "Engine is tested, adapted, and returned with a 12-month warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes Diesel Timing Chain & Injector Repair](/mercedes-diesel-timing-chain-repair)",
+            "[Mercedes AMG V8 Valve Seal & Coolant Repair](/mercedes-amg-v8-valve-seal-repair)",
+            "[Mercedes Engine Bearing Replacement](/mercedes-engine-bearing-replacement)",
+            "[Mercedes Turbo & Ancillary Repair](/mercedes-turbo-ancillary-repair)",
+            "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What does a cylinder head rebuild involve?",
+          "a": "A full rebuild includes removal, disassembly, cleaning, resurfacing (if needed), valve seat machining, valve guide replacement, new valve stem seals, hydraulic lifters (if required), reassembly with new TTY head bolts, timing setting, and final testing with Mercedes-Star Diagnostic."
+        },
+        {
+          "q": "Which Mercedes engines are most complex for cylinder head work?",
+          "a": "V12 engines (e.g. M275) have individual timing chains per bank, heavy heads (~80-90 lbs), and require more ancillary removal. V8 biturbo engines (M157/M177/M278) are tightly packaged, adding complexity. All modern Mercedes engines require torque-to-yield bolts and multi-stage angle tightening."
+        },
+        {
+          "q": "What specialist tools do you use for this repair?",
+          "a": "We use Mercedes-specific timing chain locking tools, camshaft locking tools, torque angle gauges, cylinder head lifting fixtures, and a range of metric thread chasers. We also use a precision straight edge and feeler gauges for flatness checks, and a vacuum tester for valve sealing."
+        },
+        {
+          "q": "Do you replace cylinder head bolts every time?",
+          "a": "Yes. All modern Mercedes cylinder head bolts are torque-to-yield (TTY) and must be replaced with new ones on every reassembly. Reusing them risks head gasket failure."
+        },
+        {
+          "q": "Is post-repair recalibration required?",
+          "a": "Yes. We use Mercedes-Benz Star Diagnostic System (Xentry) to clear fault codes, run adaptations, and verify system readiness after the head is refitted."
+        }
+      ]
+    }
+  ]
+}

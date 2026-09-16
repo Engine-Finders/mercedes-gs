@@ -1,0 +1,35 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes V-Class Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes V-Class engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes V200",
+      "spec": "2.0L, 2.1L, 2.3L, 2.9L Diesel (OM601, OM602, OM651, OM654)",
+      "href": "/mercedes-v200-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes V220d",
+      "spec": "2.0L Diesel (OM654)",
+      "href": "/mercedes-v220d-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes V300d",
+      "spec": "2.0L Diesel (OM654)",
+      "href": "/mercedes-v300d-engines"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes V350",
+      "spec": "[MISSING: capacity not independently confirmed in VRF] Petrol ([MISSING: engine code not independently confirmed in VRF])",
+      "href": "/mercedes-v350-engines"
+    }
+  ]
+}

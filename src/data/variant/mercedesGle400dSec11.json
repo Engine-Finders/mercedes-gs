@@ -1,0 +1,98 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "MERCEDES GLE400D ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the R190's launch in 2023, the GLE400D has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2019",
+      "generation": "V167",
+      "engineCode": "OM656",
+      "fuel": "Diesel MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om656-engine"
+    },
+    {
+      "year": "2020",
+      "generation": "V167",
+      "engineCode": "OM656",
+      "fuel": "Diesel MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om656-engine"
+    },
+    {
+      "year": "2021",
+      "generation": "V167",
+      "engineCode": "OM656",
+      "fuel": "Diesel MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om656-engine"
+    },
+    {
+      "year": "2022",
+      "generation": "V167",
+      "engineCode": "OM656",
+      "fuel": "Diesel MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om656-engine"
+    },
+    {
+      "year": "2023",
+      "generation": "V167",
+      "engineCode": "OM656",
+      "fuel": "Diesel MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om656-engine"
+    },
+    {
+      "year": "2024",
+      "generation": "V167",
+      "engineCode": "OM656",
+      "fuel": "Diesel MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om656-engine"
+    },
+    {
+      "year": "2025",
+      "generation": "V167",
+      "engineCode": "OM656",
+      "fuel": "Diesel MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om656-engine"
+    },
+    {
+      "year": "2026",
+      "generation": "V167",
+      "engineCode": "OM656",
+      "fuel": "Diesel MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om656-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "The M256",
+    "rest": " has been fitted to every GLE400D since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

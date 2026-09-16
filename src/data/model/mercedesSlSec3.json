@@ -1,0 +1,55 @@
+{
+  "kicker": "Transparent Pricing",
+  "h2": "Mercedes SL|Rebuild Pricing",
+  "startingFromLabel": "Starting From:",
+  "image": "/model/sec3.webp",
+  "imageMobile": "/model/sec3_mobile.webp",
+  "cardImage": "/model/engine_trim.webp",
+  "cards": [
+    {
+      "titlePre": "6-Cylinder",
+      "titleHighlight": "Rebuild",
+      "code": "(M112/M272/M276)",
+      "price": "£3,200",
+      "featured": false,
+      "codeHref": "/mercedes-m112-engine"
+    },
+    {
+      "titlePre": "V8",
+      "titleHighlight": "Rebuild",
+      "code": "(M113/M273/M278)",
+      "price": "£4,500",
+      "featured": false,
+      "codeHref": "/mercedes-m113-engine"
+    },
+    {
+      "titlePre": "AMG V8",
+      "titleHighlight": "Rebuild",
+      "code": "(M157/M177/M178)",
+      "price": "£6,500",
+      "featured": true,
+      "codeHref": "/mercedes-m157-engine"
+    },
+    {
+      "titlePre": "V12",
+      "titleHighlight": "Rebuild",
+      "code": "(M275)",
+      "price": "£8,000+",
+      "featured": false
+    },
+    {
+      "titlePre": "Nationwide",
+      "titleHighlight": "Recovery",
+      "code": "",
+      "price": "£from £70",
+      "featured": false
+    }
+  ],
+  "disclaimer": "Exact price depends on engine code, condition and parts required — full pricing further down this page.",
+  "cta": {
+    "line1": "Get Your Fixed-Price Quote",
+    "line2": "In Under 30 Minutes",
+    "buttonLabel": "Request Quote",
+    "href": "#quote-form"
+  }
+}

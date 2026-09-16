@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES CLK 63 AMG ENGINE",
+    "paragraphs": [
+      "The CLK 63 AMG represents the pinnacle of the CLK range, and it uses the M156 6.2-litre V8 — the first AMG-developed naturally-aspirated V8 with a high-revving character and significant power output. Fitted to the C209-generation CLK from 2002 to 2009, the M156 is a standalone unit that's distinct from the M113 V8 used in the non-AMG CLK models. Its known wear points — camshaft adjuster and head bolt wear over time — are well-documented within the AMG community, which is why we address them as standard on every rebuild. The CLK 63 AMG is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every CLK 63 AMG on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES CLK 63 AMG ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the CLK 63 AMG from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 CLK 63 AMG",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES CLK 63 AMG ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the CLK 63 AMG uses the M256 — a different engine from the V8 units in the GT 63 range — fitting the wrong replacement or assuming parts from other CLK variants will work risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M256",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic CLK quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES CLK 63 AMG ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "R190",
+        "chassis": "R190",
+        "years": "2023–present",
+        "engineCode": "M256",
+        "fuel": "Petrol Mild Hybrid",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  }
+}

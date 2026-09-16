@@ -1,0 +1,48 @@
+{
+  "headlinePre": "Mercedes E-Class Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our Mercedes engine specialist garage covers all engine types from 1993 to 2026, across every E-Class generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.webp",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "1995–2003",
+      "code": "W210",
+      "list": "1995 through 2003 Mercedes E-Class engines"
+    },
+    {
+      "years": "2002–2009",
+      "code": "W211",
+      "list": "2002 through 2009 Mercedes E-Class engines"
+    },
+    {
+      "years": "2008–2016",
+      "code": "W212",
+      "list": "2008 through 2016 Mercedes E-Class engines"
+    },
+    {
+      "years": "2016–2023",
+      "code": "W213",
+      "list": "2016 through 2023 Mercedes E-Class engines"
+    },
+    {
+      "years": "2023–present",
+      "code": "W214",
+      "list": "2023, 2024, 2025, 2026 Mercedes E-Class engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "Mercedes E220d Model:",
+  "checklistLeft": [
+    "Mercedes E220d 2016 Engine Rebuild",
+    "Mercedes E220d 2017 Engine Rebuild",
+    "Mercedes E220d 2018 Engine Rebuild"
+  ],
+  "checklistRight": [
+    "Mercedes E220d 2019 Engine Rebuild",
+    "Mercedes E220d 2020 Engine Rebuild"
+  ]
+}

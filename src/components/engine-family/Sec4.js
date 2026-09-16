@@ -4,12 +4,12 @@ import MercedesStripe from "@/components/reusable/MercedesStripe";
 
 export default function Sec4({ data }) {
   return (
-    <section className="relative overflow-hidden bg-[#f3f6fb]">
+    <section className="theme-light relative overflow-hidden">
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-7 md:hidden">
         <div className="overflow-hidden">
-          <MercedesStripe className="float-left mr-2 h-6 w-12 shrink-0" />
-          <h2 className="text-2xl font-bold uppercase leading-[1.05] tracking-tighter">
+          <MercedesStripe className="float-left mr-2 mt-0.5 h-6 w-12 shrink-0" />
+          <h2 className="h2 uppercase">
             <span className="text-[#101828]">{data.titlePre}</span>
             <span className="text-hero-blue">{data.titleHighlight}</span>
           </h2>
@@ -44,7 +44,7 @@ export default function Sec4({ data }) {
             <p className="text-xs leading-snug text-[#4a5568]">{data.notice}</p>
           </div>
 
-          <div className="relative overflow-hidden bg-[#eef2f7]">
+          <div className="relative overflow-hidden bg-(--theme-light-bg)">
             <Image src={data.noticeImage} alt="" fill className="object-cover opacity-25" sizes="140px" />
             <div className="absolute inset-0 bg-linear-to-r from-white via-white/40 to-transparent" />
           </div>
@@ -54,13 +54,11 @@ export default function Sec4({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
         <div className="mx-auto max-w-6xl">
-          <div className="flex items-center gap-3">
-            <MercedesStripe className="h-7 w-14 shrink-0" />
-            <h2 className="text-3xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
-              <span className="text-[#101828]">{data.titlePre}</span>
-              <span className="text-hero-blue">{data.titleHighlight}</span>
-            </h2>
-          </div>
+          <h2 className="h2 uppercase">
+            <MercedesStripe className="float-left mr-3 mt-1.5 h-10 w-16 shrink-0" />
+            <span className="text-[#101828]">{data.titlePre}</span>
+            <span className="text-hero-blue">{data.titleHighlight}</span>
+          </h2>
 
           <div className="mt-8 grid grid-cols-5 gap-6">
             {data.cards.map((c) => (
@@ -94,7 +92,7 @@ export default function Sec4({ data }) {
               <p className="text-sm leading-relaxed text-[#4a5568]">{data.notice}</p>
             </div>
 
-            <div className="relative overflow-hidden bg-[#eef2f7]">
+            <div className="relative overflow-hidden bg-(--theme-light-bg)">
               <Image src={data.noticeImage} alt="" fill className="object-cover opacity-25" sizes="320px" />
               <div className="absolute inset-0 bg-linear-to-r from-white via-white/40 to-transparent" />
             </div>

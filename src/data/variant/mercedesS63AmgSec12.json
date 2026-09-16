@@ -1,0 +1,100 @@
+{
+  "yearBanner": {
+    "titlePre": "WE COVER ",
+    "titleHighlight": "EVERY",
+    "titlePost": " MERCEDES S63 AMG MODEL YEAR:",
+    "years": [
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg.",
+    "vehicleLabel": "Mercedes S63 AMG"
+  },
+  "costs": {
+    "titlePre": "MERCEDES S63 AMG ENGINE ",
+    "titleHighlight": "COSTS",
+    "intro": "A Mercedes S63 AMG engine rebuild starts from",
+    "price": "£6,500",
+    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/sec10_engine.webp",
+    "warranty": {
+      "line1": "12 MONTH",
+      "line2": "UNLIMITED-MILEAGE",
+      "line3": "WARRANTY"
+    },
+    "subCards": [
+      {
+        "icon": "engine",
+        "title": "MERCEDES S63 AMG ENGINE SIZES",
+        "item": "Mercedes S63 AMG 3.0 Litre Engine (M256, I6)"
+      },
+      {
+        "icon": "fuel",
+        "title": "MERCEDES S63 AMG FUEL TYPES",
+        "item": "Mercedes S63 AMG Petrol Mild Hybrid Engine Rebuilds"
+      }
+    ]
+  },
+  "bottomInfo": {
+    "timeframe": {
+      "icon": "clock",
+      "textPre": "Most Mercedes S-Class engine rebuilds are completed within ",
+      "textHighlight": "3-5 working days",
+      "textPost": "."
+    },
+    "recoveryText": "Nationwide recovery and collection available for all S-Class models.",
+    "image": "/variant/mercedes_car.webp"
+  },
+  "related": {
+    "title": "RELATED MERCEDES S-CLASS VARIANTS",
+    "links": [
+      {
+        "label": "Mercedes S350d Engine",
+        "href": "/mercedes-s350d-engines"
+      },
+      {
+        "label": "Mercedes S400d Engine",
+        "href": "/mercedes-s400d-engines"
+      },
+      {
+        "label": "Mercedes S450 Engine",
+        "href": "/mercedes-s450-engines"
+      },
+      {
+        "label": "Mercedes S500 Engine",
+        "href": "/mercedes-s500-engines"
+      },
+      {
+        "label": "Mercedes S560 Engine",
+        "href": "/mercedes-s560-engines"
+      },
+      {
+        "label": "Mercedes S580 Engine",
+        "href": "/mercedes-s580-engines"
+      },
+      {
+        "label": "Mercedes S65 AMG Engine",
+        "href": "/mercedes-s65-amg-engines"
+      }
+    ],
+    "viewAll": "View All Mercedes S-Class Engines",
+    "viewAllHref": "/mercedes-s-class-engines"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "titlePre": "OUR WORKSHOP VIEW OF",
+  "titleBigPre": "THE ",
+  "titleBigHighlight": "MERCEDES-BENZ",
+  "titleBigPost": " M166",
+  "subtext": [
+    "Built, rebuilt and tested by engineers who work on Mercedes-Benz engines every day.",
+    "Here's our practical view of the M166 across all six model applications."
+  ],
+  "columns": [
+    {
+      "icon": "car",
+      "title": "APPLICATIONS WE SEE:",
+      "body": "The M166's application is limited to the W414 Vaneo — a compact MPV from the early 2000s. We see these vehicles less frequently now, but we retain the capability to rebuild the engine when required."
+    },
+    {
+      "icon": "wrench",
+      "title": "WHAT WE REPLACE:",
+      "body": "Timing chain, bearings, and gaskets as standard on every M166 rebuild."
+    },
+    {
+      "icon": "clipboard",
+      "title": "KNOWN ISSUES:",
+      "body": "No widely-reported catastrophic issue pattern has been confirmed for the M166. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild or replacement."
+    }
+  ],
+  "notice": {
+    "highlight": "Note:",
+    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed M166 rebuilds is available to draw from, rather than filled with placeholder examples now."
+  },
+  "typical": {
+    "kicker": "A TYPICAL",
+    "title": "MERCEDES-BENZ M166 REBUILD",
+    "image": "/engine/sec10_bottom.webp",
+    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "The M166 is a highly-strung, high-performance engine, and its twin-scroll turbocharger is a central component in its design. A full rebuild involves removing and inspecting the turbocharger, replacing timing chain components, bearings, gaskets, and calibrating the two-stage fuel injection system (direct and port injection). Given its 421 hp output in S guise, the engine's components are stressed to a high degree, and we pay particular attention to the crankshaft and cylinder head during inspection.",
+    "scope": {
+      "label": "Typical Scope:",
+      "text": "Timing chain, bearings, gaskets, twin-scroll turbocharger inspection/refurbishment, calibration of fuel injection system"
+    },
+    "startingFromLabel": "Starting From:",
+    "startingFromPrice": "£2,200",
+    "cta": {
+      "label": "Check M166 Rebuild Options →",
+      "href": "#quote-form"
+    }
+  }
+}

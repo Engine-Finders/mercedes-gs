@@ -1,0 +1,85 @@
+{
+  "kicker": "FREQUENTLY ASKED",
+  "kickerHighlight": "QUESTIONS",
+  "faqLeft": [
+    {
+      "q": "What engine does the Mercedes GLC Coupe use?",
+      "a": "It depends on the year and model. The GLC Coupe spans two generations and eight engine families — from the M274 and OM651 units in the X253 through to the M254, OM654, OM656 and M139 setups in the X254. Send us your registration and we'll confirm which one your car has."
+    },
+    {
+      "q": "How much does a Mercedes GLC Coupe engine rebuild cost?",
+      "a": "Rebuilds start from £2,200 for four-cylinder petrol and diesel units. Six-cylinder petrol and diesel units start from £3,200 and £2,800 respectively. AMG V8 rebuilds start from £6,500. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    },
+    {
+      "q": "Which engine code is fitted to my GLC Coupe?",
+      "a": "Enter your registration on this page and we'll confirm your exact engine code (M274, M254, OM651, OM654, OM656, M276, M139 or M177) before you're quoted anything."
+    },
+    {
+      "q": "Do you rebuild M274 GLC Coupe engines?",
+      "a": "Yes. We replace timing chain components, bearings and gaskets as standard on every M274 rebuild."
+    },
+    {
+      "q": "Do you rebuild OM651 GLC Coupe engines?",
+      "a": "Yes. We replace injector seals and timing chain components as standard on every OM651 rebuild."
+    },
+    {
+      "q": "Do you rebuild M177 GLC Coupe engines?",
+      "a": "Yes. We replace valve seals, coolant components and timing chain components as standard on every M177 rebuild."
+    }
+  ],
+  "faqRight": [
+    {
+      "q": "Do you rebuild M254, OM654, OM656 and M139 GLC Coupe engines?",
+      "a": "Yes. These are newer engines and we service them to the same high standard as our other rebuilds, though we don't have confirmed pattern data for these yet."
+    },
+    {
+      "q": "Do you supply used GLC Coupe engines?",
+      "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
+    },
+    {
+      "q": "Can you recover my GLC Coupe if the engine has failed?",
+      "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
+    },
+    {
+      "q": "How long does a GLC Coupe engine rebuild take?",
+      "a": "Most rebuilds are completed within 3-5 working days from the time your car arrives at our workshop."
+    },
+    {
+      "q": "Is rebuilding better than fitting a used engine?",
+      "a": "For most GLC Coupe owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history, and comes with a 12-month unlimited-mileage warranty — often longer and more comprehensive than what a used engine supplier offers."
+    }
+  ],
+  "form": {
+    "headlinePre": "GET YOUR",
+    "headlineHighlight": "FREE MERCEDES GLC COUPE",
+    "headlinePost": "FIXED-PRICE QUOTE",
+    "fields": {
+      "reg": {
+        "label": "Registration Number",
+        "placeholder": "e.g. YG19 XJL"
+      },
+      "postcode": {
+        "label": "Postcode",
+        "placeholder": "e.g. SS1 1AA"
+      },
+      "name": {
+        "label": "Name",
+        "placeholder": "Your full name"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "e.g. 07XXX XXXXXX"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "e.g. you@example.com"
+      },
+      "enquiry": {
+        "label": "Issue / Enquiry Type",
+        "placeholder": "Select an option"
+      }
+    },
+    "submitLabel": "Get My Fixed-Price Quote",
+    "guarantee": "Most quotes returned within 30 minutes during working hours."
+  }
+}

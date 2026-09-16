@@ -35,16 +35,30 @@ import modelSec15 from "@/data/model/mercedesCClassSec15.json";
 import modelSec16 from "@/data/model/mercedesCClassSec16.json";
 import modelSec17 from "@/data/model/mercedesCClassSec17.json";
 import modelSec18 from "@/data/model/mercedesCClassSec18.json";
+import JsonLd from "@/components/shared/JsonLd";
+import { serviceSchema, faqSchema, breadcrumbSchema, graphDoc } from "@/lib/schema";
+
+const PATH = "/mercedes-c-class-engines";
+const NAME = modelSec1.h1?.replaceAll("|", " ");
+const FAQ = [...(modelSec18.faqLeft || []), ...(modelSec18.faqRight || [])];
 
 export const metadata = {
   title: "Mercedes C-Class Engine Rebuild & Replacement | Mercedes Specialists",
   description:
     "Mercedes C-Class rebuilt engines from £2,200. Specialist OM651 timing chain & M156 AMG issues, C220d, C300, C63 AMG & all variants. Supply & fit, recovery, 12-month warranty. Free quote in 30 mins.",
+  alternates: { canonical: "/mercedes-c-class-engines" },
 };
 
 export default function MercedesCClassEnginesPage() {
   return (
     <>
+      <JsonLd
+        data={graphDoc([
+          serviceSchema({ name: NAME, description: modelSec1.subhead, path: PATH, price: modelSec1.priceCta?.price }),
+          faqSchema(FAQ, PATH),
+          breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Models", path: "/models" }, { name: NAME, path: PATH }], PATH),
+        ])}
+      />
       <ModelHeroSec1 data={modelSec1} />
       <ModelSec2 data={modelSec2} />
       <ModelSec3 data={modelSec3} />

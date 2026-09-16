@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
-import MercedesStripe from "@/components/reusable/MercedesStripe";
+import MercedesLogo from "@/components/reusable/MercedesLogo";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
 
 export default function VariantHeroSec1({ data }) {
@@ -17,15 +17,12 @@ export default function VariantHeroSec1({ data }) {
           <div className="absolute inset-0 bg-linear-to-b from-transparent via-hero-dark/10 to-hero-dark" />
           <div
             className="absolute inset-0"
-            style={{ background: "linear-gradient(to right, #070b14 0%, rgba(7,11,20,0.92) 65%, rgba(7,11,20,0.55) 82%, transparent 100%)" }}
+            style={{ background: "linear-gradient(to right, #0a0a0a 0%, rgba(10,10,10,0.92) 65%, rgba(10,10,10,0.55) 82%, transparent 100%)" }}
           />
         </div>
 
-        <div className="relative px-4 pb-4 pt-4">
-          <div className="flex items-center gap-2">
-            <MercedesStripe className="h-3.5 w-7 shrink-0" />
-            <p className="label-text whitespace-nowrap uppercase tracking-widest text-white">{data.kicker}</p>
-          </div>
+        <div className="relative px-4 pb-4 pt-3">
+          <MercedesLogo className="h-9 w-9" />
 
           <h1 className="h1 origin-left scale-y-110 scale-x-90 mt-1.5 uppercase">
             <span className="block whitespace-nowrap text-white">{line1}</span>
@@ -52,7 +49,7 @@ export default function VariantHeroSec1({ data }) {
           {/* five-column feature breakdown */}
           <div
             className="card-glare relative mt-2.5 grid grid-cols-5 divide-x divide-white/15 rounded-xl px-1 py-3"
-            style={{ background: "linear-gradient(135deg, rgba(8,16,34,0.92) 0%, rgba(4,8,18,0.96) 100%)", backdropFilter: "blur(16px)" }}
+            style={{ background: "linear-gradient(135deg, rgba(16,14,10,0.92) 0%, rgba(8,7,5,0.96) 100%)", backdropFilter: "blur(16px)" }}
           >
             {data.trustBar.map((t) => (
               <div key={t.label} className="flex flex-col items-center gap-1 px-1 text-center">
@@ -62,56 +59,41 @@ export default function VariantHeroSec1({ data }) {
             ))}
           </div>
 
-          {/* pricing callout banner */}
-          <a
-            href={data.priceCta.href}
-            className="card-glare relative mt-2.5 flex items-center justify-between rounded-xl px-4 py-3.5 transition-transform hover:scale-[1.02]"
-            style={{
-              background: "linear-gradient(135deg, rgba(24,19,12,0.75) 0%, rgba(12,10,6,0.85) 100%)",
-              backdropFilter: "blur(16px)",
-              WebkitBackdropFilter: "blur(16px)",
-              border: "1px solid rgba(173,135,92,0.45)",
-            }}
-          >
-            <p className="whitespace-nowrap text-xs font-medium text-white">{data.priceCta.kicker}</p>
-            <p className="whitespace-nowrap text-sm font-extrabold text-hero-blue">{data.priceCta.label}</p>
-          </a>
+          {/* pricing + direct contact, side by side */}
+          <div className="mt-2.5 grid grid-cols-2 gap-2">
+            <a
+              href={data.priceCta.href}
+              className="card-glare relative flex min-w-0 flex-col justify-center gap-0.5 rounded-xl px-3 py-3 transition-transform hover:scale-[1.02]"
+              style={{
+                background: "linear-gradient(135deg, rgba(24,19,12,0.75) 0%, rgba(12,10,6,0.85) 100%)",
+                backdropFilter: "blur(16px)",
+                WebkitBackdropFilter: "blur(16px)",
+                border: "1px solid rgba(173,135,92,0.45)",
+              }}
+            >
+              <p className="text-[10px] leading-tight font-medium text-white">{data.priceCta.kicker}</p>
+              <p className="text-[11px] leading-tight font-extrabold text-hero-blue">{data.priceCta.label}</p>
+            </a>
+
+            <a
+              href={data.phoneCta.href}
+              className="glass-luminous card-glare relative flex min-w-0 items-center gap-2.5 overflow-hidden rounded-xl px-3 py-3 transition-transform hover:scale-[1.02]"
+              style={{ border: "1px solid rgba(173,135,92,0.45)" }}
+            >
+              <span className="relative flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-hero-blue">
+                <Icon name={data.phoneCta.icon} className="h-4.5 w-4.5 text-white" />
+              </span>
+              <div className="relative min-w-0">
+                <p className="text-[10px] leading-tight font-medium text-white">{data.phoneCta.label}</p>
+                <p className="text-[13px] leading-tight font-extrabold text-white">{data.phoneCta.phone}</p>
+              </div>
+            </a>
+          </div>
 
           {/* registration lookup */}
           <div className="glass-card-dark mt-2.5 rounded-xl p-3">
-            <div className="flex items-center gap-2">
-              <Icon name="car" className="h-5 w-5 shrink-0 text-hero-blue" />
-              <p className="text-sm font-extrabold uppercase tracking-wide text-white">Check Your Exact Engine</p>
-            </div>
-            <p className="mt-1 text-xs text-white">Enter your reg and we&apos;ll confirm your exact AMG GT 53 spec.</p>
-            <div className="mt-2">
-              <RegLookupForm buttonLabel="Check Match" row compactButton hideArrow />
-            </div>
+            <RegLookupForm buttonLabel="Check Match" row compactButton hideArrow />
           </div>
-
-          {/* direct contact CTA */}
-          <a
-            href={data.phoneCta.href}
-            className="glass-luminous card-glare relative mt-2.5 flex items-center gap-3 rounded-xl p-3.5 transition-transform hover:scale-[1.02]"
-            style={{ border: "1px solid rgba(173,135,92,0.45)" }}
-          >
-            <div
-              className="pointer-events-none absolute bottom-0 right-0 h-full"
-              style={{
-                width: "90px",
-                background:
-                  "linear-gradient(135deg, transparent 0%, transparent 55%, var(--color-bmw-blue) 55%, var(--color-bmw-blue) 68%, var(--color-bmw-violet) 68%, var(--color-bmw-violet) 78%, var(--color-bmw-red) 78%, var(--color-bmw-red) 88%, transparent 88%, transparent 100%)",
-              }}
-              aria-hidden="true"
-            />
-            <span className="relative flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-hero-blue">
-              <Icon name={data.phoneCta.icon} className="h-5 w-5 text-white" />
-            </span>
-            <div className="relative min-w-0">
-              <p className="label-text truncate font-medium text-white">{data.phoneCta.label}</p>
-              <p className="truncate text-lg font-extrabold text-white">{data.phoneCta.phone}</p>
-            </div>
-          </a>
         </div>
       </div>
 
@@ -135,7 +117,7 @@ export default function VariantHeroSec1({ data }) {
 
         <div className="relative mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8 lg:py-10">
           <div className="max-w-2xl">
-            <MercedesStripe className="h-4 w-8" />
+            <MercedesLogo className="h-12 w-12" />
 
             <h1 className="h1 origin-left scale-y-110 scale-x-90 mt-3 uppercase">
               <span className="block whitespace-nowrap text-white">{line1}</span>
@@ -190,7 +172,7 @@ export default function VariantHeroSec1({ data }) {
           {/* bottom feature bar */}
           <div
             className="glass-luminous card-glare relative z-10 mt-6 flex items-stretch justify-between divide-x divide-white/15 rounded-xl px-4 py-5"
-            style={{ border: "1px solid rgba(173,135,92,0.45)", background: "rgba(5,12,28,0.6)" }}
+            style={{ border: "1px solid rgba(173,135,92,0.45)", background: "rgba(10,9,7,0.6)" }}
           >
             {data.trustBar.map((t) => (
               <div key={t.label} className="flex min-w-0 flex-1 items-center gap-3 px-3">

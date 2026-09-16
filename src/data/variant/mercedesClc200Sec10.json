@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES CLC 200 ENGINE",
+    "paragraphs": [
+      "The CLC 200 sits within the CL203 generation, a short production run from 2008 to 2011. It uses the M271 engine, a 1.8-litre supercharged four-cylinder petrol unit. This engine is a key part of the CLC-Class range and is shared with other models of its era, known for its supercharged delivery."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every CLC 200 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES CLC 200 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the CLC 200 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 CLC 200",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES CLC 200 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The CLC 200 uses a single engine family (M271) across its entire production run, meaning compatibility is straightforward compared to multi-engine models. Before we quote or supply anything, we confirm: - Your exact engine code (M271) via registration or VIN - Your generation (CL203) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M271",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic CLC-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES CLC 200 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "CL203",
+        "chassis": "CL203",
+        "years": "2008–2011",
+        "engineCode": "M271",
+        "fuel": "Petrol Supercharged",
+        "codeHref": "/mercedes-m271-engine"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES VITO 110 111 CDI ENGINE",
+    "paragraphs": [
+      "The Vito 110/111 CDI has been part of the Vito range since the late 1990s, and across its two generations has used three different engines — from the OM601 through to the OM646. The W638 generation (roughly 1996 to 2003) used the OM601 in various tune levels, while the W639 generation started with the OM611 (2003–2006) before switching to the OM646 in the facelift (2006–2014). The Vito 110/111 CDI is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every VITO 110 111 CDI on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES VITO 110 111 CDI ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "OM601",
+        "codeRest": "(W638)",
+        "body": "A 2.2-litre diesel fitted to the Vito 110/111 CDI from 1996 to 2003 (W638). No specific known issue confirmed for this application.",
+        "cta": "Check Your OM601 Vito 110 111 CDI",
+        "codeHref": "/mercedes-om601-engine"
+      },
+      {
+        "codeHighlight": "OM611",
+        "codeRest": "(W639, early)",
+        "body": "A 2.2-litre diesel fitted to the Vito 110/111 CDI from 2003 to 2006 (W639). No specific known issue confirmed for this application.",
+        "cta": "Check Your OM611 Vito 110 111 CDI",
+        "codeHref": "/mercedes-om611-engine"
+      },
+      {
+        "codeHighlight": "OM646",
+        "codeRest": "(W639, facelift)",
+        "body": "A 2.2-litre diesel fitted to the Vito 110/111 CDI from 2006 to 2014 (W639). Known for timing chain wear and injector seal leaks — see the callout above. We replace timing chain components, injector seals and gaskets as standard on every OM646 rebuild.",
+        "cta": "Check Your OM646 Vito 110 111 CDI",
+        "codeHref": "/mercedes-om646-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES VITO 110 111 CDI ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the Vito 110/111 CDI spans three distinct engines across two generations, fitting the wrong replacement — or assuming an OM611 part will work on an OM646 van — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM646",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Vito quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES VITO 110 111 CDI ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W638",
+        "chassis": "W638",
+        "years": "1996–2003",
+        "engineCode": "OM601",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om601-engine"
+      },
+      {
+        "generation": "W639",
+        "chassis": "W639",
+        "years": "2003–2006",
+        "engineCode": "OM611",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om611-engine"
+      },
+      {
+        "generation": "W639",
+        "chassis": "W639",
+        "years": "2006–2014",
+        "engineCode": "OM646",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om646-engine"
+      }
+    ]
+  }
+}

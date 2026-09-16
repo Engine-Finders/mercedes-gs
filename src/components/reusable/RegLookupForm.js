@@ -1,6 +1,8 @@
 "use client";
 
 import { useState } from "react";
+import { useRouter } from "next/navigation";
+import { lookupVrm, buildQuoteUrl } from "@/lib/vrmLookup";
 
 export default function RegLookupForm({
   buttonLabel = "Find My Mercedes",
@@ -20,14 +22,26 @@ export default function RegLookupForm({
   darkField = false,
 }) {
   const [reg, setReg] = useState("");
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState("");
+  const router = useRouter();
 
-  function handleSubmit(e) {
+  async function handleSubmit(e) {
     e.preventDefault();
-    // Live DVLA/VIN API integration — dev to wire up, per locked decision.
+    setError("");
+    setLoading(true);
+    try {
+      const details = await lookupVrm(reg);
+      router.push(buildQuoteUrl(details));
+    } catch (err) {
+      setError(err.message || "Please enter a valid UK registration number.");
+    } finally {
+      setLoading(false);
+    }
   }
 
-  const buttonHeight = matchHeight ? "h-14" : row ? (short ? "h-11" : "h-14") : stacked ? "h-9" : "h-12";
-  const fieldHeight = matchHeight ? "h-14" : row ? (short ? "h-11" : "h-14") : stacked ? "h-16" : "h-28";
+  const buttonHeight = matchHeight ? "h-14" : row ? (short ? "h-11" : "h-14") : stacked ? "h-9" : compact ? "h-11" : "h-12";
+  const fieldHeight = matchHeight ? "h-14" : row ? (short ? "h-11" : "h-14") : stacked ? "h-16" : compact ? "h-14 sm:h-20" : "h-24 sm:h-28";
   const fieldBorder = whiteBorder ? "border-white/70" : "border-[var(--color-hero-gold)]";
 
   return (
@@ -43,16 +57,22 @@ export default function RegLookupForm({
     >
       {left}
 
+      {error && (
+        <p className="w-full text-center text-xs font-semibold text-red-400 sm:text-left">{error}</p>
+      )}
+
       <div
         className={`flex ${fieldHeight} w-full min-w-0 ${row ? "flex-1" : "shrink-0"} overflow-hidden rounded-sm border-2 ${fieldBorder} shadow-sm ${
           row || stacked ? "" : "sm:flex-1 sm:w-auto"
         }`}
       >
-        <span className={`flex w-11 shrink-0 flex-col items-center justify-center gap-1.5 text-[var(--color-hero-gold)] ${darkField ? "bg-[#232323]" : "bg-[#1a1a1a]"}`}>
+        <span
+          className={`flex ${row ? "w-8" : stacked ? "w-9" : "w-12 sm:w-14"} shrink-0 flex-col items-center justify-center gap-1 text-[var(--color-hero-gold)] ${darkField ? "bg-[#232323]" : "bg-[#1a1a1a]"}`}
+        >
           <span className="flex h-3.5 w-3.5 items-center justify-center rounded-full border border-[var(--color-hero-gold)] text-[10px] leading-none">
             ★
           </span>
-          <span className="text-[11px] font-extrabold tracking-wide">GB</span>
+          <span className={`${row || stacked ? "text-[9px]" : "text-[11px] sm:text-xs"} font-extrabold tracking-wide`}>GB</span>
         </span>
         <input
           type="text"
@@ -60,24 +80,25 @@ export default function RegLookupForm({
           onChange={(e) => setReg(e.target.value.toUpperCase())}
           placeholder="AB12 CDE"
           maxLength={8}
-          className={`min-w-0 flex-1 px-2 text-center font-black leading-none tracking-widest outline-none ${
+          style={{ fontFamily: '"Charles Wright", sans-serif' }}
+          className={`min-w-0 flex-1 px-2 text-center tracking-wide outline-none ${
             darkField
               ? "bg-[#232323] text-white placeholder:italic placeholder:text-white/40"
               : "bg-[#e4e8ec] text-black placeholder:italic placeholder:text-black"
           } ${
             row
               ? compact
-                ? "text-sm sm:text-base"
-                : "text-lg sm:text-xl"
+                ? "text-xl sm:text-2xl"
+                : "text-2xl sm:text-3xl"
               : stacked
                 ? compact
-                  ? "text-lg"
-                  : "text-2xl"
+                  ? "text-2xl"
+                  : "text-3xl"
                 : large
-                  ? "text-5xl sm:text-6xl"
+                  ? "text-6xl sm:text-7xl"
                   : compact
-                    ? "text-lg sm:text-xl"
-                    : "text-4xl sm:text-5xl"
+                    ? "text-2xl sm:text-3xl"
+                    : "text-5xl sm:text-7xl"
           }`}
         />
       </div>
@@ -85,7 +106,8 @@ export default function RegLookupForm({
       {!hideButton && (
         <button
           type="submit"
-          className={`${buttonHeight} flex shrink-0 items-center justify-center gap-1.5 whitespace-nowrap rounded-sm border-2 border-[var(--color-hero-gold)] font-bold transition-colors ${
+          disabled={loading}
+          className={`${buttonHeight} flex shrink-0 items-center justify-center gap-1.5 whitespace-nowrap rounded-sm border-2 border-[var(--color-hero-gold)] font-bold transition-colors disabled:cursor-wait disabled:opacity-70 ${
             darkButton ? "italic" : ""
           } ${
             darkButton
@@ -95,7 +117,7 @@ export default function RegLookupForm({
             stacked ? "w-full" : row ? "" : "w-full sm:w-auto"
           }`}
         >
-          {buttonLabel} {!hideArrow && "→"}
+          {loading ? "Searching…" : buttonLabel} {!loading && !hideArrow && "→"}
         </button>
       )}
     </form>

@@ -1,14 +1,14 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
-import MercedesStripe from "@/components/reusable/MercedesStripe";
+import MercedesLogo from "@/components/reusable/MercedesLogo";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
 
 export default function VariantSec2({ data }) {
   return (
     <section className="theme-light relative overflow-hidden">
       {/* ===== mobile ===== */}
-      <div className="relative px-4 py-10 md:hidden">
-        <MercedesStripe className="h-6 w-12" />
+      <div className="relative px-4 pb-6 pt-7 md:hidden">
+        <MercedesLogo className="h-9 w-9" />
         <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-2 text-[#101828] uppercase">
           {data.headlinePre}
           <span className="text-hero-blue">{data.headlineHighlight}</span>
@@ -36,10 +36,13 @@ export default function VariantSec2({ data }) {
         </div>
 
         <div
-          className="relative mt-5 rounded-2xl p-4"
+          className="card-glare relative mt-5 rounded-2xl p-4"
           style={{
-            background: "linear-gradient(135deg, #161412 0%, #0d0d0d 100%)",
-            boxShadow: "0 0 0 1px rgba(173,135,92,0.35), 0 25px 60px -25px rgba(173,135,92,0.4)",
+            background: "linear-gradient(135deg, rgba(12,9,6,0.75) 0%, rgba(5,4,3,0.88) 100%)",
+            backdropFilter: "blur(16px)",
+            WebkitBackdropFilter: "blur(16px)",
+            border: "1px solid rgba(173,135,92,0.4)",
+            boxShadow: "0 0 0 1px rgba(173,135,92,0.35), 0 25px 60px -25px rgba(173,135,92,0.4), inset 0 1px 0 rgba(255,255,255,0.15)",
           }}
         >
           <div className="flex items-start gap-3">
@@ -75,7 +78,7 @@ export default function VariantSec2({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
         <div className="relative mx-auto max-w-6xl">
-          <MercedesStripe className="h-10 w-16" />
+          <MercedesLogo className="h-14 w-14" />
           <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-3 text-[#101828] uppercase">
             {data.headlinePre}
             <span className="text-hero-blue">{data.headlineHighlight}</span>
@@ -106,11 +109,14 @@ export default function VariantSec2({ data }) {
           </div>
 
           <div
-            className="relative mt-8 grid grid-cols-[minmax(0,0.75fr)_minmax(0,1.65fr)] items-center gap-6 rounded-2xl p-8"
+            className="card-glare relative mt-8 grid grid-cols-[minmax(0,0.75fr)_minmax(0,1.65fr)] items-center gap-6 rounded-2xl p-8"
             style={{
-              background: "linear-gradient(135deg, #161412 0%, #0d0d0d 100%)",
-              border: "1px solid rgba(173,135,92,0.35)",
-              boxShadow: "0 0 0 1px rgba(173,135,92,0.35), 0 0 40px 8px rgba(173,135,92,0.18), 0 25px 60px -25px rgba(173,135,92,0.4)",
+              background: "linear-gradient(135deg, rgba(12,9,6,0.75) 0%, rgba(5,4,3,0.88) 100%)",
+              backdropFilter: "blur(16px)",
+              WebkitBackdropFilter: "blur(16px)",
+              border: "1px solid rgba(173,135,92,0.4)",
+              boxShadow:
+                "0 0 0 1px rgba(173,135,92,0.35), 0 0 40px 8px rgba(173,135,92,0.18), 0 25px 60px -25px rgba(173,135,92,0.4), inset 0 1px 0 rgba(255,255,255,0.15)",
             }}
           >
             <div className="flex items-start gap-4">

@@ -1,0 +1,87 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLE450 ENGINE",
+    "paragraphs": [
+      "The GLE450 has been part of the GLE-Class range since 2015. Earlier W166-generation cars use the M276 — a 3.0-litre V6 petrol. From 2019, the V167-generation GLE450 switched to the M256, a newer 3.0-litre inline-six petrol with mild hybrid technology — a different unit entirely, not an evolution of the M276. Knowing which one your car has matters, because the engine architecture, components, and rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLE450 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLE450 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLE450 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 GLE450",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLE450 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the GLE450 spans two distinct engines across two generations, fitting the wrong replacement — or assuming an M276 part will work on an M256 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm: - Your exact engine code (M276 or M256) via registration or VIN - Your generation (W166 or V167) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M276",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLE-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLE450 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W166",
+        "chassis": "W166",
+        "years": "2015–2019",
+        "engineCode": "M276",
+        "fuel": "Petrol MHEV",
+        "codeHref": "/mercedes-m276-engine"
+      },
+      {
+        "generation": "V167",
+        "chassis": "V167",
+        "years": "2019–present",
+        "engineCode": "M256",
+        "fuel": "Petrol MHEV",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  }
+}

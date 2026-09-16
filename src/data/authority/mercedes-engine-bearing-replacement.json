@@ -1,0 +1,381 @@
+{
+  "slug": "mercedes-engine-bearing-replacement",
+  "metaTitle": "Mercedes Engine Bearing Replacement | Mercedes Garage",
+  "metaDescription": "Professional engine bearing replacement for Mercedes-Benz models. We replace main bearings and connecting rod bearings with OEM-spec parts. Get a quote today.",
+  "h1": "Mercedes Engine Bearing Replacement",
+  "lede": "Expert bottom-end bearing replacement for Mercedes petrol and diesel engines. Performed as part of a full engine rebuild with OEM-spec parts and precision assembly.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec4.webp",
+    "/model/sec3.webp",
+    "/variant/sec5.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Engine Bearing Replacement Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Engine bearing replacement is a bottom-end rebuild operation. We remove the engine from the vehicle, mount it on a stand, and carry out the following steps:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Access & Disassembly** — Drain fluids, remove all external components (manifolds, turbochargers, accessories), and strip the engine to access the crankshaft.",
+            "**Crankshaft Removal** — Remove the oil pan and crankshaft to expose the main bearing shells and connecting rod bearings.",
+            "**Bearing Replacement** — Fit new OEM-spec main and connecting rod bearing shells, using colour-coded matching to the crankshaft and block. Replace thrust washers where fitted.",
+            "**Clearance Measurement** — Verify bearing clearances with Plastigage or dial bore gauges to ensure they meet factory specifications.",
+            "**Reassembly** — Install new torque-to-yield bolts, follow precise torque sequences and angles, and replace all gaskets and seals.",
+            "**Testing** — Run the engine on a test stand or in-vehicle to verify oil pressure, temperature, and overall performance before handover."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We use genuine Mercedes parts and OE-spec consumables throughout. Every rebuild includes a full inspection of all bottom-end components."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price for Engine Rebuilds (Includes Bearing Replacement)",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Bearing replacement is always performed as part of a full engine rebuild.** Our rebuild pricing starts from:",
+            "Prices are indicative and subject to inspection. [View pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Our Bearing Replacement Work",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "All images are staged on our premises using real workshop photography as the base. Actual completed job photography will replace these placeholders as they become available."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Models & Engines We Serve",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Bearing replacement applies to all Mercedes engines we rebuild. Click any model or engine family to see detailed information."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "A180d",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "A200",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "A35 AMG",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "OM607",
+              "href": "/mercedes-om607-engine"
+            },
+            {
+              "label": "M270",
+              "href": "/mercedes-m270-engine"
+            },
+            {
+              "label": "M139",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "C-Class",
+            "href": "/mercedes-c-class-engines"
+          },
+          "chips": [
+            {
+              "label": "C220d",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "C300",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "C63 AMG",
+              "href": "/mercedes-c-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM651](/mercedes-om651-engine), [OM654](/mercedes-om654-engine), [M274](/mercedes-m274-engine), [M156](/mercedes-m156-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "E-Class",
+            "href": "/mercedes-e-class-engines"
+          },
+          "chips": [
+            {
+              "label": "E220d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "E300d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "E63 AMG",
+              "href": "/mercedes-e-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM642](/mercedes-om642-engine), [OM656](/mercedes-om656-engine), [M256](/mercedes-m256-engine), [M157](/mercedes-m157-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "S-Class",
+            "href": "/mercedes-s-class-engines"
+          },
+          "chips": [
+            {
+              "label": "S350d",
+              "href": "/mercedes-s350d-engines"
+            },
+            {
+              "label": "S450",
+              "href": "/mercedes-s450-engines"
+            },
+            {
+              "label": "S63 AMG",
+              "href": "/mercedes-s63-amg-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM642](/mercedes-om642-engine), [M276](/mercedes-m276-engine), [M177](/mercedes-m177-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "G-Class",
+            "href": "/mercedes-g-class-engines"
+          },
+          "chips": [
+            {
+              "label": "G350d",
+              "href": "/mercedes-g350d-engines"
+            },
+            {
+              "label": "G63 AMG",
+              "href": "/mercedes-g-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM642](/mercedes-om642-engine), [M177](/mercedes-m177-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "SL",
+            "href": "/mercedes-sl-engines"
+          },
+          "chips": [
+            {
+              "label": "SL500",
+              "href": "/mercedes-sl-engines"
+            },
+            {
+              "label": "SL63 AMG",
+              "href": "/mercedes-sl63-amg-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [M278](/mercedes-m278-engine), [M157](/mercedes-m157-engine)"
+        },
+        {
+          "t": "p",
+          "html": "All other Mercedes models are also covered. [Contact us](/contact) if your model isn't listed."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Bearing Replacement Process",
+      "steps": [
+        {
+          "title": "Inspection & Quotation",
+          "body": "We inspect your engine and provide a fixed-price quote for the full rebuild, including bearing replacement."
+        },
+        {
+          "title": "Engine Removal",
+          "body": "We carefully remove the engine from the vehicle, draining fluids and disconnecting all ancillaries."
+        },
+        {
+          "title": "Strip & Measure",
+          "body": "The engine is fully stripped; we measure all bearing journals and select the correct bearing shells."
+        },
+        {
+          "title": "Bearing Installation",
+          "body": "New OEM-spec shells are fitted with new TTY bolts, following torque sequences and angle specifications."
+        },
+        {
+          "title": "Reassembly & Testing",
+          "body": "We reassemble the engine with new gaskets and seals, then test run it to confirm oil pressure and performance."
+        },
+        {
+          "title": "Refit & Handover",
+          "body": "The engine is refitted, fluids replenished, and the vehicle is road-tested before you collect it."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us for Your Mercedes Engine Work",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**12-month unlimited-mileage warranty** on all rebuilds – we stand behind our work.",
+            "**Established in 2009** – specialist Mercedes workshop with a proven track record.",
+            "**We use genuine OEM parts** and follow factory torque and clearance specifications.",
+            "**Nationwide recovery** available from £70 – we can bring your car to us.",
+            "**Quote turnaround under 30 minutes** during working hours.",
+            "**Rebuilds completed in 3-5 working days** from arrival at our workshop."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Recent Bearing Replacement Jobs",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Real completed jobs will be shown here once photography is available. These are staged representations on our premises."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "Contact Us",
+          "body": "Call, email, or fill in our quote form. We'll ask for your vehicle details and arrange an inspection."
+        },
+        {
+          "title": "Vehicle Inspection",
+          "body": "We inspect your engine, diagnose any issues, and give you a fixed-price quote for the rebuild."
+        },
+        {
+          "title": "Work Commences",
+          "body": "Once you approve the quote, we schedule your rebuild and keep you updated throughout."
+        },
+        {
+          "title": "Collection & Warranty",
+          "body": "We test your vehicle, hand it back to you, and provide a 12-month unlimited-mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild) – full bottom-end and top-end rebuilds",
+            "[Mercedes Engine Replacement](/mercedes-engine-replacement) – supply and fit",
+            "[Mercedes Diesel Timing Chain & Injector Repair](/mercedes-diesel-timing-chain-repair)",
+            "[Mercedes AMG V8 Valve Seal & Coolant Repair](/mercedes-amg-v8-valve-seal-repair)",
+            "[Mercedes 4-Cylinder Timing Chain Repair](/mercedes-4cyl-timing-chain-repair)",
+            "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Explore all [our engine services →](/mercedes-engine-rebuild)"
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Is engine bearing replacement always part of a full rebuild?",
+          "a": "Yes. Bearings cannot be replaced in isolation on Mercedes engines without fully stripping the bottom end. We always perform a complete rebuild, replacing bearings, seals, gaskets, and any other worn components."
+        },
+        {
+          "q": "How do you ensure the correct bearing clearances?",
+          "a": "We measure crankshaft journals with precision micrometers and dial bore gauges. We then select the correct colour-coded bearing shells from the Mercedes-supplied set and verify clearance with Plastigage."
+        },
+        {
+          "q": "Do you reuse the old bolts?",
+          "a": "Never. All main bearing cap and connecting rod bolts are torque-to-yield and must be replaced with new ones. We use genuine Mercedes bolts every time."
+        },
+        {
+          "q": "How long does the work take?",
+          "a": "Typically, the engine is removed, rebuilt, and refitted within 3-5 working days, depending on the model and any additional work required."
+        },
+        {
+          "q": "Can you collect my vehicle?",
+          "a": "Yes. We offer nationwide recovery from £70. Most vehicles are collected within a few hours of booking."
+        }
+      ]
+    }
+  ]
+}

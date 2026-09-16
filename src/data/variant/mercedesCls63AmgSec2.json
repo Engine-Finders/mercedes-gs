@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes CLS 63 AMG",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes CLS 63 AMG"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "CLS"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "CLS 63 AMG"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol / Petrol Twin-Turbo"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "M156 (C219) · M157 (C218) · M177 (C257)"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "6.2L / 5.5L / 4.0L"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "C219 (2004–2010) · C218 (2010–2018) · C257 (2018–2023)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£6,500",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The CLS 63 AMG uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

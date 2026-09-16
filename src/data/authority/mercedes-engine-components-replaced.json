@@ -1,0 +1,218 @@
+{
+  "slug": "mercedes-engine-components-replaced",
+  "metaTitle": "Mercedes-Benz Engine Components We Replace (Overview) | Mercedes Garage",
+  "metaDescription": "Overview of components replaced during a Mercedes engine rebuild – bearings, seals, piston rings, timing chains, and machining. Based on industry standards and workshop practice.",
+  "h1": "Mercedes-Benz Engine Components We Replace",
+  "lede": "A full overview of the components we replace during a Mercedes engine rebuild – from mandatory renewal items to inspection-based parts and machining operations. All work carried out to BSI AU 257:2002 standards.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec4.webp",
+    "/model/sec3.webp",
+    "/variant/sec5.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Every Mercedes engine rebuild we carry out follows a structured component-replacement process based on industry standards (BSI AU 257:2002) and workshop practice. We differentiate between **mandatory renewal items** – parts that are always replaced as a matter of course – and **inspection-based items** that are checked and replaced only if they fall outside manufacturer tolerances."
+        },
+        {
+          "t": "p",
+          "html": "In addition, we carry out essential machining operations on the cylinder block, cylinder head, and crankshaft to restore the engine to factory specifications. This page provides a high-level overview of what we replace and why."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "Our Fixed-Price Rebuilds",
+          "paras": [
+            "**4-Cylinder** (diesel or petrol) — from **£2,200**",
+            "**6-Cylinder** (diesel or petrol) — from **£2,800 / £3,200**",
+            "**AMG V8** — from **£6,500**",
+            "All prices include full component replacement, machining, assembly, and testing. [Pricing disclaimer](/pricing-legal-disclaimer)."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "All Mercedes models are covered by our component-replacement process. For detailed component lists per engine family, visit the individual engine pages."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class",
+              "href": "/mercedes-a-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Engine Families – Detailed Component Lists"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "M270",
+              "href": "/mercedes-m270-engine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Component Replacement Process",
+      "steps": [
+        {
+          "title": "Mandatory Renewal Items",
+          "body": "We always replace bearings (main and connecting rod), all seals and gaskets (head gasket, oil seals, O-rings), piston rings, timing chains and drive belts, plus tensioners and dampers (inspected and replaced if necessary)."
+        },
+        {
+          "title": "Inspection-Based Replacement",
+          "body": "We inspect pistons and connecting rods, valves and valve guides, the oil pump, and timing system components (guides, sprockets) – replacing them if they fall outside manufacturer tolerances."
+        },
+        {
+          "title": "Machining Operations",
+          "body": "We carry out cylinder block boring/honing, cylinder head surface grinding and valve seat re-cutting, and crankshaft journal grinding/polishing to restore factory clearances."
+        },
+        {
+          "title": "Cleaning & Crack Testing",
+          "body": "All components are thoroughly cleaned and crack-tested. Oil galleries are deburred to ensure proper oil flow."
+        },
+        {
+          "title": "Assembly & Verification",
+          "body": "We reassemble using new components, verifying all critical clearances, end-floats, oil pressure, and compression against manufacturer specifications."
+        },
+        {
+          "title": "Final Testing",
+          "body": "We run the engine through diagnostic checks and a road test to confirm performance and reliability."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us for Your Mercedes Engine Rebuild",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Specialist Mercedes workshop with 15+ years of experience (founded 2009)",
+            "Factory-trained technicians using genuine Mercedes-Benz tools and XENTY diagnostics",
+            "Our rebuild process follows BSI AU 257:2002 – the recognised standard for engine rebuild quality",
+            "We replace all mandatory wear items and inspect all other components to manufacturer tolerances",
+            "In-house machining – cylinder boring, head grinding, crankshaft polishing",
+            "12-month unlimited-mileage warranty on all parts and labour",
+            "Nationwide recovery service from £70 – we bring your vehicle to our Essex workshop"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our workshop](/about) and see how we work."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works – From Booking to Collection",
+      "steps": [
+        {
+          "title": "",
+          "body": "Call or [get a quote online](/contact) – we'll discuss your engine and arrange recovery if needed."
+        },
+        {
+          "title": "",
+          "body": "Vehicle arrives at our Essex workshop. We carry out a full assessment and provide a written estimate."
+        },
+        {
+          "title": "",
+          "body": "We complete the rebuild – typically 3-5 working days – including component replacement and machining."
+        },
+        {
+          "title": "",
+          "body": "You collect your vehicle with a full report and 12-month warranty – or we arrange delivery."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services We Offer",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild) – full overhaul",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
+            "[Mercedes Diesel Timing Chain & Injector Repair](/mercedes-diesel-timing-chain-repair)",
+            "[Mercedes AMG V8 Valve Seal & Coolant Repair](/mercedes-amg-v8-valve-seal-repair)",
+            "[Mercedes Engine Machining](/mercedes-engine-machining)",
+            "[Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Mercedes-Benz Engine Failure Repair](/mercedes-engine-failure-repair)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What components are always replaced during a Mercedes engine rebuild?",
+          "a": "We always replace main and connecting rod bearings, all seals and gaskets, piston rings, timing chains and drive belts, plus tensioners and dampers (inspected and replaced if necessary)."
+        },
+        {
+          "q": "What does inspection-based replacement mean?",
+          "a": "We inspect pistons, connecting rods, valves, valve guides, the oil pump, and timing guides/sprockets – and replace them only if they fall outside manufacturer tolerances."
+        },
+        {
+          "q": "Do you carry out machining in-house?",
+          "a": "Yes. We perform cylinder block boring/honing, cylinder head surface grinding and valve seat re-cutting, and crankshaft journal grinding/polishing."
+        },
+        {
+          "q": "How do you ensure quality after reassembly?",
+          "a": "We verify all critical clearances, end-floats, oil pressure, and compression against manufacturer specifications, followed by a full road test."
+        },
+        {
+          "q": "What is BSI AU 257:2002?",
+          "a": "It is the British Standard for engine rebuild quality, requiring that all parts are checked against manufacturer tolerances and all wearing parts are replaced. We adhere to this standard."
+        }
+      ]
+    }
+  ]
+}

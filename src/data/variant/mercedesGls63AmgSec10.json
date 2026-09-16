@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLS63 AMG ENGINE",
+    "paragraphs": [
+      "The GLS63 AMG has been the range-topping performance variant of Mercedes' full-size SUV since its introduction on the X166 generation in 2012, continuing through to the current X167 generation. The first-generation GLS63 (then badged as GL63 AMG) used the M157 — a 5.5-litre twin-turbo V8, a well-known AMG powerplant from that era. The current X167-generation car switched to the M177 — a 4.0-litre twin-turbo V8 shared with a wide range of AMG models, including the GLE63 and S63. Both engines are hand-built AMG units, and both share a similar pattern of valve seal and coolant system wear over time — which is why we address these components as standard on every GLS63 AMG rebuild, regardless of which generation you own."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLS63 AMG on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLS63 AMG ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M157",
+        "codeRest": "(X166, 2012–2019)",
+        "body": "A 5.5-litre twin-turbo V8 fitted to the GLS63 AMG (and previously the GL63 AMG) from 2012 to 2019. Known for valve seal and coolant system wear — see the callout above. We replace valve seals, timing chain components, coolant components and bearings as standard on every M157 rebuild.",
+        "cta": "Check Your M157 GLS63 AMG",
+        "codeHref": "/mercedes-m157-engine"
+      },
+      {
+        "codeHighlight": "M177",
+        "codeRest": "(X167, 2019–present)",
+        "body": "A 4.0-litre twin-turbo V8 fitted to the current-generation GLS63 AMG from 2019 onwards. Shares a similar valve seal and coolant system wear pattern with its predecessor. We replace valve seals, timing chain components, coolant components and bearings as standard on every M177 rebuild.",
+        "cta": "Check Your M177 GLS63 AMG",
+        "codeHref": "/mercedes-m177-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLS63 AMG ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the GLS63 AMG spans two distinct twin-turbo V8 engines across two generations, fitting the wrong replacement — or assuming an M157 part will work on an M177 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M157",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLS quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLS63 AMG ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X166",
+        "chassis": "X166",
+        "years": "2012–2019",
+        "engineCode": "M157",
+        "fuel": "Petrol Twin-Turbo V8",
+        "codeHref": "/mercedes-m157-engine"
+      },
+      {
+        "generation": "X167",
+        "chassis": "X167",
+        "years": "2019–present",
+        "engineCode": "M177",
+        "fuel": "Petrol Twin-Turbo V8",
+        "codeHref": "/mercedes-m177-engine"
+      }
+    ]
+  }
+}

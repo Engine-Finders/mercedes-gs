@@ -1,0 +1,102 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLC220D ENGINE",
+    "paragraphs": [
+      "The GLC220d has been a core part of the GLC-Class diesel range since the model launched in 2015. The GLC is Mercedes' best-selling model, meaning genuine high search demand across its variant and generation combinations. Early X253-generation cars use the OM651 — a 2.1-litre four-cylinder diesel shared widely across the Mercedes range of that era. Later X253 models and the current X254 generation use the OM654, a 2.0-litre four-cylinder diesel that's a different unit entirely, not an evolution of the older engine. Knowing which one your car has matters because the components, the known wear pattern, and even the rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLC220D on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLC220D ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "OM651",
+        "codeRest": "(Early X253)",
+        "body": "A 2.1-litre four-cylinder diesel fitted to the GLC220d from 2015 to roughly 2021. Known for injector seal leaks and timing chain wear over time — see the callout above. We replace injector seals and timing chain components as standard on every OM651 rebuild.",
+        "cta": "Check Your OM651 GLC220d",
+        "codeHref": "/mercedes-om651-engine"
+      },
+      {
+        "codeHighlight": "OM654",
+        "codeRest": "(Later X253 / X254)",
+        "body": "A 2.0-litre four-cylinder diesel fitted to later X253 models and the current X254 generation from 2022 onward. A genuinely different design from the OM651, with no confirmed issue pattern as yet — but we service it to the same high standard as every GLC220d rebuild.",
+        "cta": "Check Your OM654 GLC220d",
+        "codeHref": "/mercedes-om654-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLC220D ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the GLC220d spans two distinct engines across two generations, fitting the wrong replacement — or assuming an OM651 part will work on an OM654 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM651",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLC220D ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X253 (early)",
+        "chassis": "X253",
+        "years": "2015–2021",
+        "engineCode": "OM651",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om651-engine"
+      },
+      {
+        "generation": "X253 (later)",
+        "chassis": "X253",
+        "years": "2021–2022",
+        "engineCode": "OM654",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om654-engine"
+      },
+      {
+        "generation": "X254",
+        "chassis": "X254",
+        "years": "2022–present",
+        "engineCode": "OM654",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om654-engine"
+      }
+    ]
+  }
+}

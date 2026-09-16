@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES AMG GT 63 ENGINE",
+    "paragraphs": [
+      "The AMG GT 63 uses the M178 — a 4.0-litre V8 biturbo petrol engine developed by AMG. It was introduced with the R190-generation AMG GT in 2023 and remains the flagship powertrain for the model range (alongside the GT 63 S's higher-output version of the same engine). The M178 is AMG's \"hot-vee\" V8 design, with the turbos mounted inside the V of the engine for improved throttle response and packaging."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every AMG GT 63 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES AMG GT 63 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M178",
+        "codeRest": "(R190)",
+        "body": "A 4.0-litre V8 biturbo fitted to the AMG GT 63 from 2023 to present. Known for oil leaks from valve covers and coolant system wear over time — see the callout above. We replace valve cover gaskets, coolant components, and bearings as standard on every M178 rebuild.",
+        "cta": "Check Your M178 AMG GT 63",
+        "codeHref": "/mercedes-m178-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES AMG GT 63 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The AMG GT 63 uses the M178 V8 across all R190-generation cars. However, there are differences in output tuning between the GT 63 and GT 63 S variants — our rebuild process accounts for the specific engine management and hardware specification of your car. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M178",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic AMG GT quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES AMG GT 63 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "R190",
+        "chassis": "R190",
+        "years": "2023–present",
+        "engineCode": "M178",
+        "fuel": "Petrol Twin-Turbo",
+        "codeHref": "/mercedes-m178-engine"
+      }
+    ]
+  }
+}

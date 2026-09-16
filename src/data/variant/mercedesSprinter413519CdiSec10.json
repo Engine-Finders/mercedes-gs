@@ -1,0 +1,86 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SPRINTER 413–519 CDI ENGINE",
+    "paragraphs": [
+      "The Sprinter 413–519 CDI represents the higher-output end of the NCV3-generation Sprinter range, produced from 2006 to 2018. It was available with two distinct diesel engines: the OM651 2.1-litre four-cylinder for lower-output variants (up to around 413/416 badging) and the OM642 3.0-litre V6 for the higher-output 519 models. These are different engine families with different component sets and different known wear patterns — which is exactly why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SPRINTER 413–519 CDI on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SPRINTER 413–519 CDI ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "OM651",
+        "codeRest": "(4-cyl)",
+        "body": "A 2.1-litre four-cylinder diesel fitted to the Sprinter 413–519 CDI across the NCV3 generation (2006–2018). Known for injector seal leaks and timing chain wear — a well-established pattern across the wider Mercedes commercial vehicle range. We replace timing chain components and injector seals as standard on every OM651 rebuild.",
+        "cta": "Check Your OM651 Sprinter 413–519 CDI",
+        "codeHref": "/mercedes-om651-engine"
+      },
+      {
+        "codeHighlight": "OM642",
+        "codeRest": "(V6)",
+        "body": "A 3.0-litre V6 diesel fitted to the Sprinter 413–519 CDI across the NCV3 generation (2006–2018), typically in higher-output variants. Known for swirl flap and injector wear — a pattern well-documented across other Mercedes applications with this engine. We replace swirl flaps, injector seals and gaskets as standard on every OM642 rebuild.",
+        "cta": "Check Your OM642 Sprinter 413–519 CDI",
+        "codeHref": "/mercedes-om642-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SPRINTER 413–519 CDI ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the Sprinter 413–519 CDI spans two distinct engines under one badge, fitting the wrong replacement — or assuming an OM651 part will work on an OM642 van — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM651",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Sprinter quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SPRINTER 413–519 CDI ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "NCV3",
+        "chassis": "W906",
+        "years": "2006–2018",
+        "engineCode": "OM651/OM642",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om651-engine"
+      }
+    ]
+  }
+}

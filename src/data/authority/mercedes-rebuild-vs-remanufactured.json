@@ -1,0 +1,461 @@
+{
+  "slug": "mercedes-rebuild-vs-remanufactured",
+  "metaTitle": "Mercedes-Benz Rebuild vs Remanufactured | Mercedes Garage",
+  "metaDescription": "Compare engine rebuild vs remanufactured for Mercedes-Benz. Understand the process differences, warranty implications, and which option suits your vehicle and budget.",
+  "h1": "Mercedes-Benz Rebuild vs Remanufactured",
+  "lede": "Understanding the difference between a targeted engine rebuild and a full remanufacture to OE specification. We help you choose the right option for your Mercedes.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec5.webp",
+    "/engine/sec5.webp",
+    "/model/sec5.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "Rebuild vs Remanufactured — What's the Difference?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Both options restore a failed or worn engine to working condition, but they differ in scope, precision, and outcome. Here's what each term means in practice."
+        },
+        {
+          "t": "h3",
+          "text": "Engine Rebuild"
+        },
+        {
+          "t": "p",
+          "html": "A **rebuild** is a targeted repair. The engine is stripped, components are cleaned and visually inspected, and only parts that have failed or are worn beyond usable limits are replaced. The goal is to restore function cost-effectively. Components that are worn but not yet failed may be reused if they meet serviceability criteria."
+        },
+        {
+          "t": "h3",
+          "text": "Remanufactured Engine"
+        },
+        {
+          "t": "p",
+          "html": "A **remanufactured** engine follows a more rigorous, standardised process that returns the engine to original equipment (OE) specifications — or better. Remanufacturing is governed by **BSI AU 257:2002**, the British Standard for internal combustion engine remanufacturing, which sets out detailed procedures for disassembly, inspection, machining, assembly, and testing."
+        },
+        {
+          "t": "p",
+          "html": "At Mercedes Garage, we offer both options depending on your vehicle, budget, and long-term plans. We'll talk you through the choice during your inspection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Price Comparison & Decision Factors",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Rebuilds start from £2,200** for 4-cylinder engines. Remanufacture pricing is quoted per engine based on the additional machining and parts required to return it to full OE specification.",
+            "Prices are indicative and subject to inspection. [View pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We'll help you compare the total cost of a rebuild against a full remanufacture, considering the long-term value for your particular Mercedes model and mileage."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Rebuild vs Remanufacture — Side by Side",
+      "blocks": [
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Engine Rebuild",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Disassembly:** Partial or full, as needed",
+              "href": null
+            },
+            {
+              "label": "**Inspection:** Visual for obvious damage",
+              "href": null
+            },
+            {
+              "label": "**Parts replacement:** Only failed or worn-out items",
+              "href": null
+            },
+            {
+              "label": "**Machining:** Limited targeted work",
+              "href": null
+            },
+            {
+              "label": "**Testing:** Basic functional checks",
+              "href": null
+            },
+            {
+              "label": "**Design updates:** Not included",
+              "href": null
+            },
+            {
+              "label": "**Standard:** No unified industry standard",
+              "href": null
+            },
+            {
+              "label": "**Typical warranty:** 12 months, unlimited mileage",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Remanufactured Engine",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Disassembly:** Complete to bare block",
+              "href": null
+            },
+            {
+              "label": "**Inspection:** All parts checked to OE tolerances",
+              "href": null
+            },
+            {
+              "label": "**Parts replacement:** All wearing parts replaced (bearings, seals, gaskets, timing components)",
+              "href": null
+            },
+            {
+              "label": "**Machining:** Precision machining to OE specs on all critical surfaces",
+              "href": null
+            },
+            {
+              "label": "**Testing:** Full test on OEM-style dyno",
+              "href": null
+            },
+            {
+              "label": "**Design updates:** May include later production improvements",
+              "href": null
+            },
+            {
+              "label": "**Standard:** BSI AU 257:2002",
+              "href": null
+            },
+            {
+              "label": "**Typical warranty:** 2+ years available",
+              "href": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Models & Engines We Cover",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Both rebuild and remanufacture options are available across the full Mercedes range. Click any model or engine family to see detailed information."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "A180d",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "A200",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "A45 AMG",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "OM607",
+              "href": "/mercedes-om607-engine"
+            },
+            {
+              "label": "M270",
+              "href": "/mercedes-m270-engine"
+            },
+            {
+              "label": "M139",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "C-Class",
+            "href": "/mercedes-c-class-engines"
+          },
+          "chips": [
+            {
+              "label": "C220d",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "C300",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "C63 AMG",
+              "href": "/mercedes-c-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM651](/mercedes-om651-engine), [OM654](/mercedes-om654-engine), [M274](/mercedes-m274-engine), [M156](/mercedes-m156-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "E-Class",
+            "href": "/mercedes-e-class-engines"
+          },
+          "chips": [
+            {
+              "label": "E220d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "E300d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "E63 AMG",
+              "href": "/mercedes-e-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM642](/mercedes-om642-engine), [OM656](/mercedes-om656-engine), [M256](/mercedes-m256-engine), [M157](/mercedes-m157-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "S-Class",
+            "href": "/mercedes-s-class-engines"
+          },
+          "chips": [
+            {
+              "label": "S350d",
+              "href": "/mercedes-s350d-engines"
+            },
+            {
+              "label": "S450",
+              "href": "/mercedes-s450-engines"
+            },
+            {
+              "label": "S63 AMG",
+              "href": "/mercedes-s63-amg-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM642](/mercedes-om642-engine), [M276](/mercedes-m276-engine), [M177](/mercedes-m177-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "G-Class",
+            "href": "/mercedes-g-class-engines"
+          },
+          "chips": [
+            {
+              "label": "G350d",
+              "href": "/mercedes-g350d-engines"
+            },
+            {
+              "label": "G63 AMG",
+              "href": "/mercedes-g-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM642](/mercedes-om642-engine), [M177](/mercedes-m177-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "SL",
+            "href": "/mercedes-sl-engines"
+          },
+          "chips": [
+            {
+              "label": "SL500",
+              "href": "/mercedes-sl-engines"
+            },
+            {
+              "label": "SL63 AMG",
+              "href": "/mercedes-sl63-amg-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [M278](/mercedes-m278-engine), [M157](/mercedes-m157-engine)"
+        },
+        {
+          "t": "p",
+          "html": "All other Mercedes models are also covered. [Contact us](/contact) if your model isn't listed."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How We Help You Decide",
+      "steps": [
+        {
+          "title": "Budget",
+          "body": "A rebuild is typically more affordable upfront, while a remanufacture involves greater investment but returns an engine with life comparable to new."
+        },
+        {
+          "title": "Expected Life",
+          "body": "A remanufactured engine should deliver 100,000+ miles; a rebuild's lifespan depends on which components were reused and the quality of workmanship."
+        },
+        {
+          "title": "Warranty",
+          "body": "Remanufacture typically comes with a stronger warranty (2+ years); our rebuilds include a 12-month unlimited-mileage warranty as standard."
+        },
+        {
+          "title": "Vehicle Age & Use",
+          "body": "For a newer car kept long-term, remanufacture is often worth the extra cost. For an older vehicle, a rebuild is usually more economical."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us for Your Mercedes Engine Work",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**12-month unlimited-mileage warranty** on all rebuilds — and extended warranty options for remanufactured engines.",
+            "**Established in 2009** — specialist Mercedes workshop with a proven track record.",
+            "**We use genuine OEM parts** and follow factory torque and clearance specifications.",
+            "**Nationwide recovery** available from £70 — we can bring your car to us.",
+            "**Quote turnaround under 30 minutes** during working hours.",
+            "**Rebuilds completed in 3-5 working days** from arrival at our workshop.",
+            "**BSI AU 257:2002** — our remanufacturing process follows the recognised British Standard."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Recent Rebuild & Remanufacture Work",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Real completed jobs will be shown here once photography is available. These are staged representations on our premises."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "Contact Us",
+          "body": "Call, email, or fill in our quote form. We'll ask for your vehicle details and arrange an inspection."
+        },
+        {
+          "title": "Vehicle Inspection",
+          "body": "We inspect your engine, diagnose any issues, and give you a fixed-price quote with both rebuild and remanufacture options."
+        },
+        {
+          "title": "Work Commences",
+          "body": "Once you approve the quote, we schedule your rebuild or remanufacture and keep you updated throughout."
+        },
+        {
+          "title": "Collection & Warranty",
+          "body": "We test your vehicle, hand it back to you, and provide a 12-month unlimited-mileage warranty (extended options available for remanufactured engines)."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild) — full bottom-end and top-end rebuilds",
+            "[Mercedes Engine Replacement](/mercedes-engine-replacement) — supply and fit",
+            "[Mercedes Rebuild vs Replacement](/mercedes-rebuild-vs-replacement)",
+            "[Mercedes Rebuild vs Used Engine](/mercedes-rebuild-vs-used)",
+            "[Mercedes Rebuild vs Reconditioned](/mercedes-rebuild-vs-reconditioned)",
+            "[Mercedes Repair vs Full Rebuild](/mercedes-repair-vs-rebuild)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Explore all [our engine services →](/mercedes-engine-rebuild)"
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What's the main difference between a rebuild and a remanufacture?",
+          "a": "A rebuild is a targeted repair that replaces only failed or worn-out parts. A remanufacture is a complete strip-down, precision machining, and reassembly to original equipment specification, following BSI AU 257:2002."
+        },
+        {
+          "q": "Which option is cheaper?",
+          "a": "A rebuild is typically more affordable upfront. Remanufacture involves greater cost due to the additional machining, parts replacement, and testing required."
+        },
+        {
+          "q": "How long does a remanufactured engine last?",
+          "a": "A properly remanufactured engine should deliver a service life comparable to a new engine — typically 100,000 miles or more, depending on maintenance and usage."
+        },
+        {
+          "q": "What warranty do you offer?",
+          "a": "Our rebuilds come with a 12-month unlimited-mileage warranty. For remanufactured engines, we offer extended warranty options (2+ years) as part of the package."
+        },
+        {
+          "q": "How do I know which is right for my car?",
+          "a": "We'll assess your engine during inspection and consider your vehicle age, mileage, budget, and how long you plan to keep the car. We'll give you a clear recommendation."
+        }
+      ]
+    }
+  ]
+}

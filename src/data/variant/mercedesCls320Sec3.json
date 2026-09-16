@@ -1,0 +1,49 @@
+{
+  "headlinePre": "Mercedes CLS 320",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,800",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "OM642",
+      "generation": "C218 (2010–2018)",
+      "price": "£2,800",
+      "codeHref": "/mercedes-om642-engine"
+    },
+    {
+      "code": "M112",
+      "generation": "C219 (2004–2010)",
+      "price": "£3,200",
+      "codeHref": "/mercedes-m112-engine"
+    },
+    {
+      "code": "M272",
+      "generation": "C219 (2004–2010) · C218 (2010–2018)",
+      "price": "£3,200",
+      "codeHref": "/mercedes-m272-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes CLS 320 Oil Leaks & Coolant System Wear ",
+    "titleHighlight": "(M256 I6)",
+    "paragraphs": [
+      "The M256 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+      "Because the CLS 320 uses a completely different engine family from the V8 M178 fitted to the CLS 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+    ],
+    "source": "Source: Established M256 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
+  }
+}

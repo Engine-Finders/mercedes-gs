@@ -1,0 +1,130 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "MERCEDES GLC200 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the R190's launch in 2023, the GLC200 has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2015",
+      "generation": "X253",
+      "engineCode": "M274",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m274-engine"
+    },
+    {
+      "year": "2016",
+      "generation": "X253",
+      "engineCode": "M274",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m274-engine"
+    },
+    {
+      "year": "2017",
+      "generation": "X253",
+      "engineCode": "M274",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m274-engine"
+    },
+    {
+      "year": "2018",
+      "generation": "X253",
+      "engineCode": "M274",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m274-engine"
+    },
+    {
+      "year": "2019",
+      "generation": "X253",
+      "engineCode": "M274",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m274-engine"
+    },
+    {
+      "year": "2020",
+      "generation": "X253",
+      "engineCode": "M274",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m274-engine"
+    },
+    {
+      "year": "2021",
+      "generation": "X253",
+      "engineCode": "M274",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m274-engine"
+    },
+    {
+      "year": "2022",
+      "generation": "X253/X254",
+      "engineCode": "M274/M254",
+      "fuel": "Petrol/Petrol MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m274-engine"
+    },
+    {
+      "year": "2023",
+      "generation": "X254",
+      "engineCode": "M254",
+      "fuel": "Petrol MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m254-engine"
+    },
+    {
+      "year": "2024",
+      "generation": "X254",
+      "engineCode": "M254",
+      "fuel": "Petrol MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m254-engine"
+    },
+    {
+      "year": "2025",
+      "generation": "X254",
+      "engineCode": "M254",
+      "fuel": "Petrol MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m254-engine"
+    },
+    {
+      "year": "2026",
+      "generation": "X254",
+      "engineCode": "M254",
+      "fuel": "Petrol MHEV",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m254-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "The M256",
+    "rest": " has been fitted to every GLC200 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

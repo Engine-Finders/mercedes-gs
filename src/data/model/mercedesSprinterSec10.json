@@ -1,0 +1,36 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes Sprinter Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes Sprinter engine we work on — these 10 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes Sprinter 313 CDI",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes Sprinter 316 CDI",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes Sprinter 319 CDI",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes Sprinter 416 CDI",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "05",
+      "model": "Mercedes Sprinter 519 CDI",
+      "spec": "Rebuild & Replacement Available"
+    }
+  ]
+}

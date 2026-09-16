@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLK250 ENGINE",
+    "paragraphs": [
+      "The GLK250 was part of the single-generation X204 GLK-Class range, produced from 2008 to 2015 before it was succeeded by the GLC-Class. It is powered by the M271 — a 1.8-litre inline-four petrol engine. This engine was a common Mercedes powerplant of its era, also found in the C-Class and E-Class of the same period. The GLK250 offers a balance of performance and efficiency, making it a popular choice within the GLK lineup. The GLK-Class was discontinued in 2015, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLK250 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLK250 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLK250 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 GLK250",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLK250 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the GLK250 only uses a single engine code (M271) across its entire production run, compatibility is straightforward. However, we still always confirm your vehicle's exact specification via its registration number before any work begins. This ensures every part we order is correct and your rebuild is flawless.",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M271",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLK-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLK250 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X204",
+        "chassis": "X204",
+        "years": "2008–2015",
+        "engineCode": "M271",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m271-engine"
+      }
+    ]
+  }
+}

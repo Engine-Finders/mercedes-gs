@@ -1,0 +1,77 @@
+{
+  "kicker": "FREQUENTLY ASKED",
+  "kickerHighlight": "QUESTIONS",
+  "faqLeft": [
+    {
+      "q": "What engine does the Sprinter 415–519 CDI use?",
+      "a": "It depends on the model year and output. The NCV3 generation (2006–2018) used two engines: the OM651 2.1-litre four-cylinder diesel and the OM642 3.0-litre V6 diesel. Send us your registration and we'll confirm which one your van has."
+    },
+    {
+      "q": "How much does a Sprinter 415–519 CDI engine rebuild cost?",
+      "a": "Rebuilds start from £2,200 for the OM651 (4-cyl) and £2,800 for the OM642 (V6). Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    },
+    {
+      "q": "Which engine code is fitted to my Sprinter 415–519 CDI?",
+      "a": "Enter your registration on this page and we'll confirm whether you have the OM651 or the OM642 before you're quoted anything."
+    },
+    {
+      "q": "Do you rebuild OM651 Sprinter 415–519 CDI engines?",
+      "a": "Yes. We replace worn injector seals and timing chain components as standard on every OM651 rebuild."
+    },
+    {
+      "q": "Do you rebuild OM642 Sprinter 415–519 CDI engines?",
+      "a": "Yes. We replace the timing chain, injector seals and swirl flaps as standard on every OM642 rebuild."
+    }
+  ],
+  "faqRight": [
+    {
+      "q": "Do you supply used Sprinter 415–519 CDI engines?",
+      "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
+    },
+    {
+      "q": "Can you recover my Sprinter if the engine has failed?",
+      "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
+    },
+    {
+      "q": "How long does a Sprinter 415–519 CDI engine rebuild take?",
+      "a": "Most rebuilds are completed within 3-5 working days from the time your van arrives at our workshop."
+    },
+    {
+      "q": "Is rebuilding better than fitting a used engine?",
+      "a": "For most Sprinter 415–519 CDI owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history, and comes with a 12-month unlimited-mileage warranty — often longer and more comprehensive than what a used engine supplier offers."
+    }
+  ],
+  "form": {
+    "headlinePre": "GET YOUR",
+    "headlineHighlight": "FREE MERCEDES SPRINTER 415–519 CDI",
+    "headlinePost": "FIXED-PRICE QUOTE",
+    "fields": {
+      "reg": {
+        "label": "Registration Number",
+        "placeholder": "e.g. YG19 XJL"
+      },
+      "postcode": {
+        "label": "Postcode",
+        "placeholder": "e.g. SS1 1AA"
+      },
+      "name": {
+        "label": "Name",
+        "placeholder": "Your full name"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "e.g. 07XXX XXXXXX"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "e.g. you@example.com"
+      },
+      "enquiry": {
+        "label": "Issue / Enquiry Type",
+        "placeholder": "Select an option"
+      }
+    },
+    "submitLabel": "Get My Fixed-Price Quote",
+    "guarantee": "Most quotes returned within 30 minutes during working hours."
+  }
+}

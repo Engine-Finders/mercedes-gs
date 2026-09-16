@@ -1,0 +1,49 @@
+{
+  "titlePre": "OUR WORKSHOP VIEW OF",
+  "titleBigPre": "THE ",
+  "titleBigHighlight": "MERCEDES-BENZ",
+  "titleBigPost": " OM642",
+  "subtext": [
+    "Built, rebuilt and tested by engineers who work on Mercedes-Benz engines every day.",
+    "Here's our practical view of the OM642 across all six model applications."
+  ],
+  "columns": [
+    {
+      "icon": "car",
+      "title": "APPLICATIONS WE SEE:",
+      "body": "The OM642 is one of the broadest-application engines we work on — the same base V6 diesel across nine model lines, including high-mileage Sprinter vans and luxury passenger cars."
+    },
+    {
+      "icon": "wrench",
+      "title": "WHAT WE REPLACE:",
+      "body": "Timing chain, bearings, gaskets, oil cooler seals, and swirl flap linkage as standard on every rebuild — we treat these as known wear items rather than wait for failure. BlueTEC applications additionally account for the AdBlue system components."
+    },
+    {
+      "icon": "clipboard",
+      "title": "KNOWN ISSUES:",
+      "body": "Confirmed issues include oil cooler seal failure (oil and coolant loss in the V of the engine), swirl flap linkage breakage (leading to limp mode), and VGT actuator linkage jamming. These are well-documented patterns, and we inspect and replace the relevant components as standard during a rebuild."
+    }
+  ],
+  "notice": {
+    "highlight": "Note:",
+    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed OM642 rebuilds is available to draw from, rather than filled with placeholder examples now."
+  },
+  "typical": {
+    "kicker": "A TYPICAL",
+    "title": "MERCEDES-BENZ OM642 REBUILD",
+    "image": "/engine/sec10_bottom.webp",
+    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "*The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.*",
+    "scope": {
+      "label": "Typical Scope:",
+      "text": "Timing chain, bearings, gaskets, oil cooler seals, swirl flap linkage, VGT actuator inspection, plus AdBlue system components on BlueTEC applications"
+    },
+    "startingFromLabel": "Starting From:",
+    "startingFromPrice": "£2,800",
+    "cta": {
+      "label": "Check OM642 Rebuild Options →",
+      "href": "#quote-form"
+    }
+  }
+}

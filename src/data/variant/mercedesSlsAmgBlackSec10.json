@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SLS AMG BLACK ENGINE",
+    "paragraphs": [
+      "The SLS AMG Black Series uses the M159 — a 6.2-litre naturally aspirated V8 that was the most powerful iteration of the M156/M159 engine family when it launched. It was fitted throughout the C197 generation from 2010 to 2014, across every combustion SLS AMG variant including the standard car, the GT, and the Black Series. The SLS AMG is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SLS AMG BLACK on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SLS AMG BLACK ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M159",
+        "codeRest": "",
+        "body": "A 6.2-litre naturally aspirated V8 fitted to the SLS AMG Black Series from 2010 to 2014 (C197). Known for timing chain wear, valve train issues and head gasket wear at higher mileage — see the callout above. We replace the timing chain, valve train components, head gasket and bearings as standard on every M159 rebuild.",
+        "cta": "Check Your M159 SLS AMG Black",
+        "codeHref": "/mercedes-m159-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SLS AMG BLACK ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The SLS AMG Black Series uses a single engine code — the M159 — across its entire production run. However, compatibility still matters: different SLS AMG variants (standard, GT, Black Series) have different power outputs and internal specifications despite sharing the same base engine code. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M159",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic SLS AMG quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SLS AMG BLACK ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "C197",
+        "chassis": "C197",
+        "years": "2010–2014",
+        "engineCode": "M159",
+        "fuel": "Petrol Naturally Aspirated",
+        "codeHref": "/mercedes-m159-engine"
+      }
+    ]
+  }
+}

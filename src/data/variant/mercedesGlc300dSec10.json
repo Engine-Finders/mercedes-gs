@@ -1,0 +1,102 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLC300D ENGINE",
+    "paragraphs": [
+      "The GLC300d has been part of the GLC-Class range since the model launched in 2015. Early X253-generation cars (roughly 2015 to 2018) use the OM651 — a 2.1-litre four-cylinder diesel shared with the C-Class family of that era. From around 2018, the GLC300d switched to the OM654, a newer 2.0-litre four-cylinder diesel that continues into the current X254 generation. Knowing which one your car has matters, because the known wear pattern and the rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLC300D on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLC300D ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "OM651",
+        "codeRest": "(Early X253)",
+        "body": "A 2.1-litre four-cylinder diesel fitted to early GLC300d models from 2015 to around 2018 (X253 generation). Known for injector seal leaks and timing chain wear — see the callout above. We replace injector seals, timing chain components and gaskets as standard on every OM651 rebuild.",
+        "cta": "Check Your OM651 GLC300d",
+        "codeHref": "/mercedes-om651-engine"
+      },
+      {
+        "codeHighlight": "OM654",
+        "codeRest": "(Later X253 / X254)",
+        "body": "A 2.0-litre four-cylinder diesel fitted from around 2018 onwards, continuing into the current X254 generation. A newer design that doesn't share the earlier engine's injector seal and timing chain pattern. We service it to the same standard as our other GLC300d rebuilds.",
+        "cta": "Check Your OM654 GLC300d",
+        "codeHref": "/mercedes-om654-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLC300D ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the GLC300d spans two distinct engines across two generations, fitting the wrong replacement — or assuming an OM651 part will work on an OM654 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM651",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLC300D ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X253 (early)",
+        "chassis": "X253",
+        "years": "2015–2018",
+        "engineCode": "OM651",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om651-engine"
+      },
+      {
+        "generation": "X253 (later)",
+        "chassis": "X253",
+        "years": "2018–2022",
+        "engineCode": "OM654",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om654-engine"
+      },
+      {
+        "generation": "X254",
+        "chassis": "X254",
+        "years": "2022–present",
+        "engineCode": "OM654",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om654-engine"
+      }
+    ]
+  }
+}

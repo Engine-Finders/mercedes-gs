@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES VANEO 1.7 CDI ENGINE",
+    "paragraphs": [
+      "The Vaneo 1.7 CDI uses the OM668 — a 1.7-litre four-cylinder diesel engine. It was fitted from 2001 to 2005 across the W414 generation, the Vaneo's single and relatively short production run. The OM668 is shared with the early A-Class of the same era, which is why the injector seal leak pattern is consistent across both models. The Vaneo 1.7 CDI is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every VANEO 1.7 CDI on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES VANEO 1.7 CDI ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the VANEO 1.7 CDI from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 VANEO 1.7 CDI",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES VANEO 1.7 CDI ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The Vaneo only ever used one engine code for the diesel variant — the OM668 — across its entire production run. That means compatibility is straightforward for this specific variant. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM668",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Vaneo quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES VANEO 1.7 CDI ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W414",
+        "chassis": "W414",
+        "years": "2001–2005",
+        "engineCode": "OM668",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om668-engine"
+      }
+    ]
+  }
+}

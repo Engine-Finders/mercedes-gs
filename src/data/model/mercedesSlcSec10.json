@@ -1,0 +1,41 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes SLC Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes SLC engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes SLC180",
+      "spec": "1.6L Petrol (M270)",
+      "href": "/mercedes-slc180-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes SLC200",
+      "spec": "2.0L I4 Petrol (M274)",
+      "href": "/mercedes-slc200-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes SLC250",
+      "spec": "2.0L Petrol (M270 / M274)",
+      "href": "/mercedes-slc250-engines"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes SLC300",
+      "spec": "2.0L Petrol (M270/M274)",
+      "href": "/mercedes-slc300-engines"
+    },
+    {
+      "number": "05",
+      "model": "Mercedes SLC43 AMG",
+      "spec": "3.0L V6 Petrol (M276)",
+      "href": "/mercedes-slc43-amg-engines"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "headlinePre": "Mercedes CLS Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our Mercedes engine specialist garage covers all engine types from 1993 to 2026, across every CLS generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.webp",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "2004–2010",
+      "code": "C219",
+      "list": "2004 through 2010 Mercedes CLS engines"
+    },
+    {
+      "years": "2010–2018",
+      "code": "C218/X218",
+      "list": "2010 through 2018 Mercedes CLS engines"
+    },
+    {
+      "years": "2018–2023",
+      "code": "C257",
+      "list": "2018 through 2023 Mercedes CLS engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "Mercedes CLS350d Model:",
+  "checklistLeft": [
+    "Mercedes CLS350d 2014 Engine Rebuild",
+    "Mercedes CLS350d 2015 Engine Rebuild",
+    "Mercedes CLS350d 2016 Engine Rebuild"
+  ],
+  "checklistRight": [
+    "Mercedes CLS350d 2017 Engine Rebuild",
+    "Mercedes CLS350d 2018 Engine Rebuild"
+  ]
+}

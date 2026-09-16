@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SPRINTER HIGH OUTPUT ENGINE",
+    "paragraphs": [
+      "The Sprinter High Output is part of the latest VS30 facelift generation (2023–present) and represents a significant change for the model line. It uses the OM654 — a 2.0-litre twin-turbo diesel four-cylinder producing 208hp. This engine replaced the older 3.0-litre V6 diesel (OM642) that was used in previous Sprinter models. The OM654 is a modern, efficient unit that, while too new to have established a widespread failure pattern, is known from other Mercedes applications for its high-tech, complex design."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SPRINTER HIGH OUTPUT on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SPRINTER HIGH OUTPUT ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SPRINTER HIGH OUTPUT from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 SPRINTER HIGH OUTPUT",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SPRINTER HIGH OUTPUT ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The OM654 is used only in the latest VS30 facelift Sprinter. It is not compatible with older T1N or NCV3 models, or with earlier VS30 Sprinters that used the OM642 V6. Before we quote or supply anything, we confirm: - Your exact engine code (OM654) via registration or VIN - Your generation (VS30 facelift) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM654",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Sprinter quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SPRINTER HIGH OUTPUT ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "VS30 (facelift)",
+        "chassis": "VS30",
+        "years": "2023–present",
+        "engineCode": "OM654",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om654-engine"
+      }
+    ]
+  }
+}

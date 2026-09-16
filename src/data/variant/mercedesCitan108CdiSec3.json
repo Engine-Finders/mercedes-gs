@@ -1,0 +1,37 @@
+{
+  "headlinePre": "Mercedes Citan 108 CDI",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,200",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "K9K",
+      "generation": "W415 (2012–2021)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-k9k-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes Citan 108 CDI Injector & EGR Issues ",
+    "titleHighlight": "",
+    "paragraphs": [
+      "If your Citan 108 CDI has the K9K diesel engine — that's the W415 generation, produced from 2012 to 2021 — injector failure and EGR clogging are well-documented patterns on this Renault-sourced unit. We replace injectors, EGR components, and timing chain components as standard on every K9K rebuild.",
+      "include_in_hero_hook: yes for W415/K9K — Source: general Renault/Mercedes commercial vehicle consensus, per VRF-mercedes-citan.md."
+    ],
+    "source": "Source: general Renault/Mercedes commercial vehicle consensus, per VRF-mercedes-citan.md"
+  }
+}

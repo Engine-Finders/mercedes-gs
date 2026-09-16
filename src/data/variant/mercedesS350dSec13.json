@@ -1,0 +1,77 @@
+{
+  "kicker": "FREQUENTLY ASKED",
+  "kickerHighlight": "QUESTIONS",
+  "faqLeft": [
+    {
+      "q": "What engine does the Mercedes S350d use?",
+      "a": "It depends on the year. From 2008 to 2020 (W221 and W222 generations), the S350d used the OM642 3.0-litre V6 diesel. From 2020 onwards (W223), it switched to the OM656 3.0-litre inline-six diesel — a completely different engine. Send us your registration and we'll confirm which one your car has."
+    },
+    {
+      "q": "How much does a Mercedes S350d engine rebuild cost?",
+      "a": "Rebuilds start from £2,800, for either engine code. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    },
+    {
+      "q": "Which engine code is fitted to my S350d?",
+      "a": "Enter your registration on this page and we'll confirm whether you have the OM642 or the OM656 before you're quoted anything."
+    },
+    {
+      "q": "Do you rebuild OM642 S350d engines?",
+      "a": "Yes. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild."
+    },
+    {
+      "q": "Do you rebuild OM656 S350d engines?",
+      "a": "Yes. The OM656 is a newer engine with its own occasional wear points, and we service it to the same standard as the OM642."
+    }
+  ],
+  "faqRight": [
+    {
+      "q": "Do you supply used S350d engines?",
+      "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
+    },
+    {
+      "q": "Can you recover my S350d if the engine has failed?",
+      "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
+    },
+    {
+      "q": "How long does an S350d engine rebuild take?",
+      "a": "Most rebuilds are completed within 3-5 working days from the time your car arrives at our workshop."
+    },
+    {
+      "q": "Is rebuilding better than fitting a used engine?",
+      "a": "For most S350d owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history, and comes with a 12-month unlimited-mileage warranty — often longer and more comprehensive than what a used engine supplier offers."
+    }
+  ],
+  "form": {
+    "headlinePre": "GET YOUR",
+    "headlineHighlight": "FREE MERCEDES S350D",
+    "headlinePost": "FIXED-PRICE QUOTE",
+    "fields": {
+      "reg": {
+        "label": "Registration Number",
+        "placeholder": "e.g. YG19 XJL"
+      },
+      "postcode": {
+        "label": "Postcode",
+        "placeholder": "e.g. SS1 1AA"
+      },
+      "name": {
+        "label": "Name",
+        "placeholder": "Your full name"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "e.g. 07XXX XXXXXX"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "e.g. you@example.com"
+      },
+      "enquiry": {
+        "label": "Issue / Enquiry Type",
+        "placeholder": "Select an option"
+      }
+    },
+    "submitLabel": "Get My Fixed-Price Quote",
+    "guarantee": "Most quotes returned within 30 minutes during working hours."
+  }
+}

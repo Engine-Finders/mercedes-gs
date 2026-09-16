@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES ML500 ENGINE",
+    "paragraphs": [
+      "The ML500 was the flagship non-AMG V8 of the M-Class range across two generations. The W163 generation (1997–2005) uses the M113 — a 5.0-litre V8 that was Mercedes' mainstay V8 of that era. From 2005, the W164-generation ML500 switched to the M273, a 5.5-litre V8 that's a different unit entirely, not an evolution of the earlier engine. Knowing which one your car has matters, because the components and rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every ML500 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES ML500 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M113",
+        "codeRest": "(W163)",
+        "body": "A 5.0-litre V8 petrol fitted to the ML500 from 1997 to 2005. We replace timing chains, bearings and gaskets as standard on every M113 rebuild.",
+        "cta": "Check Your M113 ML500",
+        "codeHref": "/mercedes-m113-engine"
+      },
+      {
+        "codeHighlight": "M273",
+        "codeRest": "(W164)",
+        "body": "A 5.5-litre V8 petrol fitted to the ML500 from 2005 to 2011. We replace timing chains, bearings and gaskets as standard on every M273 rebuild.",
+        "cta": "Check Your M273 ML500",
+        "codeHref": "/mercedes-m273-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES ML500 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the ML500 spans two distinct V8 engines across two generations, fitting the wrong replacement — or assuming an M113 part will work on an M273 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M113",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic M-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES ML500 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W163",
+        "chassis": "W163",
+        "years": "1997–2005",
+        "engineCode": "M113",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m113-engine"
+      },
+      {
+        "generation": "W164",
+        "chassis": "W164",
+        "years": "2005–2011",
+        "engineCode": "M273",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m273-engine"
+      }
+    ]
+  }
+}

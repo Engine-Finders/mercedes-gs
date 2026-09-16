@@ -135,12 +135,12 @@ export default function ModelSec15({ data }) {
           <p className="mt-1.5 text-sm text-[#101828]">{data.description}</p>
         </div>
 
-        <div className="mt-6 grid grid-cols-2 items-end gap-6">
+        <div className="mt-6 grid grid-cols-2 items-stretch gap-6">
           {/* left column */}
-          <div>
-            <div className="divide-y divide-black/10 rounded-2xl border border-black/5 bg-white shadow-[0_20px_50px_-25px_rgba(16,24,40,0.3)]">
+          <div className="flex flex-col">
+            <div className="flex flex-1 flex-col justify-center divide-y divide-black/10 rounded-2xl border border-black/5 bg-white shadow-[0_20px_50px_-25px_rgba(16,24,40,0.3)]">
               {data.generations.map((g) => (
-                <div key={g.years} className="grid grid-cols-[auto_1fr] items-center gap-4 px-5 py-4">
+                <div key={g.years} className="grid grid-cols-[auto_1fr] items-center gap-4 px-5 py-5">
                   <Icon name="car" className="h-8 w-8 shrink-0 text-hero-blue" />
                   <div className="grid grid-cols-2 items-center gap-3">
                     <p className="border-r border-black/10 pr-3">
@@ -155,7 +155,7 @@ export default function ModelSec15({ data }) {
 
             {/* support notice */}
             <div
-              className="mt-4 flex items-stretch overflow-hidden rounded-2xl border border-hero-blue/40"
+              className="mt-4 flex shrink-0 items-stretch overflow-hidden rounded-2xl border border-hero-blue/40"
               style={{
                 background: "var(--theme-light-bg)",
                 boxShadow: "0 10px 25px rgba(140,108,70,0.15)",
@@ -177,8 +177,8 @@ export default function ModelSec15({ data }) {
           </div>
 
           {/* right column */}
-          <div>
-            <div className="card-glare-light relative flex min-h-[25rem] flex-col overflow-hidden rounded-2xl border border-hero-blue/25 bg-white/90 p-6 pb-10 shadow-[0_25px_60px_-25px_rgba(173,135,92,0.35)] backdrop-blur-xl">
+          <div className="flex">
+            <div className="card-glare-light relative flex min-h-[20rem] w-full flex-col overflow-hidden rounded-2xl border border-hero-blue/25 bg-white/90 p-6 pb-10 shadow-[0_25px_60px_-25px_rgba(173,135,92,0.35)] backdrop-blur-xl">
               <div
                 className="pointer-events-none absolute bottom-0 right-0 h-44 w-64 opacity-25"
                 style={{ clipPath: "polygon(38% 100%, 100% 100%, 100% 15%)" }}

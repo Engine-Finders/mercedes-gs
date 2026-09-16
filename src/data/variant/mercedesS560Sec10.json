@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES S560 ENGINE",
+    "paragraphs": [
+      "The S560 was introduced in 2017 as a V8-powered variant in the W222 S-Class range, replacing the earlier S500 in some markets. It uses the M176 — a 4.0-litre twin-turbo V8 that's part of Mercedes' modular V8 family, related to the M177 and M178 used in AMG models. The S560 sat between the six-cylinder diesel and petrol variants and the high-performance AMG models, offering V8 character without the full AMG price or running costs. The M176 in the S560 was available in both rear- and all-wheel-drive (4MATIC) form, and the variant was produced until the W223 generation replaced it in 2020."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every S560 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES S560 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the S560 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 S560",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES S560 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The S560 uses one engine across its entire production run: the M176. However, variations exist — 4MATIC (all-wheel-drive) models have different ancillaries and engine mounts, and there were various power output levels across different markets. Before we quote or supply anything, we confirm: - Your exact engine code (M176) - Your generation (W222) - Drivetrain and ancillary specification (rear-drive vs 4MATIC) - Any electronics or ECU considerations specific to your exact build",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M176",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic S-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES S560 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W222",
+        "chassis": "W222/V222",
+        "years": "2017–2020",
+        "engineCode": "M176",
+        "fuel": "Petrol Twin-Turbo",
+        "codeHref": "/mercedes-m176-engine"
+      }
+    ]
+  }
+}

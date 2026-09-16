@@ -1,0 +1,275 @@
+{
+  "slug": "mercedes-engine-recovery",
+  "metaTitle": "Mercedes-Benz Engine Breakdown Recovery & Nationwide Collection | Mercedes Garage",
+  "metaDescription": "Professional nationwide engine recovery and collection for Mercedes-Benz. Flatbed transport for all models including 4MATIC, AMG & EQ. Get your car to our workshop safely.",
+  "h1": "Mercedes-Benz Engine Breakdown Recovery & Nationwide Collection",
+  "lede": "Safe, professional flatbed recovery for every Mercedes-Benz – from A-Class to Sprinter, 4MATIC to AMG. We bring your vehicle to our workshop, no matter where you are in the UK.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Call us now",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec12.webp",
+    "/engine/sec1.webp",
+    "/engine/sec9_middle.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What our nationwide recovery service involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We collect your Mercedes-Benz from anywhere in the UK and bring it to our specialist workshop in Essex. Every step is carried out by experienced drivers using the correct equipment for your model."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Fast booking:** Call or use our online form – we'll arrange the earliest available slot.",
+            "**Professional dispatch:** We assign a flatbed truck equipped for Mercedes-Benz models, including low-clearance and 4MATIC vehicles.",
+            "**Safe loading:** Our drivers use extended ramps and winch systems to protect your car's bodywork and underbody.",
+            "**Secure transport:** Your vehicle is strapped down with wheel-tie and axle straps to prevent any movement during transit.",
+            "**Workshop arrival:** We unload carefully and hand over the vehicle for inspection or the booked repair."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We handle everything from a simple roadside breakdown to a non-runner collected from your home – just tell us the condition and location when you book."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Nationwide engine recovery from £70** (plus VAT)",
+            "[Pricing disclaimer](/pricing-legal-disclaimer) – final cost depends on distance and vehicle type."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Mercedes-Benz models",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We recover every Mercedes-Benz passenger car and commercial vehicle. Below are the most common models we collect – click through to see engine-specific details."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "C-Class",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "Sprinter",
+              "href": "/mercedes-sprinter-engines"
+            },
+            {
+              "label": "AMG GT",
+              "href": "/mercedes-amg-gt-engines"
+            },
+            {
+              "label": "G-Class",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "GLE",
+              "href": "/mercedes-gle-class-engines"
+            },
+            {
+              "label": "GLS",
+              "href": "/mercedes-gls-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Some specific variants we frequently recover:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "C 220 d",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E 220 d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S 350 d",
+              "href": "/mercedes-s350d-engines"
+            },
+            {
+              "label": "Sprinter 313/316 CDI",
+              "href": "/mercedes-sprinter-313319-cdi-engines"
+            },
+            {
+              "label": "AMG GT 63",
+              "href": "/mercedes-amg-gt-63-engines"
+            },
+            {
+              "label": "G 63 AMG",
+              "href": "/mercedes-g-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "If you don't see your model, just contact us – we cover the entire Mercedes-Benz range."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our recovery process step by step",
+      "steps": [
+        {
+          "title": "",
+          "body": "Call us on **0203 488 4649** or use our online form. Provide your registration, location, and vehicle condition."
+        },
+        {
+          "title": "",
+          "body": "We send the nearest available flatbed truck. Most vehicles are collected within a few hours of booking during working hours."
+        },
+        {
+          "title": "",
+          "body": "Our driver inspects the vehicle, uses extended ramps if needed, and winches it onto the flatbed with full care."
+        },
+        {
+          "title": "",
+          "body": "The car is strapped down and transported to our workshop in Billericay, Essex."
+        },
+        {
+          "title": "",
+          "body": "We unload the vehicle and perform a handover – if you've booked a repair, we begin the inspection straight away."
+        },
+        {
+          "title": "",
+          "body": "We'll contact you with an assessment and quote for any necessary work, or proceed with your pre-booked service."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why choose us for your Mercedes-Benz recovery",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Mercedes-Benz specialists** – we know the towing requirements for 4MATIC, AMG, EQ, and low-clearance models.",
+            "**Nationwide coverage** – we collect from anywhere in the UK, from city streets to remote locations.",
+            "**Flatbed-only policy** – we never tow a Mercedes on two wheels; every vehicle travels on a flatbed to prevent transmission damage.",
+            "**Experienced drivers** – trained in safe loading and strapping techniques specific to each model.",
+            "**Transparent pricing** – fixed rates with no hidden fees. [See our pricing disclaimer](/pricing-legal-disclaimer).",
+            "**Established 2009** – trusted by hundreds of Mercedes owners across the UK. [Learn more about us](/about)."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How the recovery service works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Reach us by phone or fill in the quick form. We'll ask for your registration, location, and vehicle condition."
+        },
+        {
+          "title": "",
+          "body": "Our nearest available truck heads to your location, equipped for your specific Mercedes model."
+        },
+        {
+          "title": "",
+          "body": "Once loaded, we drive directly to our Essex facility, where your car is unloaded and ready for the next step."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related services we offer",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Once we've recovered your Mercedes, we can help with any engine work it needs:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes Diesel Timing Chain & Injector Repair](/mercedes-diesel-timing-chain-repair)",
+            "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Mercedes AMG V8 Valve Seal & Coolant Repair](/mercedes-amg-v8-valve-seal-repair)",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "If you need a different service, [contact us](/contact) and we'll point you in the right direction."
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "Do you recover all Mercedes-Benz models?",
+          "a": "Yes, we recover every Mercedes-Benz passenger car, SUV, and commercial vehicle – including A-Class, C-Class, E-Class, S-Class, G-Class, Sprinter, Vito, AMG models, and even EQ electric vehicles."
+        },
+        {
+          "q": "Is a flatbed always required for 4MATIC and AMG models?",
+          "a": "Absolutely. Mercedes-Benz officially recommends flatbed transport for all 4MATIC and AMG vehicles to avoid damaging the transfer case or drivetrain. We never use two-wheel towing for these models."
+        },
+        {
+          "q": "How long does recovery take?",
+          "a": "We aim to have a truck with you within a few hours of booking during working hours. Nationwide transport to our workshop typically takes one to two days, depending on distance."
+        },
+        {
+          "q": "What if my car has low ground clearance or air suspension?",
+          "a": "We use extended ramps and carefully adjust the winch speed to protect the front bumper and underbody. For vehicles with Airmatic, we can activate recovery mode if available."
+        },
+        {
+          "q": "Do you charge extra for weekend or out-of-hours recovery?",
+          "a": "Our standard rates apply during Monday–Friday 9am–6pm and Saturday 11am–2pm. For emergency out-of-hours collections, please call us for a personalised quote."
+        }
+      ]
+    }
+  ]
+}

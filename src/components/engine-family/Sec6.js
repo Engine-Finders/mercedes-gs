@@ -17,6 +17,16 @@ function GoogleG({ className = "h-5 w-5" }) {
   );
 }
 
+function CtaLabel({ text }) {
+  const i = text.lastIndexOf(" ");
+  return (
+    <>
+      {text.slice(0, i + 1)}
+      <span className="text-hero-blue">{text.slice(i + 1)}</span>
+    </>
+  );
+}
+
 function Stars() {
   return (
     <div className="flex gap-0.5">
@@ -29,8 +39,8 @@ function Stars() {
 
 function SectionTitle({ children }) {
   return (
-    <div className="flex items-center gap-3">
-      <MercedesStripe className="h-7 w-14 shrink-0" />
+    <div>
+      <MercedesStripe className="float-left mr-3 mt-1.5 h-10 w-16 shrink-0" />
       {children}
     </div>
   );
@@ -57,13 +67,13 @@ export default function Sec6({ data }) {
   return (
     <>
       {/* ============ reviews ============ */}
-      <section className="relative overflow-hidden bg-white">
+      <section className="theme-light relative overflow-hidden">
         {/* ===== mobile ===== */}
         <div className="relative md:hidden">
           <div className="relative px-4 pb-8 pt-8">
           <div className="overflow-hidden">
-            <MercedesStripe className="float-left mr-2 h-6 w-12 shrink-0" />
-            <h2 className="text-2xl font-bold uppercase leading-[1.05] tracking-tighter">
+            <MercedesStripe className="float-left mr-2 mt-0.5 h-6 w-12 shrink-0" />
+            <h2 className="h2 uppercase">
               <span className="text-[#101828]">{reviews.titlePre}</span>
               <span className="text-hero-blue">{reviews.titleHighlight}</span>
             </h2>
@@ -103,11 +113,11 @@ export default function Sec6({ data }) {
           <div className="mt-6 space-y-3">
             <button className="relative flex w-full items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-6 py-3.5 text-xs font-bold uppercase tracking-wide text-[#101828] shadow-sm transition hover:-translate-y-0.5">
               <GoogleG className="h-5 w-5" />
-              {reviews.googleCta} <span aria-hidden>→</span>
+              <CtaLabel text={reviews.googleCta} /> <span aria-hidden className="text-hero-blue">→</span>
             </button>
             <button className="relative flex w-full items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-6 py-3.5 text-xs font-bold uppercase tracking-wide text-[#101828] shadow-sm transition hover:-translate-y-0.5">
               <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
-              {reviews.trustpilotCta} <span aria-hidden>→</span>
+              <CtaLabel text={reviews.trustpilotCta} /> <span aria-hidden className="text-hero-blue">→</span>
             </button>
           </div>
           </div>
@@ -117,7 +127,7 @@ export default function Sec6({ data }) {
         <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
           <div className="relative mx-auto max-w-6xl">
             <SectionTitle>
-              <h2 className="text-3xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+              <h2 className="h2 uppercase">
                 <span className="text-[#101828]">{reviews.titlePre}</span>
                 <span className="text-hero-blue">{reviews.titleHighlight}</span>
               </h2>
@@ -127,14 +137,14 @@ export default function Sec6({ data }) {
             <button
               type="button"
               aria-label="Previous reviews"
-              className="absolute left-0 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white text-[#101828] shadow-lg transition hover:bg-hero-blue hover:text-white"
+              className="absolute left-0 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white text-hero-blue shadow-lg transition hover:bg-hero-blue hover:text-white"
             >
               <Icon name="chevron-left" className="h-4 w-4" />
             </button>
             <button
               type="button"
               aria-label="Next reviews"
-              className="absolute right-0 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white text-[#101828] shadow-lg transition hover:bg-hero-blue hover:text-white"
+              className="absolute right-0 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white text-hero-blue shadow-lg transition hover:bg-hero-blue hover:text-white"
             >
               <Icon name="chevron-right" className="h-4 w-4" />
             </button>
@@ -160,11 +170,11 @@ export default function Sec6({ data }) {
             <div className="mt-5 flex justify-center gap-4">
               <button className="relative flex items-center justify-center gap-2 rounded-md border border-black/10 bg-white px-6 py-3 text-sm font-bold text-[#101828] shadow-sm transition hover:-translate-y-0.5">
                 <GoogleG className="h-5 w-5" />
-                {reviews.googleCta} <span aria-hidden>→</span>
+                <CtaLabel text={reviews.googleCta} /> <span aria-hidden className="text-hero-blue">→</span>
               </button>
               <button className="relative flex items-center justify-center gap-2 rounded-md border border-black/10 bg-white px-6 py-3 text-sm font-bold text-[#101828] shadow-sm transition hover:-translate-y-0.5">
                 <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
-                {reviews.trustpilotCta} <span aria-hidden>→</span>
+                <CtaLabel text={reviews.trustpilotCta} /> <span aria-hidden className="text-hero-blue">→</span>
               </button>
             </div>
           </div>
@@ -182,10 +192,10 @@ export default function Sec6({ data }) {
             <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg border border-black/10 bg-white shadow-sm">
               <Icon name={coverage.icon} className="h-6 w-6 text-hero-blue" />
             </span>
-            <h2 className="text-xl font-bold uppercase leading-[1.05] tracking-tighter">
+            <h4 className="h4 uppercase">
               <span className="block text-[#101828]">{coverage.titlePre}</span>
               <span className="block text-hero-blue">{coverage.titleHighlight}</span>
-            </h2>
+            </h4>
           </div>
 
           <p className="mt-3 text-xs text-[#101828]">{coverage.body}</p>
@@ -223,7 +233,7 @@ export default function Sec6({ data }) {
             </span>
 
             <div className="shrink-0 border-r border-black/10 pr-8">
-              <h2 className="text-3xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+              <h2 className="h2 uppercase">
                 <span className="block text-[#101828]">{coverage.titlePre}</span>
                 <span className="block text-hero-blue">{coverage.titleHighlight}</span>
               </h2>
@@ -249,43 +259,23 @@ export default function Sec6({ data }) {
       </section>
 
       {/* ============ why choose us ============ */}
-      <section className="relative overflow-hidden bg-white">
+      <section className="theme-light relative overflow-hidden">
         {/* ===== mobile ===== */}
         <div className="relative px-4 py-7 md:hidden">
-          <div className="relative overflow-hidden pr-9">
-            <h2 className="text-lg font-bold uppercase leading-tight tracking-tighter">
-              <span className="block text-[#101828]">
-                {whyChooseWords.slice(0, 3).map((t, i) => (
-                  <span key={i} className={t.highlight ? "text-hero-blue" : undefined}>
-                    {t.w}
-                    {i < 2 ? " " : ""}
-                  </span>
-                ))}
+          <h2 className="h2 uppercase">
+            <MercedesStripe className="float-left mr-2 mt-0.5 h-6 w-12 shrink-0" />
+            {whyChooseWords.map((t, i) => (
+              <span key={i} className={t.highlight ? "text-hero-blue" : "text-[#101828]"}>
+                {t.w}
+                {i < whyChooseWords.length - 1 ? " " : ""}
               </span>
-              <span className="block">
-                {whyChooseWords.slice(3).map((t, i, arr) => (
-                  <span key={i} className={t.highlight ? "text-hero-blue" : "text-[#101828]"}>
-                    {t.w}
-                    {i < arr.length - 1 ? " " : ""}
-                  </span>
-                ))}
-              </span>
-            </h2>
-            <div
-              className="pointer-events-none absolute inset-y-0 right-0 flex gap-1"
-              style={{ transform: "skewX(-20deg)", transformOrigin: "top right" }}
-              aria-hidden="true"
-            >
-              <span className="h-full w-2.5" style={{ background: "var(--color-bmw-blue)" }} />
-              <span className="h-full w-2.5" style={{ background: "var(--color-bmw-violet)" }} />
-              <span className="h-full w-2.5" style={{ background: "var(--color-bmw-red)" }} />
-            </div>
-          </div>
+            ))}
+          </h2>
 
           <div className="mt-5 grid grid-cols-2 gap-x-3 gap-y-4">
             {whyChoose.items.map((item) => (
-              <div key={item.title} className="flex items-start gap-2">
-                <Icon name={item.icon} className="mt-0.5 h-5 w-5 shrink-0 text-hero-blue" />
+              <div key={item.title} className="flex items-center gap-2">
+                <Icon name={item.icon} className="h-7 w-7 shrink-0 text-hero-blue" />
                 <div>
                   <p className="text-xs font-bold leading-snug text-[#101828]">{item.title}</p>
                   <p className="text-[10px] leading-snug text-[#4a5568]">{item.subtext}</p>
@@ -301,7 +291,7 @@ export default function Sec6({ data }) {
                 <span className="font-semibold">{whyChoose.notice.line1}</span> {whyChoose.notice.line2}
               </p>
             </div>
-            <div className="relative overflow-hidden bg-[#eef2f7]">
+            <div className="relative overflow-hidden bg-(--theme-light-bg)">
               <Image src={whyChoose.notice.image} alt="" fill className="object-cover opacity-25" sizes="140px" />
               <div className="absolute inset-0 bg-linear-to-r from-white via-white/40 to-transparent" />
             </div>
@@ -312,7 +302,7 @@ export default function Sec6({ data }) {
         <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
           <div className="relative mx-auto max-w-6xl">
             <SectionTitle>
-              <h2 className="text-3xl font-bold uppercase leading-none tracking-tighter lg:text-4xl">
+              <h2 className="h2 uppercase">
                 <span className="text-[#101828]">{whyChoose.titlePre}</span>
                 <span className="text-hero-blue">{whyChoose.titleHighlight}</span>
               </h2>
@@ -320,8 +310,8 @@ export default function Sec6({ data }) {
 
             <div className="mt-8 grid grid-cols-3 gap-x-10 gap-y-6">
               {whyChoose.items.map((item) => (
-                <div key={item.title} className="flex min-w-0 items-start gap-3">
-                  <Icon name={item.icon} className="mt-0.5 h-6 w-6 shrink-0 text-hero-blue" />
+                <div key={item.title} className="flex min-w-0 items-center gap-3">
+                  <Icon name={item.icon} className="h-9 w-9 shrink-0 text-hero-blue" />
                   <div className="min-w-0">
                     <p className="min-w-0 text-sm font-bold leading-snug text-[#101828]">{item.title}</p>
                     <p className="min-w-0 text-xs leading-snug text-[#4a5568]">{item.subtext}</p>
@@ -337,7 +327,7 @@ export default function Sec6({ data }) {
                   <span className="font-semibold">{whyChoose.notice.line1}</span> {whyChoose.notice.line2}
                 </p>
               </div>
-              <div className="relative overflow-hidden bg-[#eef2f7]">
+              <div className="relative overflow-hidden bg-(--theme-light-bg)">
                 <Image src={whyChoose.notice.image} alt="" fill className="object-cover opacity-25" sizes="320px" />
                 <div className="absolute inset-0 bg-linear-to-r from-white via-white/40 to-transparent" />
               </div>

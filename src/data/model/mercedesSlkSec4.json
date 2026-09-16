@@ -1,0 +1,94 @@
+{
+  "kicker": "Full Breakdown",
+  "headlinePre": "Mercedes SLK",
+  "headlineHighlight": "Engine Rebuild Price Guide",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "columns": [
+    "Engine Code",
+    "Fuel",
+    "Size",
+    "Chassis",
+    "Rebuild Price Range"
+  ],
+  "rows": [
+    {
+      "family": "M111",
+      "fuel": "Petrol",
+      "size": "2.0L/2.3L",
+      "chassis": "R170",
+      "range": "£2,200 – £3,000",
+      "familyHref": "/mercedes-m111-engine"
+    },
+    {
+      "family": "M271",
+      "fuel": "Petrol",
+      "size": "1.8L",
+      "chassis": "R171/R172",
+      "range": "£2,200 – £3,200",
+      "familyHref": "/mercedes-m271-engine"
+    },
+    {
+      "family": "M112",
+      "fuel": "Petrol V6",
+      "size": "3.2L",
+      "chassis": "R170",
+      "range": "£3,200 – £4,200",
+      "familyHref": "/mercedes-m112-engine"
+    },
+    {
+      "family": "M272",
+      "fuel": "Petrol V6",
+      "size": "3.0L/3.5L",
+      "chassis": "R171/R172",
+      "range": "£3,200 – £4,600",
+      "familyHref": "/mercedes-m272-engine"
+    },
+    {
+      "family": "M113",
+      "fuel": "Petrol V8",
+      "size": "5.5L",
+      "chassis": "R170",
+      "range": "£4,500 – £5,800",
+      "familyHref": "/mercedes-m113-engine"
+    },
+    {
+      "family": "M152 (SLK55 AMG, R172)",
+      "fuel": "Petrol V8",
+      "size": "5.5L",
+      "chassis": "R172",
+      "range": "£4,500 – £6,000",
+      "familyHref": "/mercedes-m152-engine"
+    },
+    {
+      "family": "M156 (SLK55 AMG, R171)",
+      "fuel": "Petrol V8",
+      "size": "5.5L",
+      "chassis": "R171",
+      "range": "£6,500 – £10,000",
+      "familyHref": "/mercedes-m156-engine"
+    }
+  ],
+  "features": [
+    {
+      "icon": "gear",
+      "title": "OEM Components",
+      "body": "Updated components for maximum reliability"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Key Parts Replaced",
+      "body": "Timing chains, injector seals, tensioners & gaskets"
+    },
+    {
+      "icon": "truck",
+      "title": "Recovery From £70",
+      "body": "Nationwide recovery quoted separately"
+    },
+    {
+      "icon": "note",
+      "title": "Prices Exclude VAT",
+      "body": "Unless stated otherwise"
+    }
+  ],
+  "disclaimer": "Every rebuild identifies and replaces worn or damaged timing chains, injector seals, tensioners and gaskets with updated OEM components. Recovery quoted separately from £70. Prices exclude VAT unless stated."
+}

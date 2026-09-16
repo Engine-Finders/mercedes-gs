@@ -1,0 +1,75 @@
+{
+  "yearBanner": {
+    "titlePre": "WE COVER ",
+    "titleHighlight": "EVERY",
+    "titlePost": " MERCEDES CITAN 113 MODEL YEAR:",
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg.",
+    "vehicleLabel": "Mercedes Citan 113"
+  },
+  "costs": {
+    "titlePre": "MERCEDES CITAN 113 ENGINE ",
+    "titleHighlight": "COSTS",
+    "intro": "A Mercedes Citan 113 engine rebuild starts from",
+    "price": "£2,200",
+    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/sec10_engine.webp",
+    "warranty": {
+      "line1": "12 MONTH",
+      "line2": "UNLIMITED-MILEAGE",
+      "line3": "WARRANTY"
+    },
+    "subCards": [
+      {
+        "icon": "engine",
+        "title": "MERCEDES CITAN 113 ENGINE SIZES",
+        "item": "Mercedes Citan 113 3.0 Litre Engine (M256, I6)"
+      },
+      {
+        "icon": "fuel",
+        "title": "MERCEDES CITAN 113 FUEL TYPES",
+        "item": "Mercedes Citan 113 Petrol Mild Hybrid Engine Rebuilds"
+      }
+    ]
+  },
+  "bottomInfo": {
+    "timeframe": {
+      "icon": "clock",
+      "textPre": "Most Mercedes Citan engine rebuilds are completed within ",
+      "textHighlight": "3-5 working days",
+      "textPost": "."
+    },
+    "recoveryText": "Nationwide recovery and collection available for all Citan models.",
+    "image": "/variant/mercedes_car.webp"
+  },
+  "related": {
+    "title": "RELATED MERCEDES CITAN VARIANTS",
+    "links": [
+      {
+        "label": "Mercedes Citan 109 CDI Engine",
+        "href": "/mercedes-citan-109-cdi-engines"
+      },
+      {
+        "label": "Mercedes Citan 110 CDI Engine",
+        "href": "/mercedes-citan-110-cdi-engines"
+      },
+      {
+        "label": "Mercedes Citan 111 CDI Engine",
+        "href": "/mercedes-citan-111-cdi-engines"
+      },
+      {
+        "label": "Mercedes Citan 112 Engine",
+        "href": "/mercedes-citan-112-engines"
+      }
+    ],
+    "viewAll": "View All Mercedes Citan Engines",
+    "viewAllHref": "/mercedes-citan-engines"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "kicker": "Full Breakdown",
+  "headlinePre": "Mercedes G-Class",
+  "headlineHighlight": "Engine Rebuild Price Guide",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "columns": [
+    "Engine Code",
+    "Fuel",
+    "Size",
+    "Chassis",
+    "Rebuild Price Range"
+  ],
+  "rows": [
+    {
+      "family": "OM642",
+      "fuel": "Diesel V6",
+      "size": "3.0L",
+      "chassis": "W463",
+      "range": "£2,800 – £3,900",
+      "familyHref": "/mercedes-om642-engine"
+    },
+    {
+      "family": "OM656",
+      "fuel": "Diesel I6",
+      "size": "3.0L",
+      "chassis": "W464",
+      "range": "£3,000 – £4,200",
+      "familyHref": "/mercedes-om656-engine"
+    },
+    {
+      "family": "M273",
+      "fuel": "Petrol V8",
+      "size": "5.5L",
+      "chassis": "W463",
+      "range": "£4,500 – £5,800",
+      "familyHref": "/mercedes-m273-engine"
+    },
+    {
+      "family": "M176 (G500)",
+      "fuel": "Petrol V8",
+      "size": "4.0L",
+      "chassis": "W464",
+      "range": "£4,500 – £6,000",
+      "familyHref": "/mercedes-m176-engine"
+    },
+    {
+      "family": "M177 (G63 AMG)",
+      "fuel": "Petrol Twin-Turbo V8",
+      "size": "4.0L",
+      "chassis": "W463/W464",
+      "range": "£6,500 – £9,500",
+      "familyHref": "/mercedes-m177-engine"
+    }
+  ],
+  "features": [
+    {
+      "icon": "gear",
+      "title": "OEM Components",
+      "body": "Updated components for maximum reliability"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Key Parts Replaced",
+      "body": "Timing chains, injector seals, tensioners & gaskets"
+    },
+    {
+      "icon": "truck",
+      "title": "Recovery From £70",
+      "body": "Nationwide recovery quoted separately"
+    },
+    {
+      "icon": "note",
+      "title": "Prices Exclude VAT",
+      "body": "Unless stated otherwise"
+    }
+  ],
+  "disclaimer": "Every rebuild identifies and replaces worn or damaged timing chains, injector seals, tensioners and gaskets with updated OEM components. Recovery quoted separately from £70. Prices exclude VAT unless stated."
+}

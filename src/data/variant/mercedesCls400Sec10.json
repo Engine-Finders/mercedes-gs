@@ -1,0 +1,87 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES CLS 400 ENGINE",
+    "paragraphs": [
+      "The CLS 400 was introduced with the C218 generation in 2010 and continued through to the end of the CLS's production run in 2023 with the C257. Both generations use the M276 — a 3.0 to 3.5-litre petrol V6 that was Mercedes' workhorse naturally aspirated V6 of that era. It's a proven, robust design, though like any V6 it has wear items that need attention over time. The CLS was discontinued entirely after the C257 in 2023, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every CLS 400 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES CLS 400 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the CLS 400 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 CLS 400",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES CLS 400 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The CLS 400's M276 engine was used across both CLS generations with minimal variation. However, as with any model running this long, subtle specification differences exist between early and late cars. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M276",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic CLS quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES CLS 400 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "C218",
+        "chassis": "C218/X218",
+        "years": "2010–2018",
+        "engineCode": "M276",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m276-engine"
+      },
+      {
+        "generation": "C257",
+        "chassis": "C257",
+        "years": "2018–2023",
+        "engineCode": "M276",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m276-engine"
+      }
+    ]
+  }
+}

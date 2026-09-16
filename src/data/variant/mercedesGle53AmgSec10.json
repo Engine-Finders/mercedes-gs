@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLE53 AMG ENGINE",
+    "paragraphs": [
+      "The GLE53 AMG sits at the performance end of the GLE-Class range, using AMG's version of the M256 — a 3.0-litre inline-six petrol engine with mild-hybrid assistance. It's been fitted since the V167 generation launched in 2019, and remains in production today. The Coupe body style was added in 2021, but the engine itself is the same across both body styles."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLE53 AMG on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLE53 AMG ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLE53 AMG from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 GLE53 AMG",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLE53 AMG ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The GLE53 AMG is built on the V167 platform and uses the M256 engine exclusively. We confirm your exact build year and specification before quoting, to ensure we're working with the correct parts and ECU configuration for your vehicle.",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M256",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLE-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLE53 AMG ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "V167",
+        "chassis": "V167",
+        "years": "2019–present",
+        "engineCode": "M256",
+        "fuel": "Petrol MHEV",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  }
+}

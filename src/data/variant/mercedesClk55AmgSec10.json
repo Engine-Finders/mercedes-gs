@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES CLK 55 AMG ENGINE",
+    "paragraphs": [
+      "The CLK 55 AMG was a performance mainstay of the CLK range across two generations. Early cars (C208, 1997–2003) use the M113 — a 5.5-litre V8 that also appeared in the SL, S-Class, and E-Class of that era, known for its durability and strong power delivery. From the C209 generation onwards (2002–2009), the CLK 55 AMG switched to the M273, a newer 5.5-litre V8 with different internals and management. Both are naturally aspirated, but they're fundamentally different units, which is why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every CLK 55 AMG on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES CLK 55 AMG ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M113",
+        "codeRest": "(C208)",
+        "body": "A 5.5-litre V8 fitted to the CLK 55 AMG from 1997 to 2003 (C208 generation). Known for being a robust engine with no widespread documented issue, it responds well to rebuild work. We replace timing chains, bearings, and gaskets as standard on every M113 rebuild.",
+        "cta": "Check Your M113 CLK 55 AMG",
+        "codeHref": "/mercedes-m113-engine"
+      },
+      {
+        "codeHighlight": "M273",
+        "codeRest": "(C209)",
+        "body": "The later 5.5-litre V8, fitted from 2002 to 2009 (C209 generation). A different design from the M113, with its own set of specifications. We service it to the same standard as the M113, replacing timing chains, bearings, and gaskets on every rebuild.",
+        "cta": "Check Your M273 CLK 55 AMG",
+        "codeHref": "/mercedes-m273-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES CLK 55 AMG ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the CLK 55 AMG spans two distinct V8 engines across two generations, fitting the wrong replacement — or assuming an M113 part will work on an M273 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M271",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic CLK quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES CLK 55 AMG ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "C208",
+        "chassis": "C208",
+        "years": "1997–2003",
+        "engineCode": "M113",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m113-engine"
+      },
+      {
+        "generation": "C209",
+        "chassis": "C209",
+        "years": "2002–2009",
+        "engineCode": "M273",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m273-engine"
+      }
+    ]
+  }
+}

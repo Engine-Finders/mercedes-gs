@@ -1,0 +1,43 @@
+{
+  "headlinePre": "Mercedes CLK 220",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,200",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M111",
+      "generation": "C208 (1997–2003)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "code": "M271",
+      "generation": "C209 (2002–2009)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-m271-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes CLK 220 Timing Chain Wear ",
+    "titleHighlight": "(C209, M271)",
+    "paragraphs": [
+      "If your CLK 220 is a 2002–2009 model with the M271 engine — that's the C209 generation — timing chain stretch and balance shaft issues are a well-documented pattern on this engine, confirmed by established Mercedes specialist consensus. We replace the timing chain, timing gears and gaskets as standard on every M271 rebuild.",
+      "The earlier C208 generation (1997–2003) uses the M111 engine, which doesn't share this specific issue — it's a different, older design without the same documented timing chain pattern."
+    ],
+    "source": "Source: established Mercedes specialist pattern per VRF-mercedes-clk.md. M111 explicitly excluded from this claim per VRF, correctly scoped to generation"
+  }
+}

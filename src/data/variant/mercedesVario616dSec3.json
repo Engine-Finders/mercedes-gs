@@ -1,0 +1,37 @@
+{
+  "headlinePre": "Mercedes Vario 616D",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,300",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M256",
+      "generation": "R190 (2023–present)",
+      "price": "£3,200",
+      "codeHref": "/mercedes-m256-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes Vario 616D Timing Chain & Injector Seal Wear ",
+    "titleHighlight": "",
+    "paragraphs": [
+      "Vario 616D engines — OM612 and OM647, across the entire W670 generation — commonly show timing chain/gear and injector seal wear. This is a confirmed pattern, shared with the equivalent-era Sprinter and well-documented in UK specialist workshops. We replace timing chains, timing gears, injector seals, and gaskets as standard on every 616D rebuild, regardless of which specific engine code your van has.",
+      "*include_in_hero_hook: yes — Source: established specialist pattern (per G-BRF), confirmed across the whole range via shared Sprinter-era pattern, per VRF-mercedes-vario.md. Applies to both OM612 and OM647.*"
+    ],
+    "source": "Source: established specialist pattern (per G-BRF), confirmed across the whole range via shared Sprinter-era pattern, per VRF-mercedes-vario.md. Applies to both OM612 and OM647"
+  }
+}

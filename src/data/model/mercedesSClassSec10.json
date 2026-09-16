@@ -1,0 +1,59 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes S-Class Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes S-Class engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes S350d",
+      "spec": "3.0L V6/I6 Diesel (OM642 (W221/W222) or OM656 (W223))",
+      "href": "/mercedes-s350d-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes S400d",
+      "spec": "3.0L I6 Diesel (OM656)",
+      "href": "/mercedes-s400d-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes S450",
+      "spec": "3.0L I6 Petrol (M256)",
+      "href": "/mercedes-s450-engines"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes S500",
+      "spec": "4.7L or 3.0L Petrol, Petrol Mild-Hybrid (M278 (W221/W222) or M256 (W223))",
+      "href": "/mercedes-s500-engines"
+    },
+    {
+      "number": "05",
+      "model": "Mercedes S560",
+      "spec": "4.0L Petrol Twin-Turbo (M176)",
+      "href": "/mercedes-s560-engines"
+    },
+    {
+      "number": "06",
+      "model": "Mercedes S580",
+      "spec": "4.0L V8 Petrol Twin-Turbo, Mild Hybrid (M176 (2021–2025) or M177 Evo (facelift onwards))",
+      "href": "/mercedes-s580-engines"
+    },
+    {
+      "number": "07",
+      "model": "Mercedes S63 AMG",
+      "spec": "5.5L V8 / 4.0L V8 Petrol Twin-Turbo (M157 (W221/W222) or M177 (W223))",
+      "href": "/mercedes-s63-amg-engines"
+    },
+    {
+      "number": "08",
+      "model": "Mercedes S65 AMG",
+      "spec": "6.0L V12 twin-turbo Petrol Twin-Turbo V12 (M275)",
+      "href": "/mercedes-s65-amg-engines"
+    }
+  ]
+}

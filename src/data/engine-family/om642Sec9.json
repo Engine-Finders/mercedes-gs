@@ -1,0 +1,90 @@
+{
+  "about": {
+    "image": "/engine/sec9_top.webp",
+    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "kicker": "ABOUT THE",
+    "titlePre": "MERCEDES-BENZ",
+    "titleHighlight": "OM642",
+    "titlePost": " ENGINE",
+    "body": "The OM642 is Mercedes-Benz's 3.0-litre V6 diesel engine, produced from 2005 to 2021. It is one of the most widely-deployed engines in the Mercedes range during that period, appearing across the CLS, E-Class, GLE, GLS, M-Class, R-Class, Sprinter, Viano and Vito. For commercial vehicle operators, the Sprinter and Vito applications are particularly common. For passenger car owners, the E-Class and M/GLE-Class are the most frequently seen applications in our workshop. We rebuild the OM642 across all its applications, replacing worn components as standard — a full rebuild starts from £2,800."
+  },
+  "byModel": {
+    "image": "/engine/sec9_middle.webp",
+    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "kicker": "MERCEDES-BENZ OM642",
+    "titlePre": "",
+    "titleHighlight": "APPLICATIONS",
+    "titlePost": " BY MODEL",
+    "body": "Across the CLS (C219) and E-Class (W211/W212), the OM642 appears in its most familiar passenger-car form in the CLS 320/350 CDI and E 280/320/350 CDI. The M-Class (W164/W166) and R-Class (W251) use the same V6 diesel in the ML 280/320/350 CDI and R 320/350 CDI, with the M-Class continuing through 2015. The OM642 also appears in the GLE (W166) and GLS (X166) models as the GLE 300 d/350 d and GLS 350 d, where it runs with the BlueTEC emissions system. For commercial vehicles, the Sprinter (NCV3) uses it in the 316 CDI and 319 CDI, and the Viano (W639) and Vito (W639) run it in their 3.0 CDI and 116 CDI variants. The Sprinter is a particularly important application for the engine, as it's often subjected to high-mileage, heavy-duty use.",
+    "lineup": [
+      {
+        "label": "CLS",
+        "code": "C219"
+      },
+      {
+        "label": "E-Class",
+        "code": "W211/W212"
+      },
+      {
+        "label": "GLE-Class",
+        "code": "W166"
+      },
+      {
+        "label": "GLS",
+        "code": "X166"
+      },
+      {
+        "label": "M-Class",
+        "code": "W164/W166"
+      },
+      {
+        "label": "R-Class",
+        "code": "W251"
+      },
+      {
+        "label": "Sprinter",
+        "code": "NCV3"
+      },
+      {
+        "label": "Viano",
+        "code": "W639"
+      },
+      {
+        "label": "Vito",
+        "code": "W639"
+      }
+    ]
+  },
+  "compatibility": {
+    "image": "/engine/sec9_bottom.webp",
+    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "kicker": "MERCEDES-BENZ OM642",
+    "titlePre": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
+    "body": "Because the OM642 spans nine different models and multiple generations, compatibility comes down to confirming your exact model, generation, and whether it's a standard diesel or BlueTEC application. The ancillaries, emissions systems, and mounting all differ between applications. For instance, a Sprinter OM642 isn't a drop-in match for an E-Class OM642, even though it's the same base engine code. Registration/VIN matching is required — BlueTEC AdBlue variants differ from non-AdBlue variants — and we confirm your exact specification before quoting anything.",
+    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "points": [
+      {
+        "icon": "car",
+        "title": "MODEL",
+        "text": "Confirm your exact model and AMG variant."
+      },
+      {
+        "icon": "calendar",
+        "title": "GENERATION",
+        "text": "Identify the correct generation (W177, C118, H247, W206, X254, R232)."
+      },
+      {
+        "icon": "gears",
+        "title": "DRIVETRAIN",
+        "text": "Specify the variant (45, 45 S, 43)."
+      },
+      {
+        "icon": "clipboard",
+        "title": "CONFIRMED BY REGISTRATION",
+        "text": "We confirm by registration or VIN before quoting."
+      }
+    ]
+  }
+}

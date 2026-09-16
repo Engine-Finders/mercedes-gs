@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLS580 ENGINE",
+    "paragraphs": [
+      "The GLS580 is the flagship non-AMG petrol model in the GLS range, introduced with the X167 generation in 2019. It uses the M176 — a 4.0-litre twin-turbo V8 with mild-hybrid assistance, part of Mercedes' second-generation biturbo V8 family. The M176 delivers substantial power and torque while incorporating cylinder deactivation for improved efficiency. The GLS580 remains in production as of 2026."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLS580 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLS580 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLS580 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 GLS580",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLS580 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the GLS580 uses a single engine family across the entire X167 generation, compatibility is relatively straightforward — but accurate matching still matters for ancillaries, ECU calibration, and year-specific revisions. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M176",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLS quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLS580 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X167",
+        "chassis": "X167",
+        "years": "2019–present",
+        "engineCode": "M176",
+        "fuel": "Petrol Twin-Turbo V8 MHEV",
+        "codeHref": "/mercedes-m176-engine"
+      }
+    ]
+  }
+}

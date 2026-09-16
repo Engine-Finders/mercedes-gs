@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SLS SLS AMG ENGINE",
+    "paragraphs": [
+      "The SLS AMG GT was produced from 2010 to 2014 as part of the single-generation C197 SLS AMG range. The entire SLS AMG lineup — including the GT and Black Series — uses the M159, a 6.2-litre naturally aspirated V8, as the only combustion engine ever fitted to the model. The M159 was developed specifically for the SLS AMG as a more powerful evolution of the earlier M156, and it remained unchanged throughout the model's production run. The SLS AMG Electric Drive was a separate fully electric variant produced in extremely limited numbers, but the combustion SLS AMG GT has only ever used the M159."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SLS SLS AMG on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SLS SLS AMG ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SLS SLS AMG from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 SLS SLS AMG",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SLS SLS AMG ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the SLS AMG GT uses a single engine across its entire production run, compatibility is straightforward — every C197 SLS AMG GT has the M159. However, the SLS AMG GT and SLS AMG Black Series share the same engine code but with different tuning levels, so parts compatibility between variants must be confirmed by VIN. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M159",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic SLS AMG quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SLS SLS AMG ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "C197",
+        "chassis": "C197",
+        "years": "2010–2014",
+        "engineCode": "M159",
+        "fuel": "Petrol Naturally Aspirated",
+        "codeHref": "/mercedes-m159-engine"
+      }
+    ]
+  }
+}

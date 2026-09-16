@@ -1,0 +1,259 @@
+{
+  "slug": "mercedes-om654-coolant-repair",
+  "metaTitle": "Mercedes OM654 Coolant System Repair | Mercedes Garage",
+  "metaDescription": "Specialist coolant system repair for Mercedes OM654 diesel engines. Recall-related work, vacuum pump replacement, and full system testing. Fixed-price quotes.",
+  "h1": "Mercedes OM654 Coolant System Repair",
+  "lede": "Specialist coolant system repair for OM654 diesel engines, including recall-related work and secondary damage remediation.",
+  "ctas": [
+    {
+      "label": "Get a Fixed-Price Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec5.webp",
+    "/engine/sec5.webp",
+    "/model/sec5.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "The OM654 diesel engine uses a sophisticated cooling system with dual circuits and a vacuum-controlled coolant pump. Our repair service covers the full range of coolant system work, from the manufacturer recall remedy to complex secondary damage repairs."
+        },
+        {
+          "t": "h3",
+          "text": "Recall Remedy (January 2022)"
+        },
+        {
+          "t": "p",
+          "html": "The official recall for OM654 engines built between January 2017 and October 2021 addresses a potential coolant leak between the vacuum system and the coolant circuit. The prescribed remedy is:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Software update for coolant pump control",
+            "Replacement of the electrical switching valve (elektrisches Umschaltventil)",
+            "Inspection of the vacuum system for contamination"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "**If your vehicle has not yet had the recall completed, we can perform the necessary work.** However, this is a formal manufacturer recall with free repair at authorised dealers – we recommend checking with your main dealer first. If secondary damage has occurred, we can carry out the full repair."
+        },
+        {
+          "t": "h3",
+          "text": "Coolant Pump Replacement & Secondary Damage"
+        },
+        {
+          "t": "p",
+          "html": "Replacing the coolant pump on an OM654 involves removing the intake manifold – a labour-intensive job. The pump sits behind the timing case cover, and in longitudinal installations access is restricted. We follow the manufacturer's workshop procedures, using genuine or OEM-spec parts."
+        },
+        {
+          "t": "p",
+          "html": "If coolant has entered the vacuum system and contaminated the tandem oil/vacuum pump at the rear of the engine, that pump must also be replaced. This requires the engine to be removed from the vehicle – a significantly larger job."
+        },
+        {
+          "t": "h3",
+          "text": "System Complexity & Testing"
+        },
+        {
+          "t": "p",
+          "html": "The OM654 features a double water jacket cylinder head and an additional electric coolant pump for the low-temperature circuit. This secondary pump manages post-run cooling for the turbocharger and AdBlue dosing valve. After any repair, we:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Pressure-test the cooling system",
+            "Refill with correct coolant and bleed all air",
+            "Check engine management and run diagnostics",
+            "Road-test to confirm stable operating temperatures"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "All work is backed by our 12-month unlimited-mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "From **£POA**",
+            "We provide fixed-price quotes after inspection. Contact us to discuss your specific repair – recall-related work may be free at dealers, but we can handle secondary damage and any non-covered repairs.",
+            "Pricing disclaimer: [see our pricing policy](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which Models Use the OM654 Engine?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "The OM654 is a 2.0-litre diesel four-cylinder found in many Mercedes-Benz models from 2017 onward. We repair the coolant system on all of them."
+        },
+        {
+          "t": "p",
+          "html": "For a full list of all OM654 variants, visit our [OM654 engine family page](/mercedes-om654-engine)."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Coolant System Repair Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "We inspect the cooling system, check for leaks, and confirm recall status. We identify if secondary damage (e.g., vacuum pump contamination) is present."
+        },
+        {
+          "title": "",
+          "body": "We remove the intake manifold to access the coolant pump. In cases requiring engine removal, we carefully extract the unit."
+        },
+        {
+          "title": "",
+          "body": "We replace the coolant pump, switching valve, or any contaminated vacuum components with genuine or OEM-spec parts."
+        },
+        {
+          "title": "",
+          "body": "We reassemble all components, refill with the correct coolant, and bleed the system to remove air."
+        },
+        {
+          "title": "",
+          "body": "We pressure-test the system, run diagnostics, and apply any required software updates. The engine is run to confirm stable temperatures."
+        },
+        {
+          "title": "",
+          "body": "We road-test the vehicle to verify performance, then provide a full report and warranty documentation."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Check Your Vehicle",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We'll confirm if your car has the OM654 engine and advise on recall status and repair options."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**12-month unlimited-mileage warranty** on all repairs",
+            "**OEM-grade parts** – genuine or high-quality equivalents",
+            "**Factory-trained technicians** with specialist OM654 experience",
+            "**Fixed-price quotes** – no hidden extras",
+            "**Nationwide recovery** available from £70",
+            "**Transparent process** – we keep you informed at every stage"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Our Service Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "**Contact us** – call, email, or use our online form."
+        },
+        {
+          "title": "",
+          "body": "**Recovery** – we collect your vehicle nationwide (from £70)."
+        },
+        {
+          "title": "",
+          "body": "**Inspection & quote** – we assess the work and provide a fixed price."
+        },
+        {
+          "title": "",
+          "body": "**Repair & testing** – we carry out the repair and test thoroughly."
+        },
+        {
+          "title": "",
+          "body": "**Collection** – your vehicle is returned with a warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes Diesel Timing Chain & Injector Repair](/mercedes-diesel-timing-chain-repair)",
+            "[Mercedes Engine Replacement](/mercedes-engine-replacement)",
+            "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Mercedes Rebuild vs Replacement](/mercedes-rebuild-vs-replacement)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Is this the same as the official OM654 recall?",
+          "a": "We carry out the full recall remedy – software update and replacement of the electrical switching valve. However, the recall is a free manufacturer fix at authorised dealers. If your vehicle hasn't had it done, we can perform it for a charge, or we recommend visiting your main dealer first. We are here for cases where secondary damage has occurred or the recall work wasn't completed."
+        },
+        {
+          "q": "What if my car hasn't had the recall – should I come to you?",
+          "a": "We recommend checking with your nearest Mercedes-Benz dealer – they will carry out the recall work free of charge. However, if you prefer our workshop or if your vehicle has additional coolant system issues, we are happy to help. We can also inspect and confirm if the recall work has been done."
+        },
+        {
+          "q": "How much does a coolant pump replacement cost?",
+          "a": "Costs vary depending on the model and whether secondary damage (e.g., vacuum pump contamination) is present. We provide a fixed-price quote after inspection. Contact us for a personalised estimate."
+        },
+        {
+          "q": "How long does the repair take?",
+          "a": "A straightforward coolant pump replacement typically takes 1-2 days. If the engine needs to be removed to replace the tandem vacuum pump, it can take longer – we'll advise you on the exact timeframe during the inspection."
+        },
+        {
+          "q": "Do you use genuine Mercedes parts?",
+          "a": "We use genuine Mercedes parts or OEM-equivalent components that meet or exceed manufacturer specifications. All parts are backed by our 12-month warranty."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes R-Class Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes R-Class engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes R320 CDI",
+      "spec": "3.0L V6 Diesel (OM642)",
+      "href": "/mercedes-r320-cdi-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes R350",
+      "spec": "3.5L Petrol (M272)",
+      "href": "/mercedes-r350-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes R350 CDI",
+      "spec": "3.0L V6 Diesel (OM642)",
+      "href": "/mercedes-r350-cdi-engines"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes R500",
+      "spec": "5.0L V8 Petrol (M113)",
+      "href": "/mercedes-r500-engines"
+    },
+    {
+      "number": "05",
+      "model": "Mercedes R63 AMG",
+      "spec": "6.2L Petrol V8 (M156)",
+      "href": "/mercedes-r63-amg-engines"
+    }
+  ]
+}

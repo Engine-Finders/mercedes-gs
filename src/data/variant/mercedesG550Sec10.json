@@ -1,0 +1,109 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES G550 ENGINE",
+    "paragraphs": [
+      "The G550 has been part of the G-Class range since the W463 era, and across its generations has used three different V8 engines — from the earlier M113 and M273 naturally aspirated units through to today's M176 twin-turbo. The pre-2018 W463 G550 used a naturally aspirated 5.0L–5.5L V8 (either the M113 or M273 depending on the exact year), while the current W463a generation (2018–present) uses the M176 4.0L twin-turbo V8 — a different unit entirely, shared with the S-Class S560 and S580. Knowing which one your car has matters, because the components, the rebuild specifics and the price tier differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every G550 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES G550 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M113",
+        "codeRest": "(W463, pre-2018)",
+        "body": "A 5.0L naturally aspirated V8 fitted to the G550 in earlier W463 generations. No specific known issue confirmed for this application. We service it to the same standard as our other V8 rebuilds, replacing timing chains, bearings and gaskets as standard.",
+        "cta": "Check Your M113 G550",
+        "codeHref": "/mercedes-m113-engine"
+      },
+      {
+        "codeHighlight": "M273",
+        "codeRest": "(W463, pre-2018)",
+        "body": "A 5.5L naturally aspirated V8 fitted to the G550 in later pre-2018 W463 models. No specific known issue confirmed for this application. We service it to the same standard as our other V8 rebuilds, replacing timing chains, bearings and gaskets as standard.",
+        "cta": "Check Your M273 G550",
+        "codeHref": "/mercedes-m273-engine"
+      },
+      {
+        "codeHighlight": "M176",
+        "codeRest": "(W463a/W465, 2018–present)",
+        "body": "The current 4.0L twin-turbo V8, fitted from 2018. This is the same M176 family used in the S-Class S560 and S580 — worth cross-checking that finding for any known patterns. We replace timing chains, valve seals, coolant components and bearings as standard on every rebuild.",
+        "cta": "Check Your M176 G550",
+        "codeHref": "/mercedes-m176-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES G550 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the G550 spans three distinct V8 engines across generations, fitting the wrong replacement — or assuming an M113 or M273 part will work on an M176 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M113",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic G-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES G550 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W463 (pre-2018)",
+        "chassis": "W463",
+        "years": "Pre-2018",
+        "engineCode": "M113",
+        "fuel": "Petrol V8 NA",
+        "codeHref": "/mercedes-m113-engine"
+      },
+      {
+        "generation": "W463 (pre-2018)",
+        "chassis": "W463",
+        "years": "Pre-2018",
+        "engineCode": "M273",
+        "fuel": "Petrol V8 NA",
+        "codeHref": "/mercedes-m273-engine"
+      },
+      {
+        "generation": "W463a/W465",
+        "chassis": "W463a/W465",
+        "years": "2018–present",
+        "engineCode": "M176",
+        "fuel": "Petrol Twin-Turbo V8",
+        "codeHref": "/mercedes-m176-engine"
+      }
+    ]
+  }
+}

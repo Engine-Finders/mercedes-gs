@@ -1,0 +1,372 @@
+{
+  "slug": "mercedes-high-mileage-engine-rebuild",
+  "metaTitle": "Mercedes-Benz High-Mileage Engine Rebuild | Mercedes Garage",
+  "metaDescription": "Specialist high-mileage engine rebuild for Mercedes-Benz. Full disassembly, machining, and replacement of all wear-prone parts to restore your engine's performance and longevity.",
+  "h1": "Mercedes-Benz High-Mileage Engine Rebuild",
+  "lede": "Dedicated rebuild service for engines that have covered substantial miles. We carry out a comprehensive strip-down, precision machining, and full parts replacement to bring your Mercedes engine back to its best.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec4.webp",
+    "/model/sec3.webp",
+    "/variant/sec5.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Makes a High-Mileage Rebuild Different",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Engines with high mileage (typically 100,000+ miles) have experienced cumulative wear across multiple systems. A standard rebuild may not be sufficient; a high-mileage rebuild requires a more thorough approach."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**More comprehensive parts replacement** — components that are still serviceable in a lower-mileage engine are often at end-of-life here and must be renewed.",
+            "**Stricter inspection criteria** — all parts are checked against tighter tolerances because wear is more distributed and hidden damage is more likely.",
+            "**Higher machining demand** — cylinder bores, crankshaft journals, and deck surfaces are more likely to be out of specification and require machining to restore geometry.",
+            "**Ancillary renewal** — oil pumps, water pumps, and timing components are often replaced as a matter of course, even if they appear functional, because their service life is typically aligned with the engine's major overhaul interval."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We treat every high-mileage engine on its own merits, but our baseline standard is significantly more rigorous than a routine rebuild."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price for High-Mileage Rebuilds",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Our high-mileage rebuilds start from the same base pricing as our standard rebuilds**, but additional machining and parts replacement may increase the final cost. We quote after a full inspection.",
+            "Prices are indicative. Final cost depends on inspection findings. [View pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Our High-Mileage Rebuild Process in Pictures",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "All images are staged on our premises using real workshop photography as the base. Actual completed job photography will replace these placeholders as they become available."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Models & Engines We Rebuild",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our high-mileage rebuild service covers the entire Mercedes range. Click any model or engine family to learn more."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "A180d",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "A200",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "OM607",
+              "href": "/mercedes-om607-engine"
+            },
+            {
+              "label": "M270",
+              "href": "/mercedes-m270-engine"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "C-Class",
+            "href": "/mercedes-c-class-engines"
+          },
+          "chips": [
+            {
+              "label": "C220d",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "C300",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "C63 AMG",
+              "href": "/mercedes-c-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM651](/mercedes-om651-engine), [OM654](/mercedes-om654-engine), [M274](/mercedes-m274-engine), [M156](/mercedes-m156-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "E-Class",
+            "href": "/mercedes-e-class-engines"
+          },
+          "chips": [
+            {
+              "label": "E220d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "E300d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "E63 AMG",
+              "href": "/mercedes-e-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM642](/mercedes-om642-engine), [OM656](/mercedes-om656-engine), [M256](/mercedes-m256-engine), [M157](/mercedes-m157-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "S-Class",
+            "href": "/mercedes-s-class-engines"
+          },
+          "chips": [
+            {
+              "label": "S350d",
+              "href": "/mercedes-s350d-engines"
+            },
+            {
+              "label": "S450",
+              "href": "/mercedes-s450-engines"
+            },
+            {
+              "label": "S63 AMG",
+              "href": "/mercedes-s63-amg-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM642](/mercedes-om642-engine), [M276](/mercedes-m276-engine), [M177](/mercedes-m177-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "G-Class",
+            "href": "/mercedes-g-class-engines"
+          },
+          "chips": [
+            {
+              "label": "G350d",
+              "href": "/mercedes-g350d-engines"
+            },
+            {
+              "label": "G63 AMG",
+              "href": "/mercedes-g-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM642](/mercedes-om642-engine), [M177](/mercedes-m177-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Sprinter",
+            "href": "/mercedes-sprinter-engines"
+          },
+          "chips": [
+            {
+              "label": "313-319 CDI",
+              "href": "/mercedes-sprinter-313319-cdi-engines"
+            },
+            {
+              "label": "413-519 CDI",
+              "href": "/mercedes-sprinter-413519-cdi-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engines: [OM651](/mercedes-om651-engine), [OM642](/mercedes-om642-engine)"
+        },
+        {
+          "t": "p",
+          "html": "All other Mercedes models are also covered. [Contact us](/contact) if your model isn't listed."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our High-Mileage Rebuild Process",
+      "steps": [
+        {
+          "title": "Full Disassembly & Cleaning",
+          "body": "The engine is stripped to its bare components. All parts are thoroughly cleaned to allow accurate inspection."
+        },
+        {
+          "title": "Detailed Measurement",
+          "body": "Critical dimensions — cylinder bores, crankshaft journals, camshaft bearing surfaces — are measured against OE wear limits."
+        },
+        {
+          "title": "Machining & Restoration",
+          "body": "Bores are honed or bored, crankshafts are ground (if needed), and decks are skimmed to restore flatness."
+        },
+        {
+          "title": "Replacement of All Wear-Prone Parts",
+          "body": "We install new bearings, pistons, rings, seals, gaskets, timing components, oil pump, and water pump as standard."
+        },
+        {
+          "title": "Reassembly & Testing",
+          "body": "Precision assembly with new torque-to-yield fasteners, followed by a full test run to confirm oil pressure and compression."
+        },
+        {
+          "title": "Refit & Road Test",
+          "body": "The engine is refitted, fluids filled, and the vehicle is road-tested to ensure everything performs as expected."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us for Your High-Mileage Rebuild",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**12-month unlimited-mileage warranty** on all rebuilds — we stand behind our work.",
+            "**Established in 2009** — specialist Mercedes workshop with extensive experience on high-mileage engines.",
+            "**We use genuine OEM parts** and follow factory specifications for machining and assembly.",
+            "**Nationwide recovery** available from £70 — we can bring your car to us.",
+            "**Quote turnaround under 30 minutes** during working hours.",
+            "**Rebuilds completed in 3-5 working days** from arrival at our workshop (subject to parts availability).",
+            "**Full machine shop on-site** — we handle all machining in-house, ensuring quality control at every step."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Recent High-Mileage Rebuilds",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Real completed jobs will be shown here once photography is available. These are staged representations on our premises."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "Contact Us",
+          "body": "Call, email, or fill in our quote form. We'll ask for your vehicle details and arrange an inspection."
+        },
+        {
+          "title": "Vehicle Inspection",
+          "body": "We inspect your engine, take measurements, and give you a fixed-price quote tailored to your high-mileage engine."
+        },
+        {
+          "title": "Work Commences",
+          "body": "Once you approve the quote, we schedule your rebuild and keep you updated throughout."
+        },
+        {
+          "title": "Collection & Warranty",
+          "body": "We test your vehicle, hand it back to you, and provide a 12-month unlimited-mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild) – standard rebuild service",
+            "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Mercedes Engine Matching by Registration & VIN](/mercedes-engine-matching)",
+            "[Mercedes Engine Machining](/mercedes-engine-machining)",
+            "[Mercedes Engine Bearing Replacement](/mercedes-engine-bearing-replacement)",
+            "[Mercedes Timing Chain Failure Repair](/mercedes-timing-chain-failure-repair)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Explore all [our engine services →](/mercedes-engine-rebuild)"
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What qualifies as \"high-mileage\" for a Mercedes engine?",
+          "a": "We typically consider engines with 100,000+ miles as high-mileage, but the decision also depends on maintenance history, engine type, and usage. We assess each engine individually."
+        },
+        {
+          "q": "How does a high-mileage rebuild differ from a standard rebuild?",
+          "a": "It involves more extensive parts replacement (including ancillaries like oil pumps), stricter inspection criteria, and higher likelihood of machining (cylinder bores, crankshaft journals)."
+        },
+        {
+          "q": "Will my high-mileage engine be as good as new after rebuild?",
+          "a": "With proper machining, new OEM parts, and careful assembly, a high-mileage engine can perform and last as well as a new engine, provided the block is in good condition."
+        },
+        {
+          "q": "How long does a high-mileage rebuild take?",
+          "a": "Typically 3-5 working days from arrival at our workshop, though additional machining or parts lead times may extend this slightly."
+        },
+        {
+          "q": "What warranty do you offer on high-mileage rebuilds?",
+          "a": "We provide a 12-month unlimited-mileage warranty on all rebuilds, covering parts and labour."
+        }
+      ]
+    }
+  ]
+}

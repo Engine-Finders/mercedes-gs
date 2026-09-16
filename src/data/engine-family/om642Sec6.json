@@ -1,0 +1,117 @@
+{
+  "reviews": {
+    "number": "08",
+    "titlePre": "WHAT MERCEDES-BENZ ",
+    "titleHighlight": "OWNERS SAY",
+    "items": [
+      {
+        "name": "Daniel R.",
+        "platform": "google",
+        "text": "Brilliant service from start to finish. My A 45 AMG runs better than it ever has. Honest advice, clear pricing and the team know their stuff.",
+        "tag": "A 45 AMG – OM642 Rebuild"
+      },
+      {
+        "name": "Mark T.",
+        "platform": "trustpilot",
+        "text": "They rebuilt my CLA 45 AMG engine with all the updated parts. No more rattling chains. Smooth process and great communication.",
+        "tag": "CLA 45 AMG – OM642 Rebuild"
+      },
+      {
+        "name": "Ryan P.",
+        "platform": "google",
+        "text": "Top lads, top job. Picked up and dropped off, engine rebuilt to an extremely high standard. 100% recommend.",
+        "tag": "A 45 S AMG – OM642 Rebuild"
+      },
+      {
+        "name": "Steve B.",
+        "platform": "trustpilot",
+        "text": "Saved me thousands compared to a main dealer quote. Fantastic workmanship and my GLA 45 AMG is running perfectly.",
+        "tag": "GLA 45 AMG – OM642 Rebuild"
+      },
+      {
+        "name": "Tom H.",
+        "platform": "google",
+        "text": "From quote to collection couldn't fault them. Engine looks brand new inside. Warranty gives great peace of mind.",
+        "tag": "C 43 AMG – OM642 Rebuild"
+      }
+    ],
+    "googleCta": "See All Reviews On Google",
+    "trustpilotCta": "See All Reviews On Trustpilot"
+  },
+  "coverage": {
+    "icon": "car",
+    "titlePre": "WE COVER YOUR",
+    "titleHighlight": "EXACT VEHICLE",
+    "body": "Enter your registration below and we'll confirm whether your Mercedes has the OM642 before you're quoted anything.",
+    "image": "/variant/sec7_middle_div.webp",
+    "buttonLabel": "Check Fit",
+    "ticks": [
+      "Fast",
+      "Accurate",
+      "No Guesswork"
+    ]
+  },
+  "whyChoose": {
+    "number": "11",
+    "titlePre": "WHY CHOOSE US FOR ",
+    "titleHighlight": "MERCEDES-BENZ OM642 REBUILDS",
+    "items": [
+      {
+        "icon": "shield-check",
+        "title": "Engine matched using VIN or registration number",
+        "subtext": ""
+      },
+      {
+        "icon": "shield-check",
+        "title": "Genuine specialist workshop — not a broker",
+        "subtext": ""
+      },
+      {
+        "icon": "shield-check",
+        "title": "Specialist technicians with 10-15 years of experience",
+        "subtext": ""
+      },
+      {
+        "icon": "shield-check",
+        "title": "We don't swap your engine for an unknown used unit",
+        "subtext": ""
+      },
+      {
+        "icon": "shield-check",
+        "title": "Nationwide recovery, workshop rebuild",
+        "subtext": ""
+      },
+      {
+        "icon": "shield-check",
+        "title": "12 month unlimited-mileage warranty",
+        "subtext": ""
+      },
+      {
+        "icon": "shield-check",
+        "title": "All engine ancillaries serviced as part of the rebuild",
+        "subtext": ""
+      },
+      {
+        "icon": "shield-check",
+        "title": "Trade & public enquiries welcome",
+        "subtext": ""
+      },
+      {
+        "icon": "shield-check",
+        "title": "Dedicated advisor from quote to fit",
+        "subtext": ""
+      },
+      {
+        "icon": "shield-check",
+        "title": "Confirmed issues include oil cooler seal failure and swirl flap linkage breakage — we inspect and replace these as standard",
+        "subtext": ""
+      }
+    ],
+    "notice": {
+      "icon": "shield-check",
+      "line1": "No widely-reported pattern is confirmed for the OM642 —",
+      "line2": "we still recommend a full inspection before any long journey.",
+      "image": "/model/sec15_part.webp"
+    }
+  }
+}

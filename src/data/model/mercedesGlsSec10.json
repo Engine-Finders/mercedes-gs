@@ -1,0 +1,35 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes GLS Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes GLS engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes GLS400d",
+      "spec": "2.9L I6 Diesel MHEV (OM656 D29)",
+      "href": "/mercedes-gls400d-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes GLS450",
+      "spec": "3.0L V6/I6 Petrol MHEV (M276 (X166) or M256 (X167))",
+      "href": "/mercedes-gls450-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes GLS580",
+      "spec": "4.0L V8 Petrol Twin-Turbo V8 MHEV (M176)",
+      "href": "/mercedes-gls580-engines"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes GLS63 AMG",
+      "spec": "5.5L V8 / 4.0L V8 Petrol Twin-Turbo V8 (M157 (X166) or M177 (X167))",
+      "href": "/mercedes-gls63-amg-engines"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "yearBanner": {
+    "titlePre": "WE COVER ",
+    "titleHighlight": "EVERY",
+    "titlePost": " MERCEDES G300 MODEL YEAR:",
+    "years": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg.",
+    "vehicleLabel": "Mercedes G300"
+  },
+  "costs": {
+    "titlePre": "MERCEDES G300 ENGINE ",
+    "titleHighlight": "COSTS",
+    "intro": "A Mercedes G300 engine rebuild starts from",
+    "price": "£1,900",
+    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/sec10_engine.webp",
+    "warranty": {
+      "line1": "12 MONTH",
+      "line2": "UNLIMITED-MILEAGE",
+      "line3": "WARRANTY"
+    },
+    "subCards": [
+      {
+        "icon": "engine",
+        "title": "MERCEDES G300 ENGINE SIZES",
+        "item": "Mercedes G300 3.0 Litre Engine (M256, I6)"
+      },
+      {
+        "icon": "fuel",
+        "title": "MERCEDES G300 FUEL TYPES",
+        "item": "Mercedes G300 Petrol Mild Hybrid Engine Rebuilds"
+      }
+    ]
+  },
+  "bottomInfo": {
+    "timeframe": {
+      "icon": "clock",
+      "textPre": "Most Mercedes G-Class engine rebuilds are completed within ",
+      "textHighlight": "3-5 working days",
+      "textPost": "."
+    },
+    "recoveryText": "Nationwide recovery and collection available for all G-Class models.",
+    "image": "/variant/mercedes_car.webp"
+  },
+  "related": {
+    "title": "RELATED MERCEDES G-CLASS VARIANTS",
+    "links": [
+      {
+        "label": "Mercedes G350d Engine",
+        "href": "/mercedes-g350d-engines"
+      },
+      {
+        "label": "Mercedes G400d Engine",
+        "href": "/mercedes-g400d-engines"
+      },
+      {
+        "label": "Mercedes G500 Engine",
+        "href": "/mercedes-g500-engines"
+      },
+      {
+        "label": "Mercedes G550 Engine",
+        "href": "/mercedes-g550-engines"
+      },
+      {
+        "label": "Mercedes G55 AMG Engine",
+        "href": "/mercedes-g55-amg-engines"
+      },
+      {
+        "label": "Mercedes G63 AMG Engine",
+        "href": "/mercedes-g63-amg-engines"
+      }
+    ],
+    "viewAll": "View All Mercedes G-Class Engines",
+    "viewAllHref": "/mercedes-g-class-engines"
+  }
+}

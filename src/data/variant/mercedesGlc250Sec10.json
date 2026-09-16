@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLC250 ENGINE",
+    "paragraphs": [
+      "The GLC250 was part of the first-generation GLC-Class lineup, produced from 2015 to 2022 on the X253 chassis. It uses the M274 — a 2.0-litre four-cylinder petrol engine that served as the entry-level petrol option in the range alongside the higher-output GLC300. The GLC250 was discontinued after the X253 generation ended, with the current X254 GLC-Class replacing it with a new generation that uses the M254 mild-hybrid engine in the GLC200 and GLC300."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLC250 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLC250 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLC250 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 GLC250",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLC250 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The GLC250 used a single engine throughout its production run — the M274 — so compatibility is straightforward for this variant. However, this engine was also fitted across other Mercedes models of the same era, and differences in ECU mapping, ancillaries and emissions equipment mean it's still essential to match your engine's exact specification to your vehicle. We always confirm your registration or VIN before quoting or supplying anything to ensure the rebuild matches your exact car.",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M274",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLC250 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X253",
+        "chassis": "X253",
+        "years": "2015–2022",
+        "engineCode": "M274",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m274-engine"
+      }
+    ]
+  }
+}

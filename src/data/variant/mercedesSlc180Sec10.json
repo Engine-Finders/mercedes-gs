@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SLC180 ENGINE",
+    "paragraphs": [
+      "The SLC180 is part of the R172 generation of the SLC, produced from 2016 to 2020. It sits as the entry-level petrol variant in the range, using the M270 — a 1.6-litre 4-cylinder petrol engine shared across a number of Mercedes models of the same era. The SLC replaced the SLK and was itself discontinued after this single generation, with no direct successor. The SLC180 was produced for the full 2016-2020 run, making it one of the more accessible petrol options in the SLC line-up. The M270 engine family is known for timing chain wear over time, which is why we replace chains, bearings and gaskets as standard on every rebuild."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SLC180 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SLC180 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SLC180 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 SLC180",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SLC180 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The SLC180 uses the M270 1.6-litre 4-cylinder petrol engine across the entire R172 generation, from 2016 through to 2020. Because the SLC was a single-generation model with no major mid-cycle engine changes for this variant, compatibility is straightforward — but we still confirm your registration before quoting to ensure we capture any running changes or specification variations that might affect your rebuild. This protects you from paying for parts that don't fit your actual car.",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M270",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic SLC quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SLC180 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "R172",
+        "chassis": "R172",
+        "years": "2016–2020",
+        "engineCode": "M270",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m270-engine"
+      }
+    ]
+  }
+}

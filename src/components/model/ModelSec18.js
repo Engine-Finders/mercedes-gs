@@ -57,7 +57,7 @@ export default function ModelSec18({ data }) {
   const formMobileLine2 = formHighlightRestWords.join(" ");
 
   return (
-    <section className="theme-light relative overflow-hidden">
+    <section id="quote-form" className="theme-light relative scroll-mt-6 overflow-hidden">
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-10 md:hidden">
         <div className="flex items-center gap-2">

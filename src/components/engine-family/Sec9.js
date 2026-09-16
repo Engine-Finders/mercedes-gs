@@ -12,13 +12,13 @@ function Kicker() {
   );
 }
 
-function Title({ kicker, titlePre, titleHighlight, titlePost, size = "text-3xl lg:text-4xl", dark = false }) {
+function Title({ kicker, titlePre, titleHighlight, titlePost, dark = false, kickerClass, nowrap = false }) {
   return (
     <>
-      <p className={`mt-3 text-xs font-bold uppercase tracking-widest ${dark ? "text-white/70" : "text-[#4a5568]"}`}>{kicker}</p>
-      <h2 className={`mt-1 ${size} font-bold uppercase leading-[1.05] tracking-tighter`}>
+      <p className={`mt-3 text-xs font-bold uppercase tracking-widest ${kickerClass || (dark ? "text-white/70" : "text-[#4a5568]")}`}>{kicker}</p>
+      <h2 className="h2 mt-1 uppercase">
         {titlePre && <span className={`block ${dark ? "text-white" : "text-[#101828]"}`}>{titlePre}</span>}
-        <span className="block">
+        <span className={`block ${nowrap ? "whitespace-nowrap" : ""}`}>
           <span className="text-hero-blue">{titleHighlight}</span>
           <span className={dark ? "text-white" : "text-[#101828]"}>{titlePost}</span>
         </span>
@@ -34,11 +34,11 @@ export default function Sec9({ data }) {
   return (
     <>
       {/* ============ about ============ */}
-      <section className="relative overflow-hidden bg-white">
+      <section className="theme-light relative overflow-hidden">
         {/* ===== mobile ===== */}
         <div className="relative bg-white px-4 py-7 md:hidden">
           <Kicker kicker={about.kicker} />
-          <Title {...about} size="text-2xl" />
+          <Title {...about} />
         </div>
         <div className="relative -mt-1 aspect-4/3 w-full overflow-hidden md:hidden">
           <Image src={about.imageMobile} alt="Mercedes-AMG M139 engine on workshop stand" fill className="object-cover" sizes="100vw" />
@@ -75,11 +75,10 @@ export default function Sec9({ data }) {
       </section>
 
       {/* ============ applications by model ============ */}
-      <section className="relative overflow-hidden text-white" style={{ background: "#0d0d0d" }}>
+      <section className="theme-dark relative overflow-hidden">
         {/* ===== mobile ===== */}
         <div className="relative px-4 pt-7 md:hidden">
-          <Kicker kicker={byModel.kicker} dark />
-          <Title {...byModel} size="text-2xl" dark />
+          <Title {...byModel} dark kickerClass="text-hero-blue" />
         </div>
 
         <div className="relative mt-4 aspect-1024/289 w-full overflow-hidden bg-black md:hidden">
@@ -113,9 +112,8 @@ export default function Sec9({ data }) {
           </div>
 
           <div className="relative mx-auto max-w-6xl px-4 py-16 sm:px-6 lg:px-8">
-            <div className="max-w-md">
-              <Kicker kicker={byModel.kicker} dark />
-              <Title {...byModel} dark />
+            <div className="max-w-xl">
+              <Title {...byModel} dark kickerClass="text-hero-blue" />
               <p className="mt-4 text-sm leading-relaxed text-white lg:text-[15px]">{byModel.body}</p>
             </div>
           </div>
@@ -123,11 +121,10 @@ export default function Sec9({ data }) {
       </section>
 
       {/* ============ compatibility ============ */}
-      <section className="relative overflow-hidden bg-white">
+      <section className="theme-light relative overflow-hidden">
         {/* ===== mobile ===== */}
         <div className="relative bg-white px-4 py-7 md:hidden">
-          <Kicker kicker={compatibility.kicker} />
-          <Title {...compatibility} size="text-2xl" />
+          <Title {...compatibility} kickerClass="text-hero-blue" nowrap />
           <p className="mt-4 text-xs leading-relaxed text-[#101828]">{compatibility.body}</p>
           <p className="mt-2 text-xs font-bold leading-relaxed text-[#101828]">{compatibility.boldNote}</p>
 
@@ -162,14 +159,13 @@ export default function Sec9({ data }) {
           </div>
 
           <div className="relative mx-auto grid max-w-6xl grid-cols-[minmax(0,1fr)_minmax(0,1fr)] items-center gap-0 px-4 py-14 sm:px-6 lg:px-8">
-            <div className="max-w-md">
-              <Kicker kicker={compatibility.kicker} />
-              <Title {...compatibility} />
+            <div className="max-w-lg">
+              <Title {...compatibility} kickerClass="text-hero-blue" nowrap />
               <p className="mt-4 text-sm leading-relaxed text-[#101828] lg:text-[15px]">{compatibility.body}</p>
               <p className="mt-3 text-sm font-bold leading-relaxed text-[#101828]">{compatibility.boldNote}</p>
             </div>
 
-            <div className="-ml-10 w-full max-w-69 space-y-3">
+            <div className="w-full max-w-69 space-y-3">
               {compatibility.points.map((p) => (
                 <div key={p.title} className="flex items-center gap-4 rounded-xl border border-black/10 bg-white/55 p-4 shadow-sm backdrop-blur-sm">
                   <Icon name={p.icon} className="h-7 w-7 shrink-0 text-hero-blue" />

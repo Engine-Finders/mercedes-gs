@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES CLK 500 ENGINE",
+    "paragraphs": [
+      "The CLK 500 has been part of the CLK range since 1997, and across its two generations has used two different V8 engines. The earlier C208 generation (1997–2003) uses the M113 — a 5.0-litre V8 that was widely used across Mercedes models of that era. From 2002, the C209-generation CLK 500 switched to the M273, a 5.5-litre V8 that's a different unit entirely, not just a displacement bump. Knowing which one your car has matters, because the components and rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every CLK 500 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES CLK 500 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M113",
+        "codeRest": "(C208)",
+        "body": "A 5.0-litre V8 fitted to the CLK 500 from 1997 to 2003 (C208 generation). No specific known issue confirmed for this application. We service it to the same standard as our other CLK 500 rebuilds, replacing timing chain components, bearings, valve seals, and gaskets as required.",
+        "cta": "Check Your M113 CLK 500",
+        "codeHref": "/mercedes-m113-engine"
+      },
+      {
+        "codeHighlight": "M273",
+        "codeRest": "(C209)",
+        "body": "A 5.5-litre V8 fitted to the CLK 500 from 2002 to 2009 (C209 generation). No specific known issue confirmed for this application. We service it to the same standard as our other CLK 500 rebuilds, replacing timing chain components, bearings, valve seals, and gaskets as required.",
+        "cta": "Check Your M273 CLK 500",
+        "codeHref": "/mercedes-m273-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES CLK 500 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the CLK 500 spans two distinct V8 engines across two generations, fitting the wrong replacement — or assuming an M113 part will work on an M273 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M113",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic CLK quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES CLK 500 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "C208",
+        "chassis": "C208",
+        "years": "1997–2003",
+        "engineCode": "M113",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m113-engine"
+      },
+      {
+        "generation": "C209",
+        "chassis": "C209",
+        "years": "2002–2009",
+        "engineCode": "M273",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m273-engine"
+      }
+    ]
+  }
+}

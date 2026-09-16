@@ -25,16 +25,30 @@ import sec9b from "@/data/engine-family/m139Sec9b.json";
 import sec9c from "@/data/engine-family/m139Sec9c.json";
 import sec10 from "@/data/engine-family/m139Sec10.json";
 import sec11 from "@/data/engine-family/m139Sec11.json";
+import JsonLd from "@/components/shared/JsonLd";
+import { serviceSchema, faqSchema, breadcrumbSchema, graphDoc } from "@/lib/schema";
+
+const PATH = "/mercedes-amg-m139-engine";
+const NAME = [sec1.titlePre, sec1.titleHighlight, sec1.titleLine2].filter(Boolean).join(" ");
+const FAQ = [...(sec11.faq?.faqLeft || []), ...(sec11.faq?.faqRight || [])];
 
 export const metadata = {
   title: "Mercedes-AMG M139 Engine Rebuild & Replacement | From £3,600",
   description:
     "Mercedes-AMG M139 engine rebuild from £3,600. Fitted across 6 models — A-Class, CLA, GLA, C-Class, GLC & SL. 12-month warranty, nationwide recovery. Free quote in 30 mins.",
+  alternates: { canonical: "/mercedes-amg-m139-engine" },
 };
 
 export default function MercedesAMGM139EnginePage() {
   return (
     <>
+      <JsonLd
+        data={graphDoc([
+          serviceSchema({ name: NAME, description: sec1.subhead, path: PATH, price: (sec1.priceCta?.label || sec1.priceCta?.kicker) }),
+          faqSchema(FAQ, PATH),
+          breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Engines", path: "/engines" }, { name: NAME, path: PATH }], PATH),
+        ])}
+      />
       <HeroSec1 data={sec1} />
       <Sec2 data={sec2} />
       <Sec3 data={sec3} />

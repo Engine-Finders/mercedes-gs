@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES VITO 115 116 CDI ENGINE",
+    "paragraphs": [
+      "The Vito 115/116 CDI was produced during the W639 generation from 2003 to 2014, using the OM611 and OM646 2.2-litre diesel four-cylinder engines. The OM646 in particular is shared with the Viano of the same platform and is known for timing chain and injector seal wear as a well-documented specialist pattern. The Vito 115/116 CDI is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every VITO 115 116 CDI on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES VITO 115 116 CDI ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "OM611",
+        "codeRest": "(W639)",
+        "body": "A 2.2-litre I4 diesel fitted to the Vito 115/116 CDI during the W639 generation. Older W638 engines used OM601 and OM611 variants but were offered as 108/109/110/111 CDI, not 115/116 CDI.",
+        "cta": "Check Your OM611 Vito 115 116 CDI",
+        "codeHref": "/mercedes-om611-engine"
+      },
+      {
+        "codeHighlight": "OM646",
+        "codeRest": "(W639)",
+        "body": "A 2.2-litre I4 diesel fitted to the Vito 115/116 CDI across the W639 generation. Known for timing chain wear and injector seal leaks — see the callout above. We replace worn timing chains and injector seals as standard on every OM646 rebuild, along with the gaskets.",
+        "cta": "Check Your OM646 Vito 115 116 CDI",
+        "codeHref": "/mercedes-om646-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES VITO 115 116 CDI ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the Vito 115/116 CDI spans two engine codes across the W639 generation, fitting the wrong replacement — or assuming parts from one engine will work on the other — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM654",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Vito quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES VITO 115 116 CDI ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W639",
+        "chassis": "W639",
+        "years": "2003–2014",
+        "engineCode": "OM611",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om611-engine"
+      },
+      {
+        "generation": "W639",
+        "chassis": "W639",
+        "years": "2003–2014",
+        "engineCode": "OM646",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om646-engine"
+      }
+    ]
+  }
+}

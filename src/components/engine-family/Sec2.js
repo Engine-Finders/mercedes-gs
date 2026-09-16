@@ -6,7 +6,7 @@ export default function Sec2({ data }) {
   const { specs, price } = data;
 
   return (
-    <section className="relative overflow-hidden bg-[#eef2f8] pt-3">
+    <section className="theme-light relative overflow-hidden pt-3">
       {/* ===== mobile ===== */}
       <div className="relative space-y-2 md:hidden">
         {/* specifications */}
@@ -15,17 +15,17 @@ export default function Sec2({ data }) {
             <Image src={specs.imageMobile} alt="Mercedes-AMG M139 engine" fill className="object-cover" sizes="100vw" />
             <div
               className="absolute inset-0"
-              style={{ background: "linear-gradient(to bottom, transparent 0%, transparent 45%, #eef2f8 100%)" }}
+              style={{ background: "linear-gradient(to bottom, transparent 0%, transparent 45%, var(--theme-light-bg) 100%)" }}
             />
           </div>
 
           <div className="relative px-4 pb-7">
-            <h2 className="text-2xl font-bold uppercase leading-[1.05] tracking-tighter">
-              <span className="flex items-center gap-3 text-[#101828]">
+            <h2 className="h2 uppercase">
+              <span className="flex items-center gap-3 whitespace-nowrap text-[#101828]">
                 <MercedesStripe className="h-6 w-12 shrink-0" />
                 Mercedes-AMG M139
               </span>
-              <span className="mt-1 block text-hero-blue" style={{ paddingLeft: "60px" }}>{specs.titleHighlight}</span>
+              <span className="mt-1 block text-hero-blue">{specs.titleHighlight}</span>
             </h2>
 
             <div className="relative mt-3 divide-y divide-black/8 rounded-xl bg-white px-4 shadow-sm">
@@ -38,7 +38,10 @@ export default function Sec2({ data }) {
               ))}
             </div>
 
-            <div className="mt-3 flex items-center gap-3 rounded-xl border border-[#ad875c]/35 bg-[#faf6ee] p-3">
+            <div
+              className="-mx-1.5 mt-3 flex items-center gap-3 rounded-xl border border-[#ad875c]/35 bg-white p-3"
+              style={{ boxShadow: "0 4px 16px -6px rgba(0,0,0,0.12)" }}
+            >
               <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-hero-blue bg-white">
                 <Icon name={specs.prompt.icon} className="h-4 w-4 text-hero-blue" />
               </span>
@@ -59,8 +62,8 @@ export default function Sec2({ data }) {
         {/* rebuild price */}
         <div className="relative overflow-hidden bg-white">
           <div className="relative px-4 pt-7">
-            <h2 className="text-2xl font-bold uppercase leading-[1.05] tracking-tighter">
-              <span className="flex items-center gap-3 text-[#101828]">
+            <h2 className="h2 uppercase">
+              <span className="flex items-center gap-3 whitespace-nowrap text-[#101828]">
                 <MercedesStripe className="h-6 w-12 shrink-0" />
                 Mercedes-AMG M139
               </span>
@@ -106,12 +109,12 @@ export default function Sec2({ data }) {
 
           <div className="relative mx-auto max-w-6xl">
             <div className="relative overflow-hidden rounded-3xl bg-white px-8 py-8 shadow-2xl" style={{ maxWidth: "58%" }}>
-              <h2 className="text-2xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-3xl">
-                <span className="flex items-center gap-3 text-[#101828]">
-                  <MercedesStripe className="h-7 w-14 shrink-0" />
+              <h2 className="h2 uppercase">
+                <span className="flex items-center gap-3 whitespace-nowrap text-[#101828]">
+                  <MercedesStripe className="h-10 w-16 shrink-0" />
                   Mercedes-AMG M139
                 </span>
-                <span className="mt-1 block text-hero-blue" style={{ paddingLeft: "68px" }}>{specs.titleHighlight}</span>
+                <span className="mt-1 block text-hero-blue">{specs.titleHighlight}</span>
               </h2>
 
               <div className="relative mt-6 divide-y divide-black/8">
@@ -125,7 +128,10 @@ export default function Sec2({ data }) {
                 ))}
               </div>
 
-              <div className="mt-4 flex items-center gap-4 rounded-2xl border border-[#ad875c]/35 bg-[#faf6ee] p-4">
+              <div
+                className="-mx-3 mt-4 flex items-center gap-4 rounded-2xl border border-[#ad875c]/35 bg-white p-4"
+                style={{ boxShadow: "0 8px 24px -8px rgba(0,0,0,0.15)" }}
+              >
                 <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-hero-blue bg-white">
                   <Icon name={specs.prompt.icon} className="h-5 w-5 text-hero-blue" />
                 </span>
@@ -156,13 +162,13 @@ export default function Sec2({ data }) {
           </div>
 
           <div className="relative mx-auto max-w-6xl px-4 py-14 sm:px-6 lg:px-8">
-            <div className="max-w-md">
-              <h2 className="text-3xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
-                <span className="flex items-center gap-3 text-[#101828]">
-                  <MercedesStripe className="h-7 w-14 shrink-0" />
+            <div className="max-w-xl">
+              <h2 className="h2 uppercase">
+                <span className="flex items-center gap-3 whitespace-nowrap text-[#101828]">
+                  <MercedesStripe className="h-10 w-16 shrink-0" />
                   Mercedes-AMG M139
                 </span>
-                <span className="mt-1 block text-hero-blue" style={{ paddingLeft: "68px" }}>{price.titleHighlight}</span>
+                <span className="mt-1 block text-hero-blue" style={{ paddingLeft: "76px" }}>{price.titleHighlight}</span>
               </h2>
 
               <div className="mt-6 flex items-center gap-3">

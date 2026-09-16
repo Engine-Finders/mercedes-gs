@@ -1,0 +1,1948 @@
+{
+  "entries": [
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "K9K",
+      "engineHref": "/mercedes-k9k-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "K9K",
+      "engineHref": "/mercedes-k9k-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "K9K",
+      "engineHref": "/mercedes-k9k-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "K9K",
+      "engineHref": "/mercedes-k9k-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "K9K",
+      "engineHref": "/mercedes-k9k-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "K9K",
+      "engineHref": "/mercedes-k9k-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M111",
+      "engineHref": "/mercedes-m111-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M111",
+      "engineHref": "/mercedes-m111-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M111",
+      "engineHref": "/mercedes-m111-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M111",
+      "engineHref": "/mercedes-m111-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M111",
+      "engineHref": "/mercedes-m111-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M111",
+      "engineHref": "/mercedes-m111-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M112",
+      "engineHref": "/mercedes-m112-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M112",
+      "engineHref": "/mercedes-m112-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M112",
+      "engineHref": "/mercedes-m112-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M112",
+      "engineHref": "/mercedes-m112-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M112",
+      "engineHref": "/mercedes-m112-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M112",
+      "engineHref": "/mercedes-m112-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M113",
+      "engineHref": "/mercedes-m113-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M113",
+      "engineHref": "/mercedes-m113-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M113",
+      "engineHref": "/mercedes-m113-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M113",
+      "engineHref": "/mercedes-m113-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M113",
+      "engineHref": "/mercedes-m113-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M113",
+      "engineHref": "/mercedes-m113-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M139L",
+      "engineHref": "/mercedes-m139l-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M139L",
+      "engineHref": "/mercedes-m139l-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M139L",
+      "engineHref": "/mercedes-m139l-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M139L",
+      "engineHref": "/mercedes-m139l-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M139L",
+      "engineHref": "/mercedes-m139l-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M139L",
+      "engineHref": "/mercedes-m139l-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M139",
+      "engineHref": "/mercedes-amg-m139-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M139",
+      "engineHref": "/mercedes-amg-m139-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M139",
+      "engineHref": "/mercedes-amg-m139-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M139",
+      "engineHref": "/mercedes-amg-m139-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M139",
+      "engineHref": "/mercedes-amg-m139-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M139",
+      "engineHref": "/mercedes-amg-m139-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M152",
+      "engineHref": "/mercedes-m152-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M152",
+      "engineHref": "/mercedes-m152-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M152",
+      "engineHref": "/mercedes-m152-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M152",
+      "engineHref": "/mercedes-m152-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M152",
+      "engineHref": "/mercedes-m152-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M152",
+      "engineHref": "/mercedes-m152-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M156",
+      "engineHref": "/mercedes-m156-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M156",
+      "engineHref": "/mercedes-m156-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M156",
+      "engineHref": "/mercedes-m156-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M156",
+      "engineHref": "/mercedes-m156-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M156",
+      "engineHref": "/mercedes-m156-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M156",
+      "engineHref": "/mercedes-m156-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M157",
+      "engineHref": "/mercedes-m157-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M157",
+      "engineHref": "/mercedes-m157-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M157",
+      "engineHref": "/mercedes-m157-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M157",
+      "engineHref": "/mercedes-m157-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M157",
+      "engineHref": "/mercedes-m157-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M157",
+      "engineHref": "/mercedes-m157-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M159",
+      "engineHref": "/mercedes-m159-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M159",
+      "engineHref": "/mercedes-m159-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M159",
+      "engineHref": "/mercedes-m159-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M159",
+      "engineHref": "/mercedes-m159-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M159",
+      "engineHref": "/mercedes-m159-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M159",
+      "engineHref": "/mercedes-m159-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "Vaneo",
+      "modelHref": "/mercedes-vaneo-engines",
+      "engineCode": "M166",
+      "engineHref": "/mercedes-m166-engine",
+      "fuel": "Petrol",
+      "generation": "W414"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M176",
+      "engineHref": "/mercedes-m176-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M176",
+      "engineHref": "/mercedes-m176-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M176",
+      "engineHref": "/mercedes-m176-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M176",
+      "engineHref": "/mercedes-m176-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M176",
+      "engineHref": "/mercedes-m176-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M176",
+      "engineHref": "/mercedes-m176-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M177",
+      "engineHref": "/mercedes-m177-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M177",
+      "engineHref": "/mercedes-m177-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M177",
+      "engineHref": "/mercedes-m177-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M177",
+      "engineHref": "/mercedes-m177-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M177",
+      "engineHref": "/mercedes-m177-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M177",
+      "engineHref": "/mercedes-m177-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M178",
+      "engineHref": "/mercedes-m178-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M178",
+      "engineHref": "/mercedes-m178-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M178",
+      "engineHref": "/mercedes-m178-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M178",
+      "engineHref": "/mercedes-m178-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M178",
+      "engineHref": "/mercedes-m178-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M178",
+      "engineHref": "/mercedes-m178-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M254",
+      "engineHref": "/mercedes-m254-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M254",
+      "engineHref": "/mercedes-m254-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M254",
+      "engineHref": "/mercedes-m254-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M254",
+      "engineHref": "/mercedes-m254-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M254",
+      "engineHref": "/mercedes-m254-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M254",
+      "engineHref": "/mercedes-m254-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "AMG GT",
+      "modelHref": "/mercedes-amg-gt-engines",
+      "engineCode": "M256",
+      "engineHref": "/mercedes-m256-engine",
+      "fuel": "",
+      "generation": "X290"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M256",
+      "engineHref": "/mercedes-m256-engine",
+      "fuel": "",
+      "generation": "W206"
+    },
+    {
+      "model": "E-Class",
+      "modelHref": "/mercedes-e-class-engines",
+      "engineCode": "M256",
+      "engineHref": "/mercedes-m256-engine",
+      "fuel": "",
+      "generation": "W213"
+    },
+    {
+      "model": "GLE-Class",
+      "modelHref": "/mercedes-gle-class-engines",
+      "engineCode": "M256",
+      "engineHref": "/mercedes-m256-engine",
+      "fuel": "",
+      "generation": "W167"
+    },
+    {
+      "model": "GLS",
+      "modelHref": "/mercedes-gls-engines",
+      "engineCode": "M256",
+      "engineHref": "/mercedes-m256-engine",
+      "fuel": "",
+      "generation": "X167"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M260",
+      "engineHref": "/mercedes-m260-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M260",
+      "engineHref": "/mercedes-m260-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M260",
+      "engineHref": "/mercedes-m260-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M260",
+      "engineHref": "/mercedes-m260-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M260",
+      "engineHref": "/mercedes-m260-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M260",
+      "engineHref": "/mercedes-m260-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M264",
+      "engineHref": "/mercedes-m264-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M264",
+      "engineHref": "/mercedes-m264-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M264",
+      "engineHref": "/mercedes-m264-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M264",
+      "engineHref": "/mercedes-m264-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M264",
+      "engineHref": "/mercedes-m264-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M264",
+      "engineHref": "/mercedes-m264-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M270",
+      "engineHref": "/mercedes-m270-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M270",
+      "engineHref": "/mercedes-m270-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M270",
+      "engineHref": "/mercedes-m270-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M270",
+      "engineHref": "/mercedes-m270-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M270",
+      "engineHref": "/mercedes-m270-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M270",
+      "engineHref": "/mercedes-m270-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M271",
+      "engineHref": "/mercedes-m271-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M271",
+      "engineHref": "/mercedes-m271-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M271",
+      "engineHref": "/mercedes-m271-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M271",
+      "engineHref": "/mercedes-m271-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M271",
+      "engineHref": "/mercedes-m271-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M271",
+      "engineHref": "/mercedes-m271-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M272",
+      "engineHref": "/mercedes-m272-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M272",
+      "engineHref": "/mercedes-m272-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M272",
+      "engineHref": "/mercedes-m272-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M272",
+      "engineHref": "/mercedes-m272-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M272",
+      "engineHref": "/mercedes-m272-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M272",
+      "engineHref": "/mercedes-m272-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M273",
+      "engineHref": "/mercedes-m273-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M273",
+      "engineHref": "/mercedes-m273-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M273",
+      "engineHref": "/mercedes-m273-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M273",
+      "engineHref": "/mercedes-m273-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M273",
+      "engineHref": "/mercedes-m273-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M273",
+      "engineHref": "/mercedes-m273-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M274",
+      "engineHref": "/mercedes-m274-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M274",
+      "engineHref": "/mercedes-m274-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M274",
+      "engineHref": "/mercedes-m274-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M274",
+      "engineHref": "/mercedes-m274-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M274",
+      "engineHref": "/mercedes-m274-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M274",
+      "engineHref": "/mercedes-m274-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M276",
+      "engineHref": "/mercedes-m276-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M276",
+      "engineHref": "/mercedes-m276-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M276",
+      "engineHref": "/mercedes-m276-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M276",
+      "engineHref": "/mercedes-m276-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M276",
+      "engineHref": "/mercedes-m276-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M276",
+      "engineHref": "/mercedes-m276-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M278",
+      "engineHref": "/mercedes-m278-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M278",
+      "engineHref": "/mercedes-m278-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M278",
+      "engineHref": "/mercedes-m278-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M278",
+      "engineHref": "/mercedes-m278-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M278",
+      "engineHref": "/mercedes-m278-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M278",
+      "engineHref": "/mercedes-m278-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "M282",
+      "engineHref": "/mercedes-m282-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "M282",
+      "engineHref": "/mercedes-m282-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "M282",
+      "engineHref": "/mercedes-m282-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "M282",
+      "engineHref": "/mercedes-m282-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "M282",
+      "engineHref": "/mercedes-m282-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "M282",
+      "engineHref": "/mercedes-m282-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM601",
+      "engineHref": "/mercedes-om601-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM601",
+      "engineHref": "/mercedes-om601-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM601",
+      "engineHref": "/mercedes-om601-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM601",
+      "engineHref": "/mercedes-om601-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM601",
+      "engineHref": "/mercedes-om601-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM601",
+      "engineHref": "/mercedes-om601-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM602",
+      "engineHref": "/mercedes-om602-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM602",
+      "engineHref": "/mercedes-om602-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM602",
+      "engineHref": "/mercedes-om602-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM602",
+      "engineHref": "/mercedes-om602-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM602",
+      "engineHref": "/mercedes-om602-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM602",
+      "engineHref": "/mercedes-om602-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM606",
+      "engineHref": "/mercedes-om606-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM606",
+      "engineHref": "/mercedes-om606-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM606",
+      "engineHref": "/mercedes-om606-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM606",
+      "engineHref": "/mercedes-om606-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM606",
+      "engineHref": "/mercedes-om606-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM606",
+      "engineHref": "/mercedes-om606-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM607",
+      "engineHref": "/mercedes-om607-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM607",
+      "engineHref": "/mercedes-om607-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM607",
+      "engineHref": "/mercedes-om607-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM607",
+      "engineHref": "/mercedes-om607-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM607",
+      "engineHref": "/mercedes-om607-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM607",
+      "engineHref": "/mercedes-om607-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM608",
+      "engineHref": "/mercedes-om608-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM608",
+      "engineHref": "/mercedes-om608-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM608",
+      "engineHref": "/mercedes-om608-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM608",
+      "engineHref": "/mercedes-om608-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM608",
+      "engineHref": "/mercedes-om608-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM608",
+      "engineHref": "/mercedes-om608-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "Sprinter",
+      "modelHref": "/mercedes-sprinter-engines",
+      "engineCode": "OM611",
+      "engineHref": "/mercedes-om611-engine",
+      "fuel": "Diesel",
+      "generation": "T1N"
+    },
+    {
+      "model": "Vario",
+      "modelHref": "/mercedes-vario-engines",
+      "engineCode": "OM611",
+      "engineHref": "/mercedes-om611-engine",
+      "fuel": "Diesel",
+      "generation": "W670"
+    },
+    {
+      "model": "Vito",
+      "modelHref": "/mercedes-vito-engines",
+      "engineCode": "OM611",
+      "engineHref": "/mercedes-om611-engine",
+      "fuel": "Diesel",
+      "generation": "W638"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM612",
+      "engineHref": "/mercedes-om612-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM612",
+      "engineHref": "/mercedes-om612-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM612",
+      "engineHref": "/mercedes-om612-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM612",
+      "engineHref": "/mercedes-om612-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM612",
+      "engineHref": "/mercedes-om612-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM612",
+      "engineHref": "/mercedes-om612-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM640",
+      "engineHref": "/mercedes-om640-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM640",
+      "engineHref": "/mercedes-om640-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM640",
+      "engineHref": "/mercedes-om640-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM640",
+      "engineHref": "/mercedes-om640-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM640",
+      "engineHref": "/mercedes-om640-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM640",
+      "engineHref": "/mercedes-om640-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "CLS",
+      "modelHref": "/mercedes-cls-engines",
+      "engineCode": "OM642",
+      "engineHref": "/mercedes-om642-engine",
+      "fuel": "Diesel",
+      "generation": "C219"
+    },
+    {
+      "model": "E-Class",
+      "modelHref": "/mercedes-e-class-engines",
+      "engineCode": "OM642",
+      "engineHref": "/mercedes-om642-engine",
+      "fuel": "Diesel",
+      "generation": "W211/W212"
+    },
+    {
+      "model": "GLE-Class",
+      "modelHref": "/mercedes-gle-class-engines",
+      "engineCode": "OM642",
+      "engineHref": "/mercedes-om642-engine",
+      "fuel": "Diesel",
+      "generation": "W166"
+    },
+    {
+      "model": "GLS",
+      "modelHref": "/mercedes-gls-engines",
+      "engineCode": "OM642",
+      "engineHref": "/mercedes-om642-engine",
+      "fuel": "Diesel",
+      "generation": "X166"
+    },
+    {
+      "model": "M-Class",
+      "modelHref": "/mercedes-m-class-engines",
+      "engineCode": "OM642",
+      "engineHref": "/mercedes-om642-engine",
+      "fuel": "Diesel",
+      "generation": "W164/W166"
+    },
+    {
+      "model": "R-Class",
+      "modelHref": "/mercedes-r-class-engines",
+      "engineCode": "OM642",
+      "engineHref": "/mercedes-om642-engine",
+      "fuel": "Diesel",
+      "generation": "W251"
+    },
+    {
+      "model": "Sprinter",
+      "modelHref": "/mercedes-sprinter-engines",
+      "engineCode": "OM642",
+      "engineHref": "/mercedes-om642-engine",
+      "fuel": "Diesel",
+      "generation": "NCV3"
+    },
+    {
+      "model": "Viano",
+      "modelHref": "/mercedes-viano-engines",
+      "engineCode": "OM642",
+      "engineHref": "/mercedes-om642-engine",
+      "fuel": "Diesel",
+      "generation": "W639"
+    },
+    {
+      "model": "Vito",
+      "modelHref": "/mercedes-vito-engines",
+      "engineCode": "OM642",
+      "engineHref": "/mercedes-om642-engine",
+      "fuel": "Diesel",
+      "generation": "W639"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM646",
+      "engineHref": "/mercedes-om646-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM646",
+      "engineHref": "/mercedes-om646-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM646",
+      "engineHref": "/mercedes-om646-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM646",
+      "engineHref": "/mercedes-om646-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM646",
+      "engineHref": "/mercedes-om646-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM646",
+      "engineHref": "/mercedes-om646-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM647",
+      "engineHref": "/mercedes-om647-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM647",
+      "engineHref": "/mercedes-om647-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM647",
+      "engineHref": "/mercedes-om647-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM647",
+      "engineHref": "/mercedes-om647-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM647",
+      "engineHref": "/mercedes-om647-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM647",
+      "engineHref": "/mercedes-om647-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM651",
+      "engineHref": "/mercedes-om651-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM651",
+      "engineHref": "/mercedes-om651-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM651",
+      "engineHref": "/mercedes-om651-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM651",
+      "engineHref": "/mercedes-om651-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM651",
+      "engineHref": "/mercedes-om651-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM651",
+      "engineHref": "/mercedes-om651-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM654",
+      "engineHref": "/mercedes-om654-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM654",
+      "engineHref": "/mercedes-om654-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM654",
+      "engineHref": "/mercedes-om654-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM654",
+      "engineHref": "/mercedes-om654-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM654",
+      "engineHref": "/mercedes-om654-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM654",
+      "engineHref": "/mercedes-om654-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM656",
+      "engineHref": "/mercedes-om656-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM656",
+      "engineHref": "/mercedes-om656-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM656",
+      "engineHref": "/mercedes-om656-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM656",
+      "engineHref": "/mercedes-om656-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM656",
+      "engineHref": "/mercedes-om656-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM656",
+      "engineHref": "/mercedes-om656-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    },
+    {
+      "model": "A-Class",
+      "modelHref": "/mercedes-a-class-engines",
+      "engineCode": "OM668",
+      "engineHref": "/mercedes-om668-engine",
+      "fuel": "Petrol",
+      "generation": "W177"
+    },
+    {
+      "model": "C-Class",
+      "modelHref": "/mercedes-c-class-engines",
+      "engineCode": "OM668",
+      "engineHref": "/mercedes-om668-engine",
+      "fuel": "Petrol",
+      "generation": "W206"
+    },
+    {
+      "model": "CLA",
+      "modelHref": "/mercedes-cla-engines",
+      "engineCode": "OM668",
+      "engineHref": "/mercedes-om668-engine",
+      "fuel": "Petrol",
+      "generation": "C118"
+    },
+    {
+      "model": "GLA-Class",
+      "modelHref": "/mercedes-gla-class-engines",
+      "engineCode": "OM668",
+      "engineHref": "/mercedes-om668-engine",
+      "fuel": "Petrol",
+      "generation": "H247"
+    },
+    {
+      "model": "GLC-Class",
+      "modelHref": "/mercedes-glc-class-engines",
+      "engineCode": "OM668",
+      "engineHref": "/mercedes-om668-engine",
+      "fuel": "Petrol",
+      "generation": "X254"
+    },
+    {
+      "model": "SL",
+      "modelHref": "/mercedes-sl-engines",
+      "engineCode": "OM668",
+      "engineHref": "/mercedes-om668-engine",
+      "fuel": "Petrol",
+      "generation": "R232"
+    }
+  ],
+  "models": [
+    "A-Class",
+    "AMG GT",
+    "C-Class",
+    "CLA",
+    "CLS",
+    "E-Class",
+    "GLA-Class",
+    "GLC-Class",
+    "GLE-Class",
+    "GLS",
+    "M-Class",
+    "R-Class",
+    "SL",
+    "Sprinter",
+    "Vaneo",
+    "Vario",
+    "Viano",
+    "Vito"
+  ],
+  "fuels": [
+    "Diesel",
+    "Petrol"
+  ]
+}
