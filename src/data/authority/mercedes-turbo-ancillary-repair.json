@@ -1,0 +1,244 @@
+{
+  "slug": "mercedes-turbo-ancillary-repair",
+  "metaTitle": "Mercedes Turbo & Ancillary Repair | Mercedes Garage",
+  "metaDescription": "Professional Mercedes-Benz turbocharger and ancillary component repair. Full removal, replacement, actuator calibration and testing. 12-month warranty.",
+  "h1": "Mercedes Turbo & Ancillary Repair Specialists",
+  "lede": "Complete turbocharger and ancillary component repair for all Mercedes-Benz engines – from four-cylinder diesels to AMG V8 biturbos. 12-month warranty on all work.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    },
+    {
+      "label": "Check Now",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec4.webp",
+    "/model/sec3.webp",
+    "/variant/sec5.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Turbo & Ancillary Repair Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our turbocharger and ancillary repair service covers the full diagnosis and replacement of turbocharger units, actuators, wastegate components, and associated oil and coolant lines. The process is carried out to Mercedes-Benz factory standards, using genuine or OEM parts and the correct specialised tools."
+        },
+        {
+          "t": "p",
+          "html": "We follow a systematic approach to ensure the work is done right first time: from initial vehicle preparation, to removing the turbo and its ancillaries, to reinstalling and testing the system under real-world conditions."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Get a Fixed-Price Quote",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "Price depends on model and work required",
+            "We provide a no-obligation fixed quote after inspecting your vehicle. [Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Request your free estimate](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Mercedes-Benz Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Turbocharger and ancillary repairs are common across almost all turbocharged Mercedes-Benz engines. We regularly work on the following models:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "C-Class (W204/W205/W206)",
+              "href": "/mercedes-c-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Key engine families we work on include:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[OM651 (4-cyl diesel)](/mercedes-om651-engine)",
+            "[OM642 (V6 diesel)](/mercedes-om642-engine)",
+            "[OM654 (4-cyl diesel)](/mercedes-om654-engine)",
+            "[M274 (4-cyl petrol)](/mercedes-m274-engine)",
+            "[M276 (V6 petrol)](/mercedes-m276-engine)",
+            "[M177 (V8 AMG biturbo)](/mercedes-m177-engine)",
+            "[M178 (V8 AMG GT)](/mercedes-m178-engine)",
+            "[M256 (I6 mild-hybrid)](/mercedes-m256-engine)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For specific variants, we also cover [C220d](/mercedes-c-class-engines), [E220d](/mercedes-e-class-engines), [S350d](/mercedes-s350d-engines), [G350d](/mercedes-g350d-engines) and many more. [Contact us](/contact) to confirm your model."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Turbo & Ancillary Repair Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "We raise the vehicle, disconnect the battery, and drain coolant (where required). We then remove air ducts, undertrays, and insulation to gain full access to the turbocharger."
+        },
+        {
+          "title": "",
+          "body": "We disconnect oxygen sensors, exhaust joints, and oil/water lines. The turbo unit is unbolted from the exhaust manifold and carefully removed from the engine bay."
+        },
+        {
+          "title": "",
+          "body": "If the actuator or wastegate is faulty, we replace it individually. We also renew all gaskets, seals, and the oil feed/return lines, which are critical for long-term reliability."
+        },
+        {
+          "title": "",
+          "body": "We pre-lubricate the new turbo with clean engine oil, then reinstall all components using factory torque specifications. We refill coolant and oil as required."
+        },
+        {
+          "title": "",
+          "body": "Using Mercedes-Benz Star Diagnostic (XENTRY), we calibrate the actuator and verify that boost pressure and wastegate operation meet factory parameters."
+        },
+        {
+          "title": "",
+          "body": "We road-test the vehicle under real driving conditions, monitoring boost, response, and engine behaviour. We only hand the car back once everything is perfect."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "Get a quote for your Mercedes"
+        },
+        {
+          "t": "p",
+          "html": "Enter your registration for a fast, no-obligation estimate for turbo or ancillary repairs."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage for Turbo Repairs",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Specialised tools and knowledge** – we use Mercedes-Benz Star Diagnostic and factory-spec torque procedures.",
+            "**Genuine or OEM parts** – we always replace oil lines, seals, and gaskets with high-quality components.",
+            "**12-month unlimited-mileage warranty** – on all turbo and ancillary work.",
+            "**Under 30-minute quote turnaround** – during working hours.",
+            "**Nationwide recovery** – from £70, we can collect your vehicle if needed.",
+            "**Calibration and testing** – we don't just fit parts; we test and calibrate to ensure optimal performance."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works – From Quote to Collection",
+      "steps": [
+        {
+          "title": "",
+          "body": "Contact us with your vehicle details. We'll provide a fixed-price estimate within 30 minutes during working hours."
+        },
+        {
+          "title": "",
+          "body": "Bring your car to our Essex workshop, or arrange nationwide recovery (from £70) for collection."
+        },
+        {
+          "title": "",
+          "body": "Our technicians carry out the repair, including calibration and road testing. Typical turnaround is 2-4 days, depending on parts availability."
+        },
+        {
+          "title": "",
+          "body": "We'll call you when your Mercedes is ready. We can also arrange delivery back to you."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Engine Replacement](/mercedes-engine-replacement)",
+            "[Nationwide Engine Recovery](/mercedes-engine-recovery)",
+            "[Diesel Timing Chain & Injector Repair](/mercedes-diesel-timing-chain-repair)",
+            "[AMG V8 Valve Seal & Coolant Repair](/mercedes-amg-v8-valve-seal-repair)",
+            "[Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does a Mercedes turbo repair take?",
+          "a": "Most turbocharger and ancillary repairs are completed within **2-4 working days**. This includes removal, replacement, calibration, and road testing. Complex “Hot V” engines (e.g. AMG V8) may take longer – we'll advise you when quoting."
+        },
+        {
+          "q": "Do you replace the oil lines when fitting a new turbo?",
+          "a": "Yes – we always replace both the oil feed and return lines along with all seals and gaskets. This is a critical step to ensure the new turbo receives clean oil and drains properly, preventing premature failure."
+        },
+        {
+          "q": "Is calibration needed after turbo replacement?",
+          "a": "Yes – for engines with electronic actuators or variable geometry (VGT), we use Mercedes-Benz Star Diagnostic (XENTRY) to perform actuator calibration and reset adaptations. This ensures correct boost control and engine management."
+        },
+        {
+          "q": "Can you repair just the actuator without replacing the whole turbo?",
+          "a": "In many cases, yes. We can replace the actuator or wastegate components separately, which can save you the cost of a full turbo replacement. We'll advise on the most cost-effective option after inspection."
+        },
+        {
+          "q": "Do you work on AMG biturbo engines?",
+          "a": "Yes – we have extensive experience with AMG M157, M177, and M178 V8 biturbo engines, including the complex “Hot V” layout. We have the specialised tools and knowledge to perform these repairs to the highest standard."
+        }
+      ]
+    }
+  ]
+}

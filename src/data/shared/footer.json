@@ -1,48 +1,196 @@
 {
-  "brand": "MERCEDESENGINES.UK",
-  "blurb": "Mercedes-Benz engine rebuild specialists. OM651, OM642, AMG V8, V12 & more. Cars, SUVs, AMG and commercial vehicles. Fixed-price quotes, 12-month unlimited-mileage warranty.",
+  "brand": "MERCEDES GARAGE",
+  "blurb": "Mercedes-Benz engine rebuild specialists. OM651, OM642, AMG V8 & more — cars, SUVs, AMG and commercial vehicles. Fixed-price quotes, 12-month unlimited-mileage warranty.",
   "columns": [
     {
       "title": "Company",
       "links": [
-        { "label": "About Us", "href": "/about" },
-        { "label": "Our Workshop", "href": "/about#workshop" },
-        { "label": "Recovery", "href": "/recovery" },
-        { "label": "Contact", "href": "/contact" }
+        {
+          "label": "About Us",
+          "href": "/about"
+        },
+        {
+          "label": "Contact",
+          "href": "/contact"
+        },
+        {
+          "label": "Financing & Payment",
+          "href": "/financing"
+        },
+        {
+          "label": "Pricing & Legal Disclaimer",
+          "href": "/pricing-legal-disclaimer"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "/privacy-policy"
+        },
+        {
+          "label": "Terms & Conditions",
+          "href": "/terms-and-conditions"
+        },
+        {
+          "label": "Warranty",
+          "href": "/warranty"
+        }
       ]
     },
     {
-      "title": "Engines",
+      "title": "Popular Engines",
       "links": [
-        { "label": "OM651", "href": "/mercedes-om651-engine" },
-        { "label": "OM642", "href": "/mercedes-om642-engine" },
-        { "label": "M271", "href": "/mercedes-m271-engine" },
-        { "label": "OM654", "href": "/mercedes-om654-engine" },
-        { "label": "AMG V8", "href": "/mercedes-amg-v8-engine" },
-        { "label": "M275", "href": "/mercedes-m275-engine" }
+        {
+          "label": "Mercedes AMG M139",
+          "href": "/mercedes-amg-m139-engine"
+        },
+        {
+          "label": "Mercedes K9K",
+          "href": "/mercedes-k9k-engine"
+        },
+        {
+          "label": "Mercedes M111",
+          "href": "/mercedes-m111-engine"
+        },
+        {
+          "label": "Mercedes M112",
+          "href": "/mercedes-m112-engine"
+        },
+        {
+          "label": "Mercedes M113",
+          "href": "/mercedes-m113-engine"
+        },
+        {
+          "label": "Mercedes M139l",
+          "href": "/mercedes-m139l-engine"
+        },
+        {
+          "label": "Mercedes M152",
+          "href": "/mercedes-m152-engine"
+        },
+        {
+          "label": "Mercedes M156",
+          "href": "/mercedes-m156-engine"
+        },
+        {
+          "label": "Mercedes M157",
+          "href": "/mercedes-m157-engine"
+        },
+        {
+          "label": "Mercedes M159",
+          "href": "/mercedes-m159-engine"
+        }
       ]
     },
     {
-      "title": "Symptoms",
+      "title": "Popular Models",
       "links": [
-        { "label": "Timing Chain Noise", "href": "/symptoms/timing-chain-noise" },
-        { "label": "White Smoke", "href": "/symptoms/white-smoke" },
-        { "label": "Blue Smoke", "href": "/symptoms/blue-smoke" },
-        { "label": "Engine Overheating", "href": "/symptoms/engine-overheating" }
+        {
+          "label": "Mercedes A Class",
+          "href": "/mercedes-a-class-engines"
+        },
+        {
+          "label": "Mercedes AMG GT",
+          "href": "/mercedes-amg-gt-engines"
+        },
+        {
+          "label": "Mercedes B Class",
+          "href": "/mercedes-b-class-engines"
+        },
+        {
+          "label": "Mercedes C Class",
+          "href": "/mercedes-c-class-engines"
+        },
+        {
+          "label": "Mercedes Citan",
+          "href": "/mercedes-citan-engines"
+        },
+        {
+          "label": "Mercedes CLA",
+          "href": "/mercedes-cla-engines"
+        },
+        {
+          "label": "Mercedes CLC Class",
+          "href": "/mercedes-clc-class-engines"
+        },
+        {
+          "label": "Mercedes CLK",
+          "href": "/mercedes-clk-engines"
+        },
+        {
+          "label": "Mercedes CLS",
+          "href": "/mercedes-cls-engines"
+        },
+        {
+          "label": "Mercedes E Class",
+          "href": "/mercedes-e-class-engines"
+        }
+      ]
+    },
+    {
+      "title": "Guides",
+      "links": [
+        {
+          "label": "Mercedes 4-Cylinder Timing Chain Repair (M270/M274)",
+          "href": "/mercedes-4cyl-timing-chain-repair"
+        },
+        {
+          "label": "Mercedes AMG V8 Valve Seal & Coolant Repair",
+          "href": "/mercedes-amg-v8-valve-seal-repair"
+        },
+        {
+          "label": "Mercedes Cylinder Head Repair & Rebuild",
+          "href": "/mercedes-cylinder-head-repair"
+        },
+        {
+          "label": "Mercedes Diesel Timing Chain & Injector Repair",
+          "href": "/mercedes-diesel-timing-chain-repair"
+        },
+        {
+          "label": "Mercedes Engine Bearing Replacement",
+          "href": "/mercedes-engine-bearing-replacement"
+        },
+        {
+          "label": "Mercedes Engine Machining & Rebuild Preparation",
+          "href": "/mercedes-engine-machining"
+        },
+        {
+          "label": "Mercedes Oil Leak & Gasket Repair",
+          "href": "/mercedes-oil-leak-gasket-repair"
+        },
+        {
+          "label": "Mercedes OM654 Coolant System Repair",
+          "href": "/mercedes-om654-coolant-repair"
+        },
+        {
+          "label": "Mercedes Turbo & Ancillary Repair",
+          "href": "/mercedes-turbo-ancillary-repair"
+        },
+        {
+          "label": "Mercedes-AMG Performance Engine Rebuild",
+          "href": "/mercedes-amg-performance-engine-rebuild"
+        }
       ]
     }
   ],
   "contact": {
     "address": "Unit A5 Windsor Road, Commercial Estate, Ramsden Heath, Billericay, CM11 1QE",
-    "phone": "+44 01268 944 234",
+    "phone": "0203 488 4649",
+    "whatsapp": "07975 827 396",
     "email": "info@mercedesgarage.uk",
-    "hours": "Mo-Fr 09:00-18:00, Sa 11:00-14:00"
+    "hours": "Mon–Fri 9am–6pm · Sat 11am–2pm"
   },
   "social": [
-    { "label": "Facebook", "href": "https://facebook.com/mercedesrebuildgarageuk" },
-    { "label": "Twitter", "href": "https://twitter.com/mercedesrebuildgarageuk" },
-    { "label": "Instagram", "href": "https://instagram.com/mercedesrebuildgarageuk" },
-    { "label": "TikTok", "href": "https://tiktok.com/@mercedesrebuildgarageuk" }
+    {
+      "label": "Facebook",
+      "href": "https://facebook.com/mercedesrebuildgarageuk"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://instagram.com/mercedesrebuildgarageuk"
+    },
+    {
+      "label": "TikTok",
+      "href": "https://tiktok.com/@mercedesrebuildgarageuk"
+    }
   ],
-  "copyright": "© 2026 Mercedes Garage. All rights reserved. Independent Mercedes-Benz specialist — not affiliated with Mercedes-Benz AG."
+  "copyright": "© 2026 Mercedes Garage — a trading name of JLR Engine Specialists Ltd (Company No. 16500838). Independent Mercedes-Benz specialist, not affiliated with Mercedes-Benz AG."
 }

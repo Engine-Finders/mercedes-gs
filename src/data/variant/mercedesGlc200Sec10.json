@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLC200 ENGINE",
+    "paragraphs": [
+      "The GLC200 has been part of the GLC-Class range since the model launched in 2015, spanning two generations under one badge. The X253 generation (2015–2022) uses the M274 — a 2.0-litre four-cylinder petrol engine shared across a wide range of Mercedes models of that era. From 2022, the X254-generation GLC200 switched to the M254, a newer 2.0-litre four-cylinder unit with mild-hybrid technology that delivers the same 255hp but with more torque (295 lb-ft vs the earlier 258 lb-ft). Knowing which one your car has matters, because the components and rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLC200 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLC200 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M274",
+        "codeRest": "(X253, 2015–2022)",
+        "body": "A 2.0-litre four-cylinder petrol fitted to the GLC200 from 2015 to 2022. No widely-reported specific issue has been independently confirmed for this engine in the GLC200 application, but we replace timing chains, bearings and gaskets as standard on every rebuild.",
+        "cta": "Check Your M274 GLC200",
+        "codeHref": "/mercedes-m274-engine"
+      },
+      {
+        "codeHighlight": "M254",
+        "codeRest": "(X254, 2022–present)",
+        "body": "The current 2.0-litre four-cylinder petrol with mild-hybrid technology, fitted from 2022. This is a different unit from the M274, with its own design features including an integrated starter-generator. No widely-reported specific issue has been independently confirmed for this engine in the GLC200 application, but we service it to the same high standard as our other GLC-Class rebuilds.",
+        "cta": "Check Your M254 GLC200",
+        "codeHref": "/mercedes-m254-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLC200 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the GLC200 spans two distinct engines across two generations, fitting the wrong replacement — or assuming an M274 part will work on an M254 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M274",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLC200 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X253",
+        "chassis": "X253",
+        "years": "2015–2022",
+        "engineCode": "M274",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m274-engine"
+      },
+      {
+        "generation": "X254",
+        "chassis": "X254",
+        "years": "2022–present",
+        "engineCode": "M254",
+        "fuel": "Petrol MHEV",
+        "codeHref": "/mercedes-m254-engine"
+      }
+    ]
+  }
+}

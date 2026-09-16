@@ -1,0 +1,51 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Mercedes GLE-Class Variant",
+  "tabs": [
+    "All Variants"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Mercedes GLE300d",
+        "href": "/mercedes-gle300d-engines"
+      },
+      {
+        "label": "GLE350d",
+        "href": "/mercedes-gle350d-engines"
+      },
+      {
+        "label": "GLE400d",
+        "href": "/mercedes-gle400d-engines"
+      },
+      {
+        "label": "GLE450",
+        "href": "/mercedes-gle450-engines"
+      },
+      {
+        "label": "GLE580",
+        "href": "/mercedes-gle580-engines"
+      },
+      {
+        "label": "GLE53 AMG",
+        "href": "/mercedes-gle53-amg-engines"
+      },
+      {
+        "label": "GLE63 AMG",
+        "href": "/mercedes-gle63-amg-engines"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

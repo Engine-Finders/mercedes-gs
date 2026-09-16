@@ -6,7 +6,7 @@ export default function VariantSec3({ data }) {
   return (
     <section className="theme-light relative overflow-hidden">
       {/* ===== mobile ===== */}
-      <div className="relative px-4 py-10 md:hidden">
+      <div className="relative px-4 pb-10 pt-7 md:hidden">
         <h2 className="h2 uppercase">
           <span className="block text-[#101828]">{data.headlinePre}</span>
           <span className="block text-hero-blue">{data.headlineHighlight}</span>

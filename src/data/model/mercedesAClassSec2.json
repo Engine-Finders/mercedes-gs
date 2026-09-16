@@ -1,0 +1,40 @@
+{
+  "kicker": "Known Issue",
+  "h2": "Mercedes A-Class|**OM640** Timing|Chain Issues?",
+  "description": "The W176's OM640 diesel is known for timing chain and injector seal wear, a pattern shared across general Mercedes diesel specialist consensus. The newer W177's OM607 shows a similar but less prevalent pattern. We replace worn timing chains and injector seals as standard.",
+  "descriptionEmphasis": "No hidden extras.",
+  "image": "/model/sec2.webp",
+  "imageMobile": "/model/sec2_mobile.webp",
+  "callout": {
+    "icon": "shield-check",
+    "title": "A Well-Documented Issue",
+    "body": "OM651 injector seal leaks and timing chain wear are widely documented across Mercedes specialist forums and official TSBs."
+  },
+  "heroHook": {
+    "icon": "shield-check",
+    "title": "Include In Hero Hook:",
+    "body": "Yes — both verified: OM651 widely documented with multiple TSBs; M156 pre-2012 established AMG specialist pattern."
+  },
+  "features": [
+    {
+      "icon": "link",
+      "title": "New Timing Chains",
+      "body": "Replaced as standard (where worn or damaged)"
+    },
+    {
+      "icon": "gear",
+      "title": "New Tensioners",
+      "body": "For maximum reliability"
+    },
+    {
+      "icon": "guide",
+      "title": "New Injector Seals",
+      "body": "Updated OEM components"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Peace Of Mind",
+      "body": "No hidden extras — just a stronger, longer-lasting engine"
+    }
+  ]
+}

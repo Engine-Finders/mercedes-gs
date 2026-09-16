@@ -1,0 +1,202 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "MERCEDES SLK200 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the R190's launch in 2023, the SLK200 has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1996",
+      "generation": "R170",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "1997",
+      "generation": "R170",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "1998",
+      "generation": "R170",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "1999",
+      "generation": "R170",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "2000",
+      "generation": "R170",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "2001",
+      "generation": "R170",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "2002",
+      "generation": "R170",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "2003",
+      "generation": "R170",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "2004",
+      "generation": "R170/R171",
+      "engineCode": "M111/M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "2005",
+      "generation": "R171",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2006",
+      "generation": "R171",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2007",
+      "generation": "R171",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2008",
+      "generation": "R171",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2009",
+      "generation": "R171",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2010",
+      "generation": "R171",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2011",
+      "generation": "R171/R172",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2012",
+      "generation": "R172",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2013",
+      "generation": "R172",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2014",
+      "generation": "R172",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2015",
+      "generation": "R172",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2016",
+      "generation": "R172",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "The M256",
+    "rest": " has been fitted to every SLK200 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

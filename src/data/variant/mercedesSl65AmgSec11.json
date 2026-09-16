@@ -1,0 +1,181 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "MERCEDES SL65 AMG ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the R190's launch in 2023, the SL65 AMG has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2001",
+      "generation": "R230",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2002",
+      "generation": "R230",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2003",
+      "generation": "R230",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2004",
+      "generation": "R230",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2005",
+      "generation": "R230",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2006",
+      "generation": "R230",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2007",
+      "generation": "R230",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2008",
+      "generation": "R230",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2009",
+      "generation": "R230",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2010",
+      "generation": "R230",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2011",
+      "generation": "R230",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2012",
+      "generation": "R230/R231",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2013",
+      "generation": "R231",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2014",
+      "generation": "R231",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2015",
+      "generation": "R231",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2016",
+      "generation": "R231",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2017",
+      "generation": "R231",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2018",
+      "generation": "R231",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2019",
+      "generation": "R231",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2020",
+      "generation": "R231",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2021",
+      "generation": "R231",
+      "engineCode": "M275",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement"
+    }
+  ],
+  "notice": {
+    "highlight": "The M256",
+    "rest": " has been fitted to every SL65 AMG since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

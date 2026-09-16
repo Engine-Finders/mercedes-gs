@@ -1,0 +1,109 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SL320 SL350 ENGINE",
+    "paragraphs": [
+      "The SL320/SL350 has been part of the SL range since 1989, and across its three generations has used three different engines — from the M112 through to the M276. The full breakdown by engine code is below. The SL320/SL350 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SL320 SL350 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SL320 SL350 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M112",
+        "codeRest": "",
+        "body": "A 3.0‑litre or 3.2‑litre V6 petrol engine fitted to the R129 generation (1989‑2002) and early R230 models. No specific known issue has been independently confirmed for this engine in SL320/SL350 applications this session. We replace timing chains, bearings and gaskets as standard on every M112 rebuild.",
+        "cta": "Check Your M112 SL320 SL350",
+        "codeHref": "/mercedes-m112-engine"
+      },
+      {
+        "codeHighlight": "M272",
+        "codeRest": "",
+        "body": "A 3.5‑litre V6 petrol engine that replaced the M112 in later R230 and early R231 models. No specific known issue has been independently confirmed for this engine in SL350 applications this session. We replace timing chains, bearings and gaskets as standard on every M272 rebuild.",
+        "cta": "Check Your M272 SL320 SL350",
+        "codeHref": "/mercedes-m272-engine"
+      },
+      {
+        "codeHighlight": "M276",
+        "codeRest": "",
+        "body": "A 3.5‑litre V6 petrol engine used in the later R231 generation. No specific known issue has been independently confirmed for this engine in SL350 applications this session. We replace timing chains, bearings and gaskets as standard on every M276 rebuild.",
+        "cta": "Check Your M276 SL320 SL350",
+        "codeHref": "/mercedes-m276-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SL320 SL350 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the SL320/SL350 spans three distinct V6 engines across its generations, fitting the wrong replacement — or assuming an M272 part will work on an M276 car — risks a compatibility problem that’s expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M112",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic SL quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SL320 SL350 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "R129",
+        "chassis": "R129",
+        "years": "1989‑2002",
+        "engineCode": "M112",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m112-engine"
+      },
+      {
+        "generation": "R230",
+        "chassis": "R230",
+        "years": "2001‑2012",
+        "engineCode": "M112 / M272",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m112-engine"
+      },
+      {
+        "generation": "R231",
+        "chassis": "R231",
+        "years": "2012‑2021",
+        "engineCode": "M272 / M276",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m272-engine"
+      }
+    ]
+  }
+}

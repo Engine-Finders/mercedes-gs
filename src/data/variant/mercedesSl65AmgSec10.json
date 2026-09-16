@@ -1,0 +1,85 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SL65 AMG ENGINE",
+    "paragraphs": [
+      "The SL65 AMG was the flagship V12 variant of the SL range, produced across two generations from 2001 to 2021. Both the R230 (2001–2012) and R231 (2012–2021) generations use the M275 — a 6.0-litre twin-turbo V12 that was hand-assembled by AMG. The R231 continued with the same M275 engine after its 2012 launch, making the SL65 AMG one of the last Mercedes models to carry the V12 powertrain before it was discontinued from the SL line-up. The SL65 AMG is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SL65 AMG on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SL65 AMG ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SL65 AMG from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 SL65 AMG",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SL65 AMG ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the SL65 AMG spans two generations with the same engine code but different chassis and ancillary systems, fitting the wrong replacement — or assuming an R230 part will work on an R231 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M275",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic SL quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SL65 AMG ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "R230",
+        "chassis": "R230",
+        "years": "2001–2012",
+        "engineCode": "M275",
+        "fuel": "Petrol Twin-Turbo"
+      },
+      {
+        "generation": "R231",
+        "chassis": "R231",
+        "years": "2012–2021",
+        "engineCode": "M275",
+        "fuel": "Petrol Twin-Turbo"
+      }
+    ]
+  }
+}

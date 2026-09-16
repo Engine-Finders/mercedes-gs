@@ -1,0 +1,287 @@
+{
+  "slug": "mercedes-repair-vs-rebuild",
+  "metaTitle": "Mercedes-Benz Repair vs Full Rebuild | Mercedes Garage",
+  "metaDescription": "Understand the difference between a targeted engine repair and a full engine rebuild for your Mercedes-Benz. Decision factors, process differences, and guidance from our specialists.",
+  "h1": "Mercedes-Benz: Repair vs Full Engine Rebuild",
+  "lede": "Not every engine issue needs a full rebuild. We help you decide between a targeted repair and a complete factory-spec rebuild – based on damage, vehicle value, and your long-term plans.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    },
+    {
+      "label": "Get Advice",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec9_bottom.webp",
+    "/variant/sec3.webp",
+    "/engine/sec3.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "Repair or Rebuild – Which Is Right for Your Mercedes?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When your Mercedes-Benz engine needs attention, you have two main paths: a targeted repair to fix a specific issue, or a full rebuild that restores the engine to factory specifications. The right choice depends on the extent of damage, parts availability, the vehicle's condition, and your ownership plans."
+        },
+        {
+          "t": "p",
+          "html": "We provide expert guidance and a no-obligation inspection to help you make an informed decision. Our fixed-price quotes are transparent, and we only recommend the work that genuinely benefits your vehicle."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Pricing Clarity",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "We provide a fixed price after inspection",
+            "Repairs start from a lower cost than full rebuilds, but we always quote accurately after assessing your engine. [Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Request an inspection and quote](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Technical Meaning & Process Differences",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "Engine Repair"
+        },
+        {
+          "t": "p",
+          "html": "**Definition:** A targeted intervention to fix a specific problem without fully disassembling the engine. For example, replacing a faulty injector, fixing an oil leak, or changing a worn timing chain tensioner."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Scope:** Minimal intervention – only the faulty part is addressed.",
+            "**Machining:** Typically none.",
+            "**Labour:** Shorter, focused time.",
+            "**Testing:** Limited to confirming the repair."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Full Engine Rebuild"
+        },
+        {
+          "t": "p",
+          "html": "**Definition:** Complete disassembly to the bare block, inspection, cleaning, machining (if needed), replacement of all worn parts, and reassembly to factory specifications."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Scope:** Complete teardown – all components checked.",
+            "**Machining:** Boring, honing, grinding, surfacing as required.",
+            "**Labour:** Additional 10-15 hours on top of removal/refit.",
+            "**Testing:** Full dyno and road testing."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We use Mercedes-Benz factory procedures and genuine/OEM parts for both repairs and rebuilds."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Key Decision Factors – How We Choose",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "Extent of Damage"
+        },
+        {
+          "t": "p",
+          "html": "Localised issue (e.g. a single injector) → repair. Major wear, scoring, or overheating → rebuild or replacement."
+        },
+        {
+          "t": "h3",
+          "text": "Parts Availability"
+        },
+        {
+          "t": "p",
+          "html": "If genuine or OEM parts are available and affordable, rebuild is viable. For rare engines, we source accordingly."
+        },
+        {
+          "t": "h3",
+          "text": "Vehicle Value & Condition"
+        },
+        {
+          "t": "p",
+          "html": "A well-maintained, low-mileage Mercedes is worth a rebuild. For a car with extensive body or structural issues, a repair may be more economical."
+        },
+        {
+          "t": "h3",
+          "text": "Long-Term Plans"
+        },
+        {
+          "t": "p",
+          "html": "If you plan to keep the car for years, a rebuild gives long-term reliability. A repair solves an immediate problem for shorter ownership."
+        },
+        {
+          "t": "p",
+          "html": "We always discuss these factors with you during our inspection. [Book a consultation →](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Models & Engines We Commonly Work On",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Whether it's a repair or a rebuild, we cover the entire Mercedes-Benz range. Below are some of the most frequent models we see in our workshop:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "C-Class (W204/W205/W206)",
+              "href": "/mercedes-c-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Key variants and engines we repair or rebuild regularly:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[C220d (OM651)](/mercedes-c-class-engines)",
+            "[E220d (OM654)](/mercedes-e-class-engines)",
+            "[S350d (OM642)](/mercedes-s350d-engines)",
+            "[G350d (OM642)](/mercedes-g350d-engines)",
+            "[Sprinter 316 CDI (OM651)](/mercedes-sprinter-313319-cdi-engines)",
+            "[A180d (OM607)](/mercedes-a-class-engines)",
+            "[E63 AMG (M177)](/mercedes-e-class-engines)",
+            "[C63 AMG (M156/M177)](/mercedes-c-class-engines)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Not sure which option is right for your model? [Get in touch](/contact) and we'll advise."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Approach – For Repairs and Rebuilds",
+      "steps": [
+        {
+          "title": "",
+          "body": "We perform a thorough inspection, including compression and leak-down tests, to identify the exact issue."
+        },
+        {
+          "title": "",
+          "body": "We present you with clear options – repair vs rebuild – with costs and benefits explained, so you can choose."
+        },
+        {
+          "title": "",
+          "body": "Once you approve, we carry out the work using Mercedes-specific tools and genuine/OEM parts."
+        },
+        {
+          "title": "",
+          "body": "We test the engine thoroughly – dyno for rebuilds, road test for both – and hand the car back with a 12-month warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Expert guidance** – we help you decide between repair and rebuild based on real engineering assessment, not a sales pitch.",
+            "**Mercedes-specialist tools** – Star Diagnostic, factory timing tools, and full machine shop capability.",
+            "**12-month unlimited-mileage warranty** – on both repairs and rebuilds.",
+            "**Transparent fixed pricing** – quoted after inspection, no hidden surprises.",
+            "**Nationwide recovery** – we can collect your vehicle from anywhere in the UK."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Read more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Engine Replacement](/mercedes-engine-replacement)",
+            "[Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Diesel Timing Chain Repair](/mercedes-diesel-timing-chain-repair)",
+            "[Turbo & Ancillary Repair](/mercedes-turbo-ancillary-repair)",
+            "[Rebuild vs Replacement](/mercedes-rebuild-vs-replacement)",
+            "[Rebuild vs Used Engine](/mercedes-rebuild-vs-used)",
+            "[Rebuild vs Remanufactured](/mercedes-rebuild-vs-remanufactured)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How do I know if my Mercedes needs a repair or a full rebuild?",
+          "a": "The decision depends on the extent of damage, the engine's condition, and your ownership plans. We perform a full inspection and provide a clear recommendation with cost estimates for both options."
+        },
+        {
+          "q": "Is a repair always cheaper than a rebuild?",
+          "a": "Typically, yes – but not always. If multiple components are failing, a rebuild may be more cost-effective in the long run than repeated repairs. We'll show you the total cost of ownership comparison."
+        },
+        {
+          "q": "How long does a repair take compared to a rebuild?",
+          "a": "A repair can be completed in 1-3 days depending on parts availability. A full rebuild typically takes 5-8 working days, including machining and dyno testing."
+        },
+        {
+          "q": "Do you offer a warranty on both repairs and rebuilds?",
+          "a": "Yes – all work we carry out is backed by our 12-month unlimited-mileage warranty, whether it's a repair or a full rebuild."
+        },
+        {
+          "q": "Can I bring my car in for a free inspection?",
+          "a": "We offer a thorough inspection and diagnostic assessment for a fixed fee, which is then deducted from the final repair/rebuild cost. Contact us for details."
+        }
+      ]
+    }
+  ]
+}

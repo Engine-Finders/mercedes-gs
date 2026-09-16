@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES CLS 500 ENGINE",
+    "paragraphs": [
+      "The CLS 500 was a V8-powered mainstay of the original CLS range, spanning two generations from 2004 to 2018. The first-generation C219 (2004–2010) uses the M273 — a 5.5-litre naturally aspirated V8. The second-generation C218 (2010–2018) switched to the M278, a 4.7-litre twin-turbo V8 — a genuinely different engine with a different character and layout. Knowing which one your car has matters, because the components and rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every CLS 500 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES CLS 500 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M273",
+        "codeRest": "(C219, 2004–2010)",
+        "body": "A 5.5-litre naturally aspirated V8 fitted to the first-generation CLS 500. No specific known issue has been independently confirmed for this engine in this application.",
+        "cta": "Check Your M273 CLS 500",
+        "codeHref": "/mercedes-m273-engine"
+      },
+      {
+        "codeHighlight": "M278",
+        "codeRest": "(C218, 2010–2018)",
+        "body": "A 4.7-litre twin-turbo V8 fitted to the second-generation CLS 500. No specific known issue has been independently confirmed for this engine in this application.",
+        "cta": "Check Your M278 CLS 500",
+        "codeHref": "/mercedes-m278-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES CLS 500 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the CLS 500 spans two distinct V8 engines across two generations, fitting the wrong replacement — or assuming an M273 part will work on an M278 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM642",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic CLS quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES CLS 500 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "C219",
+        "chassis": "C219",
+        "years": "2004–2010",
+        "engineCode": "M273",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m273-engine"
+      },
+      {
+        "generation": "C218",
+        "chassis": "C218",
+        "years": "2010–2018",
+        "engineCode": "M278",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m278-engine"
+      }
+    ]
+  }
+}

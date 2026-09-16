@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES G55 AMG ENGINE",
+    "paragraphs": [
+      "The G55 AMG was the original AMG‑modified G‑Class, produced across the W463 generation from 1999 to 2011. It uses the M113 supercharged V8 — a 5.4‑litre to 5.5‑litre unit with a belt‑driven supercharger, officially called the Kompressor on Mercedes models of that era. Unlike later twin‑turbo G63s, the G55 AMG's M113 is a naturally‑aspirated M113 block with a supercharger added, giving it a distinctive power delivery and a simpler top‑end layout than the later bi‑turbo V8s. The G55 AMG was eventually replaced by the twin‑turbo G63 AMG in 2012, but remains a highly sought‑after classic‑era AMG G‑Class."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every G55 AMG on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES G55 AMG ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the G55 AMG from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 G55 AMG",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES G55 AMG ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The G55 AMG's M113 supercharged V8 is unique to this specific G‑Class variant within the AMG range — it's not the same as the later M157 or M177 twin‑turbo units, and not the same as the naturally‑aspirated M113 found in other Mercedes models. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M113",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic G-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES G55 AMG ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W463",
+        "chassis": "W463 (pre‑2018)",
+        "years": "1999–2011",
+        "engineCode": "M113 supercharged",
+        "fuel": "Petrol Supercharged",
+        "codeHref": "/mercedes-m113-engine"
+      }
+    ]
+  }
+}

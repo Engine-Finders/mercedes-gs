@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/engine/sec9_top.webp",
+    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "kicker": "ABOUT THE",
+    "titlePre": "MERCEDES-AMG",
+    "titleHighlight": "M139L",
+    "titlePost": " ENGINE",
+    "body": "The M139L is the most powerful four-cylinder engine ever offered from the factory, developed by Mercedes-AMG. In S guise, it produces 421 hp from just 2.0 litres. It's the heart of the current-generation 45-series AMG models (A 45, CLA 45, GLA 45) and has more recently been adopted for the 43-series models (C 43, GLC 43) and the entry-level SL 43."
+  },
+  "byModel": {
+    "image": "/engine/sec9_middle.webp",
+    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "kicker": "MERCEDES-AMG M139L",
+    "titlePre": "",
+    "titleHighlight": "APPLICATIONS",
+    "titlePost": " BY MODEL",
+    "body": "The M139L is deployed across the A-Class (A 45 AMG / A 45 S AMG, W177), the CLA (CLA 45 AMG / CLA 45 S AMG, C118), and the GLA-Class (GLA 45 AMG / GLA 45 S AMG, H247). These form the core of the high-performance M139L range. More recently, the engine has been adopted for the C-Class (C 43 AMG, W206), the GLC-Class (GLC 43 AMG, X254), and the SL roadster (SL 43, R232), proving the M139L's versatility across different vehicle types.",
+    "lineup": [
+      {
+        "label": "A-Class",
+        "code": "W177"
+      },
+      {
+        "label": "CLA",
+        "code": "C118"
+      },
+      {
+        "label": "GLA-Class",
+        "code": "H247"
+      },
+      {
+        "label": "C-Class",
+        "code": "W206"
+      },
+      {
+        "label": "GLC-Class",
+        "code": "X254"
+      },
+      {
+        "label": "SL",
+        "code": "R232"
+      }
+    ]
+  },
+  "compatibility": {
+    "image": "/engine/sec9_bottom.webp",
+    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "kicker": "MERCEDES-AMG M139L",
+    "titlePre": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
+    "body": "Because the M139L is fitted to six different models — from the compact A-Class to the grand-touring SL roadster — compatibility comes down to confirming your exact model, generation, and specific AMG variant (e.g., \"45\" vs \"45 S\" vs \"43\"). A M139L from an A 45 AMG isn't a drop-in match for a M139L from an SL 43 — ancillaries and mounting differ.",
+    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "points": [
+      {
+        "icon": "car",
+        "title": "MODEL",
+        "text": "Confirm your exact model and AMG variant."
+      },
+      {
+        "icon": "calendar",
+        "title": "GENERATION",
+        "text": "Identify the correct generation (W177, C118, H247, W206, X254, R232)."
+      },
+      {
+        "icon": "gears",
+        "title": "DRIVETRAIN",
+        "text": "Specify the variant (45, 45 S, 43)."
+      },
+      {
+        "icon": "clipboard",
+        "title": "CONFIRMED BY REGISTRATION",
+        "text": "We confirm by registration or VIN before quoting."
+      }
+    ]
+  }
+}

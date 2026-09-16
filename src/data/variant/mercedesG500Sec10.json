@@ -1,0 +1,95 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES G500 ENGINE",
+    "paragraphs": [
+      "The G500 has been part of the G-Class range since the 1990s, and across its generations has used three different V8 engines — from the earlier M113 through the M273 and into today's M176. The full breakdown by engine code is below."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every G500 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES G500 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the G500 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 G500",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES G500 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the G500 spans three distinct V8 engines across two generations, fitting the wrong replacement — or assuming an M113 part will work on an M176 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm: - Your exact engine code (M113, M273, or M176) via registration or VIN - Your generation (pre-2018 W463 or W463a) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M176",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic G-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES G500 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W463",
+        "chassis": "W463 (pre-2018)",
+        "years": "1990s–2000s",
+        "engineCode": "M113",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m113-engine"
+      },
+      {
+        "generation": "W463",
+        "chassis": "W463 (pre-2018)",
+        "years": "2000s–2018",
+        "engineCode": "M273",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m273-engine"
+      },
+      {
+        "generation": "W463a",
+        "chassis": "W463a",
+        "years": "2018–present",
+        "engineCode": "M176",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m176-engine"
+      }
+    ]
+  }
+}

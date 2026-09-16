@@ -1,0 +1,41 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes CLA Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes CLA engine we work on — these 10 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes CLA180",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes CLA200",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes CLA220d",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes CLA250",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "05",
+      "model": "Mercedes CLA35 AMG",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "06",
+      "model": "Mercedes CLA45 AMG",
+      "spec": "Rebuild & Replacement Available"
+    }
+  ]
+}

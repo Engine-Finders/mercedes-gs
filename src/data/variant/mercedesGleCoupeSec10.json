@@ -1,0 +1,100 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLE COUPE ENGINE",
+    "paragraphs": [
+      "The GLE Coupe (C167) has been part of the GLE-Class range since 2020, and across its engine range has used several different engines — from the OM642 diesel V6 shared with the earlier W166 generation, through to today's OM656 diesel, M256 petrol MHEV, M176 V8, and the AMG M157/M177 V8 units. The full breakdown by engine code is below."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLE COUPE on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLE COUPE ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "OM642",
+        "codeRest": "(V6 Diesel)",
+        "body": "A 3.0-litre V6 diesel fitted to the GLE Coupe 300d/350d models. Known for swirl flap and injector wear — see the callout above. We replace worn swirl flaps, injector seals and timing chain components as standard on every OM642 rebuild.",
+        "cta": "Check Your OM642 GLE Coupe",
+        "codeHref": "/mercedes-om642-engine"
+      },
+      {
+        "codeHighlight": "OM656",
+        "codeRest": "(I6 Diesel)",
+        "body": "A 3.0-litre inline-six diesel fitted to the GLE Coupe 400d. A newer, more recent design with no independently confirmed known issues for this application. We service it to the same standard as our other GLE Coupe rebuilds.",
+        "cta": "Check Your OM656 GLE Coupe",
+        "codeHref": "/mercedes-om656-engine"
+      },
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(I6 Petrol MHEV)",
+        "body": "A 3.0-litre inline-six petrol mild hybrid fitted to the GLE450 and GLE53 AMG Coupe models. No independently confirmed known issues for this application.",
+        "cta": "Check Your M256 GLE Coupe",
+        "codeHref": "/mercedes-m256-engine"
+      },
+      {
+        "codeHighlight": "M176",
+        "codeRest": "(V8 Petrol Twin-Turbo)",
+        "body": "A 4.0-litre V8 twin-turbo fitted to the GLE580 Coupe. Shares the same M176 platform as the S-Class S580, and current research has not independently confirmed known issues specific to this application.",
+        "cta": "Check Your M176 GLE Coupe",
+        "codeHref": "/mercedes-m176-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLE COUPE ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The GLE Coupe (C167) shares its entire engine range with the standard GLE, spanning multiple petrol and diesel units. Because a GLE Coupe could have any one of several different engines depending on the variant, fitting the wrong replacement — or assuming parts from one engine will work on another — risks a compatibility problem. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM642",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLE-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLE COUPE ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "GLE Coupe",
+        "chassis": "C167",
+        "years": "2020–present",
+        "engineCode": "OM642, OM656, M256, M176, M157, M177",
+        "fuel": "Diesel / Petrol / Petrol MHEV / Petrol Twin-Turbo",
+        "codeHref": "/mercedes-om642-engine"
+      }
+    ]
+  }
+}

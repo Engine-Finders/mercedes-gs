@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLE63 AMG ENGINE",
+    "paragraphs": [
+      "The GLE63 AMG has been the flagship performance variant of the GLE-Class range since the GLE nameplate replaced the M-Class in 2015. Across its two generations, it has used two different twin-turbo V8 engines: the earlier W166 generation (2015–2019) uses the 5.5-litre M157, while the current V167 generation (2019–present) uses the 4.0-litre M177 — a smaller but more advanced unit that also appears across the wider Mercedes-AMG range. Both are genuine AMG hand-built engines, and both carry the same specialist rebuild considerations — valve seal wear and coolant system degradation are the key patterns to look for, regardless of which generation you own."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLE63 AMG on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLE63 AMG ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M157",
+        "codeRest": "(W166)",
+        "body": "A 5.5-litre twin-turbo V8 fitted to the GLE63 AMG from 2015 to 2019 (W166 generation). Known for valve seal and coolant system wear — see the callout above. We replace valve seals and inspect and replace coolant system components as standard on every M157 rebuild.",
+        "cta": "Check Your M157 GLE63 AMG",
+        "codeHref": "/mercedes-m157-engine"
+      },
+      {
+        "codeHighlight": "M177",
+        "codeRest": "(V167)",
+        "body": "The current 4.0-litre twin-turbo V8, fitted from 2019. A smaller, more advanced unit than the M157, but with a similar wear pattern — valve seal and coolant system wear are the key areas we address on every M177 rebuild.",
+        "cta": "Check Your M177 GLE63 AMG",
+        "codeHref": "/mercedes-m177-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLE63 AMG ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the GLE63 AMG spans two distinct V8 engines across two generations, fitting the wrong replacement — or assuming an M157 part will work on an M177 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M157",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLE-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLE63 AMG ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W166",
+        "chassis": "W166",
+        "years": "2015–2019",
+        "engineCode": "M157",
+        "fuel": "Petrol Twin-Turbo",
+        "codeHref": "/mercedes-m157-engine"
+      },
+      {
+        "generation": "V167",
+        "chassis": "V167",
+        "years": "2019–present",
+        "engineCode": "M177",
+        "fuel": "Petrol Twin-Turbo",
+        "codeHref": "/mercedes-m177-engine"
+      }
+    ]
+  }
+}

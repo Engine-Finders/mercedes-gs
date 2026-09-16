@@ -1,0 +1,37 @@
+{
+  "headlinePre": "Mercedes R350 CDI",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,800",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "OM642",
+      "generation": "W251/V251 (2006–2013)",
+      "price": "£2,800",
+      "codeHref": "/mercedes-om642-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes R350 CDI Swirl Flap & Injector Wear ",
+    "titleHighlight": "",
+    "paragraphs": [
+      "If your R350 CDI has the OM642 diesel V6 — which applies to every R350 CDI built between 2006 and 2013 — swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
+      "The petrol R350 and R500 variants use different engine families (M272 and M113 respectively), which don't share this specific diesel V6 issue. If your car is the R63 AMG with the M156 V8, that has its own separate camshaft adjuster and head bolt wear pattern — a different AMG-specific concern."
+    ],
+    "source": "Source: established specialist pattern, multiple TSBs, per VRF-mercedes-r-class.md. R350/R500 petrol not individually confirmed for known issues; R63 AMG M156 pattern confirmed separately per VRF"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "MERCEDES CLK 200 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the R190's launch in 2023, the CLK 200 has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1997",
+      "generation": "C208",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "1998",
+      "generation": "C208",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "1999",
+      "generation": "C208",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "2000",
+      "generation": "C208",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "2001",
+      "generation": "C208",
+      "engineCode": "M111",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "2002",
+      "generation": "C208/C209",
+      "engineCode": "M111/M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "2003",
+      "generation": "C208/C209",
+      "engineCode": "M111/M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m111-engine"
+    },
+    {
+      "year": "2004",
+      "generation": "C209",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2005",
+      "generation": "C209",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2006",
+      "generation": "C209",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2007",
+      "generation": "C209",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2008",
+      "generation": "C209",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    },
+    {
+      "year": "2009",
+      "generation": "C209",
+      "engineCode": "M271",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m271-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "The M256",
+    "rest": " has been fitted to every CLK 200 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

@@ -1,0 +1,31 @@
+import AuthorityPage from "@/components/shared/AuthorityPage";
+import JsonLd from "@/components/shared/JsonLd";
+import { serviceSchema, faqSchema, breadcrumbSchema, graphDoc } from "@/lib/schema";
+import data from "@/data/authority/mercedes-engine-inspection-assessment.json";
+
+const PATH = "/mercedes-engine-inspection-assessment";
+const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) => s.items || []);
+
+export const metadata = {
+  title: "Mercedes-Benz Engine Inspection & Assessment | Mercedes Garage",
+  description: "Professional engine inspection and assessment for all Mercedes-Benz models. Full teardown, precision measurement, crack testing, and reusability evaluation with a detailed repair plan.",
+  alternates: { canonical: PATH },
+};
+
+export default function MercedesEngineInspectionAssessmentPage() {
+  return (
+    <>
+      <JsonLd
+        data={graphDoc([
+          serviceSchema({ name: data.h1, description: data.metaDescription, path: PATH }),
+          faqSchema(FAQ, PATH),
+          breadcrumbSchema(
+            [{ name: "Home", path: "/" }, { name: "Guides", path: "/mercedes-engine-rebuild" }, { name: data.h1, path: PATH }],
+            PATH
+          ),
+        ])}
+      />
+      <AuthorityPage data={data} />
+    </>
+  );
+}

@@ -1,0 +1,39 @@
+{
+  "headlinePre": "Mercedes SLK Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our Mercedes engine specialist garage covers all engine types from 1993 to 2026, across every SLK generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.webp",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "1996–2004",
+      "code": "R170",
+      "list": "1996 through 2004 Mercedes SLK engines"
+    },
+    {
+      "years": "2004–2011",
+      "code": "R171",
+      "list": "2004 through 2011 Mercedes SLK engines"
+    },
+    {
+      "years": "2011–2016",
+      "code": "R172",
+      "list": "2011 through 2016 Mercedes SLK engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "Mercedes SLK350 Model:",
+  "checklistLeft": [
+    "Mercedes SLK350 2005 Engine Rebuild",
+    "Mercedes SLK350 2006 Engine Rebuild",
+    "Mercedes SLK350 2007 Engine Rebuild"
+  ],
+  "checklistRight": [
+    "Mercedes SLK350 2008 Engine Rebuild",
+    "Mercedes SLK350 2009 Engine Rebuild"
+  ],
+  "checklistHref": "/mercedes-slk350-engines"
+}

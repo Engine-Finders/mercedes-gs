@@ -1,0 +1,40 @@
+{
+  "kicker": "Known Issue",
+  "h2": "Mercedes G-Class|**OM642** Swirl Flap|& AMG V8 Issues?",
+  "description": "The G350d's OM642 diesel V6 shares the same swirl flap and injector wear pattern documented across the wider E-Class/S-Class OM642 family. If your G-Class is a 63 AMG with the M177 V8, valve seal and coolant system wear is a separately established AMG pattern.",
+  "descriptionEmphasis": "No hidden extras.",
+  "image": "/model/sec2.webp",
+  "imageMobile": "/model/sec2_mobile.webp",
+  "callout": {
+    "icon": "shield-check",
+    "title": "A Well-Documented Issue",
+    "body": "OM651 injector seal leaks and timing chain wear are widely documented across Mercedes specialist forums and official TSBs."
+  },
+  "heroHook": {
+    "icon": "shield-check",
+    "title": "Include In Hero Hook:",
+    "body": "Yes — both verified: OM651 widely documented with multiple TSBs; M156 pre-2012 established AMG specialist pattern."
+  },
+  "features": [
+    {
+      "icon": "link",
+      "title": "New Timing Chains",
+      "body": "Replaced as standard (where worn or damaged)"
+    },
+    {
+      "icon": "gear",
+      "title": "New Tensioners",
+      "body": "For maximum reliability"
+    },
+    {
+      "icon": "guide",
+      "title": "New Injector Seals",
+      "body": "Updated OEM components"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Peace Of Mind",
+      "body": "No hidden extras — just a stronger, longer-lasting engine"
+    }
+  ]
+}

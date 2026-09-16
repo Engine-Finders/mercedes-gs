@@ -9,12 +9,12 @@ export default function VariantSec11({ data }) {
     <section className="theme-dark relative overflow-hidden">
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
-        <div className="relative px-4 py-6">
+        <div className="relative px-4 pb-6 pt-4">
           <MobileSplitTitle titlePre={data.titlePre} titleHighlight={data.titleHighlight} baseColorClass="text-white" />
           <p className="mt-2 text-xs leading-snug text-white">{data.description}</p>
 
           <div className="no-scrollbar -mx-4 mt-5 overflow-x-auto px-4">
-            <div className="glass-card-dark min-w-130 overflow-hidden rounded-xl" style={{ background: "rgba(24,22,19,0.96)" }}>
+            <div className="glass-card-dark min-w-130 overflow-hidden rounded-xl" style={{ background: "rgba(10,10,12,0.96)" }}>
               <div className="flex border-b border-white/10">
                 {data.columns.map((c) => (
                   <div key={c.label} className="flex min-w-0 flex-1 items-center justify-center gap-1.5 px-3 py-2.5">
@@ -71,19 +71,16 @@ export default function VariantSec11({ data }) {
 
         <div className="relative mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
           <div className="max-w-2xl">
-            <div className="flex items-center gap-3">
-              <MercedesStripe className="h-10 w-16 shrink-0" />
-              <h2 className="h2 uppercase">
-                <span className="text-white">{data.titlePre}</span>
-                <span className="text-hero-blue">{data.titleHighlight}</span>
-              </h2>
-            </div>
+            <h2 className="h2 uppercase">
+              <span className="text-white">{data.titlePre}</span>
+              <span className="text-hero-blue">{data.titleHighlight}</span>
+            </h2>
             <p className="mt-3 text-sm leading-relaxed text-white">{data.description}</p>
           </div>
 
           <div
             className="glass-card-dark mt-6 max-w-3xl overflow-hidden rounded-2xl"
-            style={{ background: "rgba(24,22,19,0.96)", boxShadow: "0 25px 60px -30px rgba(173,135,92,0.5)" }}
+            style={{ background: "rgba(10,10,12,0.96)", boxShadow: "0 25px 60px -30px rgba(173,135,92,0.5)" }}
           >
             <div className="grid grid-cols-[minmax(0,0.8fr)_minmax(0,1.4fr)_minmax(0,1fr)_minmax(0,0.9fr)_minmax(0,1.6fr)] border-b border-white/10">
               {data.columns.map((c) => (

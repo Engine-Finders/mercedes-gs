@@ -1,0 +1,37 @@
+{
+  "headlinePre": "Mercedes CLK 63 AMG",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£6,500",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M256",
+      "generation": "R190 (2023–present)",
+      "price": "£3,200",
+      "codeHref": "/mercedes-m256-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes CLK 63 AMG Camshaft Adjuster & Head Bolt Wear ",
+    "titleHighlight": "(M156)",
+    "paragraphs": [
+      "If your CLK 63 AMG has the M156 6.2-litre V8 — that's every C209-generation car — camshaft adjuster and head bolt wear is a well-documented pattern on this engine, confirmed by established AMG specialist consensus. We replace the timing chain, camshaft adjuster, and bearings as standard on every M156 rebuild.",
+      "include_in_hero_hook: yes — Source: established AMG specialist pattern (per G-BRF, confirmed in original model page build), per VRF-mercedes-clk.md."
+    ],
+    "source": "Source: established AMG specialist pattern (per G-BRF, confirmed in original model page build), per VRF-mercedes-clk.md"
+  }
+}

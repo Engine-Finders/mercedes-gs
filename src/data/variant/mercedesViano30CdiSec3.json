@@ -1,0 +1,37 @@
+{
+  "headlinePre": "Mercedes Viano 3.0 CDI",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,800",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M256",
+      "generation": "R190 (2023–present)",
+      "price": "£3,200",
+      "codeHref": "/mercedes-m256-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes Viano 3.0 CDI Swirl Flap & Injector Wear ",
+    "titleHighlight": "(OM642)",
+    "paragraphs": [
+      "If your Viano 3.0 CDI has the OM642 diesel V6 — that’s the W639 generation, produced from 2003 to 2014 — swirl flap and injector wear is a well‑documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
+      "include_in_hero_hook: yes for OM642 — Source: established specialist pattern, multiple TSBs, per VRF‑mercedes‑viano.md."
+    ],
+    "source": "Source: established specialist pattern, multiple TSBs, per VRF‑mercedes‑viano.md"
+  }
+}

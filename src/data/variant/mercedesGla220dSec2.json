@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes GLA220d",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes GLA220d"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "GLA-Class"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "GLA220d"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Diesel"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "OM651 (X156) or OM607 (H247)"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "2.1L I4 (OM651) or 1.5L I4 (OM607)"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "X156 (2013–2020) · H247 (2020–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,200",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The GLA220D uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

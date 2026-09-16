@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES VITO 112 113 CDI ENGINE",
+    "paragraphs": [
+      "The Vito 112/113 CDI was part of the second-generation W639 Vito range, produced from 2003 to 2014. It uses the OM646 — a 2.2-litre four-cylinder diesel engine shared across a wide range of Mercedes commercial vehicles of that era, including the Viano and Sprinter. The 112 and 113 designations reflect different power outputs of the same engine family. The Vito 112/113 CDI is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every VITO 112 113 CDI on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES VITO 112 113 CDI ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the VITO 112 113 CDI from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 VITO 112 113 CDI",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES VITO 112 113 CDI ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the Vito 112/113 CDI uses a specific engine code — OM646 — getting the right rebuild or replacement matters. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM646",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Vito quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES VITO 112 113 CDI ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W639",
+        "chassis": "W639",
+        "years": "2003–2014",
+        "engineCode": "OM646",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om646-engine"
+      }
+    ]
+  }
+}

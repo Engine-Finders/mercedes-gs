@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes SL43",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes SL43"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "SL"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "SL43"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol Hybrid"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "M139"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "2.0L I4 Turbo Hybrid"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "R232 (2022–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,200",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The SL43 uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

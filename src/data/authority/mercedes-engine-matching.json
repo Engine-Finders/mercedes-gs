@@ -1,0 +1,249 @@
+{
+  "slug": "mercedes-engine-matching",
+  "metaTitle": "Mercedes-Benz Engine Matching by Registration & VIN | Mercedes Garage",
+  "metaDescription": "Professional engine matching for Mercedes-Benz using registration and VIN. Ensure the correct specification engine for your vehicle. Get a quote.",
+  "h1": "Mercedes-Benz Engine Matching by Registration & VIN",
+  "lede": "Engine matching is the first step to a successful replacement or rebuild. Contact us with your registration or VIN for a no-obligation quote.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec2.webp",
+    "/variant/sec4.webp",
+    "/engine/sec4.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Our Engine Matching Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When replacing or rebuilding a Mercedes-Benz engine, exact matching is critical. We use your vehicle's registration number and VIN to determine the precise engine specification that was originally fitted, ensuring full compatibility."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**VIN-based lookup** – we decode your vehicle's VIN to identify the original engine family, displacement, and tuning level.",
+            "**Engine number verification** – we check the first six characters of the engine number against the VIN's engine code to confirm identity.",
+            "**ECU compatibility** – Mercedes-Benz ECUs are VIN-locked; we ensure proper coding and reprogramming when needed.",
+            "**Ancillary verification** – we check that all supporting components (turbo, injectors, sensors) are also correctly matched to your vehicle.",
+            "**Full documentation** – we provide a detailed matching report for your records and warranty."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Our service is essential before any engine replacement or rebuild – mismatched engines can lead to poor performance, further failure, and invalid warranties."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Get a Personalised Quote",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Engine matching is the first step to a successful replacement or rebuild. Contact us with your registration or VIN for a no-obligation quote."
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Call us on 0203 488 4649** or [Request a Quote Online](/contact)",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engine Families",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our matching service applies to all Mercedes-Benz models and engine types. Below are some of the most common we work with:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class",
+              "href": "/mercedes-a-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Popular engine families we regularly match:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[OM651 4-cyl diesel](/mercedes-om651-engine) – multiple power variants across models",
+            "[OM642 V6 diesel](/mercedes-om642-engine) – different displacements and tuning levels",
+            "[M276 V6 petrol](/mercedes-m276-engine) – 2.5L, 3.0L, 3.5L variants are not interchangeable",
+            "[M177 V8 AMG](/mercedes-m177-engine) – exact specification critical for performance",
+            "[OM654 4-cyl diesel](/mercedes-om654-engine) – newer generation with multiple outputs"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For variant-specific information, see our [C220d](/mercedes-c-class-engines), [E220d](/mercedes-e-class-engines), [S350d](/mercedes-s350d-engines), and other detailed variant pages."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Engine Matching Process",
+      "steps": [
+        {
+          "title": "Obtain Registration / VIN",
+          "body": "We take your vehicle's registration number or VIN – either from you or directly from the vehicle."
+        },
+        {
+          "title": "VIN Decoding",
+          "body": "Using Mercedes-Benz Xentry/Star Diagnosis, we decode the VIN to retrieve the original engine family, displacement, power output, and all relevant specifications."
+        },
+        {
+          "title": "Engine Number Verification",
+          "body": "We locate the engine number on the cylinder block and compare the first six characters to the VIN's engine code – if they match, the engines are identical."
+        },
+        {
+          "title": "Component Compatibility Check",
+          "body": "We verify that ancillary components (turbo, injectors, sensors, ECU) are compatible with the matched engine – these often vary between specifications."
+        },
+        {
+          "title": "ECU Integration",
+          "body": "If the ECU is being replaced or reprogrammed, we ensure it is correctly VIN-locked and coded to your vehicle. We perform default initialisation to reset adaptation values."
+        },
+        {
+          "title": "Documentation & Handover",
+          "body": "We provide a detailed report confirming the engine match, including VIN, engine number, and all verified specifications – for your records and warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Enter Your Registration or VIN",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Use our quick lookup to get started – we'll check your vehicle's original engine specification and provide a tailored matching service."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage for Engine Matching",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Established since 2009** – with a dedicated Mercedes-Benz workshop in Essex.",
+            "**Genuine Mercedes-Benz diagnostic equipment** – including Xentry/Star Diagnosis for accurate VIN decoding and ECU programming.",
+            "**Exact specification matching** – we never assume compatibility; we verify every detail.",
+            "**Prevention of costly errors** – a mismatched engine can lead to poor performance, further failure, and voided warranties.",
+            "**Full documentation** – you get a matching report for your records and warranty.",
+            "**Integrated with our rebuild and replacement services** – we can handle the entire process from matching to fitting."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works – Simple Steps",
+      "steps": [
+        {
+          "title": "Contact Us",
+          "body": "Call or fill in our quote form with your registration or VIN."
+        },
+        {
+          "title": "We Decode Your VIN",
+          "body": "We use Xentry to retrieve the original engine specification."
+        },
+        {
+          "title": "We Verify Engine Number",
+          "body": "We check the engine number against the VIN data to confirm an exact match."
+        },
+        {
+          "title": "Receive Your Report",
+          "body": "We provide a detailed matching report, ready for your rebuild or replacement."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
+            "[Mercedes-Benz Engine Supply & Fit](/mercedes-engine-supply-fit)",
+            "[Engine Failure Repair](/mercedes-engine-failure-repair)",
+            "[Diesel Timing Chain Repair](/mercedes-diesel-timing-chain-repair)",
+            "[AMG V8 Valve Seal Repair](/mercedes-amg-v8-valve-seal-repair)",
+            "[Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Engine Compatibility & Application Matching](/mercedes-engine-compatibility)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Why is engine matching by VIN so important?",
+          "a": "Mercedes-Benz engines come in many different displacements and tuning levels – even within the same family (e.g., M272 has 2.5L, 3.0L, and 3.5L versions). The wrong engine can cause poor performance, drivability issues, and may not be covered by warranty. Matching by VIN ensures you get the exact engine your vehicle was designed for."
+        },
+        {
+          "q": "How do you verify the engine number?",
+          "a": "We locate the engine number on the cylinder block (usually stamped on a flat surface) and compare the first six characters to the engine code derived from the VIN. If they match, the engines are identical. We also check the full number for any variations."
+        },
+        {
+          "q": "What is ECU VIN-locking and why does it matter?",
+          "a": "Mercedes-Benz ECUs are programmed with the vehicle's VIN. A replacement ECU must be reprogrammed to match your VIN, or the vehicle may not start. Our diagnostic equipment allows us to perform this coding correctly."
+        },
+        {
+          "q": "Do you offer this service as a standalone, or only with a rebuild/replacement?",
+          "a": "We offer engine matching as a standalone service – you can get a matching report to verify your current engine or to help source a replacement. We also integrate matching into our full rebuild and replacement services."
+        },
+        {
+          "q": "How long does the matching process take?",
+          "a": "Typically within a few hours once we have access to the vehicle or the engine number. We can often decode the VIN remotely with just the registration or VIN number."
+        },
+        {
+          "q": "Can you match an engine if I only have the registration number?",
+          "a": "Yes – we can use the registration number to look up the VIN and then decode the original engine specification. We still recommend verifying the physical engine number when the vehicle is with us."
+        }
+      ]
+    }
+  ]
+}

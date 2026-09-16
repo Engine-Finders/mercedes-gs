@@ -1,0 +1,277 @@
+{
+  "slug": "mercedes-failed-rebuild-remediation",
+  "metaTitle": "Mercedes-Benz Failed Engine Rebuild Remediation | Mercedes Garage",
+  "metaDescription": "Specialist assessment and correction for poorly rebuilt Mercedes-Benz engines. Full strip-down, measurement, re-machining and factory-spec reassembly.",
+  "h1": "Mercedes-Benz Failed Engine Rebuild Remediation",
+  "lede": "Full assessment, strip-down, and factory-spec correction for engines that were previously rebuilt elsewhere but aren't performing as they should.",
+  "ctas": [
+    {
+      "label": "Book an assessment",
+      "href": "/contact"
+    },
+    {
+      "label": "Call us now",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec3.webp",
+    "/variant/sec5.webp",
+    "/engine/sec5.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What failed-rebuild remediation involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When an engine arrives that was previously rebuilt by another workshop, we don't assume anything is correct. We carry out a complete, methodical assessment to determine what was done incorrectly and what can be salvaged, then rebuild the engine to full Mercedes-Benz factory specification."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Visual inspection & strip-down** – we remove the engine and fully disassemble it, recording every detail of the previous work.",
+            "**Full component measurement** – all critical dimensions (bearing clearances, cylinder bore, crankshaft journals, valve guides) are measured against original specifications.",
+            "**Salvage vs. replace decision** – we identify which parts are still serviceable, which can be re-machined, and which must be replaced.",
+            "**Corrective machining & parts sourcing** – we carry out any necessary machining (honing, boring, grinding) and source genuine or OEM-quality replacement parts.",
+            "**Factory-spec reassembly** – every bolt is torqued to the correct angle and setting, with all single-use seals and gaskets replaced.",
+            "**Final testing and validation** – once reassembled, the engine is tested on the vehicle to confirm oil pressure, temperature stability, and smooth running."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "This is not a quick “patch-up” – it is a complete re-engineering of the engine to ensure it meets the durability and performance standards it was designed for."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Remediation pricing",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**4-Cylinder** from £2,200  |  **6-Cylinder** from £3,200  |  **AMG V8** from £6,500",
+            "Additional parts identified during the strip-down are quoted separately. [Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Models we remediate",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We correct failed rebuilds across the full Mercedes-Benz passenger and commercial range, including petrol, diesel, and AMG variants."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "C-Class",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "AMG GT",
+              "href": "/mercedes-amg-gt-engines"
+            },
+            {
+              "label": "G-Class",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "Sprinter",
+              "href": "/mercedes-sprinter-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "High-performance and high-value variants we frequently work on:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "C 63 AMG",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E 63 AMG",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S 63 AMG",
+              "href": "/mercedes-s63-amg-engines"
+            },
+            {
+              "label": "G 63 AMG",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "E 220 d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S 350 d",
+              "href": "/mercedes-s350d-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "If your model isn't listed, contact us directly – we assess every Mercedes engine on its own merits."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our remediation process step by step",
+      "steps": [
+        {
+          "title": "",
+          "body": "We receive the vehicle, note any visible issues, and prepare for engine removal."
+        },
+        {
+          "title": "",
+          "body": "Engine is removed from the vehicle and completely disassembled on our workbench."
+        },
+        {
+          "title": "",
+          "body": "All parts are cleaned, then inspected with precision gauges to identify out-of-spec items."
+        },
+        {
+          "title": "",
+          "body": "We decide what can be re-used, what can be re-machined, and what must be replaced."
+        },
+        {
+          "title": "",
+          "body": "Rebuild with new seals, bearings, and correctly torqued fasteners throughout."
+        },
+        {
+          "title": "",
+          "body": "Engine fitted back in the vehicle, fully tested, and ready for collection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why choose us for remediation",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Established 2009** – we've been working exclusively on Mercedes-Benz engines for over a decade. [Learn about us](/about).",
+            "**Factory-spec methodology** – we don't guess; we measure, we machine, and we assemble strictly to Mercedes tolerances.",
+            "**Transparent assessment** – you receive a detailed report with photos and a clear breakdown of salvageable parts vs. replacements.",
+            "**Fully equipped machine shop** – we carry out all critical machining in-house, reducing lead times and ensuring quality control.",
+            "**12-month unlimited-mileage warranty** – our remediation work carries the same warranty as our standard rebuilds."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Recent remediation projects",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Examples of engines we've assessed and corrected after being previously rebuilt elsewhere."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How remediation works for you",
+      "steps": [
+        {
+          "title": "",
+          "body": "Call or use our online form. We'll arrange a time to bring your vehicle in for assessment."
+        },
+        {
+          "title": "",
+          "body": "We strip, clean, measure, and provide a detailed report with a clear path forward."
+        },
+        {
+          "title": "",
+          "body": "Once approved, we carry out the machining, parts replacement, and factory-spec reassembly."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Other engine services you may find useful:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Mercedes-Benz Engine Teardown & Inspection](/mercedes-engine-machining)",
+            "[Mercedes-Benz Engine Rebuild Process](/mercedes-engine-rebuild-process)",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Not sure which service you need? [Contact us](/contact) and we'll advise."
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "How long does a remediation assessment take?",
+          "a": "Removing, stripping and measuring the engine typically takes 1–3 working days. We'll provide a full report and quote once the assessment is complete."
+        },
+        {
+          "q": "Can you salvage parts from a failed rebuild?",
+          "a": "Yes – our assessment identifies which components are still within factory specification and can be re-used, and which require machining or replacement."
+        },
+        {
+          "q": "Do you offer a warranty on remediation work?",
+          "a": "Absolutely. Our remediation rebuild carries the same 12-month unlimited-mileage warranty as our standard engine rebuilds."
+        },
+        {
+          "q": "What types of Mercedes engines do you work on?",
+          "a": "All of them – from 4-cylinder diesel and petrol units to V6, V8, V12 and AMG performance engines. We have full data for every Mercedes engine family in the current range."
+        },
+        {
+          "q": "Do you recover vehicles that aren't drivable?",
+          "a": "Yes – we offer nationwide recovery for any Mercedes-Benz. You can [book recovery separately here](/mercedes-engine-recovery)."
+        }
+      ]
+    }
+  ]
+}

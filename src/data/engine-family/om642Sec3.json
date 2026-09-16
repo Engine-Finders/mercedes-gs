@@ -1,0 +1,116 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Mercedes-Benz OM642 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "CLS",
+      "variant": "CLS 320 CDI, CLS 350 CDI",
+      "generation": "C219",
+      "chassis": "C219",
+      "years": "2005–2010",
+      "powertrain": "Diesel",
+      "modelHref": "/mercedes-cls-engines"
+    },
+    {
+      "model": "E-Class",
+      "variant": "E 280 CDI, E 320 CDI, E 350 CDI",
+      "generation": "W211/W212",
+      "chassis": "W211/W212",
+      "years": "2005–2016",
+      "powertrain": "Diesel",
+      "modelHref": "/mercedes-e-class-engines"
+    },
+    {
+      "model": "GLE-Class",
+      "variant": "GLE 300 d, GLE 350 d",
+      "generation": "W166",
+      "chassis": "W166",
+      "years": "2015–2019",
+      "powertrain": "Diesel",
+      "modelHref": "/mercedes-gle-class-engines"
+    },
+    {
+      "model": "GLS",
+      "variant": "GLS 350 d",
+      "generation": "X166",
+      "chassis": "X166",
+      "years": "2016–2019",
+      "powertrain": "Diesel",
+      "modelHref": "/mercedes-gls-engines"
+    },
+    {
+      "model": "M-Class",
+      "variant": "ML 280 CDI, ML 320 CDI, ML 350 CDI",
+      "generation": "W164/W166",
+      "chassis": "W164/W166",
+      "years": "2005–2015",
+      "powertrain": "Diesel",
+      "modelHref": "/mercedes-m-class-engines"
+    },
+    {
+      "model": "R-Class",
+      "variant": "R 320 CDI, R 350 CDI",
+      "generation": "W251",
+      "chassis": "W251",
+      "years": "2006–2013",
+      "powertrain": "Diesel",
+      "modelHref": "/mercedes-r-class-engines"
+    },
+    {
+      "model": "Sprinter",
+      "variant": "Sprinter 316 CDI, 319 CDI",
+      "generation": "NCV3",
+      "chassis": "W906",
+      "years": "2006–2018",
+      "powertrain": "Diesel",
+      "modelHref": "/mercedes-sprinter-engines"
+    },
+    {
+      "model": "Viano",
+      "variant": "Viano 3.0 CDI",
+      "generation": "W639",
+      "chassis": "W639",
+      "years": "2004–2014",
+      "powertrain": "Diesel",
+      "modelHref": "/mercedes-viano-engines",
+      "variantHref": "/mercedes-viano-3-0-cdi-engines"
+    },
+    {
+      "model": "Vito",
+      "variant": "Vito 116 CDI",
+      "generation": "W639",
+      "chassis": "W639",
+      "years": "2006–2014",
+      "powertrain": "Diesel",
+      "modelHref": "/mercedes-vito-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

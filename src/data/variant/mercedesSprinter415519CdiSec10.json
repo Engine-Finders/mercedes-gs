@@ -1,0 +1,87 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SPRINTER 415–519 CDI ENGINE",
+    "paragraphs": [
+      "The Sprinter 415–519 CDI was part of the NCV3 generation, produced from 2006 to 2018. Across this range, two engines were used: the OM651 — a 2.1-litre four-cylinder diesel — and the OM642 — a 3.0-litre V6 diesel for higher-output models. Both have their own set of known wear patterns, so knowing which one is under your bonnet is essential to getting the right rebuild. This generation was replaced by the VS30 facelift in 2018."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SPRINTER 415–519 CDI on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SPRINTER 415–519 CDI ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SPRINTER 415–519 CDI from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 SPRINTER 415–519 CDI",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SPRINTER 415–519 CDI ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the Sprinter 415–519 CDI range spans two distinct engines, fitting the wrong replacement — or assuming an OM642 part will work on an OM651 van — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm: - Your exact engine code (OM651 or OM642) via registration or VIN - Your generation (NCV3) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM651",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Sprinter quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SPRINTER 415–519 CDI ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "NCV3",
+        "chassis": "W906",
+        "years": "2006–2018",
+        "engineCode": "OM651",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om651-engine"
+      },
+      {
+        "generation": "NCV3",
+        "chassis": "W906",
+        "years": "2006–2018",
+        "engineCode": "OM642",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om642-engine"
+      }
+    ]
+  }
+}

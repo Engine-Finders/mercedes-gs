@@ -1,0 +1,41 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes B-Class Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes B-Class engine we work on — these 10 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes B160",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes B180",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes B180d",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes B200",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "05",
+      "model": "Mercedes B200d",
+      "spec": "Rebuild & Replacement Available"
+    },
+    {
+      "number": "06",
+      "model": "Mercedes B220d",
+      "spec": "Rebuild & Replacement Available"
+    }
+  ]
+}

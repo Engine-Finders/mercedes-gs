@@ -1,0 +1,37 @@
+{
+  "headlinePre": "Mercedes SLS SLS AMG",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£6,500",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M159",
+      "generation": "C197 (2010–2014)",
+      "price": "£6,500",
+      "codeHref": "/mercedes-m159-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes SLS AMG GT Timing Chain & Valve Train Wear ",
+    "titleHighlight": "(M159)",
+    "paragraphs": [
+      "If your SLS AMG GT has the M159 6.2-litre naturally aspirated V8 — the only engine fitted to every SLS AMG GT — timing chain wear, valve train issues and head gasket wear at higher mileage are well-documented patterns on this engine. We replace timing chains, valve train components, head gaskets and bearings as standard on every M159 rebuild.",
+      "include_in_hero_hook: yes — Source: established AMG specialist pattern, per VRF-mercedes-sls-amg.md. Confirmed for all combustion SLS AMG variants per VRF research."
+    ],
+    "source": "Source: established AMG specialist pattern, per VRF-mercedes-sls-amg.md. Confirmed for all combustion SLS AMG variants per VRF research"
+  }
+}

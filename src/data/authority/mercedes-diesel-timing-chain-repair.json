@@ -1,0 +1,252 @@
+{
+  "slug": "mercedes-diesel-timing-chain-repair",
+  "metaTitle": "Mercedes Diesel Timing Chain & Injector Repair | Mercedes Garage",
+  "metaDescription": "Specialist Mercedes diesel timing chain and injector seal repair for OM-series engines. Fixed-price rebuilds from £2,200. Nationwide recovery and 12-month warranty.",
+  "h1": "Mercedes Diesel Timing Chain & Injector Repair",
+  "lede": "Expert workshop repair for OM-series diesel engines — timing chain replacement, injector seal renewal, and full system recalibration. Rebuilds start from £2,200.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec7.webp",
+    "/variant/sec13.webp",
+    "/engine/sec9_top.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our workshop carries out full timing chain and injector seal repairs on all Mercedes OM-series diesel engines — including OM640, OM607, OM608, OM651, OM654, and OM642. The work is carried out to manufacturer specifications using genuine or OEM-quality parts, with full diagnostic calibration afterwards."
+        },
+        {
+          "t": "p",
+          "html": "The complexity of the job varies by engine family. For example, the [OM654](/mercedes-om654-engine) has its timing chain mounted at the rear of the engine, which requires the engine to be removed from the vehicle for access. The [OM642](/mercedes-om642-engine) V6 allows for a “rolling” chain replacement method without removing the front timing cover, but any work on the chain guides still demands a full strip-down. Our technicians are trained in all these procedures and use the correct Mercedes-Benz locking and timing tools for every job."
+        },
+        {
+          "t": "p",
+          "html": "All injector seal replacements are followed by IMA coding using XENTRY diagnostic software to ensure the engine management system recognises the new injector calibrations."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "Our Fixed-Price Rebuilds",
+          "paras": [
+            "**4-Cylinder Diesel** (OM607/608/640/651/654) — from **£2,200**",
+            "**6-Cylinder Diesel** (OM642) — from **£2,800**",
+            "Price includes full disassembly, parts, labour, and final testing. [Pricing disclaimer](/pricing-legal-disclaimer)."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We carry out timing chain and injector seal repairs on all Mercedes diesel models equipped with the following engine families. Select your model or engine below to see dedicated pages."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class (W176/W177)",
+              "href": "/mercedes-a-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Engine Families Covered"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "OM640",
+              "href": "/mercedes-om640-engine"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Key Variants",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "A180d",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "C220d",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E220d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "GLE300d",
+              "href": "/mercedes-gle300d-engines"
+            },
+            {
+              "label": "Sprinter 313–319 CDI",
+              "href": "/mercedes-sprinter-313319-cdi-engines"
+            },
+            {
+              "label": "V220d",
+              "href": "/mercedes-v220d-engines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process",
+      "steps": [
+        {
+          "title": "Initial Assessment",
+          "body": "We inspect the engine and confirm the scope of work – whether timing chain, injector seals, or both. We lock the engine at TDC using factory tools."
+        },
+        {
+          "title": "Engine Preparation",
+          "body": "For OM654, the engine is lifted out for rear-chain access. For front-chain designs (OM651, OM642), we remove the front ancillaries and timing cover."
+        },
+        {
+          "title": "Chain Replacement",
+          "body": "Using the “rolling” method (OM642) or direct replacement, we install a new chain, tensioner, and guides. All components are torqued to specification."
+        },
+        {
+          "title": "Injector Seals",
+          "body": "We remove each injector, clean the bore, fit new copper seals, and reinstall with correct torque. Seals are replaced during chain work where possible."
+        },
+        {
+          "title": "Reassembly & Timing",
+          "body": "We reassemble all components, set final timing, and rivet the master link. The engine is manually turned to verify timing accuracy."
+        },
+        {
+          "title": "Calibration & Testing",
+          "body": "Using XENTY, we perform IMA coding (if injectors changed) and run a full system test. The vehicle is road-tested to confirm repair quality."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us for Your Mercedes Diesel Repair",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Specialist Mercedes workshop with 15+ years of experience (founded 2009)",
+            "Factory-trained technicians using genuine Mercedes-Benz tools and XENTY diagnostics",
+            "Transparent pricing – fixed-price rebuilds from £2,200, no hidden charges",
+            "Nationwide recovery service from £70 – we bring your vehicle to our Essex workshop",
+            "12-month unlimited-mileage warranty on all parts and labour",
+            "Engine removed/replaced with care – we match your exact engine code and VIN"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our workshop](/about) and see how we work."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works – From Booking to Collection",
+      "steps": [
+        {
+          "title": "",
+          "body": "Call or [get a quote online](/contact) – we'll discuss your engine and arrange recovery if needed."
+        },
+        {
+          "title": "",
+          "body": "Vehicle arrives at our Essex workshop. We carry out a full inspection and confirm the repair scope."
+        },
+        {
+          "title": "",
+          "body": "We complete the repair (typically 3-5 working days for chain/injector work) and test thoroughly."
+        },
+        {
+          "title": "",
+          "body": "You collect your vehicle with a full report and 12-month warranty – or we arrange delivery."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services We Offer",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild) – full overhaul",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
+            "[Mercedes 4-Cylinder Timing Chain Repair](/mercedes-4cyl-timing-chain-repair) (petrol M270/M274)",
+            "[Mercedes AMG V8 Valve Seal & Coolant Repair](/mercedes-amg-v8-valve-seal-repair)",
+            "[Nationwide Engine Recovery](/mercedes-engine-recovery)",
+            "[Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does a timing chain or injector seal repair take?",
+          "a": "Typical turnaround is 3-5 working days from arrival at our workshop. More complex jobs (e.g. OM654 rear-chain) may take slightly longer. We'll give you an estimated completion date when we start the work."
+        },
+        {
+          "q": "Do you use genuine Mercedes parts?",
+          "a": "We use genuine Mercedes-Benz or OEM-quality parts (chains, tensioners, seals) to ensure reliability and compatibility with your engine."
+        },
+        {
+          "q": "Do I need to bring the car to you, or can you collect it?",
+          "a": "We offer nationwide recovery from £70. Most vehicles are collected within a few hours of booking. Alternatively, you can drop it off at our Billericay workshop."
+        },
+        {
+          "q": "Is the work covered by a warranty?",
+          "a": "Yes. All our timing chain and injector seal repairs come with a 12-month, unlimited-mileage warranty on parts and labour."
+        },
+        {
+          "q": "What is the price range for this repair?",
+          "a": "For 4-cylinder diesel engines, rebuilds start from £2,200. For 6-cylinder V6 diesels (OM642), from £2,800. The final price depends on the exact engine and any additional parts needed."
+        }
+      ]
+    }
+  ]
+}

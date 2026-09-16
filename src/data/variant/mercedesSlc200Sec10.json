@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SLC200 ENGINE",
+    "paragraphs": [
+      "The SLC200 uses the M274 — a 2.0-litre turbocharged petrol 4-cylinder. It was fitted from 2016 to 2020 across the single R172 generation, which was itself the successor to the SLK. The SLC range was discontinued after this generation with no direct replacement, making the SLC200 one of a relatively short-lived but still widely owned model line. The M274 engine is shared with the C-Class of the same era, which is why its known wear patterns are well documented in specialist circles."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SLC200 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SLC200 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SLC200 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 SLC200",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SLC200 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The SLC200 uses a single engine — the M274 2.0-litre turbocharged petrol 4-cylinder — across its entire production run. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M274",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic SLC quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SLC200 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "R172",
+        "chassis": "R172",
+        "years": "2016–2020",
+        "engineCode": "M274",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m274-engine"
+      }
+    ]
+  }
+}

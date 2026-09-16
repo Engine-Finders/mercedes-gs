@@ -1,0 +1,109 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES CLS 63 AMG ENGINE",
+    "paragraphs": [
+      "The CLS 63 AMG has been the flagship performance variant of the CLS range since 2004, spanning three generations under one badge. The first-generation C219 car (2004–2010) uses the M156 — a naturally aspirated 6.2-litre V8 that was AMG's first entirely in-house developed engine. From 2010, the C218-generation CLS 63 AMG switched to the M157, a 5.5-litre twin-turbo V8 that delivered significantly more torque. The final C257 generation (2018–2023) uses the M177, a 4.0-litre twin-turbo V8 shared with other contemporary AMG models. Each is a different unit entirely, not an evolution of the previous one — which is why we confirm your exact engine by registration before quoting. The CLS was discontinued entirely after the C257 in 2023, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every CLS 63 AMG on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES CLS 63 AMG ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M156",
+        "codeRest": "(C219)",
+        "body": "A 6.2-litre naturally aspirated V8 fitted to the CLS 63 AMG from 2004 to 2010 (C219 generation). This was AMG's first entirely in-house developed engine. While the M156 has known characteristics on other AMG models, we haven't independently confirmed a specific pattern for this CLS application — every rebuild is assessed on its own condition rather than assuming a model-wide issue.",
+        "cta": "Check Your M156 CLS 63 AMG",
+        "codeHref": "/mercedes-m156-engine"
+      },
+      {
+        "codeHighlight": "M157",
+        "codeRest": "(C218)",
+        "body": "A 5.5-litre twin-turbo V8 fitted from 2010 to 2018 (C218 generation). Known for valve seal and coolant system wear over time — see the callout above. We replace valve seals, coolant components, timing chains and bearings as standard on every M157 rebuild.",
+        "cta": "Check Your M157 CLS 63 AMG",
+        "codeHref": "/mercedes-m157-engine"
+      },
+      {
+        "codeHighlight": "M177",
+        "codeRest": "(C257)",
+        "body": "A 4.0-litre twin-turbo V8 fitted from 2018 to 2023 (C257 generation). The final engine used in the CLS 63 AMG before the model was discontinued. Shares the valve seal and coolant system wear pattern of the M157 — see the callout above. We service it to the same standard as the M157.",
+        "cta": "Check Your M177 CLS 63 AMG",
+        "codeHref": "/mercedes-m177-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES CLS 63 AMG ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the CLS 63 AMG spans three distinct engines across three generations, fitting the wrong replacement — or assuming an M157 part will work on an M177 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M157",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic CLS quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES CLS 63 AMG ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "C219",
+        "chassis": "C219",
+        "years": "2004–2010",
+        "engineCode": "M156",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m156-engine"
+      },
+      {
+        "generation": "C218",
+        "chassis": "C218",
+        "years": "2010–2018",
+        "engineCode": "M157",
+        "fuel": "Petrol Twin-Turbo",
+        "codeHref": "/mercedes-m157-engine"
+      },
+      {
+        "generation": "C257",
+        "chassis": "C257",
+        "years": "2018–2023",
+        "engineCode": "M177",
+        "fuel": "Petrol Twin-Turbo",
+        "codeHref": "/mercedes-m177-engine"
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "slug": "mercedes-engine-rebuild-process",
+  "metaTitle": "Mercedes-Benz Engine Rebuild Process | Mercedes Garage",
+  "metaDescription": "Our complete 10-step engine rebuild process for Mercedes-Benz: from vehicle arrival and diagnosis to strip-down, machining, reassembly, testing, and road test.",
+  "h1": "Mercedes-Benz Engine Rebuild Process",
+  "lede": "Our complete 10-step rebuild process — from arrival to road test — performed in-house with manufacturer-grade equipment and expertise.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec2.webp",
+    "/engine/sec9_bottom.webp",
+    "/variant/sec3.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Our Rebuild Process Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our engine rebuild service is a complete, systematic process that restores your Mercedes-Benz engine to factory-spec condition. Every step is carried out in-house at our Billericay workshop by our experienced technicians."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Initial diagnosis** – full vehicle and engine assessment to confirm the required work",
+            "**Engine removal** – safe extraction using specialised lifting equipment",
+            "**Full strip-down** – complete disassembly to inspect every component",
+            "**Cleaning and inspection** – parts are cleaned and measured to determine reusability",
+            "**Precision machining** – cylinder boring/honing, deck surfacing, crank grinding, and align honing (all in-house)",
+            "**Parts sourcing and quality check** – we supply genuine or high-quality OEM-equivalent components",
+            "**Reassembly** – new bearings, seals, piston rings, and timing components fitted to exact torque specifications",
+            "**Final assembly and torquing** – all fasteners tightened to manufacturer-specified values",
+            "**Engine testing** – oil pressure, compression, and leak-down tests to verify performance",
+            "**Refit and road test** – engine reinstalled, fluids filled, and a full road test to confirm drivability"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Throughout the process, we document each stage and keep you informed. Our goal is a reliable, long-lasting engine that performs like new."
+        },
+        {
+          "t": "p",
+          "html": "Read our detailed rebuild blog post →"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Pricing & Quotation",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our rebuild pricing is fixed per engine type. The table below shows our starting prices – your final quote may vary based on the specific condition and required parts."
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "[Pricing disclaimer](/pricing-legal-disclaimer) – exact cost depends on condition and parts required; we provide a fixed quote after inspection."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Get Your Quote](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Mercedes-Benz Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our rebuild process covers the entire Mercedes-Benz range, from compact hatchbacks to AMG performance models and commercial vehicles."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class (W176/W177)",
+              "href": "/mercedes-a-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Specific variants and engines:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[C220d (OM651/OM654)](/mercedes-c-class-engines)",
+            "[E220d (OM654)](/mercedes-e-class-engines)",
+            "[S350d (OM642/OM656)](/mercedes-s350d-engines)",
+            "[GLC300 (M274)](/mercedes-glc300-engines)",
+            "[G63 AMG (M157/M177)](/mercedes-g-class-engines)",
+            "[SLK55 AMG (M156)](/mercedes-slk55-amg-engines)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Not sure if your engine qualifies? [Contact us](/contact) with your engine code and we'll confirm."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our 10-Step Rebuild Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "Vehicle arrives, we perform a full diagnostic check to confirm the scope of the rebuild."
+        },
+        {
+          "title": "",
+          "body": "We safely remove the engine using a hoist, disconnecting all ancillaries and wiring."
+        },
+        {
+          "title": "",
+          "body": "Engine is completely disassembled – block, crank, rods, head, valvetrain, and all internal parts."
+        },
+        {
+          "title": "",
+          "body": "All components are cleaned and measured. We determine which parts can be reused."
+        },
+        {
+          "title": "",
+          "body": "In-house machining: cylinder boring/honing, deck surfacing, crank grinding, align honing."
+        },
+        {
+          "title": "",
+          "body": "We order all required new components – bearings, seals, rings, timing gear – to OEM quality."
+        },
+        {
+          "title": "",
+          "body": "Engine is reassembled with new parts, following manufacturer torque sequences and specifications."
+        },
+        {
+          "title": "",
+          "body": "All fasteners are torqued to exact values, and critical clearances are verified."
+        },
+        {
+          "title": "",
+          "body": "Oil pressure, compression, and leak-down tests are performed to confirm performance."
+        },
+        {
+          "title": "",
+          "body": "Engine is reinstalled, fluids filled, and a full road test ensures everything is perfect."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Find Your Vehicle's Details",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Enter your registration to see model-specific information and get a tailored rebuild quote."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage for Your Rebuild",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Complete in-house capability** – we control every stage, from diagnosis to road test, including machining",
+            "**Manufacturer-grade equipment** – Xentry diagnostics, dedicated torque plates, and precision machine tools",
+            "**12-month unlimited-mileage warranty** – on all rebuilds, giving you peace of mind",
+            "**Established since 2009** – trusted by Mercedes owners across the UK",
+            "**Transparent process** – we keep you updated at every step and explain all decisions",
+            "**Nationwide recovery** – from £70, with most vehicles collected within hours",
+            "**Fixed-price quotes** – no hidden extras, you know the cost upfront"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How to Get Your Engine Rebuilt",
+      "steps": [
+        {
+          "title": "",
+          "body": "Call, email, or use our online form to describe your vehicle and issue."
+        },
+        {
+          "title": "",
+          "body": "We provide a fixed-price quote after a full inspection (or based on your description)."
+        },
+        {
+          "title": "",
+          "body": "We can recover your vehicle nationwide, or you can deliver it to our workshop."
+        },
+        {
+          "title": "",
+          "body": "We carry out the full process, keeping you updated throughout."
+        },
+        {
+          "title": "",
+          "body": "Collect your Mercedes with a 12-month warranty and enjoy a like-new engine."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Explore other Mercedes engine services:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
+            "[Mercedes Engine Machining & Rebuild Preparation](/mercedes-engine-machining)",
+            "[Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[AMG Performance Engine Rebuild](/mercedes-amg-performance-engine-rebuild)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Read our blog: Why we recommend rebuilding over replacing"
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What are the 10 steps in your engine rebuild process?",
+          "a": "1. Vehicle arrival and initial diagnosis. 2. Engine removal. 3. Full strip-down. 4. Cleaning and inspection. 5. Machining (boring, honing, grinding). 6. Parts sourcing and quality check. 7. Reassembly with new bearings, seals, piston rings, timing components. 8. Final assembly and torquing to spec. 9. Engine testing (oil pressure, compression, leak-down). 10. Refit and road test."
+        },
+        {
+          "q": "How long does a typical Mercedes engine rebuild take?",
+          "a": "We aim for a 3-5 working day turnaround from arrival at our workshop, subject to parts availability and machining requirements. The full process is managed in-house to maintain quality and speed."
+        },
+        {
+          "q": "Do you perform machining in-house?",
+          "a": "Yes. We have a fully equipped machine shop on-site, capable of cylinder boring and honing, deck resurfacing, align honing, and crankshaft grinding. This ensures we control every stage of the rebuild."
+        },
+        {
+          "q": "What warranty do you offer on a rebuilt engine?",
+          "a": "All our engine rebuilds come with a 12-month, unlimited-mileage warranty covering parts and labour, giving you complete peace of mind."
+        },
+        {
+          "q": "Can you rebuild AMG and V12 engines?",
+          "a": "Absolutely. We have specialist tooling and experience with all Mercedes engine families, including AMG V8s (M156, M157, M177) and the V12 M275. We treat each engine with the care it requires."
+        }
+      ]
+    }
+  ]
+}

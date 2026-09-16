@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES R500 ENGINE",
+    "paragraphs": [
+      "The R500 uses the M113 — a 5.0-litre naturally aspirated V8 petrol engine that was a mainstay of Mercedes' V8 range during the 2000s. Fitted to the W251/V251 generation from 2006 until the R-Class was discontinued in 2013, it delivers the kind of effortless V8 performance that suits the R-Class's unique blend of MPV practicality and luxury car refinement. It's a robust, proven powerplant that responds well to a thorough rebuild when wear sets in."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every R500 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES R500 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M113",
+        "codeRest": "",
+        "body": "A 5.0-litre V8 petrol engine fitted to the R500 from 2006 to 2013 (W251/V251 generation). It's a proven, durable V8 design shared across multiple Mercedes models of the era. We replace timing chains, bearings and gaskets as standard on every rebuild.",
+        "cta": "Check Your M113 R500",
+        "codeHref": "/mercedes-m113-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES R500 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The R500 uses a single engine family — the M113 V8 — across its entire production run. However, there are still important compatibility checks to make: the exact year, drivetrain specification (4MATIC vs rear-wheel drive), and any running changes made during the 2006-2013 production run can affect which parts are correct for your car. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M113",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic R-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES R500 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W251/V251",
+        "chassis": "W251/V251",
+        "years": "2006–2013",
+        "engineCode": "M113",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m113-engine"
+      }
+    ]
+  }
+}

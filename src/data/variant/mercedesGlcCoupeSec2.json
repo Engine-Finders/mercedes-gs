@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes GLC Coupe",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes GLC Coupe"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "GLC-Class"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "GLC Coupe"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol, Petrol MHEV, Petrol PHEV, Petrol Hybrid, Diesel, Diesel MHEV"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "M274, M254, OM651, OM654, OM656, M276, M139, M177"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "2.0L, 3.0L, 4.0L"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "X253 (2015–2022) · X254 (2022–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,200",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The GLC COUPE uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

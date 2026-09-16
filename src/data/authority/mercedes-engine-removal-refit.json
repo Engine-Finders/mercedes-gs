@@ -1,0 +1,299 @@
+{
+  "slug": "mercedes-engine-removal-refit",
+  "metaTitle": "Mercedes-Benz Engine Removal, Refit & Final Testing | Mercedes Garage",
+  "metaDescription": "Professional engine removal, refit, and final testing for Mercedes-Benz. Full process from disconnection to road test. Part of our rebuild and replacement service.",
+  "h1": "Mercedes-Benz Engine Removal, Refit & Final Testing",
+  "lede": "Every engine rebuild or replacement at our workshop includes a meticulous removal, precise refit, and comprehensive final testing – ensuring your Mercedes performs as it should.",
+  "ctas": [
+    {
+      "label": "Get a Fixed-Price Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec5.webp",
+    "/engine/sec5.webp",
+    "/model/sec5.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Engine Removal, Refit & Testing Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Removing and refitting an engine is a skilled, labour-intensive process that requires careful attention to detail. At Mercedes Garage, we follow a structured procedure that ensures every component is correctly handled and every system is thoroughly tested before your vehicle leaves the workshop."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Engine Removal",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "Disconnect battery and all electrical harnesses",
+              "href": null
+            },
+            {
+              "label": "Drain all fluids (engine oil, coolant, refrigerant, etc.)",
+              "href": null
+            },
+            {
+              "label": "Remove intake, exhaust, cooling, and fuel system connections",
+              "href": null
+            },
+            {
+              "label": "Disconnect transmission bellhousing",
+              "href": null
+            },
+            {
+              "label": "Carefully lift the unit out using an engine hoist",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Engine Refit",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "Lower the rebuilt",
+              "href": null
+            },
+            {
+              "label": "replacement engine into the bay",
+              "href": null
+            },
+            {
+              "label": "Reconnect all systems – electrical, fuel, coolant, air intake",
+              "href": null
+            },
+            {
+              "label": "exhaust",
+              "href": null
+            },
+            {
+              "label": "Reattach transmission and driveline components",
+              "href": null
+            },
+            {
+              "label": "Refill all fluids with correct specifications",
+              "href": null
+            },
+            {
+              "label": "Perform initial start-up checks",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Final Testing",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Start-up test** – ensure engine fires and runs smoothly",
+              "href": null
+            },
+            {
+              "label": "**Oil pressure and compression tests** – verify within manufacturer specs",
+              "href": null
+            },
+            {
+              "label": "**Running test** – check under various loads and RPMs",
+              "href": null
+            },
+            {
+              "label": "**Road test** – validate performance under real driving conditions",
+              "href": null
+            },
+            {
+              "label": "**Leak check** – inspect for any fluid leaks",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "**Mercedes-specific considerations:** Engine bay layout varies significantly across models – from the compact A-Class to the spacious Sprinter. AMG engines have more complex plumbing and electronic systems. Certain models, like the SLS AMG with a mid-engine layout, require special lifting equipment. Our technicians are trained on all Mercedes platforms and use the correct tools for each job."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Pricing & Labour Time",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "Part of our rebuild or replacement service – from **£2,200**",
+            "Removal, refit, and final testing are included in our fixed-price quotes for engine rebuilds and replacements. For standalone removal/refit work (e.g., to replace other components), we provide a separate quote.",
+            "Every job is quoted individually – contact us for a precise estimate for your vehicle.",
+            "[See our pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which Mercedes Models and Engines?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We perform removal, refit, and testing on virtually every Mercedes-Benz model. Below are some of the most common ones we work on."
+        },
+        {
+          "t": "p",
+          "html": "For a complete list of all models and engine codes, see our [engine rebuild service page](/mercedes-engine-rebuild)."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Removal, Refit & Testing Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "We receive your vehicle, confirm the work required, and carry out an initial inspection."
+        },
+        {
+          "title": "",
+          "body": "We disconnect all systems, drain fluids, and safely lift the engine out using appropriate equipment."
+        },
+        {
+          "title": "",
+          "body": "The engine is either rebuilt (if part of a rebuild service) or the replacement unit is prepared."
+        },
+        {
+          "title": "",
+          "body": "We lower the unit into the bay, reconnect all systems, and refill fluids to manufacturer specifications."
+        },
+        {
+          "title": "",
+          "body": "We perform initial start-up checks, measure oil pressure and compression, and run the engine at various RPMs."
+        },
+        {
+          "title": "",
+          "body": "We road-test the vehicle to verify real-world performance, check for leaks, and complete a final sign-off."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Factory-trained technicians** with extensive Mercedes experience",
+            "**Correct tools and equipment** for every model – including AMG and special layouts",
+            "**12-month unlimited-mileage warranty** on all rebuilds and replacements",
+            "**Fixed-price quotes** – removal, refit, and testing included",
+            "**Nationwide recovery** available from £70",
+            "**Transparent process** – we keep you updated at each stage",
+            "**Rebuild turnaround** – typically 3-5 working days from arrival"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Our Service Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "**Contact us** – call, email, or use our online form."
+        },
+        {
+          "title": "",
+          "body": "**Recovery** – we collect your vehicle nationwide (from £70)."
+        },
+        {
+          "title": "",
+          "body": "**Inspection & quote** – we assess the work and provide a fixed price."
+        },
+        {
+          "title": "",
+          "body": "**Removal, rebuild/replacement, refit & testing** – we carry out the full process."
+        },
+        {
+          "title": "",
+          "body": "**Collection** – your vehicle is returned with a warranty and full documentation."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes Engine Replacement](/mercedes-engine-replacement)",
+            "[Mercedes Rebuild vs Replacement](/mercedes-rebuild-vs-replacement)",
+            "[Mercedes Rebuild vs Used Engine](/mercedes-rebuild-vs-used)",
+            "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Mercedes Engine Rebuild Process](/mercedes-engine-rebuild-process)",
+            "[Inside Our Workshop](/about)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does engine removal and refit take?",
+          "a": "Typically, removal and refit take 15-25 workshop hours. If a full rebuild is included, add 10-15 hours. We'll provide a precise timeline during the quote stage."
+        },
+        {
+          "q": "Are all tests included in the price?",
+          "a": "Yes, our fixed-price quotes for rebuilds and replacements include all removal, refit, and final testing – from start-up checks to road testing."
+        },
+        {
+          "q": "Do you handle AMG models with complex systems?",
+          "a": "Absolutely. Our technicians are trained on all AMG platforms, including the complexities of M156, M157, M177, and M178 engines. We have the specialist tools and knowledge to work on these high-performance units."
+        },
+        {
+          "q": "What if my vehicle is a Sprinter or a van?",
+          "a": "We regularly work on commercial vehicles, including Sprinters, Vitos, and V-Class. The removal and refit process is adapted to the larger bay and different layout, but we follow the same rigorous quality standards."
+        },
+        {
+          "q": "Do I need to bring the car in or can you collect?",
+          "a": "We offer nationwide recovery from £70. We can collect your vehicle and return it after the work is complete."
+        }
+      ]
+    }
+  ]
+}

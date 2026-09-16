@@ -1,0 +1,58 @@
+{
+  "about": {
+    "image": "/engine/sec9_top.webp",
+    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "kicker": "ABOUT THE",
+    "titlePre": "MERCEDES-BENZ",
+    "titleHighlight": "M166",
+    "titlePost": " ENGINE",
+    "body": "The M166 is a petrol inline-four engine produced by Mercedes-Benz from 2001 to 2005. It was designed and built for a single application — the W414 Vaneo, a compact MPV based on the A-Class platform of the time. The M166 was available in two capacities, 1.6L and 1.9L, and powered the Vaneo throughout its short production run. While no widely-reported catastrophic issue pattern has been confirmed for this engine, we inspect and replace timing chain, bearings, and gaskets as standard on every M166 rebuild we carry out, with prices starting from £2,200."
+  },
+  "byModel": {
+    "image": "/engine/sec9_middle.webp",
+    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "kicker": "MERCEDES-BENZ M166",
+    "titlePre": "",
+    "titleHighlight": "APPLICATIONS",
+    "titlePost": " BY MODEL",
+    "body": "The M166 was exclusive to the Vaneo, produced in the W414 chassis from 2001 to 2005. It appeared in two main variants: the Vaneo 1.6 and the Vaneo 1.9.",
+    "lineup": [
+      {
+        "label": "Vaneo",
+        "code": "W414"
+      }
+    ]
+  },
+  "compatibility": {
+    "image": "/engine/sec9_bottom.webp",
+    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "kicker": "MERCEDES-BENZ M166",
+    "titlePre": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
+    "body": "Because the M166 was only fitted to a single model generation (the W414 Vaneo), compatibility is more straightforward than with engines that spanned multiple platforms. However, the 1.6L and 1.9L variants are not automatically interchangeable — we always confirm your exact vehicle specification by registration before recommending a rebuild or replacement.",
+    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "points": [
+      {
+        "icon": "car",
+        "title": "MODEL",
+        "text": "Confirm your exact model and AMG variant."
+      },
+      {
+        "icon": "calendar",
+        "title": "GENERATION",
+        "text": "Identify the correct generation (W177, C118, H247, W206, X254, R232)."
+      },
+      {
+        "icon": "gears",
+        "title": "DRIVETRAIN",
+        "text": "Specify the variant (45, 45 S, 43)."
+      },
+      {
+        "icon": "clipboard",
+        "title": "CONFIRMED BY REGISTRATION",
+        "text": "We confirm by registration or VIN before quoting."
+      }
+    ]
+  }
+}

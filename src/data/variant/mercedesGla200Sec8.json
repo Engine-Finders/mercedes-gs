@@ -1,0 +1,107 @@
+{
+  "gallery": {
+    "titlePre": "OUR MOST RECENT",
+    "titleHighlight": "MERCEDES RECOVERIES & REBUILDS",
+    "description": "Real vehicles brought into our workshop. Open bonnets, stripped blocks, and cars ready for collection — this is what genuine engine work looks like.",
+    "image": "/model/sec12.webp",
+    "items": [
+      {
+        "icon": "truck",
+        "model": "Mercedes GLA200",
+        "status": "RECOVERY"
+      },
+      {
+        "icon": "search",
+        "model": "Mercedes GLA-Class 63",
+        "status": "DIAGNOSTICS"
+      },
+      {
+        "icon": "gear",
+        "model": "Mercedes GLA-Class",
+        "status": "STRIPPED ENGINE"
+      },
+      {
+        "icon": "chain",
+        "model": "Mercedes GLA-Class S",
+        "status": "TIMING CHAIN REPLACEMENT"
+      },
+      {
+        "icon": "wrench",
+        "model": "Mercedes GLA200",
+        "status": "IN FOR REBUILD"
+      },
+      {
+        "icon": "gear",
+        "model": "Mercedes GLA-Class C",
+        "status": "REBUILD IN PROGRESS"
+      },
+      {
+        "icon": "truck",
+        "model": "Mercedes GLA-Class R",
+        "status": "NATIONWIDE RECOVERY"
+      },
+      {
+        "icon": "gear",
+        "model": "Mercedes GLA-Class 63 S",
+        "status": "ENGINE STRIPPED"
+      },
+      {
+        "icon": "knock",
+        "model": "Mercedes GLA200",
+        "status": "TESTING & CHECKS"
+      },
+      {
+        "icon": "shield-check",
+        "model": "Mercedes GLA-Class Roadster",
+        "status": "READY FOR COLLECTION"
+      },
+      {
+        "icon": "gear",
+        "model": "Mercedes GLA-Class",
+        "status": "M256 REBUILD"
+      },
+      {
+        "icon": "wrench",
+        "model": "Mercedes GLA200",
+        "status": "WORKSHOP BAY"
+      }
+    ]
+  },
+  "howItWorks": {
+    "titlePre": "HOW IT ",
+    "titleHighlight": "WORKS",
+    "steps": [
+      {
+        "icon": "note",
+        "linePre": "SEND YOUR",
+        "lineHighlight": "REGISTRATION"
+      },
+      {
+        "icon": "price",
+        "linePre": "RECEIVE YOUR",
+        "lineHighlight": "FIXED-PRICE QUOTE"
+      },
+      {
+        "icon": "truck",
+        "linePre": "WE RECOVER",
+        "lineHighlight": "YOUR CAR"
+      },
+      {
+        "icon": "engine",
+        "linePre": "REBUILD &",
+        "lineHighlight": "REFIT"
+      }
+    ],
+    "summary": {
+      "timeframe": {
+        "icon": "clock",
+        "text": "Most GLA-Class models are recovered within a few hours of booking. Most rebuilds are completed within 3-5 working days."
+      },
+      "urgency": {
+        "icon": "calendar",
+        "textPre": "Workshop slots fill up fast — ",
+        "textHighlight": "book your recovery today."
+      }
+    }
+  }
+}

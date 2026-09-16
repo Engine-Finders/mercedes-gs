@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLC63 AMG ENGINE",
+    "paragraphs": [
+      "The GLC63 AMG has been part of the GLC-Class range since 2015, and across its two generations has used two completely different engines — from the 4.0-litre V8 through to today's 2.0-litre 4-cylinder hybrid. The full breakdown by engine code is below."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLC63 AMG on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLC63 AMG ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M177",
+        "codeRest": "(X253, 2015–2022)",
+        "body": "A 4.0-litre V8 biturbo fitted to the first-generation GLC63 AMG. Known for valve seal and coolant system wear over time — see the callout above. We replace valve seals, coolant components, timing chains and bearings as standard on every M177 rebuild.",
+        "cta": "Check Your M177 GLC63 AMG",
+        "codeHref": "/mercedes-m177-engine"
+      },
+      {
+        "codeHighlight": "M139",
+        "codeRest": "(X254, 2022–present)",
+        "body": "A 2.0-litre 4-cylinder hybrid fitted to the current-generation GLC63 AMG — a significant departure from the V8 used in the previous generation. This engine is too new for established failure patterns to have emerged, and we do not carry over assumptions from the older V8. We service it to the same high standard as our other GLC63 AMG rebuilds.",
+        "cta": "Check Your M139 GLC63 AMG",
+        "codeHref": "/mercedes-amg-m139-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLC63 AMG ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the GLC63 AMG spans two completely different engines across two generations, fitting the wrong replacement — or assuming an M177 part will work on an M139 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M177",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLC63 AMG ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X253",
+        "chassis": "X253",
+        "years": "2015–2022",
+        "engineCode": "M177",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m177-engine"
+      },
+      {
+        "generation": "X254",
+        "chassis": "X254",
+        "years": "2022–present",
+        "engineCode": "M139",
+        "fuel": "Petrol Hybrid",
+        "codeHref": "/mercedes-amg-m139-engine"
+      }
+    ]
+  }
+}

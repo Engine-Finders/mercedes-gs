@@ -1,0 +1,240 @@
+{
+  "slug": "mercedes-rebuild-vs-used",
+  "metaTitle": "Mercedes-Benz Rebuild vs Used Engine | Mercedes Garage",
+  "metaDescription": "Compare rebuilt vs used engines for your Mercedes. Understand the technical differences, risks, warranty, and long-term value. We recommend rebuild for reliability.",
+  "h1": "Mercedes-Benz Rebuild vs Used Engine",
+  "lede": "Understand the real difference between a professionally rebuilt engine and a second-hand unit – and why rebuild often offers better long-term value.",
+  "ctas": [
+    {
+      "label": "Get a Fixed-Price Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec4.webp",
+    "/engine/sec4.webp",
+    "/model/sec3.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What's the Difference?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When your Mercedes engine fails, you have two primary options: rebuild the original engine or fit a used engine from a scrapped vehicle. The choice affects cost, reliability, and long-term peace of mind."
+        },
+        {
+          "t": "h3",
+          "text": "Rebuilt Engine"
+        },
+        {
+          "t": "p",
+          "html": "The original engine is completely disassembled. Every component is cleaned, inspected, and measured. Worn parts are replaced with new or reconditioned items, and the block is machined where necessary. The engine is reassembled to factory specifications and tested before installation."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Full teardown and inspection",
+            "Precision machining (if needed)",
+            "New bearings, seals, timing components, and gaskets",
+            "Thorough testing on the bench and in the vehicle",
+            "12-month unlimited-mileage warranty"
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Used Engine"
+        },
+        {
+          "t": "p",
+          "html": "A used engine is a second-hand unit taken from a donor vehicle – often from a breaker's yard. It is removed from the scrapped car and installed in your vehicle without any disassembly, inspection, or renewal."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "No internal inspection",
+            "Unknown history (accident, flood, poor maintenance)",
+            "Typically no warranty, or only a short start-up guarantee",
+            "Uncertain remaining life",
+            "May still require additional work (e.g., timing chain, seals)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Even a reputable workshop would ideally remove the cylinder head and sump for a basic inspection before fitting a used engine – but this is often not done, and it adds cost."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Price & Long-Term Value",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "Rebuilds from **£2,200**",
+            "Our rebuild pricing is fixed per engine type – see our full pricing bands below. A used engine may have a lower upfront price, but the hidden risks (unknown history, no warranty) often mean higher total cost in the long run.",
+            "**Our recommendation:** For most Mercedes owners, rebuilding the original engine offers better value and peace of mind.",
+            "[See our pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which Mercedes Models and Engines?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We rebuild engines for virtually all Mercedes-Benz models. Below are some of the most common ones we work on."
+        },
+        {
+          "t": "p",
+          "html": "For a full list of all models and engines, visit our [engine rebuild service page](/mercedes-engine-rebuild)."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Approach to Rebuilds",
+      "steps": [
+        {
+          "title": "",
+          "body": "We assess your engine, identify the necessary work, and provide a fixed-price quote."
+        },
+        {
+          "title": "",
+          "body": "We strip the engine completely, cleaning and inspecting every component."
+        },
+        {
+          "title": "",
+          "body": "We machine the block and head as needed, and replace all wear items with OEM-spec parts."
+        },
+        {
+          "title": "",
+          "body": "The engine is reassembled to factory tolerances and tested on our dynamometer."
+        },
+        {
+          "title": "",
+          "body": "We install the engine, run full diagnostics, and road-test the vehicle to confirm performance."
+        },
+        {
+          "title": "",
+          "body": "We provide a 12-month unlimited-mileage warranty and a detailed report."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**12-month unlimited-mileage warranty** on every rebuild",
+            "**Factory-trained technicians** with specialist Mercedes experience",
+            "**OEM-grade parts** – genuine or high-quality equivalents",
+            "**Fixed-price quotes** – no hidden extras",
+            "**Nationwide recovery** available from £70",
+            "**Transparent process** – we keep you informed at every stage",
+            "**Rebuild turnaround** – typically 3-5 working days from arrival"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Our Service Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "**Contact us** – call, email, or use our online form."
+        },
+        {
+          "title": "",
+          "body": "**Recovery** – we collect your vehicle nationwide (from £70)."
+        },
+        {
+          "title": "",
+          "body": "**Inspection & quote** – we assess the engine and provide a fixed price."
+        },
+        {
+          "title": "",
+          "body": "**Rebuild or replacement** – we carry out the agreed work."
+        },
+        {
+          "title": "",
+          "body": "**Test & handover** – we road-test and return your vehicle with a warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Comparisons & Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes Rebuild vs Replacement](/mercedes-rebuild-vs-replacement)",
+            "[Mercedes Rebuild vs Remanufactured](/mercedes-rebuild-vs-remanufactured)",
+            "[Mercedes Rebuild vs Reconditioned](/mercedes-rebuild-vs-reconditioned)",
+            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes Engine Replacement](/mercedes-engine-replacement)",
+            "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Mercedes Engine Rebuild Case Studies](/mercedes-engine-rebuild)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Is a used engine always cheaper than a rebuild?",
+          "a": "Typically, a used engine has a lower upfront price. However, the total cost can be higher if the used engine fails or requires additional work. A rebuild offers a predictable, fixed price with a warranty."
+        },
+        {
+          "q": "What's the warranty difference?",
+          "a": "All our rebuilds come with a 12-month unlimited-mileage warranty. Used engines usually have no warranty, or only a short 30-day start-up guarantee that does not cover internal failure."
+        },
+        {
+          "q": "Can you check a used engine before fitting?",
+          "a": "We can perform a basic inspection (removing the head and sump) for an additional fee. However, this still does not guarantee reliability – the engine's history is unknown. We recommend a full rebuild for peace of mind."
+        },
+        {
+          "q": "How long does a rebuild take?",
+          "a": "Most rebuilds are completed within 3-5 working days from arrival at our workshop. We'll give you a precise timeline during the quote stage."
+        },
+        {
+          "q": "Do you supply used engines?",
+          "a": "We do not supply used engines as a standalone product. Our service is rebuild & replacement or supply & fit – we always rebuild or source a replacement engine ourselves, ensuring quality control."
+        }
+      ]
+    }
+  ]
+}

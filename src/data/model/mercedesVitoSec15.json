@@ -1,0 +1,39 @@
+{
+  "headlinePre": "Mercedes Vito Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our Mercedes engine specialist garage covers all engine types from 1993 to 2026, across every Vito generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.webp",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "1997–2003",
+      "code": "W638",
+      "list": "1997 through 2003 Mercedes Vito engines"
+    },
+    {
+      "years": "2003–2014",
+      "code": "W639",
+      "list": "2003 through 2014 Mercedes Vito engines"
+    },
+    {
+      "years": "2014–present",
+      "code": "W447",
+      "list": "2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 Mercedes Vito engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "Mercedes Vito 114 CDI Model:",
+  "checklistLeft": [
+    "Mercedes Vito 114 CDI 2016 Engine Rebuild",
+    "Mercedes Vito 114 CDI 2017 Engine Rebuild",
+    "Mercedes Vito 114 CDI 2018 Engine Rebuild"
+  ],
+  "checklistRight": [
+    "Mercedes Vito 114 CDI 2019 Engine Rebuild",
+    "Mercedes Vito 114 CDI 2020 Engine Rebuild"
+  ],
+  "checklistHref": "/mercedes-vito-114-cdi-engines"
+}

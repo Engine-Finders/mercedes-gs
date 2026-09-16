@@ -1,0 +1,47 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes Citan Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes Citan engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes Citan 108 CDI",
+      "spec": "1.5L Diesel (K9K)",
+      "href": "/mercedes-citan-108-cdi-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes Citan 109 CDI",
+      "spec": "1.5L Diesel (K9K (W415), OM607 or OM608 (W420))",
+      "href": "/mercedes-citan-109-cdi-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes Citan 110 CDI",
+      "spec": "1.5L Diesel (OM608)",
+      "href": "/mercedes-citan-110-cdi-engines"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes Citan 111 CDI",
+      "spec": "1.5L Diesel (K9K)",
+      "href": "/mercedes-citan-111-cdi-engines"
+    },
+    {
+      "number": "05",
+      "model": "Mercedes Citan 112",
+      "spec": "1.3L Petrol (M282)",
+      "href": "/mercedes-citan-112-engines"
+    },
+    {
+      "number": "06",
+      "model": "Mercedes Citan 113",
+      "spec": "1.3L Petrol (M282)",
+      "href": "/mercedes-citan-113-engines"
+    }
+  ]
+}

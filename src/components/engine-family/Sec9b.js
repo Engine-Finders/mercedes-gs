@@ -5,7 +5,7 @@ import AMGBadge from "@/components/reusable/AMGBadge";
 
 export default function Sec9b({ data }) {
   return (
-    <section className="relative overflow-hidden bg-hero-dark text-white">
+    <section className="theme-dark relative overflow-hidden">
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-7 md:hidden">
         <div className="flex items-center gap-2">
@@ -13,7 +13,7 @@ export default function Sec9b({ data }) {
           <AMGBadge className="h-3.5" />
         </div>
         <p className="mt-2 text-xs font-bold uppercase tracking-widest text-hero-blue">{data.kicker}</p>
-        <h2 className="mt-1 text-2xl font-bold uppercase leading-[1.05] tracking-tighter">
+        <h2 className="h2 mt-1 uppercase">
           <span className="block text-white">{data.titlePre}</span>
           <span className="block text-hero-blue">{data.titleHighlight}</span>
         </h2>
@@ -83,7 +83,7 @@ export default function Sec9b({ data }) {
             <AMGBadge className="h-4" />
           </div>
           <p className="mt-3 text-sm font-bold uppercase tracking-widest text-hero-blue">{data.kicker}</p>
-          <h2 className="mt-1 text-4xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-5xl">
+          <h2 className="h2 mt-1 uppercase">
             <span className="block text-white">{data.titlePre}</span>
             <span className="block text-hero-blue">{data.titleHighlight}</span>
           </h2>

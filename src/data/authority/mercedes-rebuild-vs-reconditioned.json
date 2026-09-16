@@ -1,0 +1,343 @@
+{
+  "slug": "mercedes-rebuild-vs-reconditioned",
+  "metaTitle": "Mercedes-Benz Rebuild vs Reconditioned | Mercedes Garage",
+  "metaDescription": "Understand the key differences between a reconditioned engine and a full rebuild. Learn about process, parts quality, and when each option makes sense for your Mercedes.",
+  "h1": "Mercedes-Benz Rebuild vs Reconditioned",
+  "lede": "A clear, no-jargon breakdown of what “reconditioned” and “rebuilt” actually mean for your Mercedes engine — and why the difference matters for long-term reliability and value.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec4.webp",
+    "/engine/sec4.webp",
+    "/model/sec3.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "Reconditioned vs Rebuilt – What's the Actual Difference?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "These two terms are often used interchangeably, but they describe very different levels of work. Understanding the distinction is essential before you commit to any engine work."
+        },
+        {
+          "t": "h3",
+          "text": "🔄 Reconditioned (Recon)"
+        },
+        {
+          "t": "p",
+          "html": "**Technical definition:** The engine is partially or fully disassembled, cleaned, and some damaged parts may be replaced. The aim is to restore it to a previous working state – not necessarily to Original Equipment (OE) specifications."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Often incomplete disassembly – only what's accessible gets addressed.",
+            "May use non-OE aftermarket parts or reused components.",
+            "Quality and scope vary widely between workshops.",
+            "Typically a “fix to usable” approach – cheaper upfront, but may compromise longevity."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "🔧 Rebuilt (Full Rebuild)"
+        },
+        {
+          "t": "p",
+          "html": "**Technical definition:** The engine is completely disassembled. Every worn or damaged part is replaced (with new or OE-spec parts) and all components are systematically inspected to ensure they meet factory tolerances."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Full disassembly – every component is evaluated.",
+            "New wear parts (timing chains, bearings, seals, gaskets, etc.) are used throughout.",
+            "Consistent quality control, with documented procedures and testing.",
+            "“Restore function properly” – aimed at returning the engine to as-new reliability."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "At **Mercedes Garage**, we only perform full rebuilds – we don't offer “reconditioning” as a shortcut. We believe your Mercedes deserves the thorough, documented approach that a rebuild provides."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which Mercedes Models and Engines Does This Apply To?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Every Mercedes engine we work on can benefit from a full rebuild. Here are the model families and engine families we regularly rebuild."
+        },
+        {
+          "t": "h3",
+          "text": "Model families"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "C-Class",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "G-Class",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "SL",
+              "href": "/mercedes-sl-engines"
+            },
+            {
+              "label": "Sprinter",
+              "href": "/mercedes-sprinter-engines"
+            },
+            {
+              "label": "Vito",
+              "href": "/mercedes-vito-engines"
+            },
+            {
+              "label": "GLE",
+              "href": "/mercedes-gle-class-engines"
+            },
+            {
+              "label": "GLC",
+              "href": "/mercedes-glc-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Key engine families"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "M271 (4-cyl petrol)",
+              "href": "/mercedes-m271-engine"
+            },
+            {
+              "label": "M274 (4-cyl petrol)",
+              "href": "/mercedes-m274-engine"
+            },
+            {
+              "label": "M276 (V6 petrol)",
+              "href": "/mercedes-m276-engine"
+            },
+            {
+              "label": "M278 (V8 petrol)",
+              "href": "/mercedes-m278-engine"
+            },
+            {
+              "label": "M177 (AMG V8)",
+              "href": "/mercedes-m177-engine"
+            },
+            {
+              "label": "OM651 (4-cyl diesel)",
+              "href": "/mercedes-om651-engine"
+            },
+            {
+              "label": "OM642 (V6 diesel)",
+              "href": "/mercedes-om642-engine"
+            },
+            {
+              "label": "OM654 (4-cyl diesel)",
+              "href": "/mercedes-om654-engine"
+            },
+            {
+              "label": "OM656 (I6 diesel)",
+              "href": "/mercedes-om656-engine"
+            },
+            {
+              "label": "M275 (V12)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Example variant links"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "C220d",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E220d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S350d",
+              "href": "/mercedes-s350d-engines"
+            },
+            {
+              "label": "SLK200",
+              "href": "/mercedes-slk200-engines"
+            },
+            {
+              "label": "CLS 63 AMG",
+              "href": "/mercedes-cls-63-amg-engines"
+            },
+            {
+              "label": "Sprinter 313 CDI",
+              "href": "/mercedes-sprinter-313319-cdi-engines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Full Rebuild Process – The Thorough Approach",
+      "steps": [
+        {
+          "title": "",
+          "body": "We perform a comprehensive inspection, including leak-down and compression tests, and a full strip-down to evaluate every component."
+        },
+        {
+          "title": "",
+          "body": "Every part is removed, cleaned, and measured against factory tolerances. We identify all wear items that need replacement."
+        },
+        {
+          "title": "",
+          "body": "We install new OEM-spec timing chains, bearings, seals, gaskets, valve train components, and any other worn parts. No used or reconditioned wear parts are used."
+        },
+        {
+          "title": "",
+          "body": "Engine block and cylinder heads are machined as needed. We rebuild the short block and cylinder heads with new components, following factory torque sequences."
+        },
+        {
+          "title": "",
+          "body": "We run the engine on a test stand, check for leaks and correct operation, and use Mercedes-Star Diagnostic (Xentry) to clear codes and run adaptations."
+        },
+        {
+          "title": "",
+          "body": "Every rebuild is road-tested in the vehicle (or on our dynamometer) to ensure full performance before handover."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage for Your Rebuild?",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Specialist focus** – we work exclusively on Mercedes-Benz, so we know every engine family in detail.",
+            "**Full rebuilds only** – we never offer “reconditioning” as a shortcut; we believe in doing the job properly.",
+            "**OEM-spec parts** – we use genuine or equivalent quality components throughout, never cheap aftermarket substitutes.",
+            "**12-month unlimited-mileage warranty** – our rebuilds are backed by a comprehensive warranty, [see details](/warranty).",
+            "**Transparent process** – we document everything and keep you informed at every stage.",
+            "[Learn more about our workshop →](/about)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How to Decide Between Reconditioning and a Full Rebuild",
+      "steps": [
+        {
+          "title": "",
+          "body": "If it's a low-value daily driver you only need for a short time, reconditioning might seem cheaper – but be aware of the risks. For a car you plan to keep, a rebuild is the better long-term investment."
+        },
+        {
+          "title": "",
+          "body": "Always ask for a detailed scope of work. “Reconditioned” can mean anything from a clean-up to a partial rebuild – get it in writing. We provide a full breakdown of every part replaced in a rebuild."
+        },
+        {
+          "title": "",
+          "body": "Recon work often comes with a short or limited warranty. Our full rebuilds include a 12-month unlimited-mileage warranty – that's real peace of mind."
+        },
+        {
+          "title": "",
+          "body": "Not all rebuilds are equal. Choose a specialist that follows manufacturer procedures, uses quality parts, and provides documentation. That's exactly what we do."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services & Comparisons",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes Rebuild vs Replacement](/mercedes-rebuild-vs-replacement)",
+            "[Mercedes Rebuild vs Used Engine](/mercedes-rebuild-vs-used)",
+            "[Mercedes Rebuild vs Remanufactured](/mercedes-rebuild-vs-remanufactured)",
+            "[Mercedes Engine Rebuild (full service overview)](/mercedes-engine-rebuild)",
+            "[Mercedes Diesel Timing Chain & Injector Repair](/mercedes-diesel-timing-chain-repair)",
+            "[Mercedes AMG V8 Valve Seal & Coolant Repair](/mercedes-amg-v8-valve-seal-repair)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What is the difference between reconditioned and rebuilt?",
+          "a": "**Reconditioned** typically means partial disassembly, cleaning, and replacement of only obviously damaged parts – aim is to get the engine running again. **Rebuilt** means complete disassembly, systematic inspection, and replacement of all wear parts with new OE-spec components – aim is to restore the engine to as-new reliability."
+        },
+        {
+          "q": "Is a reconditioned engine cheaper?",
+          "a": "Yes, upfront costs are usually lower because less work and fewer parts are involved. However, hidden issues may surface later, leading to additional costs. A full rebuild costs more initially but gives you a reliable engine with a strong warranty."
+        },
+        {
+          "q": "Do you offer reconditioning services?",
+          "a": "No. At Mercedes Garage, we only perform full rebuilds. We believe that a thorough, documented rebuild is the only way to ensure long-term reliability for your Mercedes engine."
+        },
+        {
+          "q": "What parts are replaced in a full rebuild?",
+          "a": "We replace timing chains, tensioners, guides, bearings, piston rings, seals, gaskets, valve stem seals, and any worn components (e.g. hydraulic lifters, oil pump). We use OEM or OE-spec parts exclusively."
+        },
+        {
+          "q": "How long does a rebuild take?",
+          "a": "Our typical turnaround is **3–5 working days** from arrival at our workshop, depending on engine complexity and parts availability."
+        },
+        {
+          "q": "What warranty comes with a rebuild?",
+          "a": "All our rebuilds come with a **12-month unlimited-mileage warranty** covering parts and labour for defects in workmanship."
+        }
+      ]
+    }
+  ]
+}

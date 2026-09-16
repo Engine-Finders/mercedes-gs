@@ -17,7 +17,7 @@ export default function VariantSec8({ data }) {
       {/* ============ recoveries & rebuilds gallery ============ */}
       <section className="theme-dark relative overflow-hidden">
         {/* ===== mobile ===== */}
-        <div className="relative px-4 py-10 md:hidden">
+        <div className="relative px-4 pb-10 pt-7 md:hidden">
           <h2 className="h2 uppercase">
             <span className="block text-white">{gallery.titlePre}</span>
             <span className="block text-hero-blue">{gallery.titleHighlight}</span>

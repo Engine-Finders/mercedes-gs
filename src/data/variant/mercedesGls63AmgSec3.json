@@ -1,0 +1,43 @@
+{
+  "headlinePre": "Mercedes GLS63 AMG",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£6,500",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M157",
+      "generation": "X166 (2012–2019)",
+      "price": "£6,500",
+      "codeHref": "/mercedes-m157-engine"
+    },
+    {
+      "code": "M177",
+      "generation": "X167 (2019–present)",
+      "price": "£6,500",
+      "codeHref": "/mercedes-m177-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes GLS63 AMG Known Issues by Engine ",
+    "titleHighlight": "",
+    "paragraphs": [
+      "If your GLS63 AMG has the M157 (X166 generation, 2012–2019): this 5.5-litre twin-turbo V8 is known for valve seal and coolant system wear over time — an established pattern across AMG V8s of this era. We replace valve seals, timing chain components, coolant components and bearings as standard on every M157 rebuild.",
+      "If your GLS63 AMG has the M177 (X167 generation, 2019–present): this 4.0-litre twin-turbo V8 shares a similar valve seal and coolant system wear pattern with its predecessor. We replace valve seals, timing chain components, coolant components and bearings as standard on every M177 rebuild."
+    ],
+    "source": "Source: established AMG specialist pattern, cross-referenced throughout Mercedes G-BRF and confirmed in VRF-mercedes-gls.md. Both engine codes included in the claim per VRF coverage"
+  }
+}

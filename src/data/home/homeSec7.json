@@ -1,39 +1,187 @@
 {
   "h2": "Find Your Mercedes Model",
   "models": [
-    { "name": "A-Class", "slug": "a-class", "image": "/model/vehicles/1-series.webp", "href": "/mercedes-a-class-engines" },
-    { "name": "B-Class", "slug": "b-class", "image": "/model/vehicles/2-series.webp", "href": "/mercedes-b-class-engines" },
-    { "name": "C-Class", "slug": "c-class", "image": "/model/vehicles/3-series.webp", "href": "/mercedes-c-class-engines" },
-    { "name": "CLA", "slug": "cla", "image": "/model/vehicles/4-series.webp", "href": "/mercedes-cla-engines" },
-    { "name": "CLC-Class", "slug": "clc-class", "image": "/model/vehicles/_fallback.webp", "href": "/mercedes-clc-class-engines" },
-    { "name": "CLK", "slug": "clk", "image": "/model/vehicles/_fallback.webp", "href": "/mercedes-clk-engines" },
-    { "name": "CLS", "slug": "cls", "image": "/model/vehicles/6-series.webp", "href": "/mercedes-cls-engines" },
-    { "name": "E-Class", "slug": "e-class", "image": "/model/vehicles/5-series.webp", "href": "/mercedes-e-class-engines" },
-    { "name": "S-Class", "slug": "s-class", "image": "/model/vehicles/8-series.webp", "href": "/mercedes-s-class-engines" },
-    { "name": "SL", "slug": "sl", "image": "/model/vehicles/m4.webp", "href": "/mercedes-sl-engines" },
-    { "name": "SLC", "slug": "slc", "image": "/model/vehicles/m3.webp", "href": "/mercedes-slc-engines" },
-    { "name": "SLK", "slug": "slk", "image": "/model/vehicles/_fallback.webp", "href": "/mercedes-slk-engines" },
-    { "name": "GLA", "slug": "gla", "image": "/model/vehicles/x1.webp", "href": "/mercedes-gla-engines" },
-    { "name": "GLC", "slug": "glc", "image": "/model/vehicles/x3.webp", "href": "/mercedes-glc-engines" },
-    { "name": "GLE", "slug": "gle", "image": "/model/vehicles/x5.webp", "href": "/mercedes-gle-engines" },
-    { "name": "GLK", "slug": "glk", "image": "/model/vehicles/x2.webp", "href": "/mercedes-glk-engines" },
-    { "name": "GLS", "slug": "gls", "image": "/model/vehicles/x6.webp", "href": "/mercedes-gls-engines" },
-    { "name": "G-Class", "slug": "g-class", "image": "/model/vehicles/x7.webp", "href": "/mercedes-g-class-engines" },
-    { "name": "M-Class", "slug": "m-class", "image": "/model/vehicles/x4.webp", "href": "/mercedes-m-class-engines" },
-    { "name": "R-Class", "slug": "r-class", "image": "/model/vehicles/m5.webp", "href": "/mercedes-r-class-engines" },
-    { "name": "Sprinter", "slug": "sprinter", "image": "/model/vehicles/m6.webp", "href": "/mercedes-sprinter-engines" },
-    { "name": "Vito", "slug": "vito", "image": "/model/vehicles/m8.webp", "href": "/mercedes-vito-engines" },
-    { "name": "V-Class", "slug": "v-class", "image": "/model/vehicles/1-series.webp", "href": "/mercedes-v-class-engines" },
-    { "name": "Viano", "slug": "viano", "image": "/model/vehicles/2-series.webp", "href": "/mercedes-viano-engines" },
-    { "name": "Citan", "slug": "citan", "image": "/model/vehicles/3-series.webp", "href": "/mercedes-citan-engines" },
-    { "name": "Vario", "slug": "vario", "image": "/model/vehicles/4-series.webp", "href": "/mercedes-vario-engines" }
+    {
+      "name": "A-Class",
+      "slug": "a-class",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-a-class-engines"
+    },
+    {
+      "name": "B-Class",
+      "slug": "b-class",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-b-class-engines"
+    },
+    {
+      "name": "C-Class",
+      "slug": "c-class",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-c-class-engines"
+    },
+    {
+      "name": "CLA",
+      "slug": "cla",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-cla-engines"
+    },
+    {
+      "name": "CLC-Class",
+      "slug": "clc-class",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-clc-class-engines"
+    },
+    {
+      "name": "CLK",
+      "slug": "clk",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-clk-engines"
+    },
+    {
+      "name": "CLS",
+      "slug": "cls",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-cls-engines"
+    },
+    {
+      "name": "E-Class",
+      "slug": "e-class",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-e-class-engines"
+    },
+    {
+      "name": "S-Class",
+      "slug": "s-class",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-s-class-engines"
+    },
+    {
+      "name": "SL",
+      "slug": "sl",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-sl-engines"
+    },
+    {
+      "name": "SLC",
+      "slug": "slc",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-slc-engines"
+    },
+    {
+      "name": "SLK",
+      "slug": "slk",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-slk-engines"
+    },
+    {
+      "name": "GLA",
+      "slug": "gla",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-gla-class-engines"
+    },
+    {
+      "name": "GLC",
+      "slug": "glc",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-glc-class-engines"
+    },
+    {
+      "name": "GLE",
+      "slug": "gle",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-gle-class-engines"
+    },
+    {
+      "name": "GLK",
+      "slug": "glk",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-glk-class-engines"
+    },
+    {
+      "name": "GLS",
+      "slug": "gls",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-gls-engines"
+    },
+    {
+      "name": "G-Class",
+      "slug": "g-class",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-g-class-engines"
+    },
+    {
+      "name": "M-Class",
+      "slug": "m-class",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-m-class-engines"
+    },
+    {
+      "name": "R-Class",
+      "slug": "r-class",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-r-class-engines"
+    },
+    {
+      "name": "Sprinter",
+      "slug": "sprinter",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-sprinter-engines"
+    },
+    {
+      "name": "Vito",
+      "slug": "vito",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-vito-engines"
+    },
+    {
+      "name": "V-Class",
+      "slug": "v-class",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-v-class-engines"
+    },
+    {
+      "name": "Viano",
+      "slug": "viano",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-viano-engines"
+    },
+    {
+      "name": "Citan",
+      "slug": "citan",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-citan-engines"
+    },
+    {
+      "name": "Vario",
+      "slug": "vario",
+      "image": "/variant/mercedes_car.webp",
+      "href": "/mercedes-vario-engines"
+    }
   ],
-  "cta": { "label": "All Mercedes Models", "href": "/models" },
+  "cta": {
+    "label": "All Mercedes Models",
+    "href": "/models"
+  },
   "trustBadges": [
-    { "label": "All models covered", "icon": "car" },
-    { "label": "Petrol, diesel & hybrid engines", "icon": "fuel" },
-    { "label": "Engine rebuild or replacement", "icon": "gear" },
-    { "label": "12 month warranty", "icon": "shield" },
-    { "label": "Nationwide recovery", "icon": "truck" }
+    {
+      "label": "All models covered",
+      "icon": "car"
+    },
+    {
+      "label": "Petrol, diesel & hybrid engines",
+      "icon": "fuel"
+    },
+    {
+      "label": "Engine rebuild or replacement",
+      "icon": "gear"
+    },
+    {
+      "label": "12 month warranty",
+      "icon": "shield"
+    },
+    {
+      "label": "Nationwide recovery",
+      "icon": "truck"
+    }
   ]
 }

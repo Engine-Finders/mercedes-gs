@@ -1,0 +1,37 @@
+{
+  "headlinePre": "Mercedes CLC 160",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,200",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M271",
+      "generation": "CL203 (2008–2011)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-m271-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes CLC 160 Timing Chain Wear ",
+    "titleHighlight": "",
+    "paragraphs": [
+      "CLC 160 engines with the M271 supercharged 1.8-litre petrol four-cylinder commonly show timing chain stretch and balance shaft issues over time, a pattern well-documented across Mercedes specialist circles. We replace the timing chain, timing gears and gaskets as standard on every M271 rebuild.",
+      "include_in_hero_hook: yes — Source: established Mercedes specialist pattern, per VRF-mercedes-clc-class.md and G-BRF-Mercedes.md"
+    ],
+    "source": "Source: established Mercedes specialist pattern, per VRF-mercedes-clc-class.md and G-BRF-Mercedes.md"
+  }
+}

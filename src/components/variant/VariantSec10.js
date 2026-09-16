@@ -63,7 +63,7 @@ export default function VariantSec10({ data }) {
       {/* ============ div 2: engine codes ============ */}
       <section className="theme-dark relative overflow-hidden">
         {/* ===== mobile ===== */}
-        <div className="relative px-4 py-8 md:hidden">
+        <div className="relative px-4 pb-8 pt-6 md:hidden">
           <h2 className="h2 uppercase">
             <MercedesStripe className="float-left mr-2 mt-0.5 h-6 w-12 shrink-0" />
             <span className="text-white">{codes.titlePre}</span>
@@ -204,7 +204,7 @@ export default function VariantSec10({ data }) {
       {/* ============ div 4: applications table ============ */}
       <section className="theme-light relative overflow-hidden">
         {/* ===== mobile ===== */}
-        <div className="relative px-4 py-8 md:hidden">
+        <div className="relative px-4 pb-8 pt-6 md:hidden">
           <MobileSplitTitle titlePre={applications.titlePre} titleHighlight={applications.titleHighlight} stripeVariant="left" />
 
           <div className="no-scrollbar -mx-4 mt-4 overflow-x-auto px-4">
@@ -254,13 +254,10 @@ export default function VariantSec10({ data }) {
         {/* ===== desktop ===== */}
         <div className="relative hidden px-4 py-6 sm:px-6 md:block lg:px-8">
           <div className="relative mx-auto max-w-6xl">
-            <div className="flex items-center gap-3">
-              <MercedesStripe className="h-10 w-16 shrink-0" />
-              <h2 className="h2 uppercase">
-                <span className="text-[#101828]">{applications.titlePre}</span>
-                <span className="text-hero-blue">{applications.titleHighlight}</span>
-              </h2>
-            </div>
+            <h2 className="h2 uppercase">
+              <span className="text-[#101828]">{applications.titlePre}</span>
+              <span className="text-hero-blue">{applications.titleHighlight}</span>
+            </h2>
 
             <div className="glass-card relative mt-5 overflow-hidden rounded-lg">
               <div className="pointer-events-none absolute bottom-0 top-0 w-px" style={{ left: "20%", background: "rgba(148,163,184,0.45)" }} aria-hidden="true" />

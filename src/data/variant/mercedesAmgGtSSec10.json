@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES AMG GT S ENGINE",
+    "paragraphs": [
+      "The AMG GT S uses the M178 — a 4.0-litre twin-turbo V8 developed specifically for AMG's GT sports car line. It was fitted throughout the C190 generation's production run, from 2015 to 2023. The M178 is a hand-assembled AMG engine, known for its hot-vee turbo layout and high-performance character. The AMG GT S is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every AMG GT S on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES AMG GT S ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the AMG GT S from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 AMG GT S",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES AMG GT S ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the AMG GT S uses a single M178 V8 engine across its entire production run, compatibility is more straightforward than on multi-engine models. However, there are still variations in ancillaries, ECU programming, and drivetrain specification depending on exact build date. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M178",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic AMG GT quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES AMG GT S ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "C190",
+        "chassis": "C190",
+        "years": "2015–2023",
+        "engineCode": "M178",
+        "fuel": "Petrol Twin-Turbo",
+        "codeHref": "/mercedes-m178-engine"
+      }
+    ]
+  }
+}

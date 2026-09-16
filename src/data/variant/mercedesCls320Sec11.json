@@ -1,0 +1,154 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "MERCEDES CLS 320 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the R190's launch in 2023, the CLS 320 has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2004",
+      "generation": "C219",
+      "engineCode": "M112",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m112-engine"
+    },
+    {
+      "year": "2005",
+      "generation": "C219",
+      "engineCode": "M112",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m112-engine"
+    },
+    {
+      "year": "2006",
+      "generation": "C219",
+      "engineCode": "M112/M272",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m112-engine"
+    },
+    {
+      "year": "2007",
+      "generation": "C219",
+      "engineCode": "M272",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2008",
+      "generation": "C219",
+      "engineCode": "M272",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2009",
+      "generation": "C219",
+      "engineCode": "M272",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2010",
+      "generation": "C219/C218",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2011",
+      "generation": "C218",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2012",
+      "generation": "C218",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2013",
+      "generation": "C218",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2014",
+      "generation": "C218",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2015",
+      "generation": "C218",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2016",
+      "generation": "C218",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2017",
+      "generation": "C218",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2018",
+      "generation": "C218",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "The M256",
+    "rest": " has been fitted to every CLS 320 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

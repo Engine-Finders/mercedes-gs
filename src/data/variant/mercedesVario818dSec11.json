@@ -1,0 +1,178 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "MERCEDES VARIO 818D ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the R190's launch in 2023, the VARIO 818D has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1996",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "1997",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "1998",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "1999",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2000",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2001",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2002",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2003",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2004",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2005",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2006",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2007",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2008",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2009",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2010",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2011",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2012",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    },
+    {
+      "year": "2013",
+      "generation": "W670",
+      "engineCode": "OM612/OM647",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-om612-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "The M256",
+    "rest": " has been fitted to every VARIO 818D since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

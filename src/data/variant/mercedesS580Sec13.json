@@ -1,0 +1,77 @@
+{
+  "kicker": "FREQUENTLY ASKED",
+  "kickerHighlight": "QUESTIONS",
+  "faqLeft": [
+    {
+      "q": "What engine does the Mercedes S580 use?",
+      "a": "It depends on the exact year. From 2021 to 2025 (early W223 generation), the S580 used the M176 4.0-litre twin-turbo V8 with mild-hybrid assistance. From the 2026 model-year facelift onward, it switched to the M177 Evo — a more powerful 4.0-litre twin-turbo V8 with a flat-plane crank. The exact production changeover date isn't confirmed, so we'll verify your engine by registration."
+    },
+    {
+      "q": "How much does a Mercedes S580 engine rebuild cost?",
+      "a": "Rebuilds start from £4,500, for either engine code. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    },
+    {
+      "q": "Which engine code is fitted to my S580?",
+      "a": "Enter your registration on this page and we'll confirm whether you have the M176 or the M177 Evo before you're quoted anything."
+    },
+    {
+      "q": "Do you rebuild M176 S580 engines?",
+      "a": "Yes. We replace timing chains, valve seals, coolant components and bearings as standard on every M176 rebuild."
+    },
+    {
+      "q": "Do you rebuild M177 Evo S580 engines?",
+      "a": "Yes. The M177 Evo is a newer engine, and we service it to the same high standard as the M176."
+    }
+  ],
+  "faqRight": [
+    {
+      "q": "Do you supply used S580 engines?",
+      "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
+    },
+    {
+      "q": "Can you recover my S580 if the engine has failed?",
+      "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
+    },
+    {
+      "q": "How long does an S580 engine rebuild take?",
+      "a": "Most rebuilds are completed within 3-5 working days from the time your car arrives at our workshop."
+    },
+    {
+      "q": "Is rebuilding better than fitting a used engine?",
+      "a": "For most S580 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history, and comes with a 12-month unlimited-mileage warranty — often longer and more comprehensive than what a used engine supplier offers."
+    }
+  ],
+  "form": {
+    "headlinePre": "GET YOUR",
+    "headlineHighlight": "FREE MERCEDES S580",
+    "headlinePost": "FIXED-PRICE QUOTE",
+    "fields": {
+      "reg": {
+        "label": "Registration Number",
+        "placeholder": "e.g. YG19 XJL"
+      },
+      "postcode": {
+        "label": "Postcode",
+        "placeholder": "e.g. SS1 1AA"
+      },
+      "name": {
+        "label": "Name",
+        "placeholder": "Your full name"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "e.g. 07XXX XXXXXX"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "e.g. you@example.com"
+      },
+      "enquiry": {
+        "label": "Issue / Enquiry Type",
+        "placeholder": "Select an option"
+      }
+    },
+    "submitLabel": "Get My Fixed-Price Quote",
+    "guarantee": "Most quotes returned within 30 minutes during working hours."
+  }
+}

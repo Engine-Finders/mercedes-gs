@@ -1,0 +1,27 @@
+{
+  "headlinePre": "Mercedes Viano Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our Mercedes engine specialist garage covers all engine types from 1993 to 2026, across every Viano generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.webp",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "2003–2014",
+      "code": "W639",
+      "list": "2003 through 2014 Mercedes Viano engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "Mercedes Viano 2.0 Model:",
+  "checklistLeft": [
+    "Mercedes Viano 2.0 2016 Engine Rebuild",
+    "Mercedes Viano 2.0 2017 Engine Rebuild",
+    "Mercedes Viano 2.0 2018 Engine Rebuild",
+    "Mercedes Viano 2.0 2019 Engine Rebuild",
+    "Mercedes Viano 2.0 2020 Engine Rebuild"
+  ],
+  "checklistHref": "/mercedes-viano-2-0-engines"
+}

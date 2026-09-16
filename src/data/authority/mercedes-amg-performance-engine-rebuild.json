@@ -1,0 +1,319 @@
+{
+  "slug": "mercedes-amg-performance-engine-rebuild",
+  "metaTitle": "Mercedes-AMG Performance Engine Rebuild | Mercedes Garage",
+  "metaDescription": "Specialist performance engine rebuild for Mercedes-AMG V8 and 4-cylinder engines. Hand-built precision, tighter tolerances, dyno testing, and AMG-specific expertise.",
+  "h1": "Mercedes-AMG Performance Engine Rebuild",
+  "lede": "Precision rebuilds for AMG engines – M156, M157, M177, M178, M139, and more. Tighter tolerances, performance-grade parts, and full dyno validation to restore or enhance factory power.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec11.webp",
+    "/engine/sec8.webp",
+    "/model/sec7.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "steps",
+      "heading": "What Sets AMG Engine Rebuilds Apart",
+      "steps": [
+        {
+          "title": "",
+          "body": "AMG engines are assembled to finer clearances than standard Mercedes units. From crank journals to cylinder bores, every dimension must be measured and machined to AMG OE specifications."
+        },
+        {
+          "title": "",
+          "body": "Unique valvetrain (e.g., M156's bucket tappets, M178's twin-scroll turbos), high-pressure fuel systems, and performance cooling and lubrication systems require specific expertise."
+        },
+        {
+          "title": "",
+          "body": "Cylinder bores, deck surfaces, and crank journals must be finished to tighter roughness and roundness specs. We use CNC-controlled machining and AMG-specified tooling."
+        },
+        {
+          "title": "",
+          "body": "Every AMG rebuild is run on an engine dynamometer under load, including break-in cycles and high-RPM verification. We check oil pressure, fuel delivery, and power output against factory baselines."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "AMG Rebuild Pricing",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "AMG engines require higher-grade parts and more labour – our rebuilds start at: **£6,500 for AMG V8 (M156/M157/M177/M178)** AMG 4-cylinder (M139) from £3,600",
+            "[Full pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Pricing includes full disassembly, machining, replacement of all wear parts with genuine or OE-spec components, assembly, and dynamometer testing."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "AMG Models & Engines We Rebuild",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We cover the full range of Mercedes-AMG performance engines – from the M139 4-cylinder to the M178 V8 and everything in between."
+        },
+        {
+          "t": "h3",
+          "text": "AMG model families"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class (A35, A45)",
+              "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "AMG GT (GT, GT S, GT R, GT 63)",
+              "href": "/mercedes-amg-gt-engines"
+            },
+            {
+              "label": "C-Class (C43, C63)",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class (E43, E53, E63)",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class (S63, S65)",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "G-Class (G63)",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "GLE (GLE53, GLE63)",
+              "href": "/mercedes-gle-class-engines"
+            },
+            {
+              "label": "GLC (GLC43, GLC63)",
+              "href": "/mercedes-glc-class-engines"
+            },
+            {
+              "label": "CLS (CLS63)",
+              "href": "/mercedes-cls-engines"
+            },
+            {
+              "label": "SL (SL55, SL63)",
+              "href": "/mercedes-sl-engines"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "AMG engine families"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "M139 (4-cyl turbo, A45/CLA45)",
+              "href": null
+            },
+            {
+              "label": "M156 (6.2L V8, pre-2012)",
+              "href": "/mercedes-m156-engine"
+            },
+            {
+              "label": "M157 (5.5L V8 biturbo)",
+              "href": "/mercedes-m157-engine"
+            },
+            {
+              "label": "M177 (4.0L V8 biturbo, current)",
+              "href": "/mercedes-m177-engine"
+            },
+            {
+              "label": "M178 (4.0L V8, AMG GT)",
+              "href": "/mercedes-m178-engine"
+            },
+            {
+              "label": "M159 (6.2L V8, SLS AMG)",
+              "href": "/mercedes-m159-engine"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Key AMG variants"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "C63 AMG",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E63 AMG",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S63 AMG",
+              "href": "/mercedes-s63-amg-engines"
+            },
+            {
+              "label": "AMG GT",
+              "href": "/mercedes-amg-gt-engines"
+            },
+            {
+              "label": "SLS AMG",
+              "href": "/mercedes-sls-amg-engines"
+            },
+            {
+              "label": "G63 AMG (current)",
+              "href": "/mercedes-g-class-engines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our AMG Performance Rebuild Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "We disassemble the engine to the bare block. Every component is labelled, inspected, and measured against AMG OE tolerances."
+        },
+        {
+          "title": "",
+          "body": "Cylinder bores are honed to the correct cross-hatch pattern, crankshaft journals are polished, and deck surfaces are checked for flatness. All machining is done to AMG-specified tolerances."
+        },
+        {
+          "title": "",
+          "body": "We use genuine or OE-spec performance parts: timing chains, tensioners, guides, bearings, piston rings, valve stem seals, and gaskets. For AMG engines, we also replace turbocharger seals and coolant components where needed."
+        },
+        {
+          "title": "",
+          "body": "Each bolt is torqued to AMG's specific values, using angle-tightening where required. We use AMG-specified sealants and assembly lubricants."
+        },
+        {
+          "title": "",
+          "body": "The rebuilt engine is run on a dyno under load. We perform break-in cycles, check oil pressure, fuel delivery, ignition timing, and verify power output against baseline data."
+        },
+        {
+          "title": "",
+          "body": "After dyno approval, the engine is installed in the vehicle, road-tested, and subjected to a final diagnostic check with Mercedes-Star Diagnostic (Xentry)."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage for AMG Rebuilds?",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**AMG-trained technicians** – our team has extensive experience with AMG engines, including M156, M157, and M177 families.",
+            "**In-house machining** – we perform all cylinder boring, honing, and crank work to AMG specifications.",
+            "**Genuine & OE performance parts** – we use only parts that meet AMG's quality standards.",
+            "**Dynamometer testing** – every rebuild is validated on our engine dyno to confirm power and reliability.",
+            "**12-month unlimited-mileage warranty** – [see warranty details](/warranty).",
+            "[Learn more about our workshop →](/about)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Is an AMG Performance Rebuild Right for You?",
+      "steps": [
+        {
+          "title": "",
+          "body": "We inspect your AMG engine – compression, leak-down, oil analysis – to determine the scope of work needed. Many AMG engines benefit from a full rebuild after 80,000-100,000 miles."
+        },
+        {
+          "title": "",
+          "body": "We create a tailored rebuild plan covering all wear items, machining, and any upgrades you may want (e.g., stronger head studs, upgraded turbocharger components)."
+        },
+        {
+          "title": "",
+          "body": "We carry out the rebuild with our in-house machining and dyno testing, ensuring the engine performs to AMG standards."
+        },
+        {
+          "title": "",
+          "body": "We install the engine, road-test the vehicle, and provide a 12-month unlimited-mileage warranty for your peace of mind."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related AMG & Performance Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes AMG V8 Valve Seal & Coolant Repair](/mercedes-amg-v8-valve-seal-repair)",
+            "[Mercedes Engine Rebuild (overview)](/mercedes-engine-rebuild)",
+            "[Rebuild vs Replacement](/mercedes-rebuild-vs-replacement)",
+            "[Rebuild vs Reconditioned](/mercedes-rebuild-vs-reconditioned)",
+            "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[AMG Performance Engine Rebuild (this page)](/mercedes-amg-performance-engine-rebuild)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What AMG engines do you rebuild?",
+          "a": "We rebuild all AMG engines: M156 (6.2L V8), M157 (5.5L V8 twin-turbo), M177/M178 (4.0L V8 twin-turbo), M159 (6.2L V8, SLS), and M139 (4-cylinder turbo). We also rebuild older AMG V12 engines (M275) on request."
+        },
+        {
+          "q": "How is an AMG rebuild different from a standard Mercedes rebuild?",
+          "a": "AMG engines require tighter tolerances, higher-grade materials, and more precise machining. The assembly process is more labour-intensive, and we use AMG-specific torque sequences and sealants. Post-rebuild testing is performed on a dynamometer under high load to validate performance."
+        },
+        {
+          "q": "Do you address known AMG-specific issues during the rebuild?",
+          "a": "Yes. For M156 engines (pre-2012), we replace camshaft adjusters and upgrade head bolts. For M157/M177 engines, we replace valve stem seals and coolant system components as part of our standard rebuild procedure, addressing known wear patterns."
+        },
+        {
+          "q": "What parts are replaced during an AMG rebuild?",
+          "a": "We replace timing chains, tensioners, guides, bearings, piston rings, valve stem seals, gaskets, oil pump components, and any worn turbocharger or ancillary parts. We use genuine Mercedes-AMG or OE-spec performance parts exclusively."
+        },
+        {
+          "q": "How long does an AMG rebuild take?",
+          "a": "Typically 3-5 working days for disassembly, machining, parts procurement, assembly, and dyno testing. Complex builds with custom parts may take longer – we'll give you a precise timeline when you enquire."
+        },
+        {
+          "q": "What warranty do you offer on AMG rebuilds?",
+          "a": "Our AMG rebuilds come with a 12-month unlimited-mileage warranty covering parts and labour for any workmanship or component defects."
+        }
+      ]
+    }
+  ]
+}

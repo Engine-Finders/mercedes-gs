@@ -1,0 +1,409 @@
+{
+  "slug": "mercedes-amg-v8-valve-seal-repair",
+  "metaTitle": "Mercedes AMG V8 Valve Seal & Coolant Repair | Mercedes Garage",
+  "metaDescription": "Specialist Mercedes AMG V8 valve seal and coolant system repair. M156, M157, M177, M159, M178 engines. Fixed-price rebuilds from £6,500.",
+  "h1": "Mercedes AMG V8 Valve Seal & Coolant Repair",
+  "lede": "Precision valve-seal replacement and full coolant-system overhaul for Mercedes-AMG V8 engines — M156, M157, M159, M177, M178. Carried out in our Essex workshop using manufacturer-spec procedures.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec3.webp",
+    "/model/sec2.webp",
+    "/variant/sec4.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We carry out a full, manufacturer-aligned repair of the valve-seal and coolant systems on your Mercedes-AMG V8 engine. The process includes:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Valve-seal replacement** – precise removal of valve gear, camshaft locking, and fitting of new seals using correct tooling.",
+            "**Coolant-system diagnostic & overhaul** – full pressure test, replacement of worn seals, hoses, thermostat housings, and correct bleed procedure.",
+            "**Reassembly with new consumables** – every job uses new aluminium torque-to-yield bolts and OE-spec anaerobic sealant where required (e.g. M157/M178 valve covers).",
+            "**Final validation** – road test and thermal cycle check to confirm leak-free operation and correct coolant flow."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "This is a workshop-based repair – your vehicle is collected, repaired, and returned with a 12-month unlimited-mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "From **£6,500**",
+            "Fixed-price AMG V8 valve-seal and coolant repair, inclusive of parts, labour, and testing.",
+            "[View pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engine Families",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our AMG V8 valve-seal and coolant repair covers the following engine codes and the Mercedes-Benz models they power."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "AMG GT",
+              "href": "/mercedes-amg-gt-engines"
+            },
+            {
+              "label": "AMG GT",
+              "href": "/mercedes-amg-gt-engines"
+            },
+            {
+              "label": "GT S",
+              "href": "/mercedes-amg-gt-s-engines"
+            },
+            {
+              "label": "GT C",
+              "href": "/mercedes-amg-gt-c-engines"
+            },
+            {
+              "label": "GT R",
+              "href": "/mercedes-amg-gt-r-engines"
+            },
+            {
+              "label": "M178",
+              "href": "/mercedes-m178-engine"
+            },
+            {
+              "label": "M177",
+              "href": "/mercedes-m177-engine"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "[C-Class](/mercedes-c-class-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[C63 AMG](/mercedes-c-class-engines) (W204, W205)"
+        },
+        {
+          "t": "p",
+          "html": "[M156](/mercedes-m156-engine), [M177](/mercedes-m177-engine)"
+        },
+        {
+          "t": "h3",
+          "text": "[E-Class](/mercedes-e-class-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[E63 AMG](/mercedes-e-class-engines) (W212, W213)"
+        },
+        {
+          "t": "p",
+          "html": "[M157](/mercedes-m157-engine), [M177](/mercedes-m177-engine)"
+        },
+        {
+          "t": "h3",
+          "text": "[G-Class](/mercedes-g-class-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[G63 AMG](/mercedes-g-class-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[M177](/mercedes-m177-engine)"
+        },
+        {
+          "t": "h3",
+          "text": "[GLC-Class](/mercedes-glc-class-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[GLC63 AMG](/mercedes-glc63-amg-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[M177](/mercedes-m177-engine)"
+        },
+        {
+          "t": "h3",
+          "text": "[GLE-Class](/mercedes-gle-class-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[GLE63 AMG](/mercedes-gle63-amg-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[M177](/mercedes-m177-engine), [M178](/mercedes-m178-engine)"
+        },
+        {
+          "t": "h3",
+          "text": "[GLS](/mercedes-gls-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[GLS63 AMG](/mercedes-gls63-amg-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[M177](/mercedes-m177-engine)"
+        },
+        {
+          "t": "h3",
+          "text": "[S-Class](/mercedes-s-class-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[S63 AMG](/mercedes-s63-amg-engines), [S65 AMG](/mercedes-s65-amg-engines) (V12)"
+        },
+        {
+          "t": "p",
+          "html": "[M157](/mercedes-m157-engine), [M177](/mercedes-m177-engine)"
+        },
+        {
+          "t": "h3",
+          "text": "[SL](/mercedes-sl-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[SL63 AMG](/mercedes-sl63-amg-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[M157](/mercedes-m157-engine), [M177](/mercedes-m177-engine), [M178](/mercedes-m178-engine)"
+        },
+        {
+          "t": "h3",
+          "text": "[SLS AMG](/mercedes-sls-amg-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[SLS AMG](/mercedes-sls-amg-engines), [SLS AMG GT](/mercedes-sls-amg-gt-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[M159](/mercedes-m159-engine)"
+        },
+        {
+          "t": "h3",
+          "text": "[M-Class](/mercedes-m-class-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[ML63 AMG](/mercedes-ml63-amg-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[M156](/mercedes-m156-engine), [M157](/mercedes-m157-engine)"
+        },
+        {
+          "t": "h3",
+          "text": "[R-Class](/mercedes-r-class-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[R63 AMG](/mercedes-r63-amg-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[M156](/mercedes-m156-engine)"
+        },
+        {
+          "t": "h3",
+          "text": "[CLK](/mercedes-clk-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[CLK63 AMG](/mercedes-clk-63-amg-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[M156](/mercedes-m156-engine)"
+        },
+        {
+          "t": "h3",
+          "text": "[CLS](/mercedes-cls-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[CLS63 AMG](/mercedes-cls-63-amg-engines)"
+        },
+        {
+          "t": "p",
+          "html": "[M157](/mercedes-m157-engine)"
+        },
+        {
+          "t": "p",
+          "html": "For a full list of engine codes and variants, see our [M156](/mercedes-m156-engine), [M157](/mercedes-m157-engine), [M159](/mercedes-m159-engine), [M177](/mercedes-m177-engine), and [M178](/mercedes-m178-engine) engine-family pages."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our AMG V8 Repair Process",
+      "steps": [
+        {
+          "title": "Vehicle Arrival & Inspection",
+          "body": "We collect your vehicle (nationwide recovery available) and perform a full visual and diagnostic assessment to confirm the scope."
+        },
+        {
+          "title": "Engine Bay Preparation",
+          "body": "Remove airbox, ignition components, and valve covers. Lock the camshafts and remove the chain tensioner."
+        },
+        {
+          "title": "Valve-Seal Replacement",
+          "body": "Using specialised tools, compress valve springs, remove old seals, install new OE-spec seals, and reassemble."
+        },
+        {
+          "title": "Coolant System Overhaul",
+          "body": "Pressure test, replace all suspect seals, hoses, thermostat housings, and refill with correct coolant mix."
+        },
+        {
+          "title": "Reassembly & Torqueing",
+          "body": "Fit new torque-to-yield bolts and sealant as required, reassemble all components to factory torque specs."
+        },
+        {
+          "title": "Testing & Road Trial",
+          "body": "Run engine to temperature, perform a full cooling system bleed, and road-test to ensure leak-free operation."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**12-month unlimited-mileage warranty** on all AMG V8 repairs",
+            "**Nationwide recovery** from £70 – we bring your vehicle to our Essex workshop",
+            "**3–5 working day turnaround** from arrival (subject to parts availability)",
+            "**Quote in under 30 minutes** during working hours",
+            "**Established 2009** with a dedicated AMG specialist team",
+            "**Full manufacturer-spec tools & equipment** – including camshaft locking kits and torque-angle wrenches"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Recent AMG V8 Repairs",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "All images are representative of our workshop process. [View our case studies →](/mercedes-engine-rebuild)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How the Process Works",
+      "steps": [
+        {
+          "title": "Recovery & Booking",
+          "body": "Arrange collection or drop-off; we assess your AMG V8 engine."
+        },
+        {
+          "title": "Inspection & Quote",
+          "body": "We confirm the exact repair needed and provide a fixed price."
+        },
+        {
+          "title": "Repair",
+          "body": "Our specialists carry out the valve-seal and coolant repair."
+        },
+        {
+          "title": "Testing & Return",
+          "body": "We road-test, validate, and return your vehicle with a warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Explore other specialist services we offer for Mercedes-Benz engines:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes-AMG Performance Engine Rebuild](/mercedes-amg-performance-engine-rebuild)",
+            "[Mercedes Timing Chain Failure Repair](/mercedes-timing-chain-failure-repair)",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
+            "[Nationwide Engine Recovery](/mercedes-engine-recovery)",
+            "[Mercedes 4-Cylinder Timing Chain Repair](/mercedes-4cyl-timing-chain-repair)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does the AMG V8 valve-seal and coolant repair take?",
+          "a": "Typically 3–5 working days from the vehicle arriving at our workshop, depending on parts availability and the specific engine variant."
+        },
+        {
+          "q": "Do you remove the cylinder head for valve-seal replacement?",
+          "a": "For most AMG V8 engines (M156, M157, M159, M177, M178) we replace the valve seals with the cylinder head in place, using specialised tools. This reduces labour and avoids disturbing head gaskets."
+        },
+        {
+          "q": "What parts are replaced as part of the coolant system repair?",
+          "a": "We replace all degraded seals, hoses, the thermostat housing, and any leaking components. We also perform a full system flush and refill with Mercedes-spec coolant (MB 325.0/326.0)."
+        },
+        {
+          "q": "Is the repair covered by a warranty?",
+          "a": "Yes – every repair comes with a 12-month unlimited-mileage warranty covering both parts and labour."
+        },
+        {
+          "q": "Do you offer recovery if my car is not drivable?",
+          "a": "Yes – we provide nationwide recovery from £70. Most vehicles are recovered within a few hours of booking."
+        }
+      ]
+    }
+  ]
+}

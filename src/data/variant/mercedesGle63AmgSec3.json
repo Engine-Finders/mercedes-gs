@@ -1,0 +1,43 @@
+{
+  "headlinePre": "Mercedes GLE63 AMG",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£6,500",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M157",
+      "generation": "W166 (2015–2019)",
+      "price": "£6,500",
+      "codeHref": "/mercedes-m157-engine"
+    },
+    {
+      "code": "M177",
+      "generation": "V167 (2019–present)",
+      "price": "£6,500",
+      "codeHref": "/mercedes-m177-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes GLE63 AMG Valve Seal & Coolant System Wear ",
+    "titleHighlight": "",
+    "paragraphs": [
+      "GLE63 AMG engines — both the M157 (W166 generation) and the M177 (V167 generation), across every GLE63 AMG generation — commonly show valve seal and coolant system wear over time. This is a well-documented pattern among AMG specialists, cross-referenced across Mercedes models including the S-Class, CLS, E-Class and G-Class.",
+      "We replace valve seals and inspect and replace coolant system components as standard on every GLE63 AMG rebuild, along with the timing chain where worn."
+    ],
+    "source": "Source: established AMG specialist pattern, cross-referenced across the Mercedes G-BRF (S-Class, CLS, E-Class, G-Class), per VRF-mercedes-gle-class.md"
+  }
+}

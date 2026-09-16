@@ -1,0 +1,37 @@
+{
+  "headlinePre": "Mercedes GLA220d",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,200",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M256",
+      "generation": "R190 (2023–present)",
+      "price": "£3,200",
+      "codeHref": "/mercedes-m256-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes GLA220d Timing Chain & Injector Wear ",
+    "titleHighlight": "(X156, OM651)",
+    "paragraphs": [
+      "If your GLA220d is a 2013–2020 model with the OM651 diesel — that's the X156 generation — timing chain wear and injector seal leaks are a well-documented pattern on this engine, shared with the A-Class family. We replace the timing chain, tensioners, and injector seals as standard on every OM651 rebuild.",
+      "The H247 generation (2020–present) uses a different engine, the OM607, which doesn't share this specific issue. We don't have a confirmed pattern for the OM607 in this model at this time."
+    ],
+    "source": "Source: established specialist pattern (per G-BRF), verified via VRF. OM607 (H247) explicitly excluded from this claim per VRF, correctly scoped to generation"
+  }
+}

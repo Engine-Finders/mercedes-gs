@@ -1,0 +1,74 @@
+{
+  "about": {
+    "image": "/engine/sec9_top.webp",
+    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "kicker": "ABOUT THE",
+    "titlePre": "MERCEDES-BENZ",
+    "titleHighlight": "M256",
+    "titlePost": " ENGINE",
+    "body": "The M256 is Mercedes-Benz's modern 3.0-litre inline-six petrol engine, introduced in 2017. It's a key part of the brand's move to a modular, electrified engine family, featuring an integrated starter-generator (ISG), an electric auxiliary compressor (e-boost), and a 48V mild-hybrid system as standard. It's fitted across five model lines, including the AMG GT 53, C 43 AMG, E 53 AMG, GLE 450, GLE 53 AMG, GLS 450, and GLS 580."
+  },
+  "byModel": {
+    "image": "/engine/sec9_middle.webp",
+    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "kicker": "MERCEDES-BENZ M256",
+    "titlePre": "",
+    "titleHighlight": "APPLICATIONS",
+    "titlePost": " BY MODEL",
+    "body": "The M256 appears in the AMG GT as the GT 53, in the C-Class as the C 43 AMG, and in the E-Class as the E 53 AMG. Across the SUV range, it's the six-cylinder petrol option in the GLE-Class (as both the GLE 450 and GLE 53 AMG) and the GLS (as the GLS 450 and GLS 580). These applications are split across standard and AMG-tuned variants.",
+    "lineup": [
+      {
+        "label": "AMG GT",
+        "code": "X290"
+      },
+      {
+        "label": "C-Class",
+        "code": "W206"
+      },
+      {
+        "label": "E-Class",
+        "code": "W213"
+      },
+      {
+        "label": "GLE-Class",
+        "code": "W167"
+      },
+      {
+        "label": "GLS",
+        "code": "X167"
+      }
+    ]
+  },
+  "compatibility": {
+    "image": "/engine/sec9_bottom.webp",
+    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "kicker": "MERCEDES-BENZ M256",
+    "titlePre": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
+    "body": "All M256 applications are 3.0-litre inline-six petrol mild-hybrids. However, standard and AMG variants differ in power output and specific tuning. The specific 48V MHEV system components, including the ISG and e-boost, also vary by application and generation. We confirm compatibility by registration/VIN before quoting any work.",
+    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "points": [
+      {
+        "icon": "car",
+        "title": "MODEL",
+        "text": "Confirm your exact model and AMG variant."
+      },
+      {
+        "icon": "calendar",
+        "title": "GENERATION",
+        "text": "Identify the correct generation (W177, C118, H247, W206, X254, R232)."
+      },
+      {
+        "icon": "gears",
+        "title": "DRIVETRAIN",
+        "text": "Specify the variant (45, 45 S, 43)."
+      },
+      {
+        "icon": "clipboard",
+        "title": "CONFIRMED BY REGISTRATION",
+        "text": "We confirm by registration or VIN before quoting."
+      }
+    ]
+  }
+}

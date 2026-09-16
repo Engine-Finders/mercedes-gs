@@ -1,0 +1,49 @@
+{
+  "titlePre": "OUR WORKSHOP VIEW OF",
+  "titleBigPre": "THE ",
+  "titleBigHighlight": "MERCEDES-BENZ",
+  "titleBigPost": " M256",
+  "subtext": [
+    "Built, rebuilt and tested by engineers who work on Mercedes-Benz engines every day.",
+    "Here's our practical view of the M256 across all six model applications."
+  ],
+  "columns": [
+    {
+      "icon": "car",
+      "title": "APPLICATIONS WE SEE:",
+      "body": "The M256 is fitted across five modern Mercedes-Benz model lines, spanning sports cars, executive saloons, and large SUVs."
+    },
+    {
+      "icon": "wrench",
+      "title": "WHAT WE REPLACE:",
+      "body": "Timing chain, bearings, gaskets, and 48V electrical system components as standard on every rebuild."
+    },
+    {
+      "icon": "clipboard",
+      "title": "KNOWN ISSUES:",
+      "body": "Balance shaft module failure and piston/bearing defects have been documented, which can lead to catastrophic engine damage. We inspect these thoroughly as standard during every rebuild."
+    }
+  ],
+  "notice": {
+    "highlight": "Note:",
+    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed M256 rebuilds is available to draw from, rather than filled with placeholder examples now."
+  },
+  "typical": {
+    "kicker": "A TYPICAL",
+    "title": "MERCEDES-BENZ M256 REBUILD",
+    "image": "/engine/sec10_bottom.webp",
+    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "*The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.*",
+    "scope": {
+      "label": "Typical Scope:",
+      "text": "Timing chain, bearings, gaskets, balance shaft module inspection, 48V MHEV system ancillaries."
+    },
+    "startingFromLabel": "Starting From:",
+    "startingFromPrice": "£3,200",
+    "cta": {
+      "label": "Check M256 Rebuild Options →",
+      "href": "#quote-form"
+    }
+  }
+}

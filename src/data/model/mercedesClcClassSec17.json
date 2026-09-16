@@ -1,0 +1,39 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Mercedes CLCLC-Class Variant",
+  "tabs": [
+    "All Variants"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Mercedes CLC 160",
+        "href": "/mercedes-clc-160-engines"
+      },
+      {
+        "label": "CLC 180",
+        "href": "/mercedes-clc-180-engines"
+      },
+      {
+        "label": "CLC 200",
+        "href": "/mercedes-clc-200-engines"
+      },
+      {
+        "label": "CLC 220 CDI",
+        "href": "/mercedes-clc-220-cdi-engines"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

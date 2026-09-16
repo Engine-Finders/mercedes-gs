@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES VITO 108 109 CDI ENGINE",
+    "paragraphs": [
+      "The Vito 108/109 CDI was part of the first-generation W638 Vito range, produced from 1996 to 2003. These early Vito models use the OM601/OM602 diesel engine family — a robust 2.2L to 2.7L four and five-cylinder unit that shares its basic architecture with other Mercedes commercial vehicles of the era. The Vito 108/109 CDI is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every VITO 108 109 CDI on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES VITO 108 109 CDI ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the VITO 108 109 CDI from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 VITO 108 109 CDI",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES VITO 108 109 CDI ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The Vito 108/109 CDI uses a single engine family, but confirming your exact specification matters — the OM601 and OM602 codes cover different configurations within the same generation. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM601",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Vito quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES VITO 108 109 CDI ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W638",
+        "chassis": "W638",
+        "years": "1996–2003",
+        "engineCode": "OM601/OM602",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om601-engine"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes SL500 SL550",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes SL500 SL550"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "SL"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "SL500 SL550"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol V8"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "M113, M273 or M278"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "5.0L – 5.5L"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "R129 (1989–2002) · R230 (2001–2012) · R231 (2012–2021)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£4,500",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The SL500 SL550 uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

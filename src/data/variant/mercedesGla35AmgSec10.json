@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLA35 AMG ENGINE",
+    "paragraphs": [
+      "The GLA35 AMG sits at the performance end of the GLA-Class range, offering AMG-badged performance in a compact SUV format. It uses the M139 — a 2.0-litre turbocharged petrol four-cylinder that's a genuine AMG engine, not a standard Mercedes unit with a badge. The M139 is hand-assembled and engineered for performance, which sets it apart from the standard 1.3-litre and 2.0-litre M260/M282 units fitted to the non-AMG GLA range. It's the same engine family that powers the GLA45 AMG, with tuning differences between the two."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLA35 AMG on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLA35 AMG ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLA35 AMG from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 GLA35 AMG",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLA35 AMG ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The GLA35 AMG uses a specific version of the M139 engine that's tuned differently from the GLA45 AMG's M139, with different boost and mapping characteristics. It's also distinct from the M260 and M282 engines used in the standard GLA200 and GLA250 — those are different designs entirely, not derivative of the AMG unit. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M139",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLA-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLA35 AMG ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "H247",
+        "chassis": "H247",
+        "years": "2020–present",
+        "engineCode": "M139",
+        "fuel": "Petrol Turbo",
+        "codeHref": "/mercedes-amg-m139-engine"
+      }
+    ]
+  }
+}

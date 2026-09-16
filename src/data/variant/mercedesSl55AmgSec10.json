@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SL55 AMG ENGINE",
+    "paragraphs": [
+      "The SL55 AMG sits at the heart of the current-generation R232 SL range, which marked a significant shift for the model — the SL moved to Mercedes-AMG exclusively with this generation. The SL55 uses the M177 — a 4.0-litre twin-turbo V8 that's a genuine AMG-designed engine, hand-assembled and shared with other AMG performance models. It replaced the naturally aspirated M156 and earlier M157 variants in the SL's line-up, bringing a torque-rich, responsive character that defines the modern AMG driving experience."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SL55 AMG on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SL55 AMG ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SL55 AMG from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 SL55 AMG",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SL55 AMG ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The SL55 AMG uses the M177 twin-turbo V8 across the entire current R232 generation. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M177",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic SL quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SL55 AMG ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "R232",
+        "chassis": "R232",
+        "years": "2021–present",
+        "engineCode": "M177",
+        "fuel": "Petrol Twin-Turbo",
+        "codeHref": "/mercedes-m177-engine"
+      }
+    ]
+  }
+}

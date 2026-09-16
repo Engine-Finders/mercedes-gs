@@ -1,0 +1,95 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLE300D ENGINE",
+    "paragraphs": [
+      "The GLE300d has been part of the GLE-Class range since the model's renaming from M-Class in 2015, and across its two generations has used three different diesel engines — from the OM642 V6 through to today's OM656 inline-six. The full breakdown by engine code is below."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLE300D on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLE300D ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLE300D from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 GLE300D",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLE300D ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the GLE300d spans three distinct engines across two generations, fitting the wrong replacement — or assuming an OM642 part will work on a V167 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm: - Your exact engine code (OM642, OM654 or OM656) via registration or VIN - Your generation (W166 or V167) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM642",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLE-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLE300D ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W166",
+        "chassis": "W166",
+        "years": "2015–2019",
+        "engineCode": "OM642",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om642-engine"
+      },
+      {
+        "generation": "V167",
+        "chassis": "V167",
+        "years": "2019–present",
+        "engineCode": "OM654",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om654-engine"
+      },
+      {
+        "generation": "V167",
+        "chassis": "V167",
+        "years": "2019–present",
+        "engineCode": "OM656",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om656-engine"
+      }
+    ]
+  }
+}

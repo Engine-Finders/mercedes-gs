@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES CITAN 113 ENGINE",
+    "paragraphs": [
+      "The Citan 113 is a current petrol variant of Mercedes-Benz's compact van, part of the second-generation W420 model range introduced in 2021. It is powered by the M282 — a 1.3-litre four-cylinder petrol engine. The M282 is a modern, turbocharged unit co-developed with Renault, and is fitted alongside the diesel variants in the Citan line-up. No widely reported engine issue has been confirmed for this specific application, though we still recommend a full inspection before any long journey."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every CITAN 113 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES CITAN 113 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the CITAN 113 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 CITAN 113",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES CITAN 113 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "To ensure your replacement or rebuild is accurate, we confirm the following before any work begins:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M282",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Citan quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES CITAN 113 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W420",
+        "chassis": "W420",
+        "years": "2021–present",
+        "engineCode": "M282",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m282-engine"
+      }
+    ]
+  }
+}

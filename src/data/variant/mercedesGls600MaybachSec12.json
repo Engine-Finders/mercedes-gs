@@ -1,0 +1,87 @@
+{
+  "yearBanner": {
+    "titlePre": "WE COVER ",
+    "titleHighlight": "EVERY",
+    "titlePost": " MERCEDES GLS600 MAYBACH MODEL YEAR:",
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg.",
+    "vehicleLabel": "Mercedes GLS600 Maybach"
+  },
+  "costs": {
+    "titlePre": "MERCEDES GLS600 MAYBACH ENGINE ",
+    "titleHighlight": "COSTS",
+    "intro": "A Mercedes GLS600 Maybach engine rebuild starts from",
+    "price": "£6,500",
+    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/sec10_engine.webp",
+    "warranty": {
+      "line1": "12 MONTH",
+      "line2": "UNLIMITED-MILEAGE",
+      "line3": "WARRANTY"
+    },
+    "subCards": [
+      {
+        "icon": "engine",
+        "title": "MERCEDES GLS600 MAYBACH ENGINE SIZES",
+        "item": "Mercedes GLS600 Maybach 3.0 Litre Engine (M256, I6)"
+      },
+      {
+        "icon": "fuel",
+        "title": "MERCEDES GLS600 MAYBACH FUEL TYPES",
+        "item": "Mercedes GLS600 Maybach Petrol Mild Hybrid Engine Rebuilds"
+      }
+    ]
+  },
+  "bottomInfo": {
+    "timeframe": {
+      "icon": "clock",
+      "textPre": "Most Mercedes GLS engine rebuilds are completed within ",
+      "textHighlight": "3-5 working days",
+      "textPost": "."
+    },
+    "recoveryText": "Nationwide recovery and collection available for all GLS models.",
+    "image": "/variant/mercedes_car.webp"
+  },
+  "related": {
+    "title": "RELATED MERCEDES GLS VARIANTS",
+    "links": [
+      {
+        "label": "Mercedes GLS Engine",
+        "href": "/mercedes-amg-gt-engines"
+      },
+      {
+        "label": "Mercedes GLS S Engine",
+        "href": "/mercedes-amg-gt-s-engines"
+      },
+      {
+        "label": "Mercedes GLS C Engine",
+        "href": "/mercedes-amg-gt-c-engines"
+      },
+      {
+        "label": "Mercedes GLS R Engine",
+        "href": "/mercedes-amg-gt-r-engines"
+      },
+      {
+        "label": "Mercedes GLS Roadster Engine",
+        "href": "/mercedes-amg-gt-roadster-engines"
+      },
+      {
+        "label": "Mercedes GLS 63 Engine",
+        "href": "/mercedes-amg-gt-63-engines"
+      },
+      {
+        "label": "Mercedes GLS 63 S Engine",
+        "href": "/mercedes-amg-gt-63-s-engines"
+      }
+    ],
+    "viewAll": "View All Mercedes GLS Engines",
+    "viewAllHref": "/mercedes-gls-engines"
+  }
+}

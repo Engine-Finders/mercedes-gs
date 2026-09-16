@@ -1,0 +1,107 @@
+{
+  "gallery": {
+    "titlePre": "OUR MOST RECENT",
+    "titleHighlight": "MERCEDES RECOVERIES & REBUILDS",
+    "description": "Real vehicles brought into our workshop. Open bonnets, stripped blocks, and cars ready for collection — this is what genuine engine work looks like.",
+    "image": "/model/sec12.webp",
+    "items": [
+      {
+        "icon": "truck",
+        "model": "Mercedes S580",
+        "status": "RECOVERY"
+      },
+      {
+        "icon": "search",
+        "model": "Mercedes S-Class 63",
+        "status": "DIAGNOSTICS"
+      },
+      {
+        "icon": "gear",
+        "model": "Mercedes S-Class",
+        "status": "STRIPPED ENGINE"
+      },
+      {
+        "icon": "chain",
+        "model": "Mercedes S-Class S",
+        "status": "TIMING CHAIN REPLACEMENT"
+      },
+      {
+        "icon": "wrench",
+        "model": "Mercedes S580",
+        "status": "IN FOR REBUILD"
+      },
+      {
+        "icon": "gear",
+        "model": "Mercedes S-Class C",
+        "status": "REBUILD IN PROGRESS"
+      },
+      {
+        "icon": "truck",
+        "model": "Mercedes S-Class R",
+        "status": "NATIONWIDE RECOVERY"
+      },
+      {
+        "icon": "gear",
+        "model": "Mercedes S-Class 63 S",
+        "status": "ENGINE STRIPPED"
+      },
+      {
+        "icon": "knock",
+        "model": "Mercedes S580",
+        "status": "TESTING & CHECKS"
+      },
+      {
+        "icon": "shield-check",
+        "model": "Mercedes S-Class Roadster",
+        "status": "READY FOR COLLECTION"
+      },
+      {
+        "icon": "gear",
+        "model": "Mercedes S-Class",
+        "status": "M256 REBUILD"
+      },
+      {
+        "icon": "wrench",
+        "model": "Mercedes S580",
+        "status": "WORKSHOP BAY"
+      }
+    ]
+  },
+  "howItWorks": {
+    "titlePre": "HOW IT ",
+    "titleHighlight": "WORKS",
+    "steps": [
+      {
+        "icon": "note",
+        "linePre": "SEND YOUR",
+        "lineHighlight": "REGISTRATION"
+      },
+      {
+        "icon": "price",
+        "linePre": "RECEIVE YOUR",
+        "lineHighlight": "FIXED-PRICE QUOTE"
+      },
+      {
+        "icon": "truck",
+        "linePre": "WE RECOVER",
+        "lineHighlight": "YOUR CAR"
+      },
+      {
+        "icon": "engine",
+        "linePre": "REBUILD &",
+        "lineHighlight": "REFIT"
+      }
+    ],
+    "summary": {
+      "timeframe": {
+        "icon": "clock",
+        "text": "Most S-Class models are recovered within a few hours of booking. Most rebuilds are completed within 3-5 working days."
+      },
+      "urgency": {
+        "icon": "calendar",
+        "textPre": "Workshop slots fill up fast — ",
+        "textHighlight": "book your recovery today."
+      }
+    }
+  }
+}

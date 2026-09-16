@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES SPRINTER (PETROL) ENGINE",
+    "paragraphs": [
+      "The petrol Sprinter arrived with the VS30 facelift in 2023, a significant change that added a 2.0-litre turbo petrol option to the range for the first time in the current generation. It uses an M270-family 2.0-litre turbocharged inline-four, producing 188hp and driving the rear wheels only — it's a different unit from the diesel OM654 that replaced the outgoing V6, and sits alongside it in the current Sprinter range."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SPRINTER (PETROL) on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES SPRINTER (PETROL) ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SPRINTER (PETROL) from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 SPRINTER (PETROL)",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES SPRINTER (PETROL) ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The petrol Sprinter is a specific RWD-only variant of the VS30 facelift range, distinct from the diesel OM654 Sprinters that make up the bulk of the range. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M270",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Sprinter quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES SPRINTER (PETROL) ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "VS30 facelift",
+        "chassis": "VS30",
+        "years": "2023–present",
+        "engineCode": "M270-family",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m270-engine"
+      }
+    ]
+  }
+}

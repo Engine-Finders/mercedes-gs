@@ -1,0 +1,77 @@
+{
+  "kicker": "FREQUENTLY ASKED",
+  "kickerHighlight": "QUESTIONS",
+  "faqLeft": [
+    {
+      "q": "What engine does the Mercedes Vito 116-124 CDI use?",
+      "a": "It depends on the year. Early W447 models (2014–2024) use the OM651 2.0-litre I4 diesel. The current 2025 refresh onwards uses the OM654 2.0-litre I4 diesel — a completely different engine from a newer family."
+    },
+    {
+      "q": "How much does a Mercedes Vito 116-124 CDI engine rebuild cost?",
+      "a": "Rebuilds start from £2,200, for either engine code. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    },
+    {
+      "q": "Which engine code is fitted to my Vito 116-124 CDI?",
+      "a": "Enter your registration on this page and we'll confirm whether you have the OM651 or the OM654 before you're quoted anything."
+    },
+    {
+      "q": "Do you rebuild OM651 Vito 116-124 CDI engines?",
+      "a": "Yes. We replace the timing chain, injector seals, EGR and gaskets as standard on every OM651 rebuild."
+    },
+    {
+      "q": "Do you rebuild OM654 Vito 116-124 CDI engines?",
+      "a": "Yes. The OM654 is a newer engine and is the current unit for the 2025 refresh range. We service it to the same high standard, though there are no independently confirmed known issues for this specific application at this time."
+    }
+  ],
+  "faqRight": [
+    {
+      "q": "Do you supply used Vito 116-124 CDI engines?",
+      "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
+    },
+    {
+      "q": "Can you recover my Vito 116-124 CDI if the engine has failed?",
+      "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
+    },
+    {
+      "q": "How long does a Vito 116-124 CDI engine rebuild take?",
+      "a": "Most rebuilds are completed within 3-5 working days from the time your van arrives at our workshop."
+    },
+    {
+      "q": "Is rebuilding better than fitting a used engine?",
+      "a": "For most Vito 116-124 CDI owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history, and comes with a 12-month unlimited-mileage warranty — often longer and more comprehensive than what a used engine supplier offers."
+    }
+  ],
+  "form": {
+    "headlinePre": "GET YOUR",
+    "headlineHighlight": "FREE MERCEDES VITO 116-124 CDI",
+    "headlinePost": "FIXED-PRICE QUOTE",
+    "fields": {
+      "reg": {
+        "label": "Registration Number",
+        "placeholder": "e.g. YG19 XJL"
+      },
+      "postcode": {
+        "label": "Postcode",
+        "placeholder": "e.g. SS1 1AA"
+      },
+      "name": {
+        "label": "Name",
+        "placeholder": "Your full name"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "e.g. 07XXX XXXXXX"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "e.g. you@example.com"
+      },
+      "enquiry": {
+        "label": "Issue / Enquiry Type",
+        "placeholder": "Select an option"
+      }
+    },
+    "submitLabel": "Get My Fixed-Price Quote",
+    "guarantee": "Most quotes returned within 30 minutes during working hours."
+  }
+}

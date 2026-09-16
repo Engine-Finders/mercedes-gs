@@ -1,0 +1,130 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "MERCEDES VITO 119 120 122 123 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the R190's launch in 2023, the VITO 119 120 122 123 has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2003",
+      "generation": "W639",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2004",
+      "generation": "W639",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2005",
+      "generation": "W639",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2006",
+      "generation": "W639",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2007",
+      "generation": "W639",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2008",
+      "generation": "W639",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2009",
+      "generation": "W639",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2010",
+      "generation": "W639",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2011",
+      "generation": "W639",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2012",
+      "generation": "W639",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2013",
+      "generation": "W639",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    },
+    {
+      "year": "2014",
+      "generation": "W639",
+      "engineCode": "M272/OM642",
+      "fuel": "Petrol/Diesel",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m272-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "The M256",
+    "rest": " has been fitted to every VITO 119 120 122 123 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

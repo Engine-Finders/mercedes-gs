@@ -14,7 +14,7 @@ export default function VariantSec5({ data }) {
   return (
     <section className="theme-dark relative overflow-hidden">
       {/* ===== mobile ===== */}
-      <div className="relative px-4 py-10 md:hidden">
+      <div className="relative px-4 pb-10 pt-7 md:hidden">
         <div className="flex items-center gap-2">
           <MercedesStripe className="h-6 w-12 shrink-0" />
           <h2 className="h2 uppercase">

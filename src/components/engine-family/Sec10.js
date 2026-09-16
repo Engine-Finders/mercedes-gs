@@ -36,19 +36,19 @@ function ColumnAccent({ className = "" }) {
 
 export default function Sec10({ data }) {
   return (
-    <section className="relative overflow-hidden bg-hero-dark text-white">
+    <section className="theme-dark relative overflow-hidden">
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-7 md:hidden">
         <div className="flex items-center gap-2">
           <MercedesLogo className="h-8 w-8" />
           <AMGBadge className="h-3.5" />
         </div>
-        <h2 className="mt-2 text-xl font-bold uppercase leading-[1.1] tracking-tighter text-white">{data.titlePre}</h2>
-        <p className="text-2xl font-bold italic uppercase leading-[1.1] tracking-tighter">
+        <h2 className="h2 mt-2 uppercase text-white">{data.titlePre}</h2>
+        <h2 className="h2 uppercase">
           <span className="text-white">{data.titleBigPre}</span>
           <span className="text-hero-blue">{data.titleBigHighlight}</span>
           <span className="text-white">{data.titleBigPost}</span>
-        </p>
+        </h2>
         <span className="mt-2 block h-0.5 w-24 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
 
         <div className="mt-3 space-y-1">
@@ -93,12 +93,12 @@ export default function Sec10({ data }) {
             <MercedesLogo className="h-11 w-11" />
             <AMGBadge className="h-5" />
           </div>
-          <h2 className="mt-3 text-3xl font-bold uppercase leading-[1.05] tracking-tighter text-white lg:text-4xl">{data.titlePre}</h2>
-          <p className="text-3xl font-bold italic uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+          <h2 className="h2 mt-3 uppercase text-white">{data.titlePre}</h2>
+          <h2 className="h2 uppercase">
             <span className="text-white">{data.titleBigPre}</span>
             <span className="text-hero-blue">{data.titleBigHighlight}</span>
             <span className="text-white">{data.titleBigPost}</span>
-          </p>
+          </h2>
           <span className="mt-4 block h-0.5 w-40 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
 
           <div className="mt-4 max-w-2xl space-y-1">
@@ -144,17 +144,17 @@ export default function Sec10({ data }) {
       </div>
 
       {/* ============ a typical rebuild ============ */}
-      <div className="relative border-t border-white/10 bg-[#f7f4ee] text-[#101828]">
+      <div className="relative border-t border-white/10 theme-light">
         {/* ===== mobile ===== */}
         <div className="relative px-4 pt-7 md:hidden">
           <p className="text-xs font-bold uppercase tracking-widest text-hero-blue">{data.typical.kicker}</p>
-          <h3 className="mt-1 text-2xl font-bold uppercase leading-[1.05] tracking-tighter text-[#101828]">
+          <h3 className="h3 mt-1 uppercase text-[#101828]">
             {data.typical.title}
           </h3>
           <span className="mt-2 block h-0.5 w-24 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
         </div>
 
-        <div className="relative mt-4 aspect-square w-full overflow-hidden bg-[#f7f4ee] md:hidden">
+        <div className="relative mt-4 aspect-square w-full overflow-hidden bg-(--theme-light-bg) md:hidden">
           <Image src={data.typical.imageMobile} alt="Mercedes-AMG M139 exploded engine components" fill className="object-contain" sizes="100vw" />
         </div>
 
@@ -191,7 +191,7 @@ export default function Sec10({ data }) {
             <Image src={data.typical.image} alt="Mercedes-AMG M139 exploded engine components" fill className="object-cover" sizes="100vw" />
             <div
               className="absolute inset-0"
-              style={{ background: "linear-gradient(to right, #f7f4ee 0%, #f7f4ee 42%, rgba(247,244,238,0.85) 54%, rgba(247,244,238,0.3) 68%, transparent 82%)" }}
+              style={{ background: "linear-gradient(to right, var(--theme-light-bg) 0%, var(--theme-light-bg) 42%, rgba(241,237,232,0.85) 54%, rgba(241,237,232,0.3) 68%, transparent 82%)" }}
             />
           </div>
 
@@ -199,7 +199,7 @@ export default function Sec10({ data }) {
           <div className="mx-auto max-w-6xl">
             <div className="max-w-xl">
               <p className="text-sm font-bold uppercase tracking-widest text-hero-blue">{data.typical.kicker}</p>
-              <h3 className="mt-1 text-4xl font-bold uppercase leading-[1.05] tracking-tighter text-[#101828]">
+              <h3 className="h3 mt-1 uppercase text-[#101828]">
                 {data.typical.title}
               </h3>
               <span className="mt-4 block h-0.5 w-40 bg-linear-to-r from-hero-blue via-white to-hero-blue" />

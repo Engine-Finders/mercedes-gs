@@ -1,0 +1,253 @@
+{
+  "slug": "mercedes-oil-leak-gasket-repair",
+  "metaTitle": "Mercedes Oil Leak & Gasket Repair | Mercedes Garage",
+  "metaDescription": "Professional oil leak and gasket repair for all Mercedes-Benz models. Valve cover, timing cover, oil pan, and filter housing gaskets. Get a quote.",
+  "h1": "Mercedes Oil Leak & Gasket Repair",
+  "lede": "The cost of oil leak repair depends on the location and extent of the leak. We provide a fixed-price quote after inspection – no hidden extras.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec5.webp",
+    "/engine/sec5.webp",
+    "/model/sec5.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Our Oil Leak & Gasket Repair Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Oil leaks are common on older Mercedes-Benz engines, particularly from gaskets that harden and shrink over time. We repair leaks at the source, using OEM-quality parts and Mercedes-approved sealants to ensure a permanent fix."
+        },
+        {
+          "t": "p",
+          "html": "Depending on the location of the leak, our process includes:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Valve cover gasket replacement** – the most common leak point. We remove intake components, clean sealing surfaces thoroughly, install new gaskets with correct sealant at joints, and torque to factory specifications. On V6/V8 engines, both banks are done together to save time and prevent future leaks.",
+            "**Timing cover gasket repair** – a more involved job. We drain oil, remove auxiliaries and the harmonic balancer, replace the cover gasket and front crankshaft seal, and reinstall with fresh sealant. This also gives us the opportunity to inspect timing components.",
+            "**Oil pan / sump gasket** – we drain oil, remove the sump, clean old gasket material, and install new gasket or sealant (some models use only sealant).",
+            "**Oil filter housing gasket** – we remove the housing, clean both mating faces to bare metal, and install a new OEM-spec gasket, torqued to specification.",
+            "**Additional seals** – we also check and replace spark plug tube seals, oil filler cap O-rings, and camshaft adjuster seals where needed."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Every repair is followed by a thorough test to confirm no residual leakage. All work carries our **12-month unlimited-mileage warranty** on parts and labour."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Get a Personalised Quote",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "The cost of oil leak repair depends on the location and extent of the leak. We provide a fixed-price quote after inspection – no hidden extras."
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Call us on 0203 488 4649** or [Request a Quote Online](/contact)",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engine Families",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Oil leaks can affect virtually every Mercedes-Benz engine. Our repair service covers all models and engine types. Below are some of the most common we work with:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class",
+              "href": "/mercedes-a-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Common engine families we regularly repair gaskets on:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[OM651 4-cyl diesel](/mercedes-om651-engine) – valve cover and oil filter housing leaks common",
+            "[OM642 V6 diesel](/mercedes-om642-engine) – oil cooler and valve cover gaskets often leak",
+            "[M276 V6 petrol](/mercedes-m276-engine) – timing cover and oil pan seals",
+            "[M272 V6 petrol](/mercedes-m272-engine) – known for valve cover gasket leaks",
+            "[OM654 4-cyl diesel](/mercedes-om654-engine) – oil filter housing leaks"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For variant-specific information, see our [C220d](/mercedes-c-class-engines), [E220d](/mercedes-e-class-engines), [S350d](/mercedes-s350d-engines), and other detailed variant pages."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Oil Leak Repair Process",
+      "steps": [
+        {
+          "title": "Inspection & Diagnosis",
+          "body": "We visually inspect the engine for oil traces, using UV dye if needed to pinpoint the exact source. We determine which gasket or seal is leaking."
+        },
+        {
+          "title": "Preparation",
+          "body": "We drain oil, remove necessary components to access the leaking gasket – this may include intake parts, auxiliaries, or the harmonic balancer."
+        },
+        {
+          "title": "Cleaning",
+          "body": "We meticulously clean all mating surfaces to bare metal – the quality of cleaning is the single most important factor for long-term repair success."
+        },
+        {
+          "title": "Gasket & Seal Replacement",
+          "body": "We install new OEM-quality gaskets or apply Mercedes-approved sealant (Drei Bond 1209) to the correct areas, following factory torque sequences."
+        },
+        {
+          "title": "Reassembly & Refill",
+          "body": "We refit all removed components, refill with fresh oil, and replace any lost coolant (if timing cover was removed)."
+        },
+        {
+          "title": "Testing & Handover",
+          "body": "We run the engine to operating temperature, check for any new leaks, and perform a road test. Your vehicle is returned with a 12-month warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Enter Your Registration",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Use our quick lookup to get started – we'll confirm your engine type and advise on common oil leak points for your model."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage for Oil Leak Repair",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Established since 2009** – with a dedicated Mercedes-Benz workshop in Essex.",
+            "**OEM parts and Mercedes-approved sealants** – we never use generic alternatives that can fail early.",
+            "**Meticulous cleaning** – the key to a lasting repair, we take the time to do it right.",
+            "**12-month unlimited-mileage warranty** – on all parts and labour.",
+            "**Nationwide recovery** – we can collect your vehicle from anywhere in the UK (separate charge).",
+            "**Transparent quoting** – fixed price after inspection, no hidden extras."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works – Simple Steps",
+      "steps": [
+        {
+          "title": "Contact Us",
+          "body": "Call or fill in our quote form with your vehicle details."
+        },
+        {
+          "title": "We Inspect & Quote",
+          "body": "We identify the leak source and provide a fixed-price quote."
+        },
+        {
+          "title": "Repair",
+          "body": "We clean, replace gaskets, and test thoroughly."
+        },
+        {
+          "title": "Peace of Mind",
+          "body": "Drive away with a 12-month unlimited-mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
+            "[Mercedes-Benz Engine Supply & Fit](/mercedes-engine-supply-fit)",
+            "[Diesel Timing Chain Repair](/mercedes-diesel-timing-chain-repair)",
+            "[AMG V8 Valve Seal Repair](/mercedes-amg-v8-valve-seal-repair)",
+            "[High-Mileage Engine Rebuild](/mercedes-high-mileage-engine-rebuild)",
+            "[Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Engine Matching by Registration & VIN](/mercedes-engine-matching)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What are the most common oil leak points on a Mercedes-Benz?",
+          "a": "Valve cover gaskets, oil filter housing gaskets, timing cover seals, and oil pan gaskets are the most frequent sources. We repair all of them."
+        },
+        {
+          "q": "How long does an oil leak repair take?",
+          "a": "Valve cover gaskets typically take a day. Timing cover repairs are more involved and may take 1-2 days. We always give you a time estimate before starting."
+        },
+        {
+          "q": "Do you use genuine Mercedes parts?",
+          "a": "We use OEM-quality gaskets and Mercedes-approved sealants (Drei Bond 1209) – never generic alternatives that can fail prematurely."
+        },
+        {
+          "q": "Do you provide a warranty on gasket repairs?",
+          "a": "Yes. All our oil leak repairs come with a 12-month unlimited-mileage warranty covering parts and labour."
+        },
+        {
+          "q": "Can you collect my vehicle?",
+          "a": "Yes – we offer nationwide recovery from £70 (separate charge). We can arrange collection and delivery back to you."
+        },
+        {
+          "q": "Why is cleaning so important for gasket repairs?",
+          "a": "Proper cleaning of mating surfaces is the single most important factor for long-term success. Any residual oil or old gasket material will prevent a proper seal and cause the leak to return."
+        }
+      ]
+    }
+  ]
+}

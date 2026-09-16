@@ -1,0 +1,61 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes AMG GT Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes AMG GT engine we work on — these 10 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes C180",
+      "spec": "1.6L Petrol (M274)"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes C200",
+      "spec": "2.0L Petrol (M274)"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes AMG GT",
+      "spec": "2.1L Diesel (OM651)"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes C250",
+      "spec": "1.8L Petrol Turbo (M271)"
+    },
+    {
+      "number": "05",
+      "model": "Mercedes C250d",
+      "spec": "2.1L Diesel (OM651)"
+    },
+    {
+      "number": "06",
+      "model": "Mercedes C300",
+      "spec": "2.0L Petrol Turbo (M274)"
+    },
+    {
+      "number": "07",
+      "model": "Mercedes C300d",
+      "spec": "2.0L Diesel (OM654)"
+    },
+    {
+      "number": "08",
+      "model": "Mercedes C350",
+      "spec": "3.5L Petrol (M276)"
+    },
+    {
+      "number": "09",
+      "model": "Mercedes C43 AMG",
+      "spec": "3.0L Petrol Twin-Turbo (M276)"
+    },
+    {
+      "number": "10",
+      "model": "Mercedes C63 AMG",
+      "spec": "6.2 / 4.0L Petrol (M156 / M177)"
+    }
+  ]
+}

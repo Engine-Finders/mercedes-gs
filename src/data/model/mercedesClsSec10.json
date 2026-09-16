@@ -1,0 +1,47 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes CLS Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes CLS engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes CLS 320",
+      "spec": "3.0L–3.5L Petrol or Diesel (M112, M272, OM642)",
+      "href": "/mercedes-cls-320-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes CLS 350",
+      "spec": "3.0L–3.5L V6 Petrol (M272) or Diesel (OM642) (M272 or OM642)",
+      "href": "/mercedes-cls-350-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes CLS 350d",
+      "spec": "3.0L V6 Diesel (OM642)",
+      "href": "/mercedes-cls-350d-engines"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes CLS 400",
+      "spec": "3.0L–3.5L V6 Petrol (M276)",
+      "href": "/mercedes-cls-400-engines"
+    },
+    {
+      "number": "05",
+      "model": "Mercedes CLS 500",
+      "spec": "5.5L (M273) / 4.7L (M278) Petrol (M273 (C219) or M278 (C218))",
+      "href": "/mercedes-cls-500-engines"
+    },
+    {
+      "number": "06",
+      "model": "Mercedes CLS 63 AMG",
+      "spec": "6.2L / 5.5L / 4.0L Petrol / Petrol Twin-Turbo (M156 (C219) · M157 (C218) · M177 (C257))",
+      "href": "/mercedes-cls-63-amg-engines"
+    }
+  ]
+}

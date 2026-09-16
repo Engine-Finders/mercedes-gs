@@ -1,0 +1,44 @@
+{
+  "titlePre": "Mercedes-Benz ",
+  "titleHighlight": "M256 Rebuild Components",
+  "cards": [
+    {
+      "icon": "bearing",
+      "image": "/engine/sec4.webp",
+      "title": "Main bearings and connecting rod bearings",
+      "body": "Main bearings and connecting rod bearings"
+    },
+    {
+      "icon": "gasket",
+      "image": "/engine/sec4.webp",
+      "title": "Complete gasket and seal set",
+      "body": "Complete gasket and seal set"
+    },
+    {
+      "icon": "chain",
+      "image": "/engine/sec4.webp",
+      "title": "Timing chain components where required",
+      "body": "Timing chain components where required"
+    },
+    {
+      "icon": "clipboard",
+      "image": "/engine/sec4.webp",
+      "title": "48V electrical system components",
+      "body": "48V electrical system components"
+    },
+    {
+      "icon": "gasket",
+      "image": "/engine/sec4.webp",
+      "title": "Oil filter housing gasket",
+      "body": "Oil filter housing gasket"
+    },
+    {
+      "icon": "piston",
+      "image": "/engine/sec4.webp",
+      "title": "Crankshaft",
+      "body": "Crankshaft"
+    }
+  ],
+  "notice": "Components drawn directly from VRF Key Components data. If your M256's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
+  "noticeImage": "/model/sec15_part.webp"
+}

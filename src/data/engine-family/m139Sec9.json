@@ -28,10 +28,10 @@
   "compatibility": {
     "image": "/engine/sec9_bottom.webp",
     "imageMobile": "/engine/sec9_bottom_mobile.webp",
-    "kicker": "MERCEDES-AMG M139 ENGINE",
+    "kicker": "MERCEDES-AMG M139",
     "titlePre": "",
-    "titleHighlight": "COMPATIBILITY",
-    "titlePost": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
     "body": "Because the M139 is fitted to six different models — from the compact A-Class to the grand-touring SL roadster — compatibility comes down to confirming your exact model, generation, and specific AMG variant (e.g., \"45\" vs \"45 S\" vs \"43\"). A M139 from an A 45 AMG isn't a drop-in match for a M139 from an SL 43 — ancillaries and mounting differ.",
     "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
     "points": [

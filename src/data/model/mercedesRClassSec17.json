@@ -1,0 +1,43 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Mercedes R-Class Variant",
+  "tabs": [
+    "All Variants"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "R320 CDI",
+        "href": "/mercedes-r320-cdi-engines"
+      },
+      {
+        "label": "R350",
+        "href": "/mercedes-r350-engines"
+      },
+      {
+        "label": "R350 CDI",
+        "href": "/mercedes-r350-cdi-engines"
+      },
+      {
+        "label": "R500",
+        "href": "/mercedes-r500-engines"
+      },
+      {
+        "label": "R63 AMG",
+        "href": "/mercedes-r63-amg-engines"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "headlinePre": "Mercedes GLC300d",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,200",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "OM651",
+      "generation": "X253 (early, 2015–2018)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-om651-engine"
+    },
+    {
+      "code": "OM654",
+      "generation": "X253 (later, 2018–2022) / X254 (2022–present)",
+      "price": "£2,200",
+      "codeHref": "/mercedes-om654-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes GLC300d Injector Seal & Timing Chain Wear ",
+    "titleHighlight": "(Early X253, OM651)",
+    "paragraphs": [
+      "If your GLC300d is an early X253-generation model with the OM651 diesel — roughly 2015 to 2018 — injector seal leaks and timing chain wear is a well-documented pattern on this engine, shared with the C-Class family of that era. We replace injector seals, timing chain components and gaskets as standard on every OM651 rebuild.",
+      "The later X253 models (from around 2018) and the current X254 generation use a different engine, the OM654, which doesn't share this specific issue — it's a separate, more recent design."
+    ],
+    "source": "Source: established specialist pattern, per VRF-mercedes-glc-class.md. OM654 explicitly excluded from this claim per VRF, correctly scoped to early X253 generation"
+  }
+}

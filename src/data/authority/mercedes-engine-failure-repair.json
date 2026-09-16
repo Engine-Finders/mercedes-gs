@@ -1,0 +1,263 @@
+{
+  "slug": "mercedes-engine-failure-repair",
+  "metaTitle": "Mercedes-Benz Engine Failure Repair Specialists | Mercedes Garage",
+  "metaDescription": "Professional Mercedes-Benz engine failure repair. We assess, strip, inspect, and rebuild failed engines with full warranty. Get a quote today.",
+  "h1": "Mercedes-Benz Engine Failure Repair Specialists",
+  "lede": "Because every engine failure is different, we provide a fixed-price quote after our full strip-down and inspection. Contact us for a no-obligation assessment.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec9_bottom.webp",
+    "/variant/sec3.webp",
+    "/engine/sec3.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Our Engine Failure Repair Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When an engine has failed, our workshop follows a structured, methodical process to determine exactly what is needed and carry out the repair. This is not about why it happened – we focus on what needs to be done next."
+        },
+        {
+          "t": "p",
+          "html": "Our service covers the full journey from assessment to completion:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Initial inspection** – we examine the engine externally, check fluid condition, and verify the vehicle's VIN and engine code.",
+            "**Engine removal** – the engine is carefully lifted out of the vehicle, with all connections properly disconnected.",
+            "**Full strip-down** – the engine is dismantled completely, with every component labelled and laid out for inspection.",
+            "**Component-by-component inspection** – we check every part for wear, damage, or condition, measuring against factory tolerances.",
+            "**Quotation and authorisation** – we provide a detailed, itemised repair estimate before any work begins.",
+            "**Remediation and rebuild** – we machine, replace, and reassemble using genuine or OEM parts, to factory torque specifications.",
+            "**Testing and handover** – the rebuilt engine is tested, refitted, and road-tested before you collect your vehicle."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "All work carries a **12-month unlimited-mileage warranty** on parts and labour."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Get a Personalised Quote",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Because every engine failure is different, we provide a fixed-price quote after our full strip-down and inspection. Contact us for a no-obligation assessment."
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Call us on 0203 488 4649** or [Request a Quote Online](/contact)",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engine Families",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our engine failure repair service covers all Mercedes-Benz models and engine types. Below are some of the most common we work with:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class",
+              "href": "/mercedes-a-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Popular engine families we regularly repair:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[OM651 4-cyl diesel](/mercedes-om651-engine) – fitted across many models",
+            "[OM642 V6 diesel](/mercedes-om642-engine) – common in E-Class, ML, etc.",
+            "[M276 V6 petrol](/mercedes-m276-engine) – widely used",
+            "[M177 V8 AMG](/mercedes-m177-engine) – high-performance units",
+            "[OM654 4-cyl diesel](/mercedes-om654-engine) – newer generation"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For variant-specific information, see our [C220d](/mercedes-c-class-engines), [E220d](/mercedes-e-class-engines), [S350d](/mercedes-s350d-engines), and other detailed variant pages."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Engine Failure Assessment & Remediation Process",
+      "steps": [
+        {
+          "title": "Initial Inspection",
+          "body": "We examine the engine externally, check fluid condition (oil, coolant), and verify the vehicle's VIN and engine code. We also check the air filter, oil filter, and visible components for any signs of distress."
+        },
+        {
+          "title": "Engine Removal",
+          "body": "We drain all fluids, disconnect all systems (exhaust, wiring, fuel, cooling, transmission), and safely lift the engine from the vehicle using a professional hoist and lifting equipment."
+        },
+        {
+          "title": "Full Strip-Down",
+          "body": "The engine is dismantled completely on the workshop bench. Every component is removed, labelled, and laid out systematically for inspection."
+        },
+        {
+          "title": "Component Inspection & Measurement",
+          "body": "We inspect every part – cylinder head, block, pistons, rings, bearings, crankshaft, camshaft, timing components, and oil galleries. We measure wear against factory tolerances and identify what is salvageable and what must be replaced."
+        },
+        {
+          "title": "Quotation & Authorisation",
+          "body": "We provide a detailed, itemised repair estimate showing the full scope of work, parts required, and labour. No work begins until you authorise the repair."
+        },
+        {
+          "title": "Machining & Reconditioning",
+          "body": "Where needed, we machine cylinder bores, grind the crankshaft, resurface the cylinder head, and carry out any other precision engineering work to restore components to factory specifications."
+        },
+        {
+          "title": "Reassembly & Fitting",
+          "body": "We reassemble the engine using genuine or OEM parts, with all fasteners tightened to the correct torque and sequence. We replace all seals, gaskets, and single-use components."
+        },
+        {
+          "title": "Testing & Handover",
+          "body": "We refit the engine, fill with new fluids, perform a cold start, check oil pressure and temperature, run diagnostics, and carry out a full road test. Your vehicle is returned with a 12-month unlimited-mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Enter Your Registration",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Use our quick lookup to get started – we'll confirm your engine type and provide a tailored assessment."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Mercedes Garage for Engine Failure Repair",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Established since 2009** – with a dedicated Mercedes-Benz workshop in Essex.",
+            "**Genuine specialist equipment** – including Mercedes-Benz Xentry/Star Diagnosis.",
+            "**12-month unlimited-mileage warranty** – on all parts and labour.",
+            "**Nationwide recovery** – we can collect your vehicle from anywhere in the UK (separate charge).",
+            "**Transparent quoting** – fixed price after inspection, no hidden extras.",
+            "**Full strip-down and inspection** – we leave no stone unturned."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works – Simple Steps",
+      "steps": [
+        {
+          "title": "Contact Us",
+          "body": "Call or fill in our quote form with your vehicle details."
+        },
+        {
+          "title": "We Assess Your Engine",
+          "body": "We inspect, strip, and quote the full repair scope."
+        },
+        {
+          "title": "Repair & Rebuild",
+          "body": "We machine, replace, and reassemble to factory standards."
+        },
+        {
+          "title": "Enjoy Peace of Mind",
+          "body": "Drive away with a 12-month unlimited-mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
+            "[Mercedes-Benz Engine Supply & Fit](/mercedes-engine-supply-fit)",
+            "[Nationwide Engine Recovery](/mercedes-engine-recovery)",
+            "[Diesel Timing Chain Repair](/mercedes-diesel-timing-chain-repair)",
+            "[AMG V8 Valve Seal Repair](/mercedes-amg-v8-valve-seal-repair)",
+            "[Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[High-Mileage Engine Rebuild](/mercedes-high-mileage-engine-rebuild)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What happens when my Mercedes-Benz engine has failed?",
+          "a": "We start with an initial inspection, then remove the engine from the vehicle, strip it down completely, inspect every component, and provide a detailed repair estimate. Once you authorise the work, we machine, replace, and reassemble to factory standards, then test and return your vehicle."
+        },
+        {
+          "q": "How long does the assessment and repair process take?",
+          "a": "The full process – from inspection to completion – typically takes 3-5 working days, depending on parts availability and the extent of the repair needed."
+        },
+        {
+          "q": "Do you provide a warranty on engine failure repairs?",
+          "a": "Yes. All our engine failure repairs come with a 12-month unlimited-mileage warranty covering parts and labour."
+        },
+        {
+          "q": "Can you collect my vehicle?",
+          "a": "Yes – we offer nationwide recovery from £70 (separate charge). We can arrange collection and delivery back to you."
+        },
+        {
+          "q": "What if the engine is beyond repair?",
+          "a": "If the engine is not economically repairable, we will advise you on the best course of action – which may be a replacement engine. We can supply and fit a replacement unit as an alternative."
+        },
+        {
+          "q": "Do you use genuine Mercedes-Benz parts?",
+          "a": "We use genuine or OEM-equivalent parts for all repairs, ensuring your engine meets factory specifications."
+        }
+      ]
+    }
+  ]
+}

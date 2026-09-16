@@ -1,0 +1,37 @@
+{
+  "headlinePre": "Mercedes G500 4x4²",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£6,500",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M256",
+      "generation": "R190 (2023–present)",
+      "price": "£3,200",
+      "codeHref": "/mercedes-m256-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes G500 4x4² M157 Valve Seal & Coolant Wear ",
+    "titleHighlight": "",
+    "paragraphs": [
+      "If your G500 4x4² has the M157 twin-turbo V8 — that's the W463 generation — valve seal and coolant system wear is a well-documented pattern on this AMG-sourced engine. We replace valve seals, coolant components, and timing chains as standard on every M157 rebuild.",
+      "*include_in_hero_hook: yes for M157 — Source: established AMG specialist pattern, same M157 family confirmed elsewhere in the Mercedes G-BRF, per VRF-mercedes-g-class.md. The G500 4x4² exclusively uses the M157 engine.*"
+    ],
+    "source": "Source: established AMG specialist pattern, same M157 family confirmed elsewhere in the Mercedes G-BRF, per VRF-mercedes-g-class.md. The G500 4x4² exclusively uses the M157 engine"
+  }
+}

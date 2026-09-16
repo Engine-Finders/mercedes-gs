@@ -1,0 +1,47 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Mercedes Vario Variant",
+  "tabs": [
+    "All Variants"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Mercedes Vario 508D"
+      },
+      {
+        "label": "510D"
+      },
+      {
+        "label": "511D"
+      },
+      {
+        "label": "512D"
+      },
+      {
+        "label": "614D"
+      },
+      {
+        "label": "615D"
+      },
+      {
+        "label": "616D"
+      },
+      {
+        "label": "818D"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

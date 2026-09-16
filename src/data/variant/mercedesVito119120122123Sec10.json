@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES VITO 119 120 122 123 ENGINE",
+    "paragraphs": [
+      "The Vito 119/120/122/123 sat at the top of the W639 Vito range, offered with two distinct V6 engine options. Diesel models use the OM642 — a 3.0-litre V6 diesel shared across a wide range of Mercedes cars and commercial vehicles of that era. Petrol models use the M272 — a 3.5-litre petrol V6 found in numerous Mercedes passenger cars of the same period. Both engines deliver serious torque and towing capability, but they're completely different units with different components and different known wear patterns — which is exactly why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every VITO 119 120 122 123 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES VITO 119 120 122 123 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "OM642",
+        "codeRest": "(W639 Diesel V6)",
+        "body": "A 3.0-litre V6 diesel fitted to the Vito 119/120/122/123 across the W639 generation (2003–2014). Known for swirl flap and injector wear over time — see the callout above. We replace both as standard on every OM642 rebuild, along with the timing chain where worn.",
+        "cta": "Check Your OM642 Vito 119 120 122 123",
+        "codeHref": "/mercedes-om642-engine"
+      },
+      {
+        "codeHighlight": "M272",
+        "codeRest": "(W639 Petrol V6)",
+        "body": "A 3.5-litre petrol V6 fitted to the Vito 119/120/122/123 across the W639 generation (2003–2014). We replace timing chains, bearings and gaskets as standard on every M272 rebuild.",
+        "cta": "Check Your M272 Vito 119 120 122 123",
+        "codeHref": "/mercedes-m272-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES VITO 119 120 122 123 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the Vito 119/120/122/123 was offered with two completely different V6 engines — a petrol and a diesel — fitting the wrong replacement is impossible without knowing which one you have. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M272",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Vito quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES VITO 119 120 122 123 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W639",
+        "chassis": "W639",
+        "years": "2003–2014",
+        "engineCode": "M272",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m272-engine"
+      },
+      {
+        "generation": "W639",
+        "chassis": "W639",
+        "years": "2003–2014",
+        "engineCode": "OM642",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om642-engine"
+      }
+    ]
+  }
+}

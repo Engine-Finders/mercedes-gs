@@ -1,0 +1,29 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes Vaneo Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes Vaneo engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes Vaneo 1.6",
+      "spec": "1.6L Petrol (M166)",
+      "href": "/mercedes-vaneo-1-6-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes Vaneo 1.7 CDI",
+      "spec": "1.7L I4 Diesel (OM668)",
+      "href": "/mercedes-vaneo-1-7-cdi-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes Vaneo 1.9",
+      "spec": "1.9L Petrol (M166)",
+      "href": "/mercedes-vaneo-1-9-engines"
+    }
+  ]
+}

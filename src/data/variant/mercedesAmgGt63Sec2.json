@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes AMG GT 63",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes AMG GT 63"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "AMG GT"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "AMG GT 63"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol Twin-Turbo"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "M178"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "4.0L V8"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "R190 (2023–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£5,500",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The AMG GT 63 uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

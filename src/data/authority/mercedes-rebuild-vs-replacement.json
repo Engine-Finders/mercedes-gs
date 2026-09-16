@@ -1,0 +1,264 @@
+{
+  "slug": "mercedes-rebuild-vs-replacement",
+  "metaTitle": "Mercedes-Benz Engine Rebuild vs Replacement | Mercedes Garage",
+  "metaDescription": "Engine rebuild vs replacement for Mercedes-Benz: what each process involves, terminology, and key decision factors to consider when choosing between the two.",
+  "h1": "Mercedes-Benz Engine Rebuild vs Replacement",
+  "lede": "Understanding the difference between rebuilding your existing engine and replacing it with another unit. A neutral guide to the terminology, processes, and decision factors.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec3.webp",
+    "/engine/sec3.webp",
+    "/model/sec2.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Page Covers",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When an engine requires major attention, two primary paths exist: **rebuilding** the existing engine or **replacing** it with another unit. This page explains the terminology, the genuine technical differences between the two processes, and the factors a workshop considers when advising on which route to take."
+        },
+        {
+          "t": "p",
+          "html": "This is a decision-support page — it describes how each option works and what goes into the decision, not why an engine might have failed in the first place."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Terminology: What Do These Terms Actually Mean?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "In the automotive repair industry, the terms are sometimes used interchangeably, but they describe distinct processes[reference:0]."
+        },
+        {
+          "t": "h3",
+          "text": "Engine Replacement"
+        },
+        {
+          "t": "p",
+          "html": "An **engine replacement** involves removing the entire existing engine and installing a different unit in its place[reference:9][reference:10]. The replacement unit can be:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**New** – a factory-fresh engine.",
+            "**Remanufactured** – an engine rebuilt to original standards in a factory setting[reference:11].",
+            "**Rebuilt** – an engine that has been reconditioned by a specialist[reference:12].",
+            "**Used** – an engine taken from another vehicle, typically with no inspection or parts replacement[reference:13]."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Replacement is often the more straightforward option in terms of labour, especially when the original engine is beyond repair[reference:14]."
+        },
+        {
+          "t": "p",
+          "html": "For a deeper dive into specific engine families, see our [M156](/mercedes-m156-engine), [M157](/mercedes-m157-engine), [M177](/mercedes-m177-engine), [M178](/mercedes-m178-engine), and [OM642](/mercedes-om642-engine) engine pages."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Genuine Process Differences",
+      "steps": [
+        {
+          "title": "Rebuild",
+          "body": ""
+        },
+        {
+          "title": "Replacement",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Decision Factors: What a Workshop Considers",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When advising between a rebuild and a replacement, a workshop evaluates several factors. The right choice depends on the specific circumstances[reference:22][reference:23]."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Vehicle Condition & Value",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Rebuild favours:** A vehicle in otherwise good condition (solid body, good transmission, healthy suspension) where the owner plans to keep it[reference:28][reference:29].",
+              "href": null
+            },
+            {
+              "label": "**Replacement favours:** A newer vehicle that justifies the investment in a factory-spec engine[reference:30].",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "If the vehicle has many other expensive problems, investing heavily in the engine may not be the best financial decision[reference:31]."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Parts Availability",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Rebuild favours:** When new or remanufactured engines are hard to source, or when the engine is rare or specialty[reference:32].",
+              "href": null
+            },
+            {
+              "label": "**Replacement favours:** When replacement units are readily available and offer a more predictable timeline[reference:33].",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Parts availability can significantly influence both cost and turnaround time[reference:34]."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Timeframe",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Rebuild:** Typically takes longer due to the disassembly, inspection, machining, and reassembly process[reference:35].",
+              "href": null
+            },
+            {
+              "label": "**Replacement:** Often offers a faster turnaround, especially if a replacement unit is immediately available[reference:36].",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "If the vehicle is needed back on the road quickly, replacement may be the more practical choice[reference:37]."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Warranty & Long-Term Reliability",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Rebuild:** Warranty varies; a properly rebuilt engine can last as long as a new one[reference:38].",
+              "href": null
+            },
+            {
+              "label": "**Replacement:** Remanufactured engines often come with attractive warranty coverage[reference:39].",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Replacement with a remanufactured unit may offer greater peace of mind for long-term ownership[reference:40]."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Originality",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Rebuild favours:** Owners who want to retain the vehicle's original, matching-numbers engine — particularly important for classic or collector cars[reference:41][reference:42].",
+              "href": null
+            },
+            {
+              "label": "**Replacement:** The original engine is no longer in the vehicle, which can affect value for some models.",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "These are general decision factors. Every case is individual, and a thorough inspection is essential before committing to either path."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Explore other specialist services we offer for Mercedes-Benz engines:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
+            "[Mercedes-Benz Rebuild vs Used Engine](/mercedes-rebuild-vs-used)",
+            "[Mercedes-Benz Rebuild vs Remanufactured](/mercedes-rebuild-vs-remanufactured)",
+            "[Mercedes-Benz Rebuild vs Reconditioned](/mercedes-rebuild-vs-reconditioned)",
+            "[Mercedes-Benz Repair vs Full Rebuild](/mercedes-repair-vs-rebuild)",
+            "[Mercedes-Benz Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Is an engine rebuild the same as a replacement?",
+          "a": "No. A rebuild restores your existing engine by disassembling, inspecting, and replacing worn parts. A replacement removes your engine and installs a different unit in its place[reference:43]."
+        },
+        {
+          "q": "How do I know if my engine should be rebuilt or replaced?",
+          "a": "The decision depends on the extent of the damage, the condition of the rest of the vehicle, parts availability, your timeframe, and how long you plan to keep the car[reference:44][reference:45]. A professional inspection is essential to determine the best path."
+        },
+        {
+          "q": "What does a full engine rebuild involve?",
+          "a": "A full rebuild involves complete disassembly, cleaning, inspection, machining of components (e.g., cylinder boring, crankshaft grinding), and reassembly with new bearings, pistons, rings, seals, gaskets, and timing components[reference:46]."
+        },
+        {
+          "q": "What are the different types of replacement engines?",
+          "a": "Replacement engines can be **new** (factory-fresh), **remanufactured** (rebuilt to factory standards in a factory setting), **rebuilt** (reconditioned by a specialist), or **used** (taken from another vehicle with no guarantee of condition)[reference:47][reference:48]."
+        },
+        {
+          "q": "Does a rebuild or replacement come with a warranty?",
+          "a": "Warranty coverage varies. A properly rebuilt engine can come with a warranty (e.g., 12 months/unlimited mileage at our workshop). Remanufactured engines often offer longer warranties, while used engines typically come with little or no warranty[reference:49][reference:50]."
+        }
+      ]
+    }
+  ]
+}

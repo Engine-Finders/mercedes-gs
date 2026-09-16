@@ -1,0 +1,39 @@
+{
+  "headlinePre": "Mercedes M-Class Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our Mercedes engine specialist garage covers all engine types from 1993 to 2026, across every M-Class generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.webp",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "1997–2005",
+      "code": "W163",
+      "list": "1997 through 2005 Mercedes M-Class engines"
+    },
+    {
+      "years": "2005–2011",
+      "code": "W164",
+      "list": "2005 through 2011 Mercedes M-Class engines"
+    },
+    {
+      "years": "2011–2015",
+      "code": "W166, rebadged GLE from 2015",
+      "list": "2011 through 2015 Mercedes M-Class engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "Mercedes ML350 CDI Model:",
+  "checklistLeft": [
+    "Mercedes ML350 CDI 2007 Engine Rebuild",
+    "Mercedes ML350 CDI 2008 Engine Rebuild",
+    "Mercedes ML350 CDI 2009 Engine Rebuild"
+  ],
+  "checklistRight": [
+    "Mercedes ML350 CDI 2010 Engine Rebuild",
+    "Mercedes ML350 CDI 2011 Engine Rebuild"
+  ],
+  "checklistHref": "/mercedes-ml350-cdi-engines"
+}

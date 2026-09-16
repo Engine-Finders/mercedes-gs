@@ -1,0 +1,29 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes GLK-Class Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes GLK-Class engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes GLK200",
+      "spec": "1.8L I4 Petrol (M271)",
+      "href": "/mercedes-glk200-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes GLK250",
+      "spec": "1.8L I4 Petrol (M271)",
+      "href": "/mercedes-glk250-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes GLK350",
+      "spec": "3.0L V6 Petrol (M272)",
+      "href": "/mercedes-glk350-engines"
+    }
+  ]
+}

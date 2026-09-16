@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES V220D ENGINE",
+    "paragraphs": [
+      "The V220d is part of the current W447-generation V-Class range, which has been in production since 2014 and received a major refresh alongside the Vito in 2025. Under the bonnet, the V220d uses the OM654 — a 2.0-litre four-cylinder diesel that's part of Mercedes' modern engine family. This is the same engine used across the wider current V-Class diesel range (V200/V220d/V250/V300d), replacing the older OM651 on earlier W447 models. The OM654 is a clean-sheet design introduced as a modular engine family, fitted across passenger cars and commercial vehicles with different power outputs."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every V220D on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES V220D ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the V220D from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 V220D",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES V220D ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM654",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic V-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES V220D ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W447",
+        "chassis": "W447",
+        "years": "2014–present (refreshed 2025)",
+        "engineCode": "OM654",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om654-engine"
+      }
+    ]
+  }
+}

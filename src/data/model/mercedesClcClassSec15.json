@@ -1,0 +1,27 @@
+{
+  "headlinePre": "Mercedes CLCLC-Class Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our Mercedes engine specialist garage covers all engine types from 1993 to 2026, across every CLC-Class generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.webp",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "2008–2011",
+      "code": "CL203",
+      "list": "2008, 2009, 2010, 2011 Mercedes CLC-Class engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "Mercedes CLC 160 Model:",
+  "checklistLeft": [
+    "Mercedes CLC 160 2016 Engine Rebuild",
+    "Mercedes CLC 160 2017 Engine Rebuild",
+    "Mercedes CLC 160 2018 Engine Rebuild",
+    "Mercedes CLC 160 2019 Engine Rebuild",
+    "Mercedes CLC 160 2020 Engine Rebuild"
+  ],
+  "checklistHref": "/mercedes-clc-160-engines"
+}

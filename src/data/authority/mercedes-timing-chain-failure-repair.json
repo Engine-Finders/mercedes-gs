@@ -1,0 +1,256 @@
+{
+  "slug": "mercedes-timing-chain-failure-repair",
+  "metaTitle": "Mercedes-Benz Timing Chain Failure Repair | Mercedes Garage",
+  "metaDescription": "Specialist assessment and remediation for Mercedes timing chain failure. Full strip-down, damage inspection, and rebuild. Fixed-price rebuilds from £2,200.",
+  "h1": "Mercedes-Benz Timing Chain Failure Repair",
+  "lede": "Full assessment and remediation for Mercedes engines that have suffered timing chain failure. Complete strip-down, damage inspection, component replacement, and rebuild to factory tolerances.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec1.webp",
+    "/engine/sec9_middle.webp",
+    "/model/sec15.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Mercedes specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When a Mercedes engine arrives at our workshop with a timing chain failure, we carry out a comprehensive assessment and remediation process. This is not a simple replacement — it requires full disassembly of the upper engine, careful inspection of all internal components, and precise reassembly using correct procedures and specifications.[reference:0]"
+        },
+        {
+          "t": "p",
+          "html": "Our process covers the full journey from initial inspection through to final testing, ensuring the engine is returned to factory specifications and reliable operation."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "Our Fixed-Price Rebuilds",
+          "paras": [
+            "**4-Cylinder Diesel** (OM607/608/640/651/654) — from **£2,200**",
+            "**6-Cylinder Diesel** (OM642) — from **£2,800**",
+            "**AMG V8** (M156/M157/M177/M178) — from **£6,500**",
+            "Price includes full disassembly, parts, labour, and final testing. [Pricing disclaimer](/pricing-legal-disclaimer)."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We carry out timing chain failure repairs on all Mercedes models. Below are the key model families and engine types we work on."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "A-Class (W176/W177)",
+              "href": "/mercedes-a-class-engines"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Engine Families Covered"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "M271",
+              "href": "/mercedes-m271-engine"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Key Variants",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "C220d",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E220d",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "E63 AMG",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S63 AMG",
+              "href": "/mercedes-s63-amg-engines"
+            },
+            {
+              "label": "SLK200",
+              "href": "/mercedes-slk200-engines"
+            },
+            {
+              "label": "CLK350",
+              "href": "/mercedes-clk-350-engines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process — Assessment to Completion",
+      "steps": [
+        {
+          "title": "Initial Workshop Assessment",
+          "body": "We carry out a full inspection of the engine, including visual checks and diagnostic data review. We provide a written estimate covering parts, labour, and diagnostics before any work begins.[reference:1][reference:2]"
+        },
+        {
+          "title": "Full Engine Strip-Down",
+          "body": "We completely disassemble the upper engine to access the timing chain, guides, tensioners, and sprockets.[reference:3] This involves removing auxiliary belts, the harmonic balancer, and the timing cover.[reference:4]"
+        },
+        {
+          "title": "Damage Inspection",
+          "body": "We inspect all internal components — cylinder head, valves, pistons, bearings, and the engine block — to determine what is salvageable and what needs replacement.[reference:5]"
+        },
+        {
+          "title": "Component Replacement",
+          "body": "We replace the timing chain, guides, tensioners, and any damaged components. Where required, we carry out machining of cylinder walls, crankshaft journals, and head surfaces.[reference:6]"
+        },
+        {
+          "title": "Rebuild & Timing",
+          "body": "We reassemble the engine using genuine or OEM parts, set timing using factory-level procedures, and verify alignment before final assembly.[reference:7][reference:8]"
+        },
+        {
+          "title": "Testing & Verification",
+          "body": "We run the engine through a complete diagnostic sequence, check for correct operation, and road-test the vehicle to confirm the repair.[reference:9][reference:10]"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us for Your Mercedes Timing Chain Failure Repair",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Specialist Mercedes workshop with 15+ years of experience (founded 2009)",
+            "Factory-trained technicians using genuine Mercedes-Benz tools and XENTY diagnostics",
+            "Transparent pricing – fixed-price rebuilds from £2,200, no hidden charges",
+            "Nationwide recovery service from £70 – we bring your vehicle to our Essex workshop",
+            "12-month unlimited-mileage warranty on all parts and labour",
+            "Full strip-down and inspection – we identify what's salvageable and quote accurately",
+            "Engine removed and refitted with care – we match your exact engine code and VIN"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our workshop](/about) and see how we work."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works – From Booking to Collection",
+      "steps": [
+        {
+          "title": "",
+          "body": "Call or [get a quote online](/contact) – we'll discuss your engine and arrange recovery if needed."
+        },
+        {
+          "title": "",
+          "body": "Vehicle arrives at our Essex workshop. We carry out a full assessment and provide a written estimate."
+        },
+        {
+          "title": "",
+          "body": "We complete the strip-down, inspection, and rebuild (typically 3-5 working days for most engines)."
+        },
+        {
+          "title": "",
+          "body": "You collect your vehicle with a full report and 12-month warranty – or we arrange delivery."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services We Offer",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild) – full overhaul",
+            "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
+            "[Mercedes Diesel Timing Chain & Injector Repair](/mercedes-diesel-timing-chain-repair)",
+            "[Mercedes 4-Cylinder Timing Chain Repair](/mercedes-4cyl-timing-chain-repair)",
+            "[Mercedes AMG V8 Valve Seal & Coolant Repair](/mercedes-amg-v8-valve-seal-repair)",
+            "[Nationwide Engine Recovery](/mercedes-engine-recovery)",
+            "[Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
+            "[Mercedes-Benz Engine Failure Repair](/mercedes-engine-failure-repair)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does a timing chain failure repair take?",
+          "a": "Typical turnaround is 3-5 working days from arrival at our workshop. More complex jobs (e.g. V8 or V12 engines) may take longer. We'll give you an estimated completion date when we start the work."
+        },
+        {
+          "q": "Do you use genuine Mercedes parts?",
+          "a": "We use genuine Mercedes-Benz or OEM-quality parts (chains, tensioners, guides, seals) to ensure reliability and compatibility with your engine.[reference:11]"
+        },
+        {
+          "q": "Do I need to bring the car to you, or can you collect it?",
+          "a": "We offer nationwide recovery from £70. Most vehicles are collected within a few hours of booking. Alternatively, you can drop it off at our Billericay workshop."
+        },
+        {
+          "q": "Is the work covered by a warranty?",
+          "a": "Yes. All our timing chain failure repairs come with a 12-month, unlimited-mileage warranty on parts and labour."
+        },
+        {
+          "q": "What is the price range for this repair?",
+          "a": "For 4-cylinder diesel engines, rebuilds start from £2,200. For 6-cylinder diesels, from £2,800. For AMG V8 engines, from £6,500. The final price depends on the exact engine and the extent of damage found during strip-down."
+        },
+        {
+          "q": "Do you carry out machining work in-house?",
+          "a": "Yes. We carry out cylinder wall honing, crankshaft journal grinding, and head surface machining as part of our rebuild process.[reference:12]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes SLK Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes SLK engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes SLK200",
+      "spec": "2.0L – 2.3L (depending on engine code) Petrol (M111 (R170) · M271 (R171/R172))",
+      "href": "/mercedes-slk200-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes SLK230",
+      "spec": "2.3L Petrol (M111)",
+      "href": "/mercedes-slk230-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes SLK320",
+      "spec": "3.2L Petrol V6 (M112 (R170) or M272 (R171/R172))",
+      "href": "/mercedes-slk320-engines"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes SLK350",
+      "spec": "3.5L V6 Petrol (M272)",
+      "href": "/mercedes-slk350-engines"
+    },
+    {
+      "number": "05",
+      "model": "Mercedes SLK55 AMG",
+      "spec": "5.5L Petrol V8 (M113 (R171) or M152 (R172))",
+      "href": "/mercedes-slk55-amg-engines"
+    }
+  ]
+}

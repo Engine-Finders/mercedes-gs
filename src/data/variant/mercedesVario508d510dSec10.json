@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES VARIO 508D 510D ENGINE",
+    "paragraphs": [
+      "The Vario 508D and 510D were introduced in 1996 as lighter-chassis variants of the Vario range, intended for applications where a lower gross vehicle weight was sufficient — minibuses, chassis-cab conversions, and smaller commercial bodies. Both variants share the same engine options across their production run: the OM602 2.9-litre five-cylinder diesel and the OM611 2.2-litre four-cylinder diesel. These are well-documented units, also used in the equivalent-era Sprinter, and both share the same known wear patterns: timing chain and gear wear, and injector seal degradation over time. The Vario was discontinued in 2013, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every VARIO 508D 510D on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES VARIO 508D 510D ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "OM602",
+        "codeRest": "",
+        "body": "A 2.9-litre five-cylinder diesel fitted to the Vario 508D/510D from 1996 to 2013. Known for timing chain/gear wear and injector seal degradation — see the callout above. We replace timing chain components, timing gears, injector seals, and gaskets as standard on every OM602 rebuild.",
+        "cta": "Check Your OM602 Vario 508D 510D",
+        "codeHref": "/mercedes-om602-engine"
+      },
+      {
+        "codeHighlight": "OM611",
+        "codeRest": "",
+        "body": "A 2.2-litre four-cylinder diesel fitted to the Vario 508D/510D from 1996 to 2013. Shares the same wear pattern as the OM602 — injector seal and timing chain/gear wear. We replace timing chain components, timing gears, injector seals, and gaskets as standard on every OM611 rebuild.",
+        "cta": "Check Your OM611 Vario 508D 510D",
+        "codeHref": "/mercedes-om611-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES VARIO 508D 510D ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the Vario 508D/510D uses two distinct engines across the same production period, fitting the wrong replacement — or assuming an OM602 part will work on an OM611 van — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "OM602",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Vario quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES VARIO 508D 510D ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "Lighter chassis",
+        "chassis": "",
+        "years": "1996–2013",
+        "engineCode": "OM602",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om602-engine"
+      },
+      {
+        "generation": "Lighter chassis",
+        "chassis": "",
+        "years": "1996–2013",
+        "engineCode": "OM611",
+        "fuel": "Diesel",
+        "codeHref": "/mercedes-om611-engine"
+      }
+    ]
+  }
+}

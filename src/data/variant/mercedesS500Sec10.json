@@ -1,0 +1,102 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES S500 ENGINE",
+    "paragraphs": [
+      "The S500 has been part of the S-Class range since 2008. Early and mid-generation cars (W221 and W222, roughly 2008 to 2017) use the M278 — a 4.7-litre V8 petrol engine. From 2020, the W223-generation S500 switched to the M256, a newer 3.0-litre straight-six with mild-hybrid assistance. Knowing which one your car has matters, because the components, the known wear pattern, and even the rebuild cost differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every S500 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES S500 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M278",
+        "codeRest": "(W221, W222)",
+        "body": "A 4.7-litre V8 petrol fitted to the S500 from 2008 to 2017, across two generations. Known for timing chain wear and coolant system issues over time — see the callout above. We replace timing chains, valve seals and coolant system components as standard on every M278 rebuild.",
+        "cta": "Check Your M278 S500",
+        "codeHref": "/mercedes-m278-engine"
+      },
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(W223)",
+        "body": "A 3.0-litre inline-six petrol with mild-hybrid assistance, fitted from 2020. This is a modern, generally reliable engine that doesn't share the same known issues as the older M278 V8.",
+        "cta": "Check Your M256 S500",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES S500 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the S500 spans two distinct engines across three generations, fitting the wrong replacement — or assuming an M278 part will work on an M256 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M278",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic S-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES S500 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "W221",
+        "chassis": "W221",
+        "years": "2008–2013",
+        "engineCode": "M278",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m278-engine"
+      },
+      {
+        "generation": "W222",
+        "chassis": "W222",
+        "years": "2013–2017",
+        "engineCode": "M278",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m278-engine"
+      },
+      {
+        "generation": "W223",
+        "chassis": "W223",
+        "years": "2020–present",
+        "engineCode": "M256",
+        "fuel": "Petrol Mild-Hybrid",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  }
+}

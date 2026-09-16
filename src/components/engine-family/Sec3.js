@@ -9,11 +9,11 @@ const GRID_COLS = "grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)_minmax(0,0.9fr)_minm
 
 export default function Sec3({ data }) {
   return (
-    <section className="relative overflow-hidden bg-hero-dark">
+    <section className="theme-dark relative overflow-hidden">
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
         <div className="relative px-4 py-7">
-          <MobileSplitTitle titlePre={data.titlePre} titleHighlight={data.titleHighlight} className="text-xl" baseColorClass="text-white" />
+          <MobileSplitTitle titlePre={data.titlePre} titleHighlight={data.titleHighlight} className="text-xl" baseColorClass="text-white" stripeVariant="left" />
 
           <div className="no-scrollbar -mx-4 mt-5 overflow-x-auto px-4">
             <div
@@ -86,7 +86,7 @@ export default function Sec3({ data }) {
         <div className="relative mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
           <div>
             <MercedesStripe className="h-7 w-14 shrink-0" />
-            <h2 className="mt-3 text-3xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+            <h2 className="h2 mt-3 uppercase">
               <span className="block text-white">{data.titlePre}</span>
               <span className="block text-hero-blue">{data.titleHighlight}</span>
             </h2>
@@ -138,7 +138,7 @@ export default function Sec3({ data }) {
             </div>
           </div>
 
-          <div className="glass-card-dark mt-4 flex items-center justify-between gap-4 rounded-2xl px-6 py-4">
+          <div className="glass-card-dark mt-4 flex max-w-4xl items-center justify-between gap-4 rounded-2xl px-6 py-4">
             <div className="flex min-w-0 items-center gap-3">
               <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-hero-blue">
                 <Icon name={data.prompt.icon} className="h-4.5 w-4.5 text-white" />

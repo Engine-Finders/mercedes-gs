@@ -1,0 +1,56 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Mercedes E-Class Variant",
+  "tabs": [
+    "All Variants"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Mercedes E200"
+      },
+      {
+        "label": "E220d"
+      },
+      {
+        "label": "E250"
+      },
+      {
+        "label": "E300"
+      },
+      {
+        "label": "E300d"
+      },
+      {
+        "label": "E350"
+      },
+      {
+        "label": "E350d"
+      },
+      {
+        "label": "E400"
+      },
+      {
+        "label": "E43 AMG"
+      },
+      {
+        "label": "E53 AMG"
+      },
+      {
+        "label": "E63 AMG"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

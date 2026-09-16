@@ -1,0 +1,69 @@
+{
+  "yearBanner": {
+    "titlePre": "WE COVER ",
+    "titleHighlight": "EVERY",
+    "titlePost": " MERCEDES CLC 220 CDI MODEL YEAR:",
+    "years": [
+      "2008",
+      "2009",
+      "2010",
+      "2011"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg.",
+    "vehicleLabel": "Mercedes CLC 220 CDI"
+  },
+  "costs": {
+    "titlePre": "MERCEDES CLC 220 CDI ENGINE ",
+    "titleHighlight": "COSTS",
+    "intro": "A Mercedes CLC 220 CDI engine rebuild starts from",
+    "price": "£2,200",
+    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/sec10_engine.webp",
+    "warranty": {
+      "line1": "12 MONTH",
+      "line2": "UNLIMITED-MILEAGE",
+      "line3": "WARRANTY"
+    },
+    "subCards": [
+      {
+        "icon": "engine",
+        "title": "MERCEDES CLC 220 CDI ENGINE SIZES",
+        "item": "Mercedes CLC 220 CDI 3.0 Litre Engine (M256, I6)"
+      },
+      {
+        "icon": "fuel",
+        "title": "MERCEDES CLC 220 CDI FUEL TYPES",
+        "item": "Mercedes CLC 220 CDI Petrol Mild Hybrid Engine Rebuilds"
+      }
+    ]
+  },
+  "bottomInfo": {
+    "timeframe": {
+      "icon": "clock",
+      "textPre": "Most Mercedes CLC-Class engine rebuilds are completed within ",
+      "textHighlight": "3-5 working days",
+      "textPost": "."
+    },
+    "recoveryText": "Nationwide recovery and collection available for all CLC-Class models.",
+    "image": "/variant/mercedes_car.webp"
+  },
+  "related": {
+    "title": "RELATED MERCEDES CLC-CLASS VARIANTS",
+    "links": [
+      {
+        "label": "Mercedes CLC 160 Engine",
+        "href": "/mercedes-clc-160-engines"
+      },
+      {
+        "label": "Mercedes CLC 180 Engine",
+        "href": "/mercedes-clc-180-engines"
+      },
+      {
+        "label": "Mercedes CLC 200 Engine",
+        "href": "/mercedes-clc-200-engines"
+      }
+    ],
+    "viewAll": "View All Mercedes CLC-Class Engines",
+    "viewAllHref": "/mercedes-clc-class-engines"
+  }
+}

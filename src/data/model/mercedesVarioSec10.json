@@ -1,0 +1,35 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Mercedes Vario Rebuilds",
+  "subhead": "Full variant list below covers every Mercedes Vario engine we work on — these are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Mercedes Vario 511D",
+      "spec": "2.9L or 2.2L Diesel (OM602 or OM611)",
+      "href": "/mercedes-vario-511d-engines"
+    },
+    {
+      "number": "02",
+      "model": "Mercedes Vario 512D",
+      "spec": "2.9L/2.2L Diesel (OM602 or OM611)",
+      "href": "/mercedes-vario-512d-engines"
+    },
+    {
+      "number": "03",
+      "model": "Mercedes Vario 616D",
+      "spec": "2.2L – 2.7L Diesel (OM612 or OM647)",
+      "href": "/mercedes-vario-616d-engines"
+    },
+    {
+      "number": "04",
+      "model": "Mercedes Vario 818D",
+      "spec": "2.2L–2.7L Diesel (OM612 or OM647)",
+      "href": "/mercedes-vario-818d-engines"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes CLK 500",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes CLK 500"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "CLK"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "CLK 500"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "M113 (C208) or M273 (C209)"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "5.0L / 5.5L V8"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "C208 (1997–2003) · C209 (2002–2009)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£4,500",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The CLK 500 uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES CLK 200 ENGINE",
+    "paragraphs": [
+      "The CLK 200 has been part of the CLK range since 1997, spanning two generations under one badge. Early cars (C208, 1997 to 2003) use the M111 — a 1.8- to 2.3-litre 4-cylinder petrol engine shared across a wide range of Mercedes models of that era. From 2002, the C209-generation CLK 200 switched to the M271, a newer 4-cylinder petrol unit with its own documented wear pattern. Knowing which one your car has matters, because the components and the known wear patterns differ between them — which is exactly why we confirm your exact engine by registration before quoting. The CLK 200 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every CLK 200 on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES CLK 200 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M111",
+        "codeRest": "(C208)",
+        "body": "A 1.8- to 2.3-litre 4-cylinder petrol engine fitted to the CLK 200 from 1997 to 2003. No specific known issue confirmed for this application, but we service it to the same standard as our other CLK 200 rebuilds.",
+        "cta": "Check Your M111 CLK 200",
+        "codeHref": "/mercedes-m111-engine"
+      },
+      {
+        "codeHighlight": "M271",
+        "codeRest": "(C209)",
+        "body": "A 1.8-litre 4-cylinder petrol engine fitted to the CLK 200 from 2002 to 2009. Known for timing chain stretch and balance shaft issues — see the callout above. We replace the timing chain, timing gears and gaskets as standard on every M271 rebuild.",
+        "cta": "Check Your M271 CLK 200",
+        "codeHref": "/mercedes-m271-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES CLK 200 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the CLK 200 spans two distinct engines across two generations, fitting the wrong replacement — or assuming an M111 part will work on an M271 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M111",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic CLK quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES CLK 200 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "C208",
+        "chassis": "C208",
+        "years": "1997–2003",
+        "engineCode": "M111",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m111-engine"
+      },
+      {
+        "generation": "C209",
+        "chassis": "C209",
+        "years": "2002–2009",
+        "engineCode": "M271",
+        "fuel": "Petrol",
+        "codeHref": "/mercedes-m271-engine"
+      }
+    ]
+  }
+}

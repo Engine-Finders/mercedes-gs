@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes GLC220d",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes GLC220d"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "GLC-Class"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "GLC220d"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Diesel"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "OM651 (X253 early) or OM654 (X253 later/X254)"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "2.0L–2.1L I4"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "X253 (2015–2022) · X254 (2022–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,200",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The GLC220D uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

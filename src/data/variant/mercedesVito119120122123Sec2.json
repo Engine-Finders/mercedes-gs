@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes Vito 119 120 122 123",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes Vito 119 120 122 123"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "Vito"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "Vito 119 120 122 123"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol (M272) or Diesel (OM642)"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "M272 or OM642"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "3.0L–3.5L"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "W639 (2003–2014)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£3,200",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The VITO 119 120 122 123 uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headlinePre": "Mercedes SL55 AMG",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£6,500",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "M177",
+      "generation": "R232 (2021–present)",
+      "price": "£6,500",
+      "codeHref": "/mercedes-m177-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes SL55 AMG Valve Seal & Coolant System Wear ",
+    "titleHighlight": "(M177)",
+    "paragraphs": [
+      "SL55 AMG engines — the M177 4.0-litre twin-turbo V8 — commonly show valve seal and coolant system wear over time, a pattern documented across AMG's M177 and M157 engine families. We replace valve seals, timing chains, coolant components and bearings as standard on every M177 rebuild.",
+      "include_in_hero_hook: yes — Source: established AMG specialist pattern, per VRF-mercedes-sl.md and G-BRF-Mercedes.md. Confirmed for M177."
+    ],
+    "source": "Source: established AMG specialist pattern, per VRF-mercedes-sl.md and G-BRF-Mercedes.md. Confirmed for M177"
+  }
+}

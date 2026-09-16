@@ -1,0 +1,66 @@
+{
+  "about": {
+    "image": "/engine/sec9_top.webp",
+    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "kicker": "ABOUT THE",
+    "titlePre": "MERCEDES-BENZ",
+    "titleHighlight": "OM611",
+    "titlePost": " ENGINE",
+    "body": "The OM611 is a 2.1/2.2-litre inline-four diesel engine produced by Mercedes-Benz from 1995 to 2006. It was a key engine in the commercial vehicle range, powering a wide variety of Sprinter vans, Vario minibuses, and the first-generation Vito panel van. It was also used in the Mercedes-Benz V-Class (W638) as the 2.2 CDI. The engine is known for its robust design, but like all diesel engines of its era, it is susceptible to injector seal wear and EGR clogging over time and mileage."
+  },
+  "byModel": {
+    "image": "/engine/sec9_middle.webp",
+    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "kicker": "MERCEDES-BENZ OM611",
+    "titlePre": "",
+    "titleHighlight": "APPLICATIONS",
+    "titlePost": " BY MODEL",
+    "body": "In the Sprinter, the OM611 was fitted to the T1N generation across the 208, 211, and 212 model designations, covering the full range of panel vans, crew vans, and chassis cabs. In the Vario, the OM611 appeared in the W670 generation in 508D, 510D, and 512D models — these were the larger minibuses and panel vans, typically used for commercial passenger transport.",
+    "lineup": [
+      {
+        "label": "Sprinter",
+        "code": "T1N"
+      },
+      {
+        "label": "Vario",
+        "code": "W670"
+      },
+      {
+        "label": "Vito",
+        "code": "W638"
+      }
+    ]
+  },
+  "compatibility": {
+    "image": "/engine/sec9_bottom.webp",
+    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "kicker": "MERCEDES-BENZ OM611",
+    "titlePre": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
+    "body": "Because the OM611 spans three different vehicle lines over a long production run, compatibility comes down to confirming your exact vehicle and engine configuration. We always confirm the full vehicle spec before quoting or supplying anything — this ensures the right ancillaries and mounting arrangements are accounted for.",
+    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "points": [
+      {
+        "icon": "car",
+        "title": "MODEL",
+        "text": "Confirm your exact model and AMG variant."
+      },
+      {
+        "icon": "calendar",
+        "title": "GENERATION",
+        "text": "Identify the correct generation (W177, C118, H247, W206, X254, R232)."
+      },
+      {
+        "icon": "gears",
+        "title": "DRIVETRAIN",
+        "text": "Specify the variant (45, 45 S, 43)."
+      },
+      {
+        "icon": "clipboard",
+        "title": "CONFIRMED BY REGISTRATION",
+        "text": "We confirm by registration or VIN before quoting."
+      }
+    ]
+  }
+}

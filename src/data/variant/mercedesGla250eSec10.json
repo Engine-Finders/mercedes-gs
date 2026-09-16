@@ -1,0 +1,79 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "MERCEDES GLA250E ENGINE",
+    "paragraphs": [
+      "The GLA250e is the plug-in hybrid variant of the second-generation GLA-Class, introduced with the H247 chassis from 2020. It combines the 1.3-litre M282 four-cylinder petrol engine with an electric motor, offering a unique drivetrain that bridges conventional combustion and electric-only driving. As a PHEV, the GLA250e shares its petrol engine architecture with the wider M282 family found in other Mercedes compact models, but with specific hybrid-system integration that requires specialist knowledge when it comes to engine work."
+    ],
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every GLA250E on the road."
+  },
+  "codes": {
+    "titlePre": "MERCEDES GLA250E ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "M256",
+        "codeRest": "(R190, 2023–present)",
+        "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLA250E from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+        "cta": "Check Your M256 GLA250E",
+        "codeHref": "/mercedes-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "MERCEDES GLA250E ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The GLA250e uses the M282 petrol engine combined with an electric motor across its entire H247 production run. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "M282",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (M256) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (R190)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic GLA-Class quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "MERCEDES GLA250E ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/mercedes_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "H247",
+        "chassis": "H247",
+        "years": "2020–present",
+        "engineCode": "M282 + electric",
+        "fuel": "Petrol PHEV",
+        "codeHref": "/mercedes-m282-engine"
+      }
+    ]
+  }
+}

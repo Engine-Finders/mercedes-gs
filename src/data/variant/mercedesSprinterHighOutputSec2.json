@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Mercedes Sprinter High Output",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Mercedes Sprinter High Output"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "Sprinter"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "Sprinter High Output"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Diesel"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "OM654"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "2.0L"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "VS30 (facelift, 2023–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,200",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The SPRINTER HIGH OUTPUT uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

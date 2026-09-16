@@ -1,0 +1,49 @@
+{
+  "titlePre": "OUR WORKSHOP VIEW OF",
+  "titleBigPre": "THE ",
+  "titleBigHighlight": "MERCEDES-BENZ",
+  "titleBigPost": " OM611",
+  "subtext": [
+    "Built, rebuilt and tested by engineers who work on Mercedes-Benz engines every day.",
+    "Here's our practical view of the OM611 across all six model applications."
+  ],
+  "columns": [
+    {
+      "icon": "car",
+      "title": "APPLICATIONS WE SEE:",
+      "body": "The OM611 is one of the older commercial diesel engines we work on — fitted across the Sprinter, Vario and Vito model lines."
+    },
+    {
+      "icon": "wrench",
+      "title": "WHAT WE REPLACE:",
+      "body": "We replace timing chain components, gaskets, seals, and bearings as standard on every rebuild, with injector seals and EGR components also inspected and addressed."
+    },
+    {
+      "icon": "clipboard",
+      "title": "KNOWN ISSUES:",
+      "body": "The OM611 has some established wear patterns. We've documented injector seal leaks (often referred to as \"Black Death\"), timing chain wear, and EGR valve clogging as the most common issues encountered on higher-mileage units. These are the known characteristics of the engine from our workshop experience and the broader Mercedes specialist community."
+    }
+  ],
+  "notice": {
+    "highlight": "Note:",
+    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed OM611 rebuilds is available to draw from, rather than filled with placeholder examples now."
+  },
+  "typical": {
+    "kicker": "A TYPICAL",
+    "title": "MERCEDES-BENZ OM611 REBUILD",
+    "image": "/engine/sec10_bottom.webp",
+    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "*The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.*",
+    "scope": {
+      "label": "Typical Scope:",
+      "text": "Timing chain components, injector seals, gaskets, bearings, EGR system inspection, and oil system flush."
+    },
+    "startingFromLabel": "Starting From:",
+    "startingFromPrice": "£2,200",
+    "cta": {
+      "label": "Check OM611 Rebuild Options →",
+      "href": "#quote-form"
+    }
+  }
+}

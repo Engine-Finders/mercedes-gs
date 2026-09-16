@@ -1,0 +1,47 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Mercedes GLA-Class Variant",
+  "tabs": [
+    "All Variants"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Mercedes GLA180",
+        "href": "/mercedes-gla180-engines"
+      },
+      {
+        "label": "GLA200",
+        "href": "/mercedes-gla200-engines"
+      },
+      {
+        "label": "GLA220d",
+        "href": "/mercedes-gla220d-engines"
+      },
+      {
+        "label": "GLA250",
+        "href": "/mercedes-gla250-engines"
+      },
+      {
+        "label": "GLA35 AMG",
+        "href": "/mercedes-gla35-amg-engines"
+      },
+      {
+        "label": "GLA45 AMG",
+        "href": "/mercedes-gla45-amg-engines"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

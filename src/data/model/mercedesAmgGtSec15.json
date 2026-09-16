@@ -1,0 +1,31 @@
+{
+  "headlinePre": "Mercedes AMG GT Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our Mercedes engine specialist garage covers all engine types from 1993 to 2026, across every AMG GT generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.webp",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "2015–2023",
+      "code": "C190",
+      "list": "2015 through 2023 Mercedes-AMG GT engines"
+    },
+    {
+      "years": "2023–present",
+      "code": "R190",
+      "list": "2023, 2024, 2025, 2026 Mercedes-AMG GT engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "Mercedes AMG GT Model:",
+  "checklistLeft": [
+    "Mercedes AMG GT 2016 Engine Rebuild",
+    "Mercedes AMG GT 2017 Engine Rebuild",
+    "Mercedes AMG GT 2018 Engine Rebuild",
+    "Mercedes AMG GT 2019 Engine Rebuild",
+    "Mercedes AMG GT 2020 Engine Rebuild"
+  ]
+}

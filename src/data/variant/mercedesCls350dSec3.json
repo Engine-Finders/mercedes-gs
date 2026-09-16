@@ -1,0 +1,43 @@
+{
+  "headlinePre": "Mercedes CLS 350d",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,800",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/mercedes_car.webp",
+  "cards": [
+    {
+      "code": "OM642",
+      "generation": "C218 (2010–2018)",
+      "price": "£2,800",
+      "codeHref": "/mercedes-om642-engine"
+    },
+    {
+      "code": "OM642",
+      "generation": "C257 (2018–2023)",
+      "price": "£2,800",
+      "codeHref": "/mercedes-om642-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Mercedes CLS 350d Swirl Flap & Injector Wear ",
+    "titleHighlight": "",
+    "paragraphs": [
+      "If your CLS 350d has the OM642 diesel V6 — that's every CLS 350d across both C218 and C257 generations — swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
+      "include_in_hero_hook: yes — Source: established specialist pattern, multiple TSBs, per VRF-mercedes-cls.md confirmed in original model page build. Applies to all OM642-fitted CLS 350d generations."
+    ],
+    "source": "Source: established specialist pattern, multiple TSBs, per VRF-mercedes-cls.md confirmed in original model page build. Applies to all OM642-fitted CLS 350d generations"
+  }
+}

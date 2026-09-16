@@ -1,0 +1,82 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "MERCEDES CITAN 112 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the R190's launch in 2023, the CITAN 112 has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2021",
+      "generation": "W420",
+      "engineCode": "M282",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m282-engine"
+    },
+    {
+      "year": "2022",
+      "generation": "W420",
+      "engineCode": "M282",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m282-engine"
+    },
+    {
+      "year": "2023",
+      "generation": "W420",
+      "engineCode": "M282",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m282-engine"
+    },
+    {
+      "year": "2024",
+      "generation": "W420",
+      "engineCode": "M282",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m282-engine"
+    },
+    {
+      "year": "2025",
+      "generation": "W420",
+      "engineCode": "M282",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m282-engine"
+    },
+    {
+      "year": "2026",
+      "generation": "W420",
+      "engineCode": "M282",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/mercedes-m282-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "The M256",
+    "rest": " has been fitted to every CITAN 112 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}
