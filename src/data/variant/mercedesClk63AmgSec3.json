@@ -4,11 +4,12 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£6,500",
   "engineImage": "/engines/m256-engine-hero.webp",
-  "carImage": "/variant/mercedes_car.webp",
+  "carImage": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-cl-dfe7.webp",
   "cards": [
     {
       "code": "M256",
       "image": "/engines/m256-engine-hero.webp",
+      "carImage": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-cl-dfe7.webp",
       "generation": "R190 (2023–present)",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"

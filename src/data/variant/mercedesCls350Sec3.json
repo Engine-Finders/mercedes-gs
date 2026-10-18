@@ -4,11 +4,12 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£3,200",
   "engineImage": "/engines/m272-engine-hero.webp",
-  "carImage": "/variant/mercedes_car.webp",
+  "carImage": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
   "cards": [
     {
       "code": "M256",
       "image": "/engines/m256-engine-hero.webp",
+      "carImage": "/cars/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-0778.webp",
       "generation": "R190 (2023–present)",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"

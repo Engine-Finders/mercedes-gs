@@ -3,7 +3,7 @@
   "headlinePre": "Most Popular",
   "headlineHighlight": "Mercedes CLS Rebuilds",
   "subhead": "Full variant list below covers every Mercedes CLS engine we work on — these are simply our most requested.",
-  "image": "/model/sec10.webp",
+  "image": "/cars/cls-c257-facelift-4-door-coupe-20212023-new-diamond-silver-m-9314.webp",
   "viewMoreLabel": "View More",
   "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
@@ -18,12 +18,14 @@
       "number": "02",
       "model": "Mercedes CLS 350",
       "spec": "3.0L–3.5L V6 Petrol (M272) or Diesel (OM642) (M272 or OM642)",
+      "image": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
       "href": "/mercedes-cls-350-engines"
     },
     {
       "number": "03",
       "model": "Mercedes CLS 350d",
       "spec": "3.0L V6 Diesel (OM642)",
+      "image": "/cars/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
       "href": "/mercedes-cls-350d-engines"
     },
     {

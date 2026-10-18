@@ -4,11 +4,12 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
   "engineImage": "/engines/m256-engine-hero.webp",
-  "carImage": "/variant/mercedes_car.webp",
+  "carImage": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
   "cards": [
     {
       "code": "M256",
       "image": "/engines/m256-engine-hero.webp",
+      "carImage": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-cit-9f47.webp",
       "generation": "R190 (2023–present)",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"

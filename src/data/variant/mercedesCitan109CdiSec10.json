@@ -74,7 +74,7 @@
   "applications": {
     "titlePre": "MERCEDES CITAN 109 CDI ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/variant/mercedes_car.webp",
+    "image": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-cit-9f47.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -103,6 +103,7 @@
       },
       {
         "generation": "W420",
+        "image": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-cit-9f47.webp",
         "chassis": "W420",
         "years": "2021–present",
         "engineCode": "OM608",

@@ -58,7 +58,7 @@
   "applications": {
     "titlePre": "MERCEDES CLK 63 AMG ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/variant/mercedes_car.webp",
+    "image": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-cl-dfe7.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,6 +69,7 @@
     "rows": [
       {
         "generation": "R190",
+        "image": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-cl-dfe7.webp",
         "chassis": "R190",
         "years": "2023–present",
         "engineCode": "M256",

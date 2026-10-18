@@ -74,7 +74,7 @@
   "applications": {
     "titlePre": "MERCEDES CLS 320 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/variant/mercedes_car.webp",
+    "image": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-whi-966d.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -103,6 +103,7 @@
       },
       {
         "generation": "C218",
+        "image": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-whi-966d.webp",
         "chassis": "C218",
         "years": "2010–2018",
         "engineCode": "OM642",
