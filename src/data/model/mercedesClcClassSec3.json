@@ -9,7 +9,7 @@
     {
       "titlePre": "4-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(M271/OM646)",
+      "code": "(M271/OM646)", "image": "/engines/m271-engine-hero.webp",
       "price": "£2,200",
       "featured": false,
       "codeHref": "/mercedes-m271-engine"

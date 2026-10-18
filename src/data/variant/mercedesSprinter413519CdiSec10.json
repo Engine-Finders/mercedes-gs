@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES SPRINTER 413–519 CDI ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om651-engine.webp",
     "cards": [
       {
         "codeHighlight": "OM651",
+        "image": "/engines/om651-engine.webp",
         "codeRest": "(4-cyl)",
         "body": "A 2.1-litre four-cylinder diesel fitted to the Sprinter 413–519 CDI across the NCV3 generation (2006–2018). Known for injector seal leaks and timing chain wear — a well-established pattern across the wider Mercedes commercial vehicle range. We replace timing chain components and injector seals as standard on every OM651 rebuild.",
         "cta": "Check Your OM651 Sprinter 413–519 CDI",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "OM642",
+        "image": "/engines/om642-engine.webp",
         "codeRest": "(V6)",
         "body": "A 3.0-litre V6 diesel fitted to the Sprinter 413–519 CDI across the NCV3 generation (2006–2018), typically in higher-output variants. Known for swirl flap and injector wear — a pattern well-documented across other Mercedes applications with this engine. We replace swirl flaps, injector seals and gaskets as standard on every OM642 rebuild.",
         "cta": "Check Your OM642 Sprinter 413–519 CDI",

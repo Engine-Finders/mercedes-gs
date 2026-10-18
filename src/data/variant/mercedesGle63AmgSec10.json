@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES GLE63 AMG ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m177-m178-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M157",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(W166)",
         "body": "A 5.5-litre twin-turbo V8 fitted to the GLE63 AMG from 2015 to 2019 (W166 generation). Known for valve seal and coolant system wear — see the callout above. We replace valve seals and inspect and replace coolant system components as standard on every M157 rebuild.",
         "cta": "Check Your M157 GLE63 AMG",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M177",
+        "image": "/engines/m177-m178-engine-hero.webp",
         "codeRest": "(V167)",
         "body": "The current 4.0-litre twin-turbo V8, fitted from 2019. A smaller, more advanced unit than the M157, but with a similar wear pattern — valve seal and coolant system wear are the key areas we address on every M177 rebuild.",
         "cta": "Check Your M177 GLE63 AMG",

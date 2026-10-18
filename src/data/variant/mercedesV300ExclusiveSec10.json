@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES V300 EXCLUSIVE ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om654-engine.webp",
     "cards": [
       {
         "codeHighlight": "OM654",
+        "image": "/engines/om654-engine.webp",
         "codeRest": "(W447)",
         "body": "A 2.0-litre four-cylinder turbo-diesel fitted to the V300 Exclusive from the 2025 refresh onwards. This is the current-generation engine across the W447 Vito range in various states of tune, with the V300 Exclusive receiving the highest output at 174kW/500Nm.",
         "cta": "Check Your OM654 V300 Exclusive",

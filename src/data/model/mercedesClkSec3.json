@@ -9,7 +9,7 @@
     {
       "titlePre": "4-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(M111/M271)",
+      "code": "(M111/M271)", "image": "/engines/m271-engine-hero.webp",
       "price": "£2,200",
       "featured": false,
       "codeHref": "/mercedes-m111-engine"
@@ -17,7 +17,7 @@
     {
       "titlePre": "6-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(M112/M272)",
+      "code": "(M112/M272)", "image": "/engines/m112-engine-hero.webp",
       "price": "£3,200",
       "featured": false,
       "codeHref": "/mercedes-m112-engine"
@@ -25,7 +25,7 @@
     {
       "titlePre": "V8",
       "titleHighlight": "Rebuild",
-      "code": "(M113/M273)",
+      "code": "(M113/M273)", "image": "/engines/m113-engine-hero.webp",
       "price": "£4,500",
       "featured": false,
       "codeHref": "/mercedes-m113-engine"

@@ -3,17 +3,19 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,800",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/om656-engine.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "OM656",
+      "image": "/engines/om656-engine.webp",
       "generation": "W222 (2017–2020)",
       "price": "£2,800",
       "codeHref": "/mercedes-om656-engine"
     },
     {
       "code": "OM656",
+      "image": "/engines/om656-engine.webp",
       "generation": "W223 (2020–present)",
       "price": "£2,800",
       "codeHref": "/mercedes-om656-engine"

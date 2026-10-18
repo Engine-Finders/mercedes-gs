@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES CITAN 109 CDI ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om607-model-hero.webp",
     "cards": [
       {
         "codeHighlight": "K9K",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(W415)",
         "body": "A 1.5-litre diesel fitted to the Citan 109 CDI from 2012 to 2021 across the W415 generation. Known for injector failure and EGR clogging — see the callout above. We replace injectors, EGR components and gaskets as standard on every K9K rebuild, along with timing chain components where worn.",
         "cta": "Check Your K9K Citan 109 CDI",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "OM607",
+        "image": "/engines/om607-model-hero.webp",
         "codeRest": "(W420)",
         "body": "A 1.5-litre diesel fitted to the Citan 109 CDI from 2021 onwards (W420 generation). Its specific known issues are not independently confirmed this session, but we service it to the same standard as our other Citan rebuilds.",
         "cta": "Check Your OM607 Citan 109 CDI",
@@ -30,6 +32,7 @@
       },
       {
         "codeHighlight": "OM608",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(W420)",
         "body": "A 1.5-litre diesel fitted to the Citan 109 CDI from 2021 onwards (W420 generation). Its specific known issues are not independently confirmed this session, but we service it to the same standard as our other Citan rebuilds.",
         "cta": "Check Your OM608 Citan 109 CDI",
@@ -82,6 +85,7 @@
     "rows": [
       {
         "generation": "W415",
+        "image": "/cars/citan-w415-tourer-mpv-20122021-new-pebble-grey-passenger-body-citan-w4-4723.webp",
         "chassis": "W415",
         "years": "2012–2021",
         "engineCode": "K9K",
@@ -90,6 +94,7 @@
       },
       {
         "generation": "W420",
+        "image": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
         "chassis": "W420",
         "years": "2021–present",
         "engineCode": "OM607",

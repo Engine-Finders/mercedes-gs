@@ -9,7 +9,7 @@
     {
       "titlePre": "4-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(OM651/OM654/M274)",
+      "code": "(OM651/OM654/M274)", "image": "/engines/om651-engine.webp",
       "price": "£2,200",
       "featured": false,
       "codeHref": "/mercedes-om651-engine"
@@ -17,7 +17,7 @@
     {
       "titlePre": "6-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(M276)",
+      "code": "(M276)", "image": "/engines/m276-engine-hero.webp",
       "price": "£3,200",
       "featured": false,
       "codeHref": "/mercedes-m276-engine"
@@ -25,7 +25,7 @@
     {
       "titlePre": "AMG V8",
       "titleHighlight": "Rebuild",
-      "code": "(M177)",
+      "code": "(M177)", "image": "/engines/m177-m178-engine-hero.webp",
       "price": "£6,500",
       "featured": true,
       "codeHref": "/mercedes-m177-engine"

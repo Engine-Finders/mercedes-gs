@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES V250 V250D ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om651-engine.webp",
     "cards": [
       {
         "codeHighlight": "OM651",
+        "image": "/engines/om651-engine.webp",
         "codeRest": "(W447 early)",
         "body": "A 2.1-litre four-cylinder diesel fitted to the V250/V250d from the W447 launch in 2014 through to the 2025 refresh. Known for injector seal leaks and timing chain wear — see the callout above. We replace timing chain components, injector seals, EGR, and gaskets as standard on every OM651 rebuild.",
         "cta": "Check Your OM651 V250 V250d",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "OM654",
+        "image": "/engines/om654-engine.webp",
         "codeRest": "(W447 current)",
         "body": "The current 2.0-litre four-cylinder diesel, fitted from the 2025 refresh onward. A genuinely different design from the OM651 — no specific known issues independently confirmed for this application at this stage, though we service it to the same rigorous standard as our other V-Class rebuilds.",
         "cta": "Check Your OM654 V250 V250d",

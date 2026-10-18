@@ -11,24 +11,28 @@
       "number": "01",
       "model": "Mercedes CLC 160",
       "spec": "1.8L I4 Petrol Supercharged (M271)",
+      "image": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
       "href": "/mercedes-clc-160-engines"
     },
     {
       "number": "02",
       "model": "Mercedes CLC 180",
       "spec": "1.8L I4 Petrol Supercharged (M271)",
+      "image": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
       "href": "/mercedes-clc-180-engines"
     },
     {
       "number": "03",
       "model": "Mercedes CLC 200",
       "spec": "1.8L I4 Petrol Supercharged (M271)",
+      "image": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
       "href": "/mercedes-clc-200-engines"
     },
     {
       "number": "04",
       "model": "Mercedes CLC 220 CDI",
       "spec": "2.2L I4 Diesel (OM646)",
+      "image": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
       "href": "/mercedes-clc-220-cdi-engines"
     }
   ]

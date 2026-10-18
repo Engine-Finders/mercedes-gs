@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES G550 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m113-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M113",
+        "image": "/engines/m113-engine-hero.webp",
         "codeRest": "(W463, pre-2018)",
         "body": "A 5.0L naturally aspirated V8 fitted to the G550 in earlier W463 generations. No specific known issue confirmed for this application. We service it to the same standard as our other V8 rebuilds, replacing timing chains, bearings and gaskets as standard.",
         "cta": "Check Your M113 G550",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M273",
+        "image": "/engines/m273-engine-hero.webp",
         "codeRest": "(W463, pre-2018)",
         "body": "A 5.5L naturally aspirated V8 fitted to the G550 in later pre-2018 W463 models. No specific known issue confirmed for this application. We service it to the same standard as our other V8 rebuilds, replacing timing chains, bearings and gaskets as standard.",
         "cta": "Check Your M273 G550",
@@ -30,6 +32,7 @@
       },
       {
         "codeHighlight": "M176",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(W463a/W465, 2018–present)",
         "body": "The current 4.0L twin-turbo V8, fitted from 2018. This is the same M176 family used in the S-Class S560 and S580 — worth cross-checking that finding for any known patterns. We replace timing chains, valve seals, coolant components and bearings as standard on every rebuild.",
         "cta": "Check Your M176 G550",

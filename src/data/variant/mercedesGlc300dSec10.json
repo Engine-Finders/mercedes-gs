@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES GLC300D ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om651-engine.webp",
     "cards": [
       {
         "codeHighlight": "OM651",
+        "image": "/engines/om651-engine.webp",
         "codeRest": "(Early X253)",
         "body": "A 2.1-litre four-cylinder diesel fitted to early GLC300d models from 2015 to around 2018 (X253 generation). Known for injector seal leaks and timing chain wear — see the callout above. We replace injector seals, timing chain components and gaskets as standard on every OM651 rebuild.",
         "cta": "Check Your OM651 GLC300d",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "OM654",
+        "image": "/engines/om654-engine.webp",
         "codeRest": "(Later X253 / X254)",
         "body": "A 2.0-litre four-cylinder diesel fitted from around 2018 onwards, continuing into the current X254 generation. A newer design that doesn't share the earlier engine's injector seal and timing chain pattern. We service it to the same standard as our other GLC300d rebuilds.",
         "cta": "Check Your OM654 GLC300d",

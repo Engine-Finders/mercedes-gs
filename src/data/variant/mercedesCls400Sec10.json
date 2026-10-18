@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES CLS 400 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m276-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M256",
+        "image": "/engines/m256-engine-hero.webp",
         "codeRest": "(R190, 2023–present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the CLS 400 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 CLS 400",
@@ -68,6 +69,7 @@
     "rows": [
       {
         "generation": "C218",
+        "image": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
         "chassis": "C218/X218",
         "years": "2010–2018",
         "engineCode": "M276",
@@ -76,6 +78,7 @@
       },
       {
         "generation": "C257",
+        "image": "/cars/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
         "chassis": "C257",
         "years": "2018–2023",
         "engineCode": "M276",

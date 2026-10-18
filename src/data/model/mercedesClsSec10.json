@@ -11,6 +11,7 @@
       "number": "01",
       "model": "Mercedes CLS 320",
       "spec": "3.0L–3.5L Petrol or Diesel (M112, M272, OM642)",
+      "image": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
       "href": "/mercedes-cls-320-engines"
     },
     {
@@ -29,18 +30,21 @@
       "number": "04",
       "model": "Mercedes CLS 400",
       "spec": "3.0L–3.5L V6 Petrol (M276)",
+      "image": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
       "href": "/mercedes-cls-400-engines"
     },
     {
       "number": "05",
       "model": "Mercedes CLS 500",
       "spec": "5.5L (M273) / 4.7L (M278) Petrol (M273 (C219) or M278 (C218))",
+      "image": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
       "href": "/mercedes-cls-500-engines"
     },
     {
       "number": "06",
       "model": "Mercedes CLS 63 AMG",
       "spec": "6.2L / 5.5L / 4.0L Petrol / Petrol Twin-Turbo (M156 (C219) · M157 (C218) · M177 (C257))",
+      "image": "/cars/cls-c257-facelift-4-door-coupe-20212023-new-diamond-silver-metallic-ex-9314.webp",
       "href": "/mercedes-cls-63-amg-engines"
     }
   ]

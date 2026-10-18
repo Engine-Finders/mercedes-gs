@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES S580 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m177-m178-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M176",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(W223, 2021–2025)",
         "body": "A 4.0-litre twin-turbo V8 with mild-hybrid assistance, fitted to the S580 from the W223's launch in 2021 until the 2025 model-year. A proven, powerful V8 shared with the Maybach S580 and GLS 580.",
         "cta": "Check Your M176 S580",

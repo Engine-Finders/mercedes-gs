@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES CLS 63 AMG ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m177-m178-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M156",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(C219)",
         "body": "A 6.2-litre naturally aspirated V8 fitted to the CLS 63 AMG from 2004 to 2010 (C219 generation). This was AMG's first entirely in-house developed engine. While the M156 has known characteristics on other AMG models, we haven't independently confirmed a specific pattern for this CLS application — every rebuild is assessed on its own condition rather than assuming a model-wide issue.",
         "cta": "Check Your M156 CLS 63 AMG",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M157",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(C218)",
         "body": "A 5.5-litre twin-turbo V8 fitted from 2010 to 2018 (C218 generation). Known for valve seal and coolant system wear over time — see the callout above. We replace valve seals, coolant components, timing chains and bearings as standard on every M157 rebuild.",
         "cta": "Check Your M157 CLS 63 AMG",
@@ -30,6 +32,7 @@
       },
       {
         "codeHighlight": "M177",
+        "image": "/engines/m177-m178-engine-hero.webp",
         "codeRest": "(C257)",
         "body": "A 4.0-litre twin-turbo V8 fitted from 2018 to 2023 (C257 generation). The final engine used in the CLS 63 AMG before the model was discontinued. Shares the valve seal and coolant system wear pattern of the M157 — see the callout above. We service it to the same standard as the M157.",
         "cta": "Check Your M177 CLS 63 AMG",
@@ -82,6 +85,7 @@
     "rows": [
       {
         "generation": "C219",
+        "image": "/cars/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
         "chassis": "C219",
         "years": "2004–2010",
         "engineCode": "M156",
@@ -90,6 +94,7 @@
       },
       {
         "generation": "C218",
+        "image": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
         "chassis": "C218",
         "years": "2010–2018",
         "engineCode": "M157",
@@ -98,6 +103,7 @@
       },
       {
         "generation": "C257",
+        "image": "/cars/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
         "chassis": "C257",
         "years": "2018–2023",
         "engineCode": "M177",

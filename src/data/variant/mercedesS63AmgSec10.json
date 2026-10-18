@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES S63 AMG ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m177-m178-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M157",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(W221, W222)",
         "body": "A 5.5-litre twin-turbo V8 fitted to the S63 AMG from 2008 to 2020, across two generations. Known for valve seal and coolant system wear over time — see the callout above. We replace these as standard on every M157 rebuild.",
         "cta": "Check Your M157 S63 AMG",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M177",
+        "image": "/engines/m177-m178-engine-hero.webp",
         "codeRest": "(W223)",
         "body": "The current 4.0-litre twin-turbo V8, fitted from 2020. A genuinely different design from the M157, with its own valve seal and coolant wear patterns consistent with the AMG V8 family. We replace these as standard on every M177 rebuild.",
         "cta": "Check Your M177 S63 AMG",

@@ -3,23 +3,29 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,800",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m112-engine-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "OM642",
+      "image": "/engines/om642-engine.webp",
+      "carImage": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
       "generation": "C218 (2010–2018)",
       "price": "£2,800",
       "codeHref": "/mercedes-om642-engine"
     },
     {
       "code": "M112",
+      "image": "/engines/m112-engine-hero.webp",
+      "carImage": "/cars/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
       "generation": "C219 (2004–2010)",
       "price": "£3,200",
       "codeHref": "/mercedes-m112-engine"
     },
     {
       "code": "M272",
+      "image": "/engines/m272-engine-hero.webp",
+      "carImage": "/cars/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
       "generation": "C219 (2004–2010) · C218 (2010–2018)",
       "price": "£3,200",
       "codeHref": "/mercedes-m272-engine"

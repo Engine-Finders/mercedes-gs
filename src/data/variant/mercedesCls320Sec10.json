@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES CLS 320 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m112-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M112",
+        "image": "/engines/m112-engine-hero.webp",
         "codeRest": "",
         "body": "A 3.0-litre or 3.5-litre V6 petrol engine fitted to the earliest C219-generation CLS 320 from 2004 to 2006. No specific known issue has been independently confirmed for this engine in this application. We replace timing chains, bearings and gaskets as standard on every M112 rebuild.",
         "cta": "Check Your M112 CLS 320",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M272",
+        "image": "/engines/m272-engine-hero.webp",
         "codeRest": "",
         "body": "A 3.0-litre or 3.5-litre V6 petrol engine fitted to the CLS 320 from approximately 2006 onwards, across both C219 and C218 generations. No specific known issue has been independently confirmed for this engine in this application. We replace timing chains, bearings and gaskets as standard on every M272 rebuild.",
         "cta": "Check Your M272 CLS 320",
@@ -30,6 +32,7 @@
       },
       {
         "codeHighlight": "OM642",
+        "image": "/engines/om642-engine.webp",
         "codeRest": "",
         "body": "A 3.0-litre V6 diesel engine, badged as the CLS 350d from the C218 generation onward. This engine is known for swirl flap and injector wear — see the callout above. We replace swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
         "cta": "Check Your OM642 CLS 320",
@@ -82,6 +85,7 @@
     "rows": [
       {
         "generation": "C219",
+        "image": "/cars/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
         "chassis": "C219",
         "years": "2004–2010",
         "engineCode": "M112/M272",
@@ -90,6 +94,7 @@
       },
       {
         "generation": "C218",
+        "image": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
         "chassis": "C218",
         "years": "2010–2018",
         "engineCode": "M272",

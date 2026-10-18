@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES GLC43 AMG ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m276-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M276",
+        "image": "/engines/m276-engine-hero.webp",
         "codeRest": "(X253)",
         "body": "A 3.0-litre V6 petrol fitted to the GLC43 AMG from 2015 to 2022 (X253 generation). No specific known issue confirmed for this application. We service it to the same standard as our other GLC43 AMG rebuilds.",
         "cta": "Check Your M276 GLC43 AMG",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M139",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(X254)",
         "body": "A 2.0-litre I4 hybrid petrol fitted to the GLC43 AMG from 2022 to present (X254 generation). This is a notable departure from the older V6, part of a wider AMG shift to hybridised 4-cylinder power. No specific known issue confirmed for this application — it's a newer engine and we treat it as such.",
         "cta": "Check Your M139 GLC43 AMG",

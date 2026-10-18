@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES VITO 119 120 122 123 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m272-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "OM642",
+        "image": "/engines/om642-engine.webp",
         "codeRest": "(W639 Diesel V6)",
         "body": "A 3.0-litre V6 diesel fitted to the Vito 119/120/122/123 across the W639 generation (2003–2014). Known for swirl flap and injector wear over time — see the callout above. We replace both as standard on every OM642 rebuild, along with the timing chain where worn.",
         "cta": "Check Your OM642 Vito 119 120 122 123",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M272",
+        "image": "/engines/m272-engine-hero.webp",
         "codeRest": "(W639 Petrol V6)",
         "body": "A 3.5-litre petrol V6 fitted to the Vito 119/120/122/123 across the W639 generation (2003–2014). We replace timing chains, bearings and gaskets as standard on every M272 rebuild.",
         "cta": "Check Your M272 Vito 119 120 122 123",

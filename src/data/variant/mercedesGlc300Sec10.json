@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES GLC300 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m274-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M274",
+        "image": "/engines/m274-engine-hero.webp",
         "codeRest": "(X253)",
         "body": "A 2.0-litre four-cylinder petrol engine fitted to the GLC300 from 2015 to 2022. No specific known issue has been independently confirmed for this application. We replace timing chain components, bearings and gaskets as standard during a rebuild.",
         "cta": "Check Your M274 GLC300",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M254",
+        "image": "/engines/m254-engine-hero.webp",
         "codeRest": "(X254)",
         "body": "A 2.0-litre four-cylinder petrol engine fitted from 2022, with mild-hybrid technology. As a newer unit, no specific known issues have been independently confirmed for this application. We service it to the same standard as our other four-cylinder petrol rebuilds.",
         "cta": "Check Your M254 GLC300",

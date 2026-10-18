@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES SL320 SL350 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m112-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M112",
+        "image": "/engines/m112-engine-hero.webp",
         "codeRest": "",
         "body": "A 3.0‑litre or 3.2‑litre V6 petrol engine fitted to the R129 generation (1989‑2002) and early R230 models. No specific known issue has been independently confirmed for this engine in SL320/SL350 applications this session. We replace timing chains, bearings and gaskets as standard on every M112 rebuild.",
         "cta": "Check Your M112 SL320 SL350",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M272",
+        "image": "/engines/m272-engine-hero.webp",
         "codeRest": "",
         "body": "A 3.5‑litre V6 petrol engine that replaced the M112 in later R230 and early R231 models. No specific known issue has been independently confirmed for this engine in SL350 applications this session. We replace timing chains, bearings and gaskets as standard on every M272 rebuild.",
         "cta": "Check Your M272 SL320 SL350",
@@ -30,6 +32,7 @@
       },
       {
         "codeHighlight": "M276",
+        "image": "/engines/m276-engine-hero.webp",
         "codeRest": "",
         "body": "A 3.5‑litre V6 petrol engine used in the later R231 generation. No specific known issue has been independently confirmed for this engine in SL350 applications this session. We replace timing chains, bearings and gaskets as standard on every M276 rebuild.",
         "cta": "Check Your M276 SL320 SL350",

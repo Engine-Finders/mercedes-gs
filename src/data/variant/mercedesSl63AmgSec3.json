@@ -3,23 +3,26 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£6,500",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m177-m178-engine-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "M157",
+      "image": "/variant/sec10_engine.webp",
       "generation": "R230 (2006–2012)",
       "price": "£6,500",
       "codeHref": "/mercedes-m157-engine"
     },
     {
       "code": "M157",
+      "image": "/variant/sec10_engine.webp",
       "generation": "R231 (2012–2021)",
       "price": "£6,500",
       "codeHref": "/mercedes-m157-engine"
     },
     {
       "code": "M177",
+      "image": "/engines/m177-m178-engine-hero.webp",
       "generation": "R232 (2021–present)",
       "price": "£6,500",
       "codeHref": "/mercedes-m177-engine"

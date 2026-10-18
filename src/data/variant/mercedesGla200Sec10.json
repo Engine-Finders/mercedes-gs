@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES GLA200 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m270-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M270",
+        "image": "/engines/m270-engine-hero.webp",
         "codeRest": "(X156, pre-facelift)",
         "body": "A 2.0-litre turbocharged petrol four-cylinder fitted to the GLA200 from 2013 to approximately 2017 on the X156 generation. It's part of the same M270 family used across the Mercedes compact range of that era.",
         "cta": "Check Your M270 GLA200",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M282",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(X156, facelift / H247)",
         "body": "A 1.3-litre turbocharged petrol four-cylinder fitted to later X156 GLA200s (roughly 2017–2020) and continuing into the H247 generation from 2020. This is the smaller-capacity unit in the GLA200 range.",
         "cta": "Check Your M282 GLA200",
@@ -30,6 +32,7 @@
       },
       {
         "codeHighlight": "M260",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(H247)",
         "body": "A 2.0-litre turbocharged petrol four-cylinder fitted to the current H247-generation GLA200 from 2020 onwards. It's part of the newer M260 family that replaced the M270 in many Mercedes applications.",
         "cta": "Check Your M260 GLA200",

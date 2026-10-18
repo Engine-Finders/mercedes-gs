@@ -3,11 +3,12 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/om654-engine.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "OM654",
+      "image": "/engines/om654-engine.webp",
       "generation": "W447 (2014–present)",
       "price": "£2,200",
       "codeHref": "/mercedes-om654-engine"

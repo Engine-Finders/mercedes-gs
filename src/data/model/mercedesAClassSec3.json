@@ -9,7 +9,7 @@
     {
       "titlePre": "4-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(OM607/OM640/M270/M282)",
+      "code": "(OM607/OM640/M270/M282)", "image": "/engines/om607-model-hero.webp",
       "price": "£2,200",
       "featured": false,
       "codeHref": "/mercedes-om607-engine"

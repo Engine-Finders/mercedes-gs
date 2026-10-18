@@ -9,7 +9,7 @@
     {
       "titlePre": "4-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(OM651)",
+      "code": "(OM651)", "image": "/engines/om651-engine.webp",
       "price": "£2,200",
       "featured": false,
       "codeHref": "/mercedes-om651-engine"
@@ -17,7 +17,7 @@
     {
       "titlePre": "6-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(M272/M276)",
+      "code": "(M272/M276)", "image": "/engines/m272-engine-hero.webp",
       "price": "£3,200",
       "featured": false,
       "codeHref": "/mercedes-m272-engine"

@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES SL63 AMG ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m177-m178-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M157",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(R230, R231)",
         "body": "A 5.5-litre twin-turbo V8 fitted to the SL63 AMG from 2006 to 2021, across the R230 and R231 generations. Known for valve seal and coolant system wear over time — see the callout above. We replace valve seals, coolant components, timing chains and bearings as standard on every M157 rebuild.",
         "cta": "Check Your M157 SL63 AMG",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M177",
+        "image": "/engines/m177-m178-engine-hero.webp",
         "codeRest": "(R232)",
         "body": "A 4.0-litre twin-turbo V8 fitted to the current R232-generation SL63 AMG from 2021 onwards. The same established AMG V8 pattern applies — valve seal and coolant system wear — and we service it to the same standard as the M157.",
         "cta": "Check Your M177 SL63 AMG",

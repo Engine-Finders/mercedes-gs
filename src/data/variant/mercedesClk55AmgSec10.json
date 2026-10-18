@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES CLK 55 AMG ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m113-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M113",
+        "image": "/engines/m113-engine-hero.webp",
         "codeRest": "(C208)",
         "body": "A 5.5-litre V8 fitted to the CLK 55 AMG from 1997 to 2003 (C208 generation). Known for being a robust engine with no widespread documented issue, it responds well to rebuild work. We replace timing chains, bearings, and gaskets as standard on every M113 rebuild.",
         "cta": "Check Your M113 CLK 55 AMG",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M273",
+        "image": "/engines/m273-engine-hero.webp",
         "codeRest": "(C209)",
         "body": "The later 5.5-litre V8, fitted from 2002 to 2009 (C209 generation). A different design from the M113, with its own set of specifications. We service it to the same standard as the M113, replacing timing chains, bearings, and gaskets on every rebuild.",
         "cta": "Check Your M273 CLK 55 AMG",
@@ -75,6 +77,7 @@
     "rows": [
       {
         "generation": "C208",
+        "image": "/cars/clk-c208-coupe-coupe-19972002-new-moonlight-silver-metallic-first-clk-0d08.webp",
         "chassis": "C208",
         "years": "1997–2003",
         "engineCode": "M113",
@@ -83,6 +86,7 @@
       },
       {
         "generation": "C209",
+        "image": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-clk-c209-dfe7.webp",
         "chassis": "C209",
         "years": "2002–2009",
         "engineCode": "M273",

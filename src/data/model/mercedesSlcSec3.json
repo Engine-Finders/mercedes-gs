@@ -9,7 +9,7 @@
     {
       "titlePre": "4-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(M270/M274)",
+      "code": "(M270/M274)", "image": "/engines/m270-engine-hero.webp",
       "price": "£2,200",
       "featured": false,
       "codeHref": "/mercedes-m270-engine"
@@ -17,7 +17,7 @@
     {
       "titlePre": "6-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(M276, SLC43 AMG)",
+      "code": "(M276, SLC43 AMG)", "image": "/engines/m276-engine-hero.webp",
       "price": "£3,200",
       "featured": true,
       "codeHref": "/mercedes-m276-engine"

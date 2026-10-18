@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES ML500 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m113-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M113",
+        "image": "/engines/m113-engine-hero.webp",
         "codeRest": "(W163)",
         "body": "A 5.0-litre V8 petrol fitted to the ML500 from 1997 to 2005. We replace timing chains, bearings and gaskets as standard on every M113 rebuild.",
         "cta": "Check Your M113 ML500",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M273",
+        "image": "/engines/m273-engine-hero.webp",
         "codeRest": "(W164)",
         "body": "A 5.5-litre V8 petrol fitted to the ML500 from 2005 to 2011. We replace timing chains, bearings and gaskets as standard on every M273 rebuild.",
         "cta": "Check Your M273 ML500",

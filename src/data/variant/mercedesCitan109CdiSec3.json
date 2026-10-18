@@ -3,23 +3,29 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/om607-model-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "K9K",
+      "image": "/variant/sec10_engine.webp",
+      "carImage": "/cars/citan-w415-tourer-mpv-20122021-new-pebble-grey-passenger-body-citan-w4-4723.webp",
       "generation": "W415 (2012–2021)",
       "price": "£2,200",
       "codeHref": "/mercedes-k9k-engine"
     },
     {
       "code": "OM607",
+      "image": "/engines/om607-model-hero.webp",
+      "carImage": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
       "generation": "W420 (2021–present)",
       "price": "£2,200",
       "codeHref": "/mercedes-om607-engine"
     },
     {
       "code": "OM608",
+      "image": "/variant/sec10_engine.webp",
+      "carImage": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
       "generation": "W420 (2021–present)",
       "price": "£2,200",
       "codeHref": "/mercedes-om608-engine"

@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES SLK320 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m112-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M112",
+        "image": "/engines/m112-engine-hero.webp",
         "codeRest": "(R170)",
         "body": "A 3.2-litre V6 petrol fitted to the SLK320 from 1996 to 2004 (R170 generation). A robust, well-regarded engine in its era with no specific known issue independently confirmed for this application. We replace timing chains, bearings and gaskets as standard on every M112 rebuild.",
         "cta": "Check Your M112 SLK320",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M272",
+        "image": "/engines/m272-engine-hero.webp",
         "codeRest": "(R171/R172)",
         "body": "A 3.5-litre V6 petrol fitted to the SLK350 (and related models) from 2004 onwards across the R171 and R172 generations. No specific known issue independently confirmed for this application in this session. We service it to the same standard as our other SLK V6 rebuilds.",
         "cta": "Check Your M272 SLK320",

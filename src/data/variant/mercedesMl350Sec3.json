@@ -3,17 +3,19 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,800",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m112-engine-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "M112",
+      "image": "/engines/m112-engine-hero.webp",
       "generation": "W163 (1997–2005)",
       "price": "£2,800",
       "codeHref": "/mercedes-m112-engine"
     },
     {
       "code": "M272",
+      "image": "/engines/m272-engine-hero.webp",
       "generation": "W164 (2005–2011)",
       "price": "£2,800",
       "codeHref": "/mercedes-m272-engine"

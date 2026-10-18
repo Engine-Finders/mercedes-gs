@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES VITO 115 116 CDI ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om646-model-hero.webp",
     "cards": [
       {
         "codeHighlight": "OM611",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(W639)",
         "body": "A 2.2-litre I4 diesel fitted to the Vito 115/116 CDI during the W639 generation. Older W638 engines used OM601 and OM611 variants but were offered as 108/109/110/111 CDI, not 115/116 CDI.",
         "cta": "Check Your OM611 Vito 115 116 CDI",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "OM646",
+        "image": "/engines/om646-model-hero.webp",
         "codeRest": "(W639)",
         "body": "A 2.2-litre I4 diesel fitted to the Vito 115/116 CDI across the W639 generation. Known for timing chain wear and injector seal leaks — see the callout above. We replace worn timing chains and injector seals as standard on every OM646 rebuild, along with the gaskets.",
         "cta": "Check Your OM646 Vito 115 116 CDI",

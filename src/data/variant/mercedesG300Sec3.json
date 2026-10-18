@@ -3,11 +3,12 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£1,900",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/om606-model-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "OM606",
+      "image": "/engines/om606-model-hero.webp",
       "generation": "W463 (pre-2018)",
       "price": "£1,900",
       "codeHref": "/mercedes-om606-engine"

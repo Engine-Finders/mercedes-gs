@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES SLK55 AMG ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m113-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M113",
+        "image": "/engines/m113-engine-hero.webp",
         "codeRest": "(R171)",
         "body": "A 5.5-litre naturally aspirated V8 fitted to the SLK55 AMG from 2004 to 2011. A well-established AMG V8 of its era. No specific known issue confirmed for this application — we service it to the same standard as our other AMG V8 rebuilds.",
         "cta": "Check Your M113 SLK55 AMG",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M152",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(R172)",
         "body": "A 5.5-litre naturally aspirated V8 fitted to the SLK55 AMG from 2011 to 2016. Shares architecture with the M155 and M157. Known for valve seal and coolant system wear — see the callout above. We replace valve seals and coolant components as standard on every M152 rebuild.",
         "cta": "Check Your M152 SLK55 AMG",

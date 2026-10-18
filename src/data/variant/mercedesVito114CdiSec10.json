@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES VITO 114 CDI ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om651-engine.webp",
     "cards": [
       {
         "codeHighlight": "OM651",
+        "image": "/engines/om651-engine.webp",
         "codeRest": "(W447, 2014–2024)",
         "body": "A 2.0-litre four-cylinder diesel fitted to the Vito 114 CDI from the start of the W447 generation through to the 2024 model year. Known for injector seal leaks and timing chain wear over time — see the callout above. We replace injector seals, timing chain components and gaskets as standard on every OM651 rebuild.",
         "cta": "Check Your OM651 Vito 114 CDI",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "OM654",
+        "image": "/engines/om654-engine.webp",
         "codeRest": "(W447 refresh, 2025–present)",
         "body": "The current 2.0-litre four-cylinder diesel, fitted to the refreshed W447 from 2025 onwards. A newer design from the OM651, with its own characteristics — not independently confirmed for specific wear patterns in this application, but we service it to the same standard as our other Vito rebuilds.",
         "cta": "Check Your OM654 Vito 114 CDI",

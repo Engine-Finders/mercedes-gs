@@ -10,7 +10,7 @@
       "symptom": "Rattling on cold start, rough idle, loss of power",
       "cost": "From £2,200",
       "turnaround": "3-5 working days",
-      "image": "/home/engine_trim.webp",
+      "image": "/engines/om651-engine.webp",
       "href": "/mercedes-om651-engine"
     },
     {
@@ -21,7 +21,7 @@
       "symptom": "Turbo lag, warning lights, oil leaks, injector faults",
       "cost": "From £2,800",
       "turnaround": "3-5 working days",
-      "image": "/home/engine_trim.webp",
+      "image": "/engines/om642-engine.webp",
       "href": "/mercedes-om642-engine"
     },
     {
@@ -32,7 +32,7 @@
       "symptom": "AdBlue faults, EGR issues, DPF problems, loss of power",
       "cost": "From £2,200",
       "turnaround": "3-5 working days",
-      "image": "/home/engine_trim.webp",
+      "image": "/engines/om654-engine.webp",
       "href": "/mercedes-om654-engine"
     },
     {
@@ -43,7 +43,7 @@
       "symptom": "Rattling on cold start, timing issues, oil leaks",
       "cost": "From £2,200",
       "turnaround": "3-5 working days",
-      "image": "/home/engine_trim.webp",
+      "image": "/engines/m274-engine-hero.webp",
       "href": "/mercedes-m274-engine"
     },
     {
@@ -54,7 +54,7 @@
       "symptom": "Oil leaks, balance shaft wear, timing problems",
       "cost": "From £3,200",
       "turnaround": "3-5 working days",
-      "image": "/home/engine_trim.webp",
+      "image": "/engines/m276-engine-hero.webp",
       "href": "/mercedes-m276-engine"
     },
     {
@@ -65,7 +65,7 @@
       "symptom": "Oil leaks, misfires, overheating, turbo issues",
       "cost": "From £6,500",
       "turnaround": "3-5 working days",
-      "image": "/home/engine_trim.webp",
+      "image": "/engines/m177-m178-engine-hero.webp",
       "href": "/mercedes-m177-engine"
     }
   ],

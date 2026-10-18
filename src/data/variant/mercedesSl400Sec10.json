@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES SL400 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m276-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M256",
+        "image": "/engines/m256-engine-hero.webp",
         "codeRest": "(R190, 2023–present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SL400 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 SL400",

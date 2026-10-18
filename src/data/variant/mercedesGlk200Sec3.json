@@ -3,11 +3,12 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m271-engine-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "M271",
+      "image": "/engines/m271-engine-hero.webp",
       "generation": "X204 (2008–2015)",
       "price": "£2,200",
       "codeHref": "/mercedes-m271-engine"

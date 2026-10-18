@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES R500 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m113-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M113",
+        "image": "/engines/m113-engine-hero.webp",
         "codeRest": "",
         "body": "A 5.0-litre V8 petrol engine fitted to the R500 from 2006 to 2013 (W251/V251 generation). It's a proven, durable V8 design shared across multiple Mercedes models of the era. We replace timing chains, bearings and gaskets as standard on every rebuild.",
         "cta": "Check Your M113 R500",

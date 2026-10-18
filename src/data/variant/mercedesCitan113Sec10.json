@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES CITAN 113 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m256-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M256",
+        "image": "/engines/m256-engine-hero.webp",
         "codeRest": "(R190, 2023–present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the CITAN 113 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 CITAN 113",
@@ -68,6 +69,7 @@
     "rows": [
       {
         "generation": "W420",
+        "image": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
         "chassis": "W420",
         "years": "2021–present",
         "engineCode": "M282",

@@ -3,17 +3,21 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£3,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m112-engine-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "M112",
+      "image": "/engines/m112-engine-hero.webp",
+      "carImage": "/cars/clk-c208-coupe-coupe-19972002-new-moonlight-silver-metallic-first-clk-0d08.webp",
       "generation": "C208 (1997–2003)",
       "price": "£3,200",
       "codeHref": "/mercedes-m112-engine"
     },
     {
       "code": "M272",
+      "image": "/engines/m272-engine-hero.webp",
+      "carImage": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-clk-c209-dfe7.webp",
       "generation": "C209 (2002–2009)",
       "price": "£3,200",
       "codeHref": "/mercedes-m272-engine"

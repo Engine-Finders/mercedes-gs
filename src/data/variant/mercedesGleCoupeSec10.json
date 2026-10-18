@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES GLE COUPE ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om642-engine.webp",
     "cards": [
       {
         "codeHighlight": "OM642",
+        "image": "/engines/om642-engine.webp",
         "codeRest": "(V6 Diesel)",
         "body": "A 3.0-litre V6 diesel fitted to the GLE Coupe 300d/350d models. Known for swirl flap and injector wear — see the callout above. We replace worn swirl flaps, injector seals and timing chain components as standard on every OM642 rebuild.",
         "cta": "Check Your OM642 GLE Coupe",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "OM656",
+        "image": "/engines/om656-engine.webp",
         "codeRest": "(I6 Diesel)",
         "body": "A 3.0-litre inline-six diesel fitted to the GLE Coupe 400d. A newer, more recent design with no independently confirmed known issues for this application. We service it to the same standard as our other GLE Coupe rebuilds.",
         "cta": "Check Your OM656 GLE Coupe",
@@ -30,6 +32,7 @@
       },
       {
         "codeHighlight": "M256",
+        "image": "/engines/m256-engine-hero.webp",
         "codeRest": "(I6 Petrol MHEV)",
         "body": "A 3.0-litre inline-six petrol mild hybrid fitted to the GLE450 and GLE53 AMG Coupe models. No independently confirmed known issues for this application.",
         "cta": "Check Your M256 GLE Coupe",
@@ -37,6 +40,7 @@
       },
       {
         "codeHighlight": "M176",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(V8 Petrol Twin-Turbo)",
         "body": "A 4.0-litre V8 twin-turbo fitted to the GLE580 Coupe. Shares the same M176 platform as the S-Class S580, and current research has not independently confirmed known issues specific to this application.",
         "cta": "Check Your M176 GLE Coupe",

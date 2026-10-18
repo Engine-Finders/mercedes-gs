@@ -3,17 +3,19 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£6,500",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m177-m178-engine-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "M177",
+      "image": "/engines/m177-m178-engine-hero.webp",
       "generation": "X253 (2015–2022)",
       "price": "£6,500",
       "codeHref": "/mercedes-m177-engine"
     },
     {
       "code": "M139",
+      "image": "/variant/sec10_engine.webp",
       "generation": "X254 (2022–present)",
       "price": "£[MISSING: pricing tier not established for X254 AMG hybrid]",
       "codeHref": "/mercedes-amg-m139-engine"

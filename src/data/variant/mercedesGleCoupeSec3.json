@@ -3,7 +3,7 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,800",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/om642-engine.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
@@ -14,18 +14,21 @@
     },
     {
       "code": "M256",
+      "image": "/engines/m256-engine-hero.webp",
       "generation": "C167",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"
     },
     {
       "code": "M276",
+      "image": "/engines/m276-engine-hero.webp",
       "generation": "C167",
       "price": "£3,200",
       "codeHref": "/mercedes-m276-engine"
     },
     {
       "code": "M176",
+      "image": "/variant/sec10_engine.webp",
       "generation": "C167",
       "price": "£4,500",
       "codeHref": "/mercedes-m176-engine"

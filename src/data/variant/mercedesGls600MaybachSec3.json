@@ -3,11 +3,12 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£6,500",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m177-m178-engine-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "M177",
+      "image": "/engines/m177-m178-engine-hero.webp",
       "generation": "X167 (2021–present)",
       "price": "£6,500",
       "codeHref": "/mercedes-m177-engine"

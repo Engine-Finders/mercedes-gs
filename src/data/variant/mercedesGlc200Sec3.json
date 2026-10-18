@@ -3,17 +3,19 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m274-engine-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "M274",
+      "image": "/engines/m274-engine-hero.webp",
       "generation": "X253 (2015–2022)",
       "price": "£2,200",
       "codeHref": "/mercedes-m274-engine"
     },
     {
       "code": "M254",
+      "image": "/engines/m254-engine-hero.webp",
       "generation": "X254 (2022–present)",
       "price": "£2,200",
       "codeHref": "/mercedes-m254-engine"

@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES GLS450 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m276-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M276",
+        "image": "/engines/m276-engine-hero.webp",
         "codeRest": "(X166)",
         "body": "A 3.0-litre V6 petrol engine fitted to the GLS450 from 2016 to 2019. No specific known issue confirmed for this application. We replace timing chains, bearings and gaskets as standard on every rebuild.",
         "cta": "Check Your M276 GLS450",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M256",
+        "image": "/engines/m256-engine-hero.webp",
         "codeRest": "(X167)",
         "body": "The current 3.0-litre inline-six petrol mild hybrid engine, fitted from 2019 onwards. A genuinely different design from the M276, with its own specification. No specific known issue confirmed for this application.",
         "cta": "Check Your M256 GLS450",

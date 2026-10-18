@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES SPRINTER 313–319 CDI ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om651-engine.webp",
     "cards": [
       {
         "codeHighlight": "OM651",
+        "image": "/engines/om651-engine.webp",
         "codeRest": "(NCV3, 4-cylinder)",
         "body": "A 2.1-litre four-cylinder diesel fitted to the Sprinter 313–316 CDI from 2006 to 2018. Known for injector seal leaks and timing chain wear — see the callout above. We replace worn timing chain components, injector seals, EGR valves and gaskets as standard on every OM651 rebuild.",
         "cta": "Check Your OM651 Sprinter 313–319 CDI",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "OM642",
+        "image": "/engines/om642-engine.webp",
         "codeRest": "(NCV3, V6)",
         "body": "A 3.0-litre V6 diesel fitted to the Sprinter 318–319 CDI from 2006 to 2018. Known for swirl flap and injector wear over time — see the callout above. We replace worn swirl flaps, injector seals, timing chain components and gaskets as standard on every OM642 rebuild.",
         "cta": "Check Your OM642 Sprinter 313–319 CDI",

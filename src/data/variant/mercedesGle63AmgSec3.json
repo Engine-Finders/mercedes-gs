@@ -3,17 +3,19 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£6,500",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m177-m178-engine-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "M157",
+      "image": "/variant/sec10_engine.webp",
       "generation": "W166 (2015–2019)",
       "price": "£6,500",
       "codeHref": "/mercedes-m157-engine"
     },
     {
       "code": "M177",
+      "image": "/engines/m177-m178-engine-hero.webp",
       "generation": "V167 (2019–present)",
       "price": "£6,500",
       "codeHref": "/mercedes-m177-engine"

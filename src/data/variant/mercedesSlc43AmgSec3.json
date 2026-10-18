@@ -3,11 +3,12 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£3,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m276-engine-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "M276",
+      "image": "/engines/m276-engine-hero.webp",
       "generation": "R172 (2016–2020)",
       "price": "£3,200",
       "codeHref": "/mercedes-m276-engine"

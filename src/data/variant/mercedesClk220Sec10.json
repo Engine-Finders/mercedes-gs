@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES CLK 220 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m271-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M111",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(C208)",
         "body": "A 2.3-litre 4-cylinder petrol engine fitted to the CLK 220 from 1997 to 2003 (C208 generation). No specific known issue has been independently confirmed for this application in this session.",
         "cta": "Check Your M111 CLK 220",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M271",
+        "image": "/engines/m271-engine-hero.webp",
         "codeRest": "(C209)",
         "body": "A 1.8-litre supercharged 4-cylinder petrol engine fitted from 2002 to 2009 (C209 generation). Known for timing chain stretch and balance shaft issues — see the callout above. We replace the timing chain, timing gears and gaskets as standard on every M271 rebuild.",
         "cta": "Check Your M271 CLK 220",
@@ -75,6 +77,7 @@
     "rows": [
       {
         "generation": "C208",
+        "image": "/cars/clk-c208-coupe-coupe-19972002-new-moonlight-silver-metallic-first-clk-0d08.webp",
         "chassis": "C208",
         "years": "1997–2003",
         "engineCode": "M111",
@@ -83,6 +86,7 @@
       },
       {
         "generation": "C209",
+        "image": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-clk-c209-dfe7.webp",
         "chassis": "C209",
         "years": "2002–2009",
         "engineCode": "M271",

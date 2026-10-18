@@ -8,6 +8,7 @@
   "cards": [
     {
       "code": "K9K",
+      "carImage": "/cars/citan-w415-tourer-mpv-20122021-new-pebble-grey-passenger-body-citan-w4-4723.webp",
       "generation": "W415 (2012–2021)",
       "price": "£2,200",
       "codeHref": "/mercedes-k9k-engine"

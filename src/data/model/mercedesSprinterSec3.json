@@ -16,7 +16,7 @@
     {
       "titlePre": "6-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(OM642/OM656)",
+      "code": "(OM642/OM656)", "image": "/engines/om642-engine.webp",
       "price": "£2,800",
       "featured": false,
       "codeHref": "/mercedes-om642-engine"

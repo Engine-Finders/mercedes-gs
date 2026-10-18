@@ -3,11 +3,12 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/om646-model-hero.webp",
   "carImage": "/variant/mercedes_car.webp",
   "cards": [
     {
       "code": "OM646",
+      "image": "/engines/om646-model-hero.webp",
       "generation": "W639 (2003–2014)",
       "price": "£2,200",
       "codeHref": "/mercedes-om646-engine"

@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES V200 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om651-engine.webp",
     "cards": [
       {
         "codeHighlight": "OM651",
+        "image": "/engines/om651-engine.webp",
         "codeRest": "(W447, early production)",
         "body": "A 2.1-litre four-cylinder diesel fitted to the V200 from the start of W447 production through to the 2025 refresh. Known for injector seal leaks and timing chain wear — see the callout above. We replace both as standard on every OM651 rebuild.",
         "cta": "Check Your OM651 V200",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "OM654",
+        "image": "/engines/om654-engine.webp",
         "codeRest": "(W447, 2025 refresh–present)",
         "body": "The current 2.0-litre four-cylinder diesel, fitted from the 2025 refresh onwards. A genuinely different engine from the OM651, sharing no major components with its predecessor. While no specific issue has been independently confirmed for this application in this session, we service it to the same standard as our other V200 rebuilds.",
         "cta": "Check Your OM654 V200",

@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES S350D ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om642-engine.webp",
     "cards": [
       {
         "codeHighlight": "OM642",
+        "image": "/engines/om642-engine.webp",
         "codeRest": "(W221, W222)",
         "body": "A 3.0-litre V6 diesel fitted to the S350d from 2008 to 2020, across two generations. Known for swirl flap and injector wear over time — see the callout above. We replace both as standard on every OM642 rebuild, along with the timing chain where worn.",
         "cta": "Check Your OM642 S350d",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "OM656",
+        "image": "/engines/om656-engine.webp",
         "codeRest": "(W223)",
         "body": "The current 3.0-litre inline-six diesel, fitted from 2020. A genuinely different design from the OM642, with its own occasional injector seal wear at higher mileage but no equivalent to the older engine's well-documented swirl flap pattern.",
         "cta": "Check Your OM656 S350d",

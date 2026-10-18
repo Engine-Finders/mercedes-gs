@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES GLC350E ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m274-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M274",
+        "image": "/engines/m274-engine-hero.webp",
         "codeRest": "(X253)",
         "body": "A 2.0-litre four-cylinder petrol engine fitted to the GLC350e from 2020 to 2022, during the X253 generation. It was paired with a 13.5kWh battery and electric motor as part of the plug-in hybrid system.",
         "cta": "Check Your M274 GLC350e",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M254",
+        "image": "/engines/m254-engine-hero.webp",
         "codeRest": "(X254)",
         "body": "The current 2.0-litre four-cylinder unit fitted to the GLC350e from 2025 onwards in the X254 generation. This is a newer design with mild-hybrid and plug-in hybrid integration, offering improved efficiency and a quoted 54-mile electric-only range.",
         "cta": "Check Your M254 GLC350e",

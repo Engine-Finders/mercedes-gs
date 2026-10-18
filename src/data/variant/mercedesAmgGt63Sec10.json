@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES AMG GT 63 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m177-m178-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M178",
+        "image": "/engines/m177-m178-engine-hero.webp",
         "codeRest": "(R190)",
         "body": "A 4.0-litre V8 biturbo fitted to the AMG GT 63 from 2023 to present. Known for oil leaks from valve covers and coolant system wear over time — see the callout above. We replace valve cover gaskets, coolant components, and bearings as standard on every M178 rebuild.",
         "cta": "Check Your M178 AMG GT 63",

@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES GLE350D ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om642-engine.webp",
     "cards": [
       {
         "codeHighlight": "OM642",
+        "image": "/engines/om642-engine.webp",
         "codeRest": "(W166)",
         "body": "A 3.0-litre V6 diesel fitted to the GLE350d from 2015 to 2019 (W166 generation). Known for swirl flap and injector wear over time — see the callout above. We replace both as standard on every OM642 rebuild, along with the timing chain where worn.",
         "cta": "Check Your OM642 GLE350d",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "OM656",
+        "image": "/engines/om656-engine.webp",
         "codeRest": "(V167)",
         "body": "The current 3.0-litre inline-six diesel, fitted from 2019 onwards (V167 generation). A genuinely different design from the OM642.",
         "cta": "Check Your OM656 GLE350d",

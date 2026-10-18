@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES CLS 500 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m273-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M273",
+        "image": "/engines/m273-engine-hero.webp",
         "codeRest": "(C219, 2004–2010)",
         "body": "A 5.5-litre naturally aspirated V8 fitted to the first-generation CLS 500. No specific known issue has been independently confirmed for this engine in this application.",
         "cta": "Check Your M273 CLS 500",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M278",
+        "image": "/engines/m278-engine-hero.webp",
         "codeRest": "(C218, 2010–2018)",
         "body": "A 4.7-litre twin-turbo V8 fitted to the second-generation CLS 500. No specific known issue has been independently confirmed for this engine in this application.",
         "cta": "Check Your M278 CLS 500",
@@ -75,6 +77,7 @@
     "rows": [
       {
         "generation": "C219",
+        "image": "/cars/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
         "chassis": "C219",
         "years": "2004–2010",
         "engineCode": "M273",
@@ -83,6 +86,7 @@
       },
       {
         "generation": "C218",
+        "image": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
         "chassis": "C218",
         "years": "2010–2018",
         "engineCode": "M278",

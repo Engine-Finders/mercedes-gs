@@ -2,7 +2,7 @@
   "headlinePre": "Your ",
   "headlineHighlight": "Mercedes AMG GT 53",
   "headlinePost": " Engine",
-  "image": "/variant/sec10_engine.webp",
+  "image": "/engines/m256-engine-hero.webp",
   "specs": [
     { "icon": "car", "label": "Vehicle", "value": "Mercedes AMG GT 53" },
     { "icon": "layers", "label": "Model", "value": "AMG GT" },

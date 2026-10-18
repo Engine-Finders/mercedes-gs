@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES VITO 110 111 CDI ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/om646-model-hero.webp",
     "cards": [
       {
         "codeHighlight": "OM601",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(W638)",
         "body": "A 2.2-litre diesel fitted to the Vito 110/111 CDI from 1996 to 2003 (W638). No specific known issue confirmed for this application.",
         "cta": "Check Your OM601 Vito 110 111 CDI",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "OM611",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(W639, early)",
         "body": "A 2.2-litre diesel fitted to the Vito 110/111 CDI from 2003 to 2006 (W639). No specific known issue confirmed for this application.",
         "cta": "Check Your OM611 Vito 110 111 CDI",
@@ -30,6 +32,7 @@
       },
       {
         "codeHighlight": "OM646",
+        "image": "/engines/om646-model-hero.webp",
         "codeRest": "(W639, facelift)",
         "body": "A 2.2-litre diesel fitted to the Vito 110/111 CDI from 2006 to 2014 (W639). Known for timing chain wear and injector seal leaks — see the callout above. We replace timing chain components, injector seals and gaskets as standard on every OM646 rebuild.",
         "cta": "Check Your OM646 Vito 110 111 CDI",

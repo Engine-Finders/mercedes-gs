@@ -9,7 +9,7 @@
     {
       "titlePre": "4-Cylinder Diesel",
       "titleHighlight": "Rebuild",
-      "code": "(OM651/OM654)",
+      "code": "(OM651/OM654)", "image": "/engines/om651-engine.webp",
       "price": "£2,200",
       "featured": false,
       "codeHref": "/mercedes-om651-engine"

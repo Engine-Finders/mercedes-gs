@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES GLA250 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m270-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M270",
+        "image": "/engines/m270-engine-hero.webp",
         "codeRest": "(X156)",
         "body": "A 2.0-litre 4-cylinder petrol fitted to the GLA250 from the start of X156 production. Part of the M270 family shared across the A-Class and B-Class of that era. We replace timing chains, bearings and gaskets as standard on every M270 rebuild.",
         "cta": "Check Your M270 GLA250",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M282",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(X156, H247)",
         "body": "A 1.3-litre 4-cylinder petrol fitted to later X156 models and carried over into the H247 generation. Co-developed with Renault but built to Mercedes specification. We replace timing chains, bearings and gaskets as standard on every M282 rebuild.",
         "cta": "Check Your M282 GLA250",
@@ -30,6 +32,7 @@
       },
       {
         "codeHighlight": "M260",
+        "image": "/variant/sec10_engine.webp",
         "codeRest": "(H247)",
         "body": "A 2.0-litre 4-cylinder petrol fitted to the H247-generation GLA250 from 2020. A more recent unit than the M270, with its own specific service pattern. We rebuild M260 engines to the same standard, replacing timing chains, bearings and gaskets.",
         "cta": "Check Your M260 GLA250",

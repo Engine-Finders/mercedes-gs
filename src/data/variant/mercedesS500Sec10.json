@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "MERCEDES S500 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m278-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "M278",
+        "image": "/engines/m278-engine-hero.webp",
         "codeRest": "(W221, W222)",
         "body": "A 4.7-litre V8 petrol fitted to the S500 from 2008 to 2017, across two generations. Known for timing chain wear and coolant system issues over time — see the callout above. We replace timing chains, valve seals and coolant system components as standard on every M278 rebuild.",
         "cta": "Check Your M278 S500",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "M256",
+        "image": "/engines/m256-engine-hero.webp",
         "codeRest": "(W223)",
         "body": "A 3.0-litre inline-six petrol with mild-hybrid assistance, fitted from 2020. This is a modern, generally reliable engine that doesn't share the same known issues as the older M278 V8.",
         "cta": "Check Your M256 S500",
