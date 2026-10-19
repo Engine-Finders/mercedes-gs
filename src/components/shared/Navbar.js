@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import MercedesLogo from "@/components/reusable/MercedesLogo";
 import Icon from "@/components/reusable/Icon";
 
@@ -12,16 +13,16 @@ export default function Navbar({ data }) {
   return (
     <header className="relative z-50 bg-black text-white">
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-6 px-4 py-4 sm:px-6 lg:px-10">
-        <Link href="/" className="flex shrink-0 items-center gap-3">
-          <MercedesLogo className="h-14 w-14 shrink-0 text-white" />
-          <span>
-            <span className="font-title block text-xl font-extrabold italic leading-none tracking-tight text-white sm:text-2xl">
-              {data.brand}
-            </span>
-            <span className="mt-1 block text-[11px] font-semibold leading-none tracking-[0.12em] text-[var(--color-mb-gold)] sm:text-xs">
-              {data.tagline}
-            </span>
-          </span>
+        <Link href="/" className="flex shrink-0 items-center" aria-label={`${data.brand} — home`}>
+          <Image
+            src="/brand/logo-square.webp"
+            alt={`Mercedes Garage — ${data.tagline}`}
+            width={741}
+            height={204}
+            priority
+            className="h-14 w-auto"
+            sizes="160px"
+          />
         </Link>
 
         {/* desktop nav */}
