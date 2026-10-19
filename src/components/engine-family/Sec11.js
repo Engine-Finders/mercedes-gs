@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import useLeadForm, { LeadStatus } from "@/components/reusable/useLeadForm";
 import MercedesLogo from "@/components/reusable/MercedesLogo";
 import AMGBadge from "@/components/reusable/AMGBadge";
 import MercedesStripe from "@/components/reusable/MercedesStripe";
@@ -52,11 +53,11 @@ function FaqCard({ item, isOpen, onToggle }) {
   );
 }
 
-function Field({ label, placeholder, type = "text", compact = false }) {
+function Field({ name, label, placeholder, type = "text", compact = false }) {
   return (
     <label className="block">
       <span className="text-xs font-bold uppercase tracking-wide text-white">{label}</span>
-      <input
+      <input name={name} required
         type={type}
         placeholder={placeholder}
         className={`w-full rounded-lg border border-white/15 bg-white/5 px-4 text-sm text-white placeholder:text-white/40 outline-none focus:border-hero-blue ${
@@ -79,10 +80,8 @@ export default function Sec11({ data }) {
     });
   }
 
-  function handleSubmit(e) {
-    e.preventDefault();
-    // Lead form — dev to wire up submission endpoint.
-  }
+  const lead = useLeadForm();
+  const handleSubmit = lead.handleSubmit;
 
   return (
     <>
@@ -360,33 +359,37 @@ export default function Sec11({ data }) {
               <div className="mt-1.5 flex h-11 overflow-hidden rounded-lg border border-white/15 bg-white/5">
                 <span className="flex w-12 shrink-0 items-center justify-center bg-hero-blue text-xs font-extrabold text-white">GB</span>
                 <input
-                  type="text"
+                  name="vehicle_vrm" required maxLength={8} type="text"
                   placeholder={quote.fields.reg.placeholder}
                   className="min-w-0 flex-1 bg-transparent px-3 text-sm text-white placeholder:text-white/40 outline-none"
                 />
               </div>
             </label>
-            <Field label={quote.fields.postcode.label} placeholder={quote.fields.postcode.placeholder} compact />
-            <Field label={quote.fields.name.label} placeholder={quote.fields.name.placeholder} compact />
-            <Field label={quote.fields.phone.label} placeholder={quote.fields.phone.placeholder} type="tel" compact />
-            <Field label={quote.fields.email.label} placeholder={quote.fields.email.placeholder} type="email" compact />
+            <Field name="postcode" label={quote.fields.postcode.label} placeholder={quote.fields.postcode.placeholder} compact />
+            <Field name="name" label={quote.fields.name.label} placeholder={quote.fields.name.placeholder} compact />
+            <Field name="number" label={quote.fields.phone.label} placeholder={quote.fields.phone.placeholder} type="tel" compact />
+            <Field name="email" label={quote.fields.email.label} placeholder={quote.fields.email.placeholder} type="email" compact />
             <label className="block">
               <span className="text-xs font-bold uppercase tracking-wide text-white">{quote.fields.enquiry.label}</span>
               <div className="relative mt-1.5">
-                <select className="h-11 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
-                  <option>{quote.fields.enquiry.placeholder}</option>
+                <select name="description" required className="h-11 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
+                  <option value="">{quote.fields.enquiry.placeholder}</option>
+                  {["Engine Failure", "Replacement Needed", "General Enquiry"].map((o) => (
+                    <option key={o} value={o}>{o}</option>
+                  ))}
                 </select>
                 <Icon name="chevron-down" className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-white" />
               </div>
             </label>
 
             <button
-              type="submit"
+              type="submit" disabled={lead.status === "loading"}
               className="mt-2 flex w-full items-center justify-center gap-2 rounded-lg py-3.5 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
               style={{ background: "linear-gradient(135deg, #ad875c 0%, #8c6c46 100%)", boxShadow: "0 8px 20px rgba(173,135,92,0.4)" }}
             >
               {quote.submitLabel} <span aria-hidden>→</span>
             </button>
+<LeadStatus lead={lead} />
           </form>
         </div>
 
@@ -412,33 +415,37 @@ export default function Sec11({ data }) {
                 <div className="mt-2 flex h-12 overflow-hidden rounded-lg border border-white/15 bg-white/5">
                   <span className="flex w-14 shrink-0 items-center justify-center bg-hero-blue text-sm font-extrabold text-white">GB</span>
                   <input
-                    type="text"
+                    name="vehicle_vrm" required maxLength={8} type="text"
                     placeholder={quote.fields.reg.placeholder}
                     className="min-w-0 flex-1 bg-transparent px-3 text-sm text-white placeholder:text-white/40 outline-none"
                   />
                 </div>
               </label>
-              <Field label={quote.fields.postcode.label} placeholder={quote.fields.postcode.placeholder} />
-              <Field label={quote.fields.name.label} placeholder={quote.fields.name.placeholder} />
-              <Field label={quote.fields.phone.label} placeholder={quote.fields.phone.placeholder} type="tel" />
-              <Field label={quote.fields.email.label} placeholder={quote.fields.email.placeholder} type="email" />
+              <Field name="postcode" label={quote.fields.postcode.label} placeholder={quote.fields.postcode.placeholder} />
+              <Field name="name" label={quote.fields.name.label} placeholder={quote.fields.name.placeholder} />
+              <Field name="number" label={quote.fields.phone.label} placeholder={quote.fields.phone.placeholder} type="tel" />
+              <Field name="email" label={quote.fields.email.label} placeholder={quote.fields.email.placeholder} type="email" />
               <label className="block">
                 <span className="text-xs font-bold uppercase tracking-wide text-white">{quote.fields.enquiry.label}</span>
                 <div className="relative mt-2">
-                  <select className="h-12 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
-                    <option>{quote.fields.enquiry.placeholder}</option>
+                  <select name="description" required className="h-12 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
+                    <option value="">{quote.fields.enquiry.placeholder}</option>
+                    {["Engine Failure", "Replacement Needed", "General Enquiry"].map((o) => (
+                      <option key={o} value={o}>{o}</option>
+                    ))}
                   </select>
                   <Icon name="chevron-down" className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-white" />
                 </div>
               </label>
 
               <button
-                type="submit"
+                type="submit" disabled={lead.status === "loading"}
                 className="col-span-2 mt-2 flex items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
                 style={{ background: "linear-gradient(135deg, #ad875c 0%, #8c6c46 100%)", boxShadow: "0 8px 20px rgba(173,135,92,0.4)" }}
               >
                 {quote.submitLabel} <span aria-hidden>→</span>
               </button>
+<LeadStatus lead={lead} />
             </form>
           </div>
         </div>
