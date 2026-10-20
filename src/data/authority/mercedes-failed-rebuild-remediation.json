@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Book an assessment",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Call us now",
@@ -154,27 +154,27 @@
       "heading": "Our remediation process step by step",
       "steps": [
         {
-          "title": "",
+          "title": "Arrival & initial inspection",
           "body": "We receive the vehicle, note any visible issues, and prepare for engine removal."
         },
         {
-          "title": "",
+          "title": "Full strip-down",
           "body": "Engine is removed from the vehicle and completely disassembled on our workbench."
         },
         {
-          "title": "",
+          "title": "Clean & measure every component",
           "body": "All parts are cleaned, then inspected with precision gauges to identify out-of-spec items."
         },
         {
-          "title": "",
+          "title": "Salvage assessment & machining",
           "body": "We decide what can be re-used, what can be re-machined, and what must be replaced."
         },
         {
-          "title": "",
+          "title": "Factory-spec reassembly",
           "body": "Rebuild with new seals, bearings, and correctly torqued fasteners throughout."
         },
         {
-          "title": "",
+          "title": "Vehicle testing & handover",
           "body": "Engine fitted back in the vehicle, fully tested, and ready for collection."
         }
       ]
@@ -210,15 +210,15 @@
       "heading": "How remediation works for you",
       "steps": [
         {
-          "title": "",
+          "title": "Contact us",
           "body": "Call or use our online form. We'll arrange a time to bring your vehicle in for assessment."
         },
         {
-          "title": "",
+          "title": "Full assessment",
           "body": "We strip, clean, measure, and provide a detailed report with a clear path forward."
         },
         {
-          "title": "",
+          "title": "Corrective rebuild",
           "body": "Once approved, we carry out the machining, parts replacement, and factory-spec reassembly."
         }
       ]
@@ -236,7 +236,7 @@
           "items": [
             "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild)",
             "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
-            "[Mercedes-Benz Engine Teardown & Inspection](/mercedes-engine-machining)",
+            "Mercedes-Benz Engine Teardown & Inspection",
             "[Mercedes-Benz Engine Rebuild Process](/mercedes-engine-rebuild-process)",
             "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)"
           ]

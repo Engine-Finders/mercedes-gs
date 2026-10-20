@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -74,29 +74,63 @@
         {
           "t": "modelgroup",
           "model": {
+            "label": "Covered",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Internal engine components**",
+              "href": null,
+              "desc": "pistons, rings, bearings, connecting rods, crankshaft, camshaft, timing chain/belt, valves, valve springs, oil pump, etc."
+            },
+            {
+              "label": "**Assembly faults**",
+              "href": null,
+              "desc": "improper torque, incorrect clearances, or faulty installation of parts."
+            },
+            {
+              "label": "**Materials defects**",
+              "href": null,
+              "desc": "casting flaws, premature wear of new parts due to manufacturing issues."
+            },
+            {
+              "label": "**Labour**",
+              "href": null,
+              "desc": "any work required to rectify a covered fault, including removal and refitting of the engine."
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
             "label": "Not Covered",
             "href": null
           },
           "chips": [
             {
-              "label": "**Misuse or neglect** – running the engine without oil, overheating due to coolant loss, or ignoring warning lights.",
-              "href": null
+              "label": "**Misuse or neglect**",
+              "href": null,
+              "desc": "running the engine without oil, overheating due to coolant loss, or ignoring warning lights."
             },
             {
-              "label": "**Improper maintenance** – failure to service the engine according to manufacturer schedules.",
-              "href": null
+              "label": "**Improper maintenance**",
+              "href": null,
+              "desc": "failure to service the engine according to manufacturer schedules."
             },
             {
-              "label": "**Ancillary components** – alternator, starter motor, air conditioning compressor, fuel injectors (unless part of the rebuild), turbochargers, or engine management electronics.",
-              "href": null
+              "label": "**Ancillary components**",
+              "href": null,
+              "desc": "alternator, starter motor, air conditioning compressor, fuel injectors (unless part of the rebuild), turbochargers, or engine management electronics."
             },
             {
-              "label": "**External damage** – collision, fire, flood, or other physical damage not related to the rebuild work.",
-              "href": null
+              "label": "**External damage**",
+              "href": null,
+              "desc": "collision, fire, flood, or other physical damage not related to the rebuild work."
             },
             {
-              "label": "**Consequential damage** – damage to other vehicle systems resulting from a covered fault (e.g., if a seized engine damages the transmission, that is typically excluded).",
-              "href": null
+              "label": "**Consequential damage**",
+              "href": null,
+              "desc": "damage to other vehicle systems resulting from a covered fault (e.g., if a seized engine damages the transmission, that is typically excluded)."
             }
           ]
         },

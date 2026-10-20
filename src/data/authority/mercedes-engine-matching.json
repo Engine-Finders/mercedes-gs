@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -70,7 +70,7 @@
           "t": "callout",
           "heading": "",
           "paras": [
-            "**Call us on 0203 488 4649** or [Request a Quote Online](/contact)",
+            "**Call us on 0203 488 4649** or [Request a Quote Online](/get-quote)",
             "[Pricing disclaimer](/pricing-legal-disclaimer)"
           ]
         }
@@ -90,6 +90,26 @@
             {
               "label": "A-Class",
               "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "C-Class",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "G-Class",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "Sprinter",
+              "href": "/mercedes-sprinter-engines"
             }
           ]
         },

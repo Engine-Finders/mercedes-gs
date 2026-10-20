@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -63,7 +63,7 @@
         },
         {
           "t": "p",
-          "html": "Read our detailed rebuild blog post →"
+          "html": "[Read our detailed rebuild blog post →](/guides)"
         }
       ]
     },
@@ -83,8 +83,49 @@
           ]
         },
         {
+          "t": "table",
+          "head": [
+            "Engine Type",
+            "Rebuild Starting From"
+          ],
+          "rows": [
+            [
+              "4-Cyl Diesel",
+              "£2,200"
+            ],
+            [
+              "4-Cyl Petrol",
+              "£2,200"
+            ],
+            [
+              "6-Cyl Diesel",
+              "£2,800"
+            ],
+            [
+              "6-Cyl Petrol",
+              "£3,200"
+            ],
+            [
+              "AMG 4-Cyl (M139)",
+              "£3,600"
+            ],
+            [
+              "V8 (non-AMG)",
+              "£4,500"
+            ],
+            [
+              "AMG V8",
+              "£6,500"
+            ],
+            [
+              "V12",
+              "£8,000+"
+            ]
+          ]
+        },
+        {
           "t": "p",
-          "html": "[Get Your Quote](/contact)"
+          "html": "[Get Your Quote](/get-quote)"
         }
       ]
     },
@@ -102,6 +143,34 @@
             {
               "label": "A-Class (W176/W177)",
               "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "C-Class (W204/W205/W206)",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class (W212/W213/W214)",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class (W221/W222/W223)",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "AMG GT (C190/R190)",
+              "href": "/mercedes-amg-gt-engines"
+            },
+            {
+              "label": "GLE-Class (W166/W167)",
+              "href": "/mercedes-gle-class-engines"
+            },
+            {
+              "label": "G-Class (W463/W464)",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "Sprinter (NCV3/VS30)",
+              "href": "/mercedes-sprinter-engines"
             }
           ]
         },
@@ -131,43 +200,43 @@
       "heading": "Our 10-Step Rebuild Process",
       "steps": [
         {
-          "title": "",
+          "title": "Arrival & Diagnosis",
           "body": "Vehicle arrives, we perform a full diagnostic check to confirm the scope of the rebuild."
         },
         {
-          "title": "",
+          "title": "Engine Removal",
           "body": "We safely remove the engine using a hoist, disconnecting all ancillaries and wiring."
         },
         {
-          "title": "",
+          "title": "Full Strip-Down",
           "body": "Engine is completely disassembled – block, crank, rods, head, valvetrain, and all internal parts."
         },
         {
-          "title": "",
+          "title": "Cleaning & Inspection",
           "body": "All components are cleaned and measured. We determine which parts can be reused."
         },
         {
-          "title": "",
+          "title": "Precision Machining",
           "body": "In-house machining: cylinder boring/honing, deck surfacing, crank grinding, align honing."
         },
         {
-          "title": "",
+          "title": "Parts Sourcing",
           "body": "We order all required new components – bearings, seals, rings, timing gear – to OEM quality."
         },
         {
-          "title": "",
+          "title": "Reassembly",
           "body": "Engine is reassembled with new parts, following manufacturer torque sequences and specifications."
         },
         {
-          "title": "",
+          "title": "Final Assembly & Torquing",
           "body": "All fasteners are torqued to exact values, and critical clearances are verified."
         },
         {
-          "title": "",
+          "title": "Engine Testing",
           "body": "Oil pressure, compression, and leak-down tests are performed to confirm performance."
         },
         {
-          "title": "",
+          "title": "Refit & Road Test",
           "body": "Engine is reinstalled, fluids filled, and a full road test ensures everything is perfect."
         }
       ]
@@ -209,23 +278,23 @@
       "heading": "How to Get Your Engine Rebuilt",
       "steps": [
         {
-          "title": "",
+          "title": "Contact Us",
           "body": "Call, email, or use our online form to describe your vehicle and issue."
         },
         {
-          "title": "",
+          "title": "Receive a Quote",
           "body": "We provide a fixed-price quote after a full inspection (or based on your description)."
         },
         {
-          "title": "",
+          "title": "Arrange Collection",
           "body": "We can recover your vehicle nationwide, or you can deliver it to our workshop."
         },
         {
-          "title": "",
+          "title": "Rebuild & Testing",
           "body": "We carry out the full process, keeping you updated throughout."
         },
         {
-          "title": "",
+          "title": "Collection",
           "body": "Collect your Mercedes with a 12-month warranty and enjoy a like-new engine."
         }
       ]
@@ -250,7 +319,7 @@
         },
         {
           "t": "p",
-          "html": "Read our blog: Why we recommend rebuilding over replacing"
+          "html": "Read our blog: [Why we recommend rebuilding over replacing](/guides)"
         }
       ]
     },

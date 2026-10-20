@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -40,7 +40,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "When a Mercedes engine arrives at our workshop with a timing chain failure, we carry out a comprehensive assessment and remediation process. This is not a simple replacement — it requires full disassembly of the upper engine, careful inspection of all internal components, and precise reassembly using correct procedures and specifications.[reference:0]"
+          "html": "When a Mercedes engine arrives at our workshop with a timing chain failure, we carry out a comprehensive assessment and remediation process. This is not a simple replacement — it requires full disassembly of the upper engine, careful inspection of all internal components, and precise reassembly using correct procedures and specifications."
         },
         {
           "t": "p",
@@ -78,6 +78,50 @@
             {
               "label": "A-Class (W176/W177)",
               "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "C-Class (W204/W205/W206)",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "CLA (C117/C118)",
+              "href": "/mercedes-cla-engines"
+            },
+            {
+              "label": "E-Class (W212/W213/W214)",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "G-Class (W463/W464)",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "GLC (X253/X254)",
+              "href": "/mercedes-glc-class-engines"
+            },
+            {
+              "label": "GLE (W166/W167)",
+              "href": "/mercedes-gle-class-engines"
+            },
+            {
+              "label": "S-Class (W221/W222/W223)",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "SL (R230/R231/R232)",
+              "href": "/mercedes-sl-engines"
+            },
+            {
+              "label": "Sprinter (NCV3/VS30)",
+              "href": "/mercedes-sprinter-engines"
+            },
+            {
+              "label": "V-Class (W447)",
+              "href": "/mercedes-v-class-engines"
+            },
+            {
+              "label": "Vito (W639/W447)",
+              "href": "/mercedes-vito-engines"
             }
           ]
         },
@@ -91,6 +135,50 @@
             {
               "label": "M271",
               "href": "/mercedes-m271-engine"
+            },
+            {
+              "label": "M272",
+              "href": "/mercedes-m272-engine"
+            },
+            {
+              "label": "M273",
+              "href": "/mercedes-m273-engine"
+            },
+            {
+              "label": "M276",
+              "href": "/mercedes-m276-engine"
+            },
+            {
+              "label": "M278",
+              "href": "/mercedes-m278-engine"
+            },
+            {
+              "label": "M156",
+              "href": "/mercedes-m156-engine"
+            },
+            {
+              "label": "M157",
+              "href": "/mercedes-m157-engine"
+            },
+            {
+              "label": "M177",
+              "href": "/mercedes-m177-engine"
+            },
+            {
+              "label": "OM651",
+              "href": "/mercedes-om651-engine"
+            },
+            {
+              "label": "OM654",
+              "href": "/mercedes-om654-engine"
+            },
+            {
+              "label": "OM642",
+              "href": "/mercedes-om642-engine"
+            },
+            {
+              "label": "OM656",
+              "href": "/mercedes-om656-engine"
             }
           ]
         },
@@ -103,27 +191,33 @@
           "chips": [
             {
               "label": "C220d",
-              "href": "/mercedes-c-class-engines"
+              "href": "/mercedes-c-class-engines",
+              "desc": "(OM651/OM654)"
             },
             {
               "label": "E220d",
-              "href": "/mercedes-e-class-engines"
+              "href": "/mercedes-e-class-engines",
+              "desc": "(OM651/OM654)"
             },
             {
               "label": "E63 AMG",
-              "href": "/mercedes-e-class-engines"
+              "href": "/mercedes-e-class-engines",
+              "desc": "(M157/M177)"
             },
             {
               "label": "S63 AMG",
-              "href": "/mercedes-s63-amg-engines"
+              "href": "/mercedes-s63-amg-engines",
+              "desc": "(M157/M177)"
             },
             {
               "label": "SLK200",
-              "href": "/mercedes-slk200-engines"
+              "href": "/mercedes-slk200-engines",
+              "desc": "(M271)"
             },
             {
               "label": "CLK350",
-              "href": "/mercedes-clk-350-engines"
+              "href": "/mercedes-clk-350-engines",
+              "desc": "(M272)"
             }
           ]
         }
@@ -135,27 +229,27 @@
       "steps": [
         {
           "title": "Initial Workshop Assessment",
-          "body": "We carry out a full inspection of the engine, including visual checks and diagnostic data review. We provide a written estimate covering parts, labour, and diagnostics before any work begins.[reference:1][reference:2]"
+          "body": "We carry out a full inspection of the engine, including visual checks and diagnostic data review. We provide a written estimate covering parts, labour, and diagnostics before any work begins."
         },
         {
           "title": "Full Engine Strip-Down",
-          "body": "We completely disassemble the upper engine to access the timing chain, guides, tensioners, and sprockets.[reference:3] This involves removing auxiliary belts, the harmonic balancer, and the timing cover.[reference:4]"
+          "body": "We completely disassemble the upper engine to access the timing chain, guides, tensioners, and sprockets. This involves removing auxiliary belts, the harmonic balancer, and the timing cover."
         },
         {
           "title": "Damage Inspection",
-          "body": "We inspect all internal components — cylinder head, valves, pistons, bearings, and the engine block — to determine what is salvageable and what needs replacement.[reference:5]"
+          "body": "We inspect all internal components — cylinder head, valves, pistons, bearings, and the engine block — to determine what is salvageable and what needs replacement."
         },
         {
           "title": "Component Replacement",
-          "body": "We replace the timing chain, guides, tensioners, and any damaged components. Where required, we carry out machining of cylinder walls, crankshaft journals, and head surfaces.[reference:6]"
+          "body": "We replace the timing chain, guides, tensioners, and any damaged components. Where required, we carry out machining of cylinder walls, crankshaft journals, and head surfaces."
         },
         {
           "title": "Rebuild & Timing",
-          "body": "We reassemble the engine using genuine or OEM parts, set timing using factory-level procedures, and verify alignment before final assembly.[reference:7][reference:8]"
+          "body": "We reassemble the engine using genuine or OEM parts, set timing using factory-level procedures, and verify alignment before final assembly."
         },
         {
           "title": "Testing & Verification",
-          "body": "We run the engine through a complete diagnostic sequence, check for correct operation, and road-test the vehicle to confirm the repair.[reference:9][reference:10]"
+          "body": "We run the engine through a complete diagnostic sequence, check for correct operation, and road-test the vehicle to confirm the repair."
         }
       ]
     },
@@ -187,7 +281,7 @@
       "steps": [
         {
           "title": "",
-          "body": "Call or [get a quote online](/contact) – we'll discuss your engine and arrange recovery if needed."
+          "body": "Call or [get a quote online](/get-quote) – we'll discuss your engine and arrange recovery if needed."
         },
         {
           "title": "",
@@ -232,7 +326,7 @@
         },
         {
           "q": "Do you use genuine Mercedes parts?",
-          "a": "We use genuine Mercedes-Benz or OEM-quality parts (chains, tensioners, guides, seals) to ensure reliability and compatibility with your engine.[reference:11]"
+          "a": "We use genuine Mercedes-Benz or OEM-quality parts (chains, tensioners, guides, seals) to ensure reliability and compatibility with your engine."
         },
         {
           "q": "Do I need to bring the car to you, or can you collect it?",
@@ -248,7 +342,7 @@
         },
         {
           "q": "Do you carry out machining work in-house?",
-          "a": "Yes. We carry out cylinder wall honing, crankshaft journal grinding, and head surface machining as part of our rebuild process.[reference:12]"
+          "a": "Yes. We carry out cylinder wall honing, crankshaft journal grinding, and head surface machining as part of our rebuild process."
         }
       ]
     }

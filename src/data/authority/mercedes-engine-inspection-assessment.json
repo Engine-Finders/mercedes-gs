@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -59,7 +59,7 @@
         },
         {
           "t": "p",
-          "html": "Read our full inspection guide →"
+          "html": "[Read our full inspection guide →](/guides)"
         }
       ]
     },
@@ -79,8 +79,49 @@
           ]
         },
         {
+          "t": "table",
+          "head": [
+            "Engine Type",
+            "Rebuild Starting From"
+          ],
+          "rows": [
+            [
+              "4-Cyl Diesel",
+              "£2,200"
+            ],
+            [
+              "4-Cyl Petrol",
+              "£2,200"
+            ],
+            [
+              "6-Cyl Diesel",
+              "£2,800"
+            ],
+            [
+              "6-Cyl Petrol",
+              "£3,200"
+            ],
+            [
+              "AMG 4-Cyl (M139)",
+              "£3,600"
+            ],
+            [
+              "V8 (non-AMG)",
+              "£4,500"
+            ],
+            [
+              "AMG V8",
+              "£6,500"
+            ],
+            [
+              "V12",
+              "£8,000+"
+            ]
+          ]
+        },
+        {
           "t": "p",
-          "html": "[Book an Inspection](/contact)"
+          "html": "[Book an Inspection](/get-quote)"
         }
       ]
     },
@@ -98,6 +139,34 @@
             {
               "label": "A-Class (W176/W177)",
               "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "C-Class (W204/W205/W206)",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class (W212/W213/W214)",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class (W221/W222/W223)",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "AMG GT (C190/R190)",
+              "href": "/mercedes-amg-gt-engines"
+            },
+            {
+              "label": "GLE-Class (W166/W167)",
+              "href": "/mercedes-gle-class-engines"
+            },
+            {
+              "label": "G-Class (W463/W464)",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "Sprinter (NCV3/VS30)",
+              "href": "/mercedes-sprinter-engines"
             }
           ]
         },
@@ -128,27 +197,27 @@
       "heading": "Our Step-by-Step Inspection & Assessment Process",
       "steps": [
         {
-          "title": "",
+          "title": "Arrival & Visual Check",
           "body": "Vehicle arrives at our workshop. We perform a thorough external inspection, document any leaks, overheating signs, or visible damage."
         },
         {
-          "title": "",
+          "title": "Complete Disassembly",
           "body": "Engine is stripped down to its bare components – block, crank, rods, cylinder head, valvetrain, and all ancillary parts."
         },
         {
-          "title": "",
+          "title": "Precision Measurement",
           "body": "All critical dimensions are measured: deck flatness, bore wear, journal taper and ovality, rod straightness and big-end size."
         },
         {
-          "title": "",
+          "title": "Crack Testing & Reusability",
           "body": "Dye-penetrant or magnetic-particle inspection on key components. Each part is assessed against Mercedes factory specifications."
         },
         {
-          "title": "",
+          "title": "Quotation & Repair Plan",
           "body": "We compile all findings into a detailed report. You receive a fixed-price quotation for the required rebuild or replacement."
         },
         {
-          "title": "",
+          "title": "Decision & Next Steps",
           "body": "You approve the plan, and we move forward – either with a rebuild (including in-house machining) or, if needed, a replacement."
         }
       ]
@@ -190,23 +259,23 @@
       "heading": "How to Book an Inspection",
       "steps": [
         {
-          "title": "",
+          "title": "Contact Us",
           "body": "Call, email, or use our online form to arrange an engine assessment."
         },
         {
-          "title": "",
+          "title": "Vehicle Arrival",
           "body": "We can recover your vehicle nationwide, or you can deliver it to our workshop."
         },
         {
-          "title": "",
+          "title": "Assessment & Quote",
           "body": "We carry out the full inspection and provide a detailed quotation within 1–3 days."
         },
         {
-          "title": "",
+          "title": "Decision & Action",
           "body": "You approve the plan, and we proceed with machining, rebuild, or replacement as required."
         },
         {
-          "title": "",
+          "title": "Completion",
           "body": "Your Mercedes is fully rebuilt or replaced, tested, and returned with a 12-month warranty."
         }
       ]
@@ -231,7 +300,7 @@
         },
         {
           "t": "p",
-          "html": "Read our blog: Warning signs worth a second opinion"
+          "html": "Read our blog: [Warning signs worth a second opinion](/guides)"
         }
       ]
     },

@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -81,6 +81,74 @@
             {
               "label": "A-Class (W176/W177)",
               "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "B-Class (W246/W247)",
+              "href": "/mercedes-b-class-engines"
+            },
+            {
+              "label": "C-Class (W204/W205/W206)",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "CLA (C117/C118)",
+              "href": "/mercedes-cla-engines"
+            },
+            {
+              "label": "E-Class (W212/W213/W214)",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "G-Class (W463/W464)",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "GLA (X156/H247)",
+              "href": "/mercedes-gla-class-engines"
+            },
+            {
+              "label": "GLC (X253/X254)",
+              "href": "/mercedes-glc-class-engines"
+            },
+            {
+              "label": "GLE (W166/W167)",
+              "href": "/mercedes-gle-class-engines"
+            },
+            {
+              "label": "GLK (X204)",
+              "href": "/mercedes-glk-class-engines"
+            },
+            {
+              "label": "GLS (X166/X167)",
+              "href": "/mercedes-gls-engines"
+            },
+            {
+              "label": "M-Class (W163/W164/W166)",
+              "href": "/mercedes-m-class-engines"
+            },
+            {
+              "label": "R-Class (W251)",
+              "href": "/mercedes-r-class-engines"
+            },
+            {
+              "label": "S-Class (W221/W222/W223)",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "Sprinter (NCV3/VS30)",
+              "href": "/mercedes-sprinter-engines"
+            },
+            {
+              "label": "V-Class (W447)",
+              "href": "/mercedes-v-class-engines"
+            },
+            {
+              "label": "Viano (W639)",
+              "href": "/mercedes-viano-engines"
+            },
+            {
+              "label": "Vito (W639/W447)",
+              "href": "/mercedes-vito-engines"
             }
           ]
         },
@@ -94,6 +162,26 @@
             {
               "label": "OM640",
               "href": "/mercedes-om640-engine"
+            },
+            {
+              "label": "OM607",
+              "href": "/mercedes-om607-engine"
+            },
+            {
+              "label": "OM608",
+              "href": "/mercedes-om608-engine"
+            },
+            {
+              "label": "OM651",
+              "href": "/mercedes-om651-engine"
+            },
+            {
+              "label": "OM654",
+              "href": "/mercedes-om654-engine"
+            },
+            {
+              "label": "OM642",
+              "href": "/mercedes-om642-engine"
             }
           ]
         },
@@ -106,27 +194,33 @@
           "chips": [
             {
               "label": "A180d",
-              "href": "/mercedes-a-class-engines"
+              "href": "/mercedes-a-class-engines",
+              "desc": "(OM607/OM608)"
             },
             {
               "label": "C220d",
-              "href": "/mercedes-c-class-engines"
+              "href": "/mercedes-c-class-engines",
+              "desc": "(OM651/OM654)"
             },
             {
               "label": "E220d",
-              "href": "/mercedes-e-class-engines"
+              "href": "/mercedes-e-class-engines",
+              "desc": "(OM651/OM654)"
             },
             {
               "label": "GLE300d",
-              "href": "/mercedes-gle300d-engines"
+              "href": "/mercedes-gle300d-engines",
+              "desc": "(OM654)"
             },
             {
               "label": "Sprinter 313–319 CDI",
-              "href": "/mercedes-sprinter-313319-cdi-engines"
+              "href": "/mercedes-sprinter-313319-cdi-engines",
+              "desc": "(OM651/OM642)"
             },
             {
               "label": "V220d",
-              "href": "/mercedes-v220d-engines"
+              "href": "/mercedes-v220d-engines",
+              "desc": "(OM651/OM654)"
             }
           ]
         }
@@ -189,7 +283,7 @@
       "steps": [
         {
           "title": "",
-          "body": "Call or [get a quote online](/contact) – we'll discuss your engine and arrange recovery if needed."
+          "body": "Call or [get a quote online](/get-quote) – we'll discuss your engine and arrange recovery if needed."
         },
         {
           "title": "",

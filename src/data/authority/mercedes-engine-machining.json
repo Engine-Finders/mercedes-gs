@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -58,7 +58,7 @@
         },
         {
           "t": "p",
-          "html": "Read our full machine shop guide →"
+          "html": "[Read our full machine shop guide →](/guides)"
         }
       ]
     },
@@ -78,8 +78,49 @@
           ]
         },
         {
+          "t": "table",
+          "head": [
+            "Engine Type",
+            "Rebuild Starting From"
+          ],
+          "rows": [
+            [
+              "4-Cyl Diesel",
+              "£2,200"
+            ],
+            [
+              "4-Cyl Petrol",
+              "£2,200"
+            ],
+            [
+              "6-Cyl Diesel",
+              "£2,800"
+            ],
+            [
+              "6-Cyl Petrol",
+              "£3,200"
+            ],
+            [
+              "AMG 4-Cyl (M139)",
+              "£3,600"
+            ],
+            [
+              "V8 (non-AMG)",
+              "£4,500"
+            ],
+            [
+              "AMG V8",
+              "£6,500"
+            ],
+            [
+              "V12",
+              "£8,000+"
+            ]
+          ]
+        },
+        {
           "t": "p",
-          "html": "[Get Your Quote](/contact)"
+          "html": "[Get Your Quote](/get-quote)"
         }
       ]
     },
@@ -97,6 +138,34 @@
             {
               "label": "C-Class (W204/W205/W206)",
               "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class (W212/W213/W214)",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class (W221/W222/W223)",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "AMG GT (C190/R190)",
+              "href": "/mercedes-amg-gt-engines"
+            },
+            {
+              "label": "GLE-Class (W166/W167)",
+              "href": "/mercedes-gle-class-engines"
+            },
+            {
+              "label": "G-Class (W463/W464)",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "GLC-Class (X253/X254)",
+              "href": "/mercedes-glc-class-engines"
+            },
+            {
+              "label": "SLK / SLC",
+              "href": "/mercedes-slk-engines"
             }
           ]
         },
@@ -126,27 +195,27 @@
       "heading": "Our Step-by-Step Machining Process",
       "steps": [
         {
-          "title": "",
+          "title": "Inspection & Measurement",
           "body": "Block and crank are thoroughly cleaned and inspected. All critical dimensions are measured with certified tools to determine the required machining operations."
         },
         {
-          "title": "",
+          "title": "Deburring & Preparation",
           "body": "All casting flash and sharp edges are removed using die grinders. This prevents stress risers before precision machining begins."
         },
         {
-          "title": "",
+          "title": "Main Bore Align Honing",
           "body": "The main bearing bores are align-honed to correct any distortion and establish a perfectly straight crankshaft axis."
         },
         {
-          "title": "",
+          "title": "Cylinder Boring & Honing",
           "body": "Bores are bored to the required oversize, then finish-honed using a torque plate to simulate head bolt clamping force."
         },
         {
-          "title": "",
+          "title": "Deck Resurfacing",
           "body": "Block deck is precision-milled to ensure a flat, parallel surface for the head gasket — critical for compression and sealing."
         },
         {
-          "title": "",
+          "title": "Crankshaft Grinding & Polishing",
           "body": "Journals are ground to undersize and micro-polished to a mirror finish, followed by oil-hole chamfering and thorough cleaning."
         }
       ]
@@ -188,23 +257,23 @@
       "heading": "How to Get Your Engine Machined",
       "steps": [
         {
-          "title": "",
+          "title": "Contact Us",
           "body": "Call, email, or use our online form to tell us about your vehicle and engine."
         },
         {
-          "title": "",
+          "title": "Receive a Quote",
           "body": "We provide a fixed-price quote for the full rebuild, including all machining work."
         },
         {
-          "title": "",
+          "title": "Arrange Collection",
           "body": "We can recover your vehicle nationwide, or you can deliver it to our Billericay workshop."
         },
         {
-          "title": "",
+          "title": "Machining & Rebuild",
           "body": "We carry out all machining in-house, followed by full assembly and testing."
         },
         {
-          "title": "",
+          "title": "Collection",
           "body": "Collect your Mercedes with a 12-month warranty on the entire rebuild."
         }
       ]

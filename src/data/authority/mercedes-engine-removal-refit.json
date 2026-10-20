@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Fixed-Price Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -87,12 +87,9 @@
               "href": null
             },
             {
-              "label": "Reconnect all systems – electrical, fuel, coolant, air intake",
-              "href": null
-            },
-            {
-              "label": "exhaust",
-              "href": null
+              "label": "Reconnect all systems",
+              "href": null,
+              "desc": "electrical, fuel, coolant, air intake/exhaust"
             },
             {
               "label": "Reattach transmission and driveline components",
@@ -116,24 +113,29 @@
           },
           "chips": [
             {
-              "label": "**Start-up test** – ensure engine fires and runs smoothly",
-              "href": null
+              "label": "**Start-up test**",
+              "href": null,
+              "desc": "ensure engine fires and runs smoothly"
             },
             {
-              "label": "**Oil pressure and compression tests** – verify within manufacturer specs",
-              "href": null
+              "label": "**Oil pressure and compression tests**",
+              "href": null,
+              "desc": "verify within manufacturer specs"
             },
             {
-              "label": "**Running test** – check under various loads and RPMs",
-              "href": null
+              "label": "**Running test**",
+              "href": null,
+              "desc": "check under various loads and RPMs"
             },
             {
-              "label": "**Road test** – validate performance under real driving conditions",
-              "href": null
+              "label": "**Road test**",
+              "href": null,
+              "desc": "validate performance under real driving conditions"
             },
             {
-              "label": "**Leak check** – inspect for any fluid leaks",
-              "href": null
+              "label": "**Leak check**",
+              "href": null,
+              "desc": "inspect for any fluid leaks"
             }
           ]
         },
@@ -153,6 +155,12 @@
           "paras": [
             "Part of our rebuild or replacement service – from **£2,200**",
             "Removal, refit, and final testing are included in our fixed-price quotes for engine rebuilds and replacements. For standalone removal/refit work (e.g., to replace other components), we provide a separate quote.",
+            {
+              "ul": [
+                "**Typical labour time:** 15-25 workshop hours for removal and refit",
+                "**With full rebuild:** add 10-15 hours (total 25-40 hours)"
+              ]
+            },
             "Every job is quoted individually – contact us for a precise estimate for your vehicle.",
             "[See our pricing disclaimer](/pricing-legal-disclaimer)"
           ]
@@ -168,6 +176,46 @@
           "html": "We perform removal, refit, and testing on virtually every Mercedes-Benz model. Below are some of the most common ones we work on."
         },
         {
+          "t": "table",
+          "head": [
+            "Model",
+            "Engine Families",
+            "Common Variants"
+          ],
+          "rows": [
+            [
+              "[A-Class](/mercedes-a-class-engines)",
+              "[M270](/mercedes-m270-engine), [OM607](/mercedes-om607-engine), [M139](/mercedes-amg-m139-engine)",
+              "[A180d](/mercedes-a-class-engines), [A200](/mercedes-a-class-engines), [A45 AMG](/mercedes-a-class-engines)"
+            ],
+            [
+              "[C-Class](/mercedes-c-class-engines)",
+              "[OM651](/mercedes-om651-engine), [OM654](/mercedes-om654-engine), [M274](/mercedes-m274-engine)",
+              "[C220d](/mercedes-c-class-engines), [C300](/mercedes-c-class-engines), [C63 AMG](/mercedes-c-class-engines)"
+            ],
+            [
+              "[E-Class](/mercedes-e-class-engines)",
+              "[OM642](/mercedes-om642-engine), [OM654](/mercedes-om654-engine), [M276](/mercedes-m276-engine)",
+              "[E220d](/mercedes-e-class-engines), [E350d](/mercedes-e-class-engines), [E63 AMG](/mercedes-e-class-engines)"
+            ],
+            [
+              "[S-Class](/mercedes-s-class-engines)",
+              "[OM642](/mercedes-om642-engine), [M157](/mercedes-m157-engine), [M177](/mercedes-m177-engine)",
+              "[S350d](/mercedes-s350d-engines), [S63 AMG](/mercedes-s63-amg-engines)"
+            ],
+            [
+              "[Sprinter](/mercedes-sprinter-engines)",
+              "[OM651](/mercedes-om651-engine), [OM642](/mercedes-om642-engine)",
+              "[313 CDI](/mercedes-sprinter-313319-cdi-engines), [516 CDI](/mercedes-sprinter-413519-cdi-engines)"
+            ],
+            [
+              "[AMG GT](/mercedes-amg-gt-engines)",
+              "[M178](/mercedes-m178-engine), [M256](/mercedes-m256-engine)",
+              "[GT 63](/mercedes-amg-gt-63-engines), [GT R](/mercedes-amg-gt-r-engines)"
+            ]
+          ]
+        },
+        {
           "t": "p",
           "html": "For a complete list of all models and engine codes, see our [engine rebuild service page](/mercedes-engine-rebuild)."
         }
@@ -178,27 +226,27 @@
       "heading": "Our Removal, Refit & Testing Process",
       "steps": [
         {
-          "title": "",
+          "title": "Vehicle Reception",
           "body": "We receive your vehicle, confirm the work required, and carry out an initial inspection."
         },
         {
-          "title": "",
+          "title": "Engine Removal",
           "body": "We disconnect all systems, drain fluids, and safely lift the engine out using appropriate equipment."
         },
         {
-          "title": "",
+          "title": "Rebuild / Preparation",
           "body": "The engine is either rebuilt (if part of a rebuild service) or the replacement unit is prepared."
         },
         {
-          "title": "",
+          "title": "Engine Refit",
           "body": "We lower the unit into the bay, reconnect all systems, and refill fluids to manufacturer specifications."
         },
         {
-          "title": "",
+          "title": "Start-up & Bench Testing",
           "body": "We perform initial start-up checks, measure oil pressure and compression, and run the engine at various RPMs."
         },
         {
-          "title": "",
+          "title": "Road Test & Final Inspection",
           "body": "We road-test the vehicle to verify real-world performance, check for leaks, and complete a final sign-off."
         }
       ]
@@ -264,7 +312,7 @@
             "[Mercedes Rebuild vs Used Engine](/mercedes-rebuild-vs-used)",
             "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
             "[Mercedes Engine Rebuild Process](/mercedes-engine-rebuild-process)",
-            "[Inside Our Workshop](/about)"
+            "Inside Our Workshop"
           ]
         }
       ]

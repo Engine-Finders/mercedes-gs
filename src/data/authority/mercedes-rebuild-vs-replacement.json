@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -54,28 +54,46 @@
       "blocks": [
         {
           "t": "p",
-          "html": "In the automotive repair industry, the terms are sometimes used interchangeably, but they describe distinct processes[reference:0]."
+          "html": "In the automotive repair industry, the terms are sometimes used interchangeably, but they describe distinct processes."
         },
         {
-          "t": "h3",
-          "text": "Engine Replacement"
+          "t": "modelgroup",
+          "model": {
+            "label": "Engine Rebuild",
+            "href": null
+          },
+          "chips": [],
+          "note": "A **rebuild** means restoring your existing engine to good working condition. The engine is removed from the vehicle, completely disassembled, cleaned, and inspected. Worn or damaged parts are replaced with new or reconditioned components, and the engine is reassembled to factory specifications. The original engine block and cylinder head are retained where they are still usable."
         },
         {
-          "t": "p",
-          "html": "An **engine replacement** involves removing the entire existing engine and installing a different unit in its place[reference:9][reference:10]. The replacement unit can be:"
-        },
-        {
-          "t": "ul",
-          "items": [
-            "**New** – a factory-fresh engine.",
-            "**Remanufactured** – an engine rebuilt to original standards in a factory setting[reference:11].",
-            "**Rebuilt** – an engine that has been reconditioned by a specialist[reference:12].",
-            "**Used** – an engine taken from another vehicle, typically with no inspection or parts replacement[reference:13]."
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Replacement is often the more straightforward option in terms of labour, especially when the original engine is beyond repair[reference:14]."
+          "t": "modelgroup",
+          "model": {
+            "label": "Engine Replacement",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**New**",
+              "href": null,
+              "desc": "a factory-fresh engine."
+            },
+            {
+              "label": "**Remanufactured**",
+              "href": null,
+              "desc": "an engine rebuilt to original standards in a factory setting."
+            },
+            {
+              "label": "**Rebuilt**",
+              "href": null,
+              "desc": "an engine that has been reconditioned by a specialist."
+            },
+            {
+              "label": "**Used**",
+              "href": null,
+              "desc": "an engine taken from another vehicle, typically with no inspection or parts replacement."
+            }
+          ],
+          "note": "An **engine replacement** involves removing the entire existing engine and installing a different unit in its place. The replacement unit can be:"
         },
         {
           "t": "p",
@@ -89,11 +107,11 @@
       "steps": [
         {
           "title": "Rebuild",
-          "body": ""
+          "body": "• **Disassembly:** Engine is removed and completely taken apart. • **Inspection & Machining:** All components are cleaned, inspected, and machined where necessary (e.g., cylinder boring, crankshaft grinding). • **Reassembly:** Worn parts (bearings, pistons, rings, seals, gaskets, timing components) are replaced. The engine is reassembled to factory tolerances. • **Outcome:** The original engine is restored, retaining its original block and identity."
         },
         {
           "title": "Replacement",
-          "body": ""
+          "body": "• **Removal:** The old engine is unbolted, disconnected from all systems, and lifted out. • **Preparation:** Ancillary components (alternator, starter, manifolds, etc.) are transferred to the replacement unit. • **Installation:** The replacement engine is fitted, all systems reconnected, and fluids refilled. • **Outcome:** A different engine is now in the vehicle. The original engine is no longer used."
         }
       ]
     },
@@ -103,7 +121,25 @@
       "blocks": [
         {
           "t": "p",
-          "html": "When advising between a rebuild and a replacement, a workshop evaluates several factors. The right choice depends on the specific circumstances[reference:22][reference:23]."
+          "html": "When advising between a rebuild and a replacement, a workshop evaluates several factors. The right choice depends on the specific circumstances."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Condition of the Existing Engine",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Rebuild favours:** An engine with a sound block and cylinder head, where damage is limited to specific internal components.",
+              "href": null
+            },
+            {
+              "label": "**Replacement favours:** Catastrophic damage such as a cracked block, severely warped head, or extensive internal wear.",
+              "href": null
+            }
+          ],
+          "note": "If the engine has hidden cracks or severe overheating damage, a rebuild can become more costly than anticipated."
         },
         {
           "t": "modelgroup",
@@ -113,18 +149,15 @@
           },
           "chips": [
             {
-              "label": "**Rebuild favours:** A vehicle in otherwise good condition (solid body, good transmission, healthy suspension) where the owner plans to keep it[reference:28][reference:29].",
+              "label": "**Rebuild favours:** A vehicle in otherwise good condition (solid body, good transmission, healthy suspension) where the owner plans to keep it.",
               "href": null
             },
             {
-              "label": "**Replacement favours:** A newer vehicle that justifies the investment in a factory-spec engine[reference:30].",
+              "label": "**Replacement favours:** A newer vehicle that justifies the investment in a factory-spec engine.",
               "href": null
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "If the vehicle has many other expensive problems, investing heavily in the engine may not be the best financial decision[reference:31]."
+          ],
+          "note": "If the vehicle has many other expensive problems, investing heavily in the engine may not be the best financial decision."
         },
         {
           "t": "modelgroup",
@@ -134,18 +167,15 @@
           },
           "chips": [
             {
-              "label": "**Rebuild favours:** When new or remanufactured engines are hard to source, or when the engine is rare or specialty[reference:32].",
+              "label": "**Rebuild favours:** When new or remanufactured engines are hard to source, or when the engine is rare or specialty.",
               "href": null
             },
             {
-              "label": "**Replacement favours:** When replacement units are readily available and offer a more predictable timeline[reference:33].",
+              "label": "**Replacement favours:** When replacement units are readily available and offer a more predictable timeline.",
               "href": null
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Parts availability can significantly influence both cost and turnaround time[reference:34]."
+          ],
+          "note": "Parts availability can significantly influence both cost and turnaround time."
         },
         {
           "t": "modelgroup",
@@ -155,18 +185,15 @@
           },
           "chips": [
             {
-              "label": "**Rebuild:** Typically takes longer due to the disassembly, inspection, machining, and reassembly process[reference:35].",
+              "label": "**Rebuild:** Typically takes longer due to the disassembly, inspection, machining, and reassembly process.",
               "href": null
             },
             {
-              "label": "**Replacement:** Often offers a faster turnaround, especially if a replacement unit is immediately available[reference:36].",
+              "label": "**Replacement:** Often offers a faster turnaround, especially if a replacement unit is immediately available.",
               "href": null
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "If the vehicle is needed back on the road quickly, replacement may be the more practical choice[reference:37]."
+          ],
+          "note": "If the vehicle is needed back on the road quickly, replacement may be the more practical choice."
         },
         {
           "t": "modelgroup",
@@ -176,18 +203,15 @@
           },
           "chips": [
             {
-              "label": "**Rebuild:** Warranty varies; a properly rebuilt engine can last as long as a new one[reference:38].",
+              "label": "**Rebuild:** Warranty varies; a properly rebuilt engine can last as long as a new one.",
               "href": null
             },
             {
-              "label": "**Replacement:** Remanufactured engines often come with attractive warranty coverage[reference:39].",
+              "label": "**Replacement:** Remanufactured engines often come with attractive warranty coverage.",
               "href": null
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Replacement with a remanufactured unit may offer greater peace of mind for long-term ownership[reference:40]."
+          ],
+          "note": "Replacement with a remanufactured unit may offer greater peace of mind for long-term ownership."
         },
         {
           "t": "modelgroup",
@@ -197,8 +221,9 @@
           },
           "chips": [
             {
-              "label": "**Rebuild favours:** Owners who want to retain the vehicle's original, matching-numbers engine — particularly important for classic or collector cars[reference:41][reference:42].",
-              "href": null
+              "label": "**Rebuild favours:** Owners who want to retain the vehicle's original, matching-numbers engine",
+              "href": null,
+              "desc": "particularly important for classic or collector cars."
             },
             {
               "label": "**Replacement:** The original engine is no longer in the vehicle, which can affect value for some models.",
@@ -240,23 +265,23 @@
       "items": [
         {
           "q": "Is an engine rebuild the same as a replacement?",
-          "a": "No. A rebuild restores your existing engine by disassembling, inspecting, and replacing worn parts. A replacement removes your engine and installs a different unit in its place[reference:43]."
+          "a": "No. A rebuild restores your existing engine by disassembling, inspecting, and replacing worn parts. A replacement removes your engine and installs a different unit in its place."
         },
         {
           "q": "How do I know if my engine should be rebuilt or replaced?",
-          "a": "The decision depends on the extent of the damage, the condition of the rest of the vehicle, parts availability, your timeframe, and how long you plan to keep the car[reference:44][reference:45]. A professional inspection is essential to determine the best path."
+          "a": "The decision depends on the extent of the damage, the condition of the rest of the vehicle, parts availability, your timeframe, and how long you plan to keep the car. A professional inspection is essential to determine the best path."
         },
         {
           "q": "What does a full engine rebuild involve?",
-          "a": "A full rebuild involves complete disassembly, cleaning, inspection, machining of components (e.g., cylinder boring, crankshaft grinding), and reassembly with new bearings, pistons, rings, seals, gaskets, and timing components[reference:46]."
+          "a": "A full rebuild involves complete disassembly, cleaning, inspection, machining of components (e.g., cylinder boring, crankshaft grinding), and reassembly with new bearings, pistons, rings, seals, gaskets, and timing components."
         },
         {
           "q": "What are the different types of replacement engines?",
-          "a": "Replacement engines can be **new** (factory-fresh), **remanufactured** (rebuilt to factory standards in a factory setting), **rebuilt** (reconditioned by a specialist), or **used** (taken from another vehicle with no guarantee of condition)[reference:47][reference:48]."
+          "a": "Replacement engines can be **new** (factory-fresh), **remanufactured** (rebuilt to factory standards in a factory setting), **rebuilt** (reconditioned by a specialist), or **used** (taken from another vehicle with no guarantee of condition)."
         },
         {
           "q": "Does a rebuild or replacement come with a warranty?",
-          "a": "Warranty coverage varies. A properly rebuilt engine can come with a warranty (e.g., 12 months/unlimited mileage at our workshop). Remanufactured engines often offer longer warranties, while used engines typically come with little or no warranty[reference:49][reference:50]."
+          "a": "Warranty coverage varies. A properly rebuilt engine can come with a warranty (e.g., 12 months/unlimited mileage at our workshop). Remanufactured engines often offer longer warranties, while used engines typically come with little or no warranty."
         }
       ]
     }

@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Request a Fleet Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     }
   ],
   "images": [
@@ -39,16 +39,40 @@
           "html": "Retail and fleet engine services share the same technical excellence, but fleet operators have distinct needs. We tailor our approach to meet the specific demands of commercial vehicle operations."
         },
         {
-          "t": "p",
-          "html": "Every day your vehicle is off the road costs money. We prioritise fleet bookings with fast-tracked assessments, expedited parts sourcing, and dedicated technicians to minimise disruption."
+          "t": "modelgroup",
+          "model": {
+            "label": "Volume & Frequency",
+            "href": null
+          },
+          "chips": [],
+          "note": "We handle multiple vehicles, from small fleets of 5 to large mixed fleets of 50+ vans and trucks. Our workshop capacity is planned to accommodate batch jobs without compromising quality."
         },
         {
-          "t": "p",
-          "html": "We offer fixed-price quotes per vehicle, volume pricing agreements, and clear delivery schedules. No hidden costs – just transparent, predictable budgeting for your fleet operations."
+          "t": "modelgroup",
+          "model": {
+            "label": "Downtime Sensitivity",
+            "href": null
+          },
+          "chips": [],
+          "note": "Every day your vehicle is off the road costs money. We prioritise fleet bookings with fast-tracked assessments, expedited parts sourcing, and dedicated technicians to minimise disruption."
         },
         {
-          "t": "p",
-          "html": "We build lasting relationships based on consistent quality, clear communication, and proactive support. Our fleet clients benefit from priority service and customised reporting."
+          "t": "modelgroup",
+          "model": {
+            "label": "Budget Predictability",
+            "href": null
+          },
+          "chips": [],
+          "note": "We offer fixed-price quotes per vehicle, volume pricing agreements, and clear delivery schedules. No hidden costs – just transparent, predictable budgeting for your fleet operations."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Long-Term Partnerships",
+            "href": null
+          },
+          "chips": [],
+          "note": "We build lasting relationships based on consistent quality, clear communication, and proactive support. Our fleet clients benefit from priority service and customised reporting."
         },
         {
           "t": "p",
@@ -112,6 +136,54 @@
             {
               "label": "2023+",
               "href": "/mercedes-sprinter-2023-standard-output-engines"
+            },
+            {
+              "label": "Vito",
+              "href": "/mercedes-vito-engines"
+            },
+            {
+              "label": "110/111 CDI",
+              "href": "/mercedes-vito-110-111-cdi-engines"
+            },
+            {
+              "label": "114 CDI",
+              "href": "/mercedes-vito-114-cdi-engines"
+            },
+            {
+              "label": "116-124 CDI",
+              "href": "/mercedes-vito-engines"
+            },
+            {
+              "label": "V-Class",
+              "href": "/mercedes-v-class-engines"
+            },
+            {
+              "label": "V220d",
+              "href": "/mercedes-v220d-engines"
+            },
+            {
+              "label": "V250/V250d",
+              "href": "/mercedes-v250-v250d-engines"
+            },
+            {
+              "label": "V300d",
+              "href": "/mercedes-v300d-engines"
+            },
+            {
+              "label": "Citan",
+              "href": "/mercedes-citan-engines"
+            },
+            {
+              "label": "109 CDI",
+              "href": "/mercedes-citan-109-cdi-engines"
+            },
+            {
+              "label": "110 CDI",
+              "href": "/mercedes-citan-110-cdi-engines"
+            },
+            {
+              "label": "111 CDI",
+              "href": "/mercedes-citan-111-cdi-engines"
             }
           ]
         },

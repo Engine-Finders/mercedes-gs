@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -82,8 +82,49 @@
           ]
         },
         {
+          "t": "table",
+          "head": [
+            "Engine Type",
+            "Rebuild Starting From"
+          ],
+          "rows": [
+            [
+              "4-Cyl Diesel",
+              "£2,200"
+            ],
+            [
+              "4-Cyl Petrol",
+              "£2,200"
+            ],
+            [
+              "6-Cyl Diesel",
+              "£2,800"
+            ],
+            [
+              "6-Cyl Petrol",
+              "£3,200"
+            ],
+            [
+              "AMG 4-Cyl (M139)",
+              "£3,600"
+            ],
+            [
+              "V8 (non-AMG)",
+              "£4,500"
+            ],
+            [
+              "AMG V8",
+              "£6,500"
+            ],
+            [
+              "V12",
+              "£8,000+"
+            ]
+          ]
+        },
+        {
           "t": "p",
-          "html": "[Get Your Quote](/contact)"
+          "html": "[Get Your Quote](/get-quote)"
         }
       ]
     },
@@ -101,6 +142,34 @@
             {
               "label": "A-Class (W176/W177)",
               "href": "/mercedes-a-class-engines"
+            },
+            {
+              "label": "C-Class (W204/W205/W206)",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class (W212/W213/W214)",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class (W221/W222/W223)",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "GLC-Class (X253/X254)",
+              "href": "/mercedes-glc-class-engines"
+            },
+            {
+              "label": "GLE-Class (W166/W167)",
+              "href": "/mercedes-gle-class-engines"
+            },
+            {
+              "label": "G-Class (W463/W464)",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "AMG GT",
+              "href": "/mercedes-amg-gt-engines"
             }
           ]
         },
@@ -129,27 +198,27 @@
       "heading": "Our Step-by-Step Engine Replacement Process",
       "steps": [
         {
-          "title": "",
+          "title": "Initial Assessment",
           "body": "We inspect your vehicle to confirm the engine specification and document all connections."
         },
         {
-          "title": "",
+          "title": "Preparation & Removal",
           "body": "Drain fluids, disconnect ancillaries, and carefully remove the old engine using a hoist."
         },
         {
-          "title": "",
+          "title": "Replacement Unit Prep",
           "body": "Transfer required components, install new seals and gaskets, and verify compatibility."
         },
         {
-          "title": "",
+          "title": "Installation",
           "body": "Lower the replacement engine into place, secure mounts, and reconnect all systems."
         },
         {
-          "title": "",
+          "title": "Fluids & Programming",
           "body": "Fill with correct fluids and perform ECU adaptation using Xentry diagnostic tools."
         },
         {
-          "title": "",
+          "title": "Testing & Handover",
           "body": "Conduct thorough leak checks, road testing, and final quality control before collection."
         }
       ]
@@ -181,23 +250,23 @@
       "heading": "How to Get Your Engine Replaced",
       "steps": [
         {
-          "title": "",
+          "title": "Contact Us",
           "body": "Call, email, or use our online form to describe your vehicle and requirement."
         },
         {
-          "title": "",
+          "title": "Receive a Quote",
           "body": "We'll provide a fixed-price quote within 30 minutes during working hours."
         },
         {
-          "title": "",
+          "title": "Arrange Collection",
           "body": "We can recover your vehicle nationwide, or you can deliver to our workshop."
         },
         {
-          "title": "",
+          "title": "Replacement & Testing",
           "body": "We carry out the work and test thoroughly before handover."
         },
         {
-          "title": "",
+          "title": "Collection",
           "body": "Collect your Mercedes with a 12-month warranty on the work."
         }
       ]

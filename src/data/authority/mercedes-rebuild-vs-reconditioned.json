@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -79,6 +79,56 @@
         {
           "t": "p",
           "html": "At **Mercedes Garage**, we only perform full rebuilds – we don't offer “reconditioning” as a shortcut. We believe your Mercedes deserves the thorough, documented approach that a rebuild provides."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Key Differences at a Glance",
+      "blocks": [
+        {
+          "t": "table",
+          "head": [
+            "Aspect",
+            "Reconditioned",
+            "Full Rebuild"
+          ],
+          "rows": [
+            [
+              "**Disassembly**",
+              "Partial – only what's needed",
+              "Complete – every component stripped"
+            ],
+            [
+              "**Parts Replacement**",
+              "Only visibly damaged items; may reuse old parts",
+              "All wear parts replaced with new OE-spec components"
+            ],
+            [
+              "**Quality Control**",
+              "Varies – often no documented standards",
+              "Systematic inspections, measured tolerances, and testing"
+            ],
+            [
+              "**Warranty**",
+              "Often limited or short-term",
+              "**12 months, unlimited mileage** (as standard on our rebuilds)"
+            ],
+            [
+              "**Typical Cost**",
+              "Lower upfront – but may hide future issues",
+              "Higher initial investment – but long-term peace of mind"
+            ],
+            [
+              "**Best For**",
+              "Low-value vehicles or short-term use",
+              "Any Mercedes you want to keep reliable for years"
+            ]
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Full pricing disclaimer →](/pricing-legal-disclaimer)"
         }
       ]
     },
@@ -228,27 +278,27 @@
       "heading": "Our Full Rebuild Process – The Thorough Approach",
       "steps": [
         {
-          "title": "",
+          "title": "Inspection & Assessment",
           "body": "We perform a comprehensive inspection, including leak-down and compression tests, and a full strip-down to evaluate every component."
         },
         {
-          "title": "",
+          "title": "Full Disassembly",
           "body": "Every part is removed, cleaned, and measured against factory tolerances. We identify all wear items that need replacement."
         },
         {
-          "title": "",
+          "title": "Parts Replacement",
           "body": "We install new OEM-spec timing chains, bearings, seals, gaskets, valve train components, and any other worn parts. No used or reconditioned wear parts are used."
         },
         {
-          "title": "",
+          "title": "Reassembly & Machining",
           "body": "Engine block and cylinder heads are machined as needed. We rebuild the short block and cylinder heads with new components, following factory torque sequences."
         },
         {
-          "title": "",
+          "title": "Testing & Adaptation",
           "body": "We run the engine on a test stand, check for leaks and correct operation, and use Mercedes-Star Diagnostic (Xentry) to clear codes and run adaptations."
         },
         {
-          "title": "",
+          "title": "Final Road Test",
           "body": "Every rebuild is road-tested in the vehicle (or on our dynamometer) to ensure full performance before handover."
         }
       ]
@@ -275,19 +325,19 @@
       "heading": "How to Decide Between Reconditioning and a Full Rebuild",
       "steps": [
         {
-          "title": "",
+          "title": "1. Assess the vehicle's value and your plans",
           "body": "If it's a low-value daily driver you only need for a short time, reconditioning might seem cheaper – but be aware of the risks. For a car you plan to keep, a rebuild is the better long-term investment."
         },
         {
-          "title": "",
+          "title": "2. Understand what's actually included",
           "body": "Always ask for a detailed scope of work. “Reconditioned” can mean anything from a clean-up to a partial rebuild – get it in writing. We provide a full breakdown of every part replaced in a rebuild."
         },
         {
-          "title": "",
+          "title": "3. Consider the warranty",
           "body": "Recon work often comes with a short or limited warranty. Our full rebuilds include a 12-month unlimited-mileage warranty – that's real peace of mind."
         },
         {
-          "title": "",
+          "title": "4. Choose the workshop carefully",
           "body": "Not all rebuilds are equal. Choose a specialist that follows manufacturer procedures, uses quality parts, and provides documentation. That's exactly what we do."
         }
       ]

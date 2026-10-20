@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -179,12 +179,12 @@
           "html": "Both rebuild and remanufacture options are available across the full Mercedes range. Click any model or engine family to see detailed information."
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "A-Class",
-              "href": "/mercedes-a-class-engines"
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "A-Class",
+            "href": "/mercedes-a-class-engines"
+          },
+          "chips": [
             {
               "label": "A180d",
               "href": "/mercedes-a-class-engines"
@@ -196,20 +196,9 @@
             {
               "label": "A45 AMG",
               "href": "/mercedes-a-class-engines"
-            },
-            {
-              "label": "OM607",
-              "href": "/mercedes-om607-engine"
-            },
-            {
-              "label": "M270",
-              "href": "/mercedes-m270-engine"
-            },
-            {
-              "label": "M139",
-              "href": null
             }
-          ]
+          ],
+          "note": "Engines: [OM607](/mercedes-om607-engine), [M270](/mercedes-m270-engine), [M139](/mercedes-amg-m139-engine)"
         },
         {
           "t": "modelgroup",
@@ -230,11 +219,8 @@
               "label": "C63 AMG",
               "href": "/mercedes-c-class-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Engines: [OM651](/mercedes-om651-engine), [OM654](/mercedes-om654-engine), [M274](/mercedes-m274-engine), [M156](/mercedes-m156-engine)"
+          ],
+          "note": "Engines: [OM651](/mercedes-om651-engine), [OM654](/mercedes-om654-engine), [M274](/mercedes-m274-engine), [M156](/mercedes-m156-engine)"
         },
         {
           "t": "modelgroup",
@@ -255,11 +241,8 @@
               "label": "E63 AMG",
               "href": "/mercedes-e-class-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Engines: [OM642](/mercedes-om642-engine), [OM656](/mercedes-om656-engine), [M256](/mercedes-m256-engine), [M157](/mercedes-m157-engine)"
+          ],
+          "note": "Engines: [OM642](/mercedes-om642-engine), [OM656](/mercedes-om656-engine), [M256](/mercedes-m256-engine), [M157](/mercedes-m157-engine)"
         },
         {
           "t": "modelgroup",
@@ -280,11 +263,8 @@
               "label": "S63 AMG",
               "href": "/mercedes-s63-amg-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Engines: [OM642](/mercedes-om642-engine), [M276](/mercedes-m276-engine), [M177](/mercedes-m177-engine)"
+          ],
+          "note": "Engines: [OM642](/mercedes-om642-engine), [M276](/mercedes-m276-engine), [M177](/mercedes-m177-engine)"
         },
         {
           "t": "modelgroup",
@@ -301,11 +281,8 @@
               "label": "G63 AMG",
               "href": "/mercedes-g-class-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Engines: [OM642](/mercedes-om642-engine), [M177](/mercedes-m177-engine)"
+          ],
+          "note": "Engines: [OM642](/mercedes-om642-engine), [M177](/mercedes-m177-engine)"
         },
         {
           "t": "modelgroup",
@@ -316,17 +293,14 @@
           "chips": [
             {
               "label": "SL500",
-              "href": "/mercedes-sl-engines"
+              "href": "/mercedes-sl500-sl550-engines"
             },
             {
               "label": "SL63 AMG",
               "href": "/mercedes-sl63-amg-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Engines: [M278](/mercedes-m278-engine), [M157](/mercedes-m157-engine)"
+          ],
+          "note": "Engines: [M278](/mercedes-m278-engine), [M157](/mercedes-m157-engine)"
         },
         {
           "t": "p",

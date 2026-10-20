@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Fixed-Price Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -121,6 +121,46 @@
           "html": "The OM654 is a 2.0-litre diesel four-cylinder found in many Mercedes-Benz models from 2017 onward. We repair the coolant system on all of them."
         },
         {
+          "t": "table",
+          "head": [
+            "Model",
+            "Variants",
+            "Engine Code"
+          ],
+          "rows": [
+            [
+              "[C-Class (W205/W206)](/mercedes-c-class-engines)",
+              "[C220d](/mercedes-c-class-engines), [C300d](/mercedes-c-class-engines)",
+              "[OM654](/mercedes-om654-engine)"
+            ],
+            [
+              "[E-Class (W213/W214)](/mercedes-e-class-engines)",
+              "[E220d](/mercedes-e-class-engines), [E300d](/mercedes-e-class-engines)",
+              "[OM654](/mercedes-om654-engine)"
+            ],
+            [
+              "[GLC-Class (X253/X254)](/mercedes-glc-class-engines)",
+              "[GLC220d](/mercedes-glc220d-engines), [GLC300d](/mercedes-glc300d-engines)",
+              "[OM654](/mercedes-om654-engine)"
+            ],
+            [
+              "[Sprinter (VS30)](/mercedes-sprinter-engines)",
+              "[313 CDI, 316 CDI](/mercedes-sprinter-313319-cdi-engines)",
+              "[OM654](/mercedes-om654-engine)"
+            ],
+            [
+              "[V-Class (W447)](/mercedes-v-class-engines)",
+              "[V220d](/mercedes-v220d-engines), [V300d](/mercedes-v300d-engines)",
+              "[OM654](/mercedes-om654-engine)"
+            ],
+            [
+              "[Vito (W447)](/mercedes-vito-engines)",
+              "[114 CDI](/mercedes-vito-114-cdi-engines), [116-124 CDI](/mercedes-vito-engines)",
+              "[OM654](/mercedes-om654-engine)"
+            ]
+          ]
+        },
+        {
           "t": "p",
           "html": "For a full list of all OM654 variants, visit our [OM654 engine family page](/mercedes-om654-engine)."
         }
@@ -131,27 +171,27 @@
       "heading": "Our Coolant System Repair Process",
       "steps": [
         {
-          "title": "",
+          "title": "Initial Assessment",
           "body": "We inspect the cooling system, check for leaks, and confirm recall status. We identify if secondary damage (e.g., vacuum pump contamination) is present."
         },
         {
-          "title": "",
+          "title": "Access & Removal",
           "body": "We remove the intake manifold to access the coolant pump. In cases requiring engine removal, we carefully extract the unit."
         },
         {
-          "title": "",
+          "title": "Component Replacement",
           "body": "We replace the coolant pump, switching valve, or any contaminated vacuum components with genuine or OEM-spec parts."
         },
         {
-          "title": "",
+          "title": "Reassembly & Refill",
           "body": "We reassemble all components, refill with the correct coolant, and bleed the system to remove air."
         },
         {
-          "title": "",
+          "title": "Testing & Diagnostics",
           "body": "We pressure-test the system, run diagnostics, and apply any required software updates. The engine is run to confirm stable temperatures."
         },
         {
-          "title": "",
+          "title": "Road Test & Handover",
           "body": "We road-test the vehicle to verify performance, then provide a full report and warranty documentation."
         }
       ]

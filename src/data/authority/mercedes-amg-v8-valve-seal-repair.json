@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -81,12 +81,12 @@
           "html": "Our AMG V8 valve-seal and coolant repair covers the following engine codes and the Mercedes-Benz models they power."
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "AMG GT",
-              "href": "/mercedes-amg-gt-engines"
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "AMG GT",
+            "href": "/mercedes-amg-gt-engines"
+          },
+          "chips": [
             {
               "label": "AMG GT",
               "href": "/mercedes-amg-gt-engines"
@@ -111,163 +111,278 @@
               "label": "M177",
               "href": "/mercedes-m177-engine"
             }
-          ]
+          ],
+          "note": "[AMG GT](/mercedes-amg-gt-engines), [GT S](/mercedes-amg-gt-s-engines), [GT C](/mercedes-amg-gt-c-engines), [GT R](/mercedes-amg-gt-r-engines)"
         },
         {
-          "t": "h3",
-          "text": "[C-Class](/mercedes-c-class-engines)"
+          "t": "modelgroup",
+          "model": {
+            "label": "C-Class",
+            "href": "/mercedes-c-class-engines"
+          },
+          "chips": [
+            {
+              "label": "C63 AMG",
+              "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "M156",
+              "href": "/mercedes-m156-engine"
+            },
+            {
+              "label": "M177",
+              "href": "/mercedes-m177-engine"
+            }
+          ],
+          "note": "[C63 AMG](/mercedes-c-class-engines) (W204, W205)"
         },
         {
-          "t": "p",
-          "html": "[C63 AMG](/mercedes-c-class-engines) (W204, W205)"
+          "t": "modelgroup",
+          "model": {
+            "label": "E-Class",
+            "href": "/mercedes-e-class-engines"
+          },
+          "chips": [
+            {
+              "label": "E63 AMG",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "M157",
+              "href": "/mercedes-m157-engine"
+            },
+            {
+              "label": "M177",
+              "href": "/mercedes-m177-engine"
+            }
+          ],
+          "note": "[E63 AMG](/mercedes-e-class-engines) (W212, W213)"
         },
         {
-          "t": "p",
-          "html": "[M156](/mercedes-m156-engine), [M177](/mercedes-m177-engine)"
+          "t": "modelgroup",
+          "model": {
+            "label": "G-Class",
+            "href": "/mercedes-g-class-engines"
+          },
+          "chips": [
+            {
+              "label": "G63 AMG",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "M177",
+              "href": "/mercedes-m177-engine"
+            }
+          ],
+          "note": "[G63 AMG](/mercedes-g-class-engines)"
         },
         {
-          "t": "h3",
-          "text": "[E-Class](/mercedes-e-class-engines)"
+          "t": "modelgroup",
+          "model": {
+            "label": "GLC-Class",
+            "href": "/mercedes-glc-class-engines"
+          },
+          "chips": [
+            {
+              "label": "GLC63 AMG",
+              "href": "/mercedes-glc63-amg-engines"
+            },
+            {
+              "label": "M177",
+              "href": "/mercedes-m177-engine"
+            }
+          ],
+          "note": "[GLC63 AMG](/mercedes-glc63-amg-engines)"
         },
         {
-          "t": "p",
-          "html": "[E63 AMG](/mercedes-e-class-engines) (W212, W213)"
+          "t": "modelgroup",
+          "model": {
+            "label": "GLE-Class",
+            "href": "/mercedes-gle-class-engines"
+          },
+          "chips": [
+            {
+              "label": "GLE63 AMG",
+              "href": "/mercedes-gle63-amg-engines"
+            },
+            {
+              "label": "M177",
+              "href": "/mercedes-m177-engine"
+            },
+            {
+              "label": "M178",
+              "href": "/mercedes-m178-engine"
+            }
+          ],
+          "note": "[GLE63 AMG](/mercedes-gle63-amg-engines)"
         },
         {
-          "t": "p",
-          "html": "[M157](/mercedes-m157-engine), [M177](/mercedes-m177-engine)"
+          "t": "modelgroup",
+          "model": {
+            "label": "GLS",
+            "href": "/mercedes-gls-engines"
+          },
+          "chips": [
+            {
+              "label": "GLS63 AMG",
+              "href": "/mercedes-gls63-amg-engines"
+            },
+            {
+              "label": "M177",
+              "href": "/mercedes-m177-engine"
+            }
+          ],
+          "note": "[GLS63 AMG](/mercedes-gls63-amg-engines)"
         },
         {
-          "t": "h3",
-          "text": "[G-Class](/mercedes-g-class-engines)"
+          "t": "modelgroup",
+          "model": {
+            "label": "S-Class",
+            "href": "/mercedes-s-class-engines"
+          },
+          "chips": [
+            {
+              "label": "S63 AMG",
+              "href": "/mercedes-s63-amg-engines"
+            },
+            {
+              "label": "S65 AMG",
+              "href": "/mercedes-s65-amg-engines"
+            },
+            {
+              "label": "M157",
+              "href": "/mercedes-m157-engine"
+            },
+            {
+              "label": "M177",
+              "href": "/mercedes-m177-engine"
+            }
+          ],
+          "note": "[S63 AMG](/mercedes-s63-amg-engines), [S65 AMG](/mercedes-s65-amg-engines) (V12)"
         },
         {
-          "t": "p",
-          "html": "[G63 AMG](/mercedes-g-class-engines)"
+          "t": "modelgroup",
+          "model": {
+            "label": "SL",
+            "href": "/mercedes-sl-engines"
+          },
+          "chips": [
+            {
+              "label": "SL63 AMG",
+              "href": "/mercedes-sl63-amg-engines"
+            },
+            {
+              "label": "M157",
+              "href": "/mercedes-m157-engine"
+            },
+            {
+              "label": "M177",
+              "href": "/mercedes-m177-engine"
+            },
+            {
+              "label": "M178",
+              "href": "/mercedes-m178-engine"
+            }
+          ],
+          "note": "[SL63 AMG](/mercedes-sl63-amg-engines)"
         },
         {
-          "t": "p",
-          "html": "[M177](/mercedes-m177-engine)"
+          "t": "modelgroup",
+          "model": {
+            "label": "SLS AMG",
+            "href": "/mercedes-sls-amg-engines"
+          },
+          "chips": [
+            {
+              "label": "SLS AMG",
+              "href": "/mercedes-sls-amg-engines"
+            },
+            {
+              "label": "SLS AMG GT",
+              "href": "/mercedes-sls-amg-gt-engines"
+            },
+            {
+              "label": "M159",
+              "href": "/mercedes-m159-engine"
+            }
+          ],
+          "note": "[SLS AMG](/mercedes-sls-amg-engines), [SLS AMG GT](/mercedes-sls-amg-gt-engines)"
         },
         {
-          "t": "h3",
-          "text": "[GLC-Class](/mercedes-glc-class-engines)"
+          "t": "modelgroup",
+          "model": {
+            "label": "M-Class",
+            "href": "/mercedes-m-class-engines"
+          },
+          "chips": [
+            {
+              "label": "ML63 AMG",
+              "href": "/mercedes-ml63-amg-engines"
+            },
+            {
+              "label": "M156",
+              "href": "/mercedes-m156-engine"
+            },
+            {
+              "label": "M157",
+              "href": "/mercedes-m157-engine"
+            }
+          ],
+          "note": "[ML63 AMG](/mercedes-ml63-amg-engines)"
         },
         {
-          "t": "p",
-          "html": "[GLC63 AMG](/mercedes-glc63-amg-engines)"
+          "t": "modelgroup",
+          "model": {
+            "label": "R-Class",
+            "href": "/mercedes-r-class-engines"
+          },
+          "chips": [
+            {
+              "label": "R63 AMG",
+              "href": "/mercedes-r63-amg-engines"
+            },
+            {
+              "label": "M156",
+              "href": "/mercedes-m156-engine"
+            }
+          ],
+          "note": "[R63 AMG](/mercedes-r63-amg-engines)"
         },
         {
-          "t": "p",
-          "html": "[M177](/mercedes-m177-engine)"
+          "t": "modelgroup",
+          "model": {
+            "label": "CLK",
+            "href": "/mercedes-clk-engines"
+          },
+          "chips": [
+            {
+              "label": "CLK63 AMG",
+              "href": "/mercedes-clk-63-amg-engines"
+            },
+            {
+              "label": "M156",
+              "href": "/mercedes-m156-engine"
+            }
+          ],
+          "note": "[CLK63 AMG](/mercedes-clk-63-amg-engines)"
         },
         {
-          "t": "h3",
-          "text": "[GLE-Class](/mercedes-gle-class-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[GLE63 AMG](/mercedes-gle63-amg-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[M177](/mercedes-m177-engine), [M178](/mercedes-m178-engine)"
-        },
-        {
-          "t": "h3",
-          "text": "[GLS](/mercedes-gls-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[GLS63 AMG](/mercedes-gls63-amg-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[M177](/mercedes-m177-engine)"
-        },
-        {
-          "t": "h3",
-          "text": "[S-Class](/mercedes-s-class-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[S63 AMG](/mercedes-s63-amg-engines), [S65 AMG](/mercedes-s65-amg-engines) (V12)"
-        },
-        {
-          "t": "p",
-          "html": "[M157](/mercedes-m157-engine), [M177](/mercedes-m177-engine)"
-        },
-        {
-          "t": "h3",
-          "text": "[SL](/mercedes-sl-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[SL63 AMG](/mercedes-sl63-amg-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[M157](/mercedes-m157-engine), [M177](/mercedes-m177-engine), [M178](/mercedes-m178-engine)"
-        },
-        {
-          "t": "h3",
-          "text": "[SLS AMG](/mercedes-sls-amg-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[SLS AMG](/mercedes-sls-amg-engines), [SLS AMG GT](/mercedes-sls-amg-gt-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[M159](/mercedes-m159-engine)"
-        },
-        {
-          "t": "h3",
-          "text": "[M-Class](/mercedes-m-class-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[ML63 AMG](/mercedes-ml63-amg-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[M156](/mercedes-m156-engine), [M157](/mercedes-m157-engine)"
-        },
-        {
-          "t": "h3",
-          "text": "[R-Class](/mercedes-r-class-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[R63 AMG](/mercedes-r63-amg-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[M156](/mercedes-m156-engine)"
-        },
-        {
-          "t": "h3",
-          "text": "[CLK](/mercedes-clk-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[CLK63 AMG](/mercedes-clk-63-amg-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[M156](/mercedes-m156-engine)"
-        },
-        {
-          "t": "h3",
-          "text": "[CLS](/mercedes-cls-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[CLS63 AMG](/mercedes-cls-63-amg-engines)"
-        },
-        {
-          "t": "p",
-          "html": "[M157](/mercedes-m157-engine)"
+          "t": "modelgroup",
+          "model": {
+            "label": "CLS",
+            "href": "/mercedes-cls-engines"
+          },
+          "chips": [
+            {
+              "label": "CLS63 AMG",
+              "href": "/mercedes-cls-63-amg-engines"
+            },
+            {
+              "label": "M157",
+              "href": "/mercedes-m157-engine"
+            }
+          ],
+          "note": "[CLS63 AMG](/mercedes-cls-63-amg-engines)"
         },
         {
           "t": "p",
@@ -323,16 +438,6 @@
         {
           "t": "p",
           "html": "[Learn more about our workshop →](/about)"
-        }
-      ]
-    },
-    {
-      "kind": "prose",
-      "heading": "Recent AMG V8 Repairs",
-      "blocks": [
-        {
-          "t": "p",
-          "html": "All images are representative of our workshop process. [View our case studies →](/mercedes-engine-rebuild)"
         }
       ]
     },

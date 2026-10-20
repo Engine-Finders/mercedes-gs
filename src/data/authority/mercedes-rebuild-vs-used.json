@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Fixed-Price Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -94,6 +94,12 @@
           "paras": [
             "Rebuilds from **£2,200**",
             "Our rebuild pricing is fixed per engine type – see our full pricing bands below. A used engine may have a lower upfront price, but the hidden risks (unknown history, no warranty) often mean higher total cost in the long run.",
+            {
+              "ul": [
+                "**Rebuild:** Predictable cost, known quality, and a full warranty.",
+                "**Used engine:** Cheaper upfront, but you may face additional repairs or premature failure."
+              ]
+            },
             "**Our recommendation:** For most Mercedes owners, rebuilding the original engine offers better value and peace of mind.",
             "[See our pricing disclaimer](/pricing-legal-disclaimer)"
           ]
@@ -109,6 +115,46 @@
           "html": "We rebuild engines for virtually all Mercedes-Benz models. Below are some of the most common ones we work on."
         },
         {
+          "t": "table",
+          "head": [
+            "Model",
+            "Engine Family",
+            "Common Variants"
+          ],
+          "rows": [
+            [
+              "[C-Class](/mercedes-c-class-engines)",
+              "[OM651](/mercedes-om651-engine), [OM654](/mercedes-om654-engine), [M274](/mercedes-m274-engine)",
+              "[C220d](/mercedes-c-class-engines), [C300](/mercedes-c-class-engines)"
+            ],
+            [
+              "[E-Class](/mercedes-e-class-engines)",
+              "[OM642](/mercedes-om642-engine), [OM654](/mercedes-om654-engine), [M276](/mercedes-m276-engine)",
+              "[E220d](/mercedes-e-class-engines), [E350d](/mercedes-e-class-engines)"
+            ],
+            [
+              "[S-Class](/mercedes-s-class-engines)",
+              "[OM642](/mercedes-om642-engine), [M157](/mercedes-m157-engine), [M177](/mercedes-m177-engine)",
+              "[S350d](/mercedes-s350d-engines), [S63 AMG](/mercedes-s63-amg-engines)"
+            ],
+            [
+              "[GLE-Class](/mercedes-gle-class-engines)",
+              "[OM642](/mercedes-om642-engine), [M276](/mercedes-m276-engine)",
+              "[GLE350d](/mercedes-gle350d-engines), [GLE450](/mercedes-gle450-engines)"
+            ],
+            [
+              "[GLC-Class](/mercedes-glc-class-engines)",
+              "[OM651](/mercedes-om651-engine), [M274](/mercedes-m274-engine)",
+              "[GLC220d](/mercedes-glc220d-engines), [GLC300](/mercedes-glc300-engines)"
+            ],
+            [
+              "[Sprinter](/mercedes-sprinter-engines)",
+              "[OM651](/mercedes-om651-engine), [OM642](/mercedes-om642-engine)",
+              "[313 CDI](/mercedes-sprinter-313319-cdi-engines), [516 CDI](/mercedes-sprinter-413519-cdi-engines)"
+            ]
+          ]
+        },
+        {
           "t": "p",
           "html": "For a full list of all models and engines, visit our [engine rebuild service page](/mercedes-engine-rebuild)."
         }
@@ -119,27 +165,27 @@
       "heading": "Our Approach to Rebuilds",
       "steps": [
         {
-          "title": "",
+          "title": "Inspection & Quote",
           "body": "We assess your engine, identify the necessary work, and provide a fixed-price quote."
         },
         {
-          "title": "",
+          "title": "Full Teardown",
           "body": "We strip the engine completely, cleaning and inspecting every component."
         },
         {
-          "title": "",
+          "title": "Machining & Parts Renewal",
           "body": "We machine the block and head as needed, and replace all wear items with OEM-spec parts."
         },
         {
-          "title": "",
+          "title": "Reassembly & Testing",
           "body": "The engine is reassembled to factory tolerances and tested on our dynamometer."
         },
         {
-          "title": "",
+          "title": "Installation & Final Road Test",
           "body": "We install the engine, run full diagnostics, and road-test the vehicle to confirm performance."
         },
         {
-          "title": "",
+          "title": "Warranty & Handover",
           "body": "We provide a 12-month unlimited-mileage warranty and a detailed report."
         }
       ]
@@ -205,7 +251,7 @@
             "[Mercedes Engine Rebuild](/mercedes-engine-rebuild)",
             "[Mercedes Engine Replacement](/mercedes-engine-replacement)",
             "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
-            "[Mercedes Engine Rebuild Case Studies](/mercedes-engine-rebuild)"
+            "Mercedes Engine Rebuild Case Studies"
           ]
         }
       ]

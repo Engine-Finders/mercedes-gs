@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -15,7 +15,7 @@
     },
     {
       "label": "Get Advice",
-      "href": "/contact"
+      "href": "/get-quote"
     }
   ],
   "images": [
@@ -66,7 +66,7 @@
         },
         {
           "t": "p",
-          "html": "[Request an inspection and quote](/contact)"
+          "html": "[Request an inspection and quote](/get-quote)"
         }
       ]
     },
@@ -170,6 +170,26 @@
             {
               "label": "C-Class (W204/W205/W206)",
               "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class (W212/W213/W214)",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class (W221/W222/W223)",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "G-Class (W463/W464)",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "Sprinter (NCV3/VS30)",
+              "href": "/mercedes-sprinter-engines"
+            },
+            {
+              "label": "A-Class (W176/W177)",
+              "href": "/mercedes-a-class-engines"
             }
           ]
         },
@@ -201,19 +221,19 @@
       "heading": "Our Approach – For Repairs and Rebuilds",
       "steps": [
         {
-          "title": "",
+          "title": "Inspection & Diagnosis",
           "body": "We perform a thorough inspection, including compression and leak-down tests, to identify the exact issue."
         },
         {
-          "title": "",
+          "title": "Recommendation",
           "body": "We present you with clear options – repair vs rebuild – with costs and benefits explained, so you can choose."
         },
         {
-          "title": "",
+          "title": "Authorised Work",
           "body": "Once you approve, we carry out the work using Mercedes-specific tools and genuine/OEM parts."
         },
         {
-          "title": "",
+          "title": "Testing & Handover",
           "body": "We test the engine thoroughly – dyno for rebuilds, road test for both – and hand the car back with a 12-month warranty."
         }
       ]

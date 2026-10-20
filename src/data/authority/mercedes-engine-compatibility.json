@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a compatibility check",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Call us now",
@@ -160,27 +160,27 @@
       "heading": "Our compatibility matching process",
       "steps": [
         {
-          "title": "",
+          "title": "VIN & engine number verification",
           "body": "We identify the original engine specification using the vehicle's VIN and check the engine number prefix."
         },
         {
-          "title": "",
+          "title": "Physical fit assessment",
           "body": "We verify engine mount positions, bellhousing pattern, exhaust routing, and overall dimensions."
         },
         {
-          "title": "",
+          "title": "Electronic integration check",
           "body": "We confirm ECU compatibility, sensor signal matching, and CAN bus communication protocols."
         },
         {
-          "title": "",
+          "title": "Specification alignment",
           "body": "We ensure displacement, power output, and emission standards match the vehicle's original calibration."
         },
         {
-          "title": "",
+          "title": "Ancillary compatibility",
           "body": "We check AC compressor, power steering pump, alternator, and drive belt routing for that model."
         },
         {
-          "title": "",
+          "title": "Installation & coding",
           "body": "Once matched, we install the engine and carry out all required electronic adaptation and coding."
         }
       ]
@@ -206,15 +206,15 @@
       "heading": "How the compatibility check works",
       "steps": [
         {
-          "title": "",
+          "title": "Provide your VIN / reg",
           "body": "We look up your vehicle's original engine specification and chassis data."
         },
         {
-          "title": "",
+          "title": "Full cross-reference",
           "body": "We check physical fit, electronics, specs, and ancillaries against our application database."
         },
         {
-          "title": "",
+          "title": "Compatibility report",
           "body": "You receive a clear assessment with the recommended path forward."
         }
       ]

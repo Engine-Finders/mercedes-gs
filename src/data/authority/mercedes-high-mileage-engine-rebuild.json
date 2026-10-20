@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -66,6 +66,15 @@
           "heading": "",
           "paras": [
             "**Our high-mileage rebuilds start from the same base pricing as our standard rebuilds**, but additional machining and parts replacement may increase the final cost. We quote after a full inspection.",
+            {
+              "ul": [
+                "**4-cylinder engines** — from £2,200",
+                "**6-cylinder engines** — from £2,800 (diesel) / £3,200 (petrol)",
+                "**V8 (non-AMG)** — from £4,500",
+                "**AMG V8** — from £6,500",
+                "**V12** — from £8,000+"
+              ]
+            },
             "Prices are indicative. Final cost depends on inspection findings. [View pricing disclaimer →](/pricing-legal-disclaimer)"
           ]
         }
@@ -90,12 +99,12 @@
           "html": "Our high-mileage rebuild service covers the entire Mercedes range. Click any model or engine family to learn more."
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "A-Class",
-              "href": "/mercedes-a-class-engines"
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "A-Class",
+            "href": "/mercedes-a-class-engines"
+          },
+          "chips": [
             {
               "label": "A180d",
               "href": "/mercedes-a-class-engines"
@@ -103,16 +112,9 @@
             {
               "label": "A200",
               "href": "/mercedes-a-class-engines"
-            },
-            {
-              "label": "OM607",
-              "href": "/mercedes-om607-engine"
-            },
-            {
-              "label": "M270",
-              "href": "/mercedes-m270-engine"
             }
-          ]
+          ],
+          "note": "Engines: [OM607](/mercedes-om607-engine), [M270](/mercedes-m270-engine)"
         },
         {
           "t": "modelgroup",
@@ -133,11 +135,8 @@
               "label": "C63 AMG",
               "href": "/mercedes-c-class-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Engines: [OM651](/mercedes-om651-engine), [OM654](/mercedes-om654-engine), [M274](/mercedes-m274-engine), [M156](/mercedes-m156-engine)"
+          ],
+          "note": "Engines: [OM651](/mercedes-om651-engine), [OM654](/mercedes-om654-engine), [M274](/mercedes-m274-engine), [M156](/mercedes-m156-engine)"
         },
         {
           "t": "modelgroup",
@@ -158,11 +157,8 @@
               "label": "E63 AMG",
               "href": "/mercedes-e-class-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Engines: [OM642](/mercedes-om642-engine), [OM656](/mercedes-om656-engine), [M256](/mercedes-m256-engine), [M157](/mercedes-m157-engine)"
+          ],
+          "note": "Engines: [OM642](/mercedes-om642-engine), [OM656](/mercedes-om656-engine), [M256](/mercedes-m256-engine), [M157](/mercedes-m157-engine)"
         },
         {
           "t": "modelgroup",
@@ -183,11 +179,8 @@
               "label": "S63 AMG",
               "href": "/mercedes-s63-amg-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Engines: [OM642](/mercedes-om642-engine), [M276](/mercedes-m276-engine), [M177](/mercedes-m177-engine)"
+          ],
+          "note": "Engines: [OM642](/mercedes-om642-engine), [M276](/mercedes-m276-engine), [M177](/mercedes-m177-engine)"
         },
         {
           "t": "modelgroup",
@@ -204,11 +197,8 @@
               "label": "G63 AMG",
               "href": "/mercedes-g-class-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Engines: [OM642](/mercedes-om642-engine), [M177](/mercedes-m177-engine)"
+          ],
+          "note": "Engines: [OM642](/mercedes-om642-engine), [M177](/mercedes-m177-engine)"
         },
         {
           "t": "modelgroup",
@@ -225,11 +215,8 @@
               "label": "413-519 CDI",
               "href": "/mercedes-sprinter-413519-cdi-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "Engines: [OM651](/mercedes-om651-engine), [OM642](/mercedes-om642-engine)"
+          ],
+          "note": "Engines: [OM651](/mercedes-om651-engine), [OM642](/mercedes-om642-engine)"
         },
         {
           "t": "p",

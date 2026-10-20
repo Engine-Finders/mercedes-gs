@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -39,19 +39,19 @@
       "heading": "What Cylinder Head Repair & Rebuild Involves",
       "steps": [
         {
-          "title": "",
+          "title": "Access & Removal",
           "body": "Engine cooled, battery disconnected, coolant and oil drained. All ancillaries, intake, exhaust, turbochargers (where fitted), and timing components are carefully removed. The head is lifted using a fixture after timing is locked."
         },
         {
-          "title": "",
+          "title": "Full Disassembly",
           "body": "Valves, springs, retainers, hydraulic lifters, and valve guides are stripped. Each component is inspected and measured against factory tolerances."
         },
         {
-          "title": "",
+          "title": "Machining & Valve Work",
           "body": "Heads are checked for flatness (max 0.1mm warpage) and resurfaced if needed (max 0.2mm removal). Valve seats are machined with 45° + correction angles, guides replaced, and valve-to-seat sealing verified with a vacuum tester."
         },
         {
-          "title": "",
+          "title": "Reassembly & Testing",
           "body": "New valve stem seals, lifters (if required), and all gaskets are fitted. Cylinder head bolts **must** be replaced — they are torque-to-yield and single-use. Reassembly follows the Mercedes-spec torque sequence with angle-tightening, and timing is reset using factory locking tools."
         }
       ]
@@ -65,6 +65,15 @@
           "heading": "",
           "paras": [
             "Cylinder head repair and rebuild is included as part of our full engine rebuild service. **Rebuilds start from:**",
+            {
+              "ul": [
+                "**4-Cylinder engines** — from £2,200",
+                "**6-Cylinder engines** — from £2,800 (diesel) / £3,200 (petrol)",
+                "**V8 (non-AMG)** — from £4,500",
+                "**AMG V8** — from £6,500",
+                "**V12** — from £8,000+"
+              ]
+            },
             "[Pricing disclaimer →](/pricing-legal-disclaimer)"
           ]
         }
@@ -216,27 +225,27 @@
       "heading": "Our Cylinder Head Rebuild Process — In Detail",
       "steps": [
         {
-          "title": "",
+          "title": "Inspection & Diagnosis",
           "body": "We visually inspect the head and perform a leak test if the engine is still assembled. We assess the extent of work needed: valve guide wear, seat condition, and flatness."
         },
         {
-          "title": "",
+          "title": "Stripping & Cleaning",
           "body": "All components are removed and cleaned in a thermal cleaning oven to remove carbon deposits. Valves, guides, and springs are laid out for measurement."
         },
         {
-          "title": "",
+          "title": "Machining & Resurfacing",
           "body": "Heads are checked for warpage with a straight edge; resurfaced if within tolerance (max 0.2mm removal). Valve seats are machined to correct angles, and guides are replaced if worn."
         },
         {
-          "title": "",
+          "title": "Valve Train Overhaul",
           "body": "New valve stem seals, springs, and hydraulic lifters (where required) are installed. Valve-to-seat sealing is verified with a vacuum test."
         },
         {
-          "title": "",
+          "title": "Reassembly & Timing",
           "body": "New TTY head bolts are installed and tightened in the correct sequence with angle torque. Timing is set using factory locking tools. All gaskets and seals are replaced."
         },
         {
-          "title": "",
+          "title": "Final Testing & Adaptation",
           "body": "After reassembly, the engine is filled with fresh Mercedes-approved oil and coolant. We run the engine, check for leaks, and use Mercedes-Benz Star Diagnostic (Xentry) to clear codes and run adaptations."
         }
       ]
@@ -263,19 +272,19 @@
       "heading": "How Cylinder Head Rebuild Fits Into Our Full Engine Service",
       "steps": [
         {
-          "title": "",
+          "title": "1. Inspection",
           "body": "We assess your engine and determine if a cylinder head overhaul is needed, along with any other work."
         },
         {
-          "title": "",
+          "title": "2. Removal & Machining",
           "body": "The head is removed, disassembled, and machined in our workshop."
         },
         {
-          "title": "",
+          "title": "3. Reassembly",
           "body": "New parts are fitted, head bolts torqued, timing set."
         },
         {
-          "title": "",
+          "title": "4. Testing & Delivery",
           "body": "Engine is tested, adapted, and returned with a 12-month warranty."
         }
       ]

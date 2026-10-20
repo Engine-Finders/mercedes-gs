@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -39,19 +39,19 @@
       "heading": "What Sets AMG Engine Rebuilds Apart",
       "steps": [
         {
-          "title": "",
+          "title": "Tighter Tolerances",
           "body": "AMG engines are assembled to finer clearances than standard Mercedes units. From crank journals to cylinder bores, every dimension must be measured and machined to AMG OE specifications."
         },
         {
-          "title": "",
+          "title": "Specialised Components",
           "body": "Unique valvetrain (e.g., M156's bucket tappets, M178's twin-scroll turbos), high-pressure fuel systems, and performance cooling and lubrication systems require specific expertise."
         },
         {
-          "title": "",
+          "title": "Precision Machining",
           "body": "Cylinder bores, deck surfaces, and crank journals must be finished to tighter roughness and roundness specs. We use CNC-controlled machining and AMG-specified tooling."
         },
         {
-          "title": "",
+          "title": "Rigorous Testing",
           "body": "Every AMG rebuild is run on an engine dynamometer under load, including break-in cycles and high-RPM verification. We check oil pressure, fuel delivery, and power output against factory baselines."
         }
       ]
@@ -140,7 +140,7 @@
           "items": [
             {
               "label": "M139 (4-cyl turbo, A45/CLA45)",
-              "href": null
+              "href": "/mercedes-amg-m139-engine"
             },
             {
               "label": "M156 (6.2L V8, pre-2012)",
@@ -204,27 +204,27 @@
       "heading": "Our AMG Performance Rebuild Process",
       "steps": [
         {
-          "title": "",
+          "title": "Complete Strip-Down",
           "body": "We disassemble the engine to the bare block. Every component is labelled, inspected, and measured against AMG OE tolerances."
         },
         {
-          "title": "",
+          "title": "Precision Machining",
           "body": "Cylinder bores are honed to the correct cross-hatch pattern, crankshaft journals are polished, and deck surfaces are checked for flatness. All machining is done to AMG-specified tolerances."
         },
         {
-          "title": "",
+          "title": "Replace All Wear Parts",
           "body": "We use genuine or OE-spec performance parts: timing chains, tensioners, guides, bearings, piston rings, valve stem seals, and gaskets. For AMG engines, we also replace turbocharger seals and coolant components where needed."
         },
         {
-          "title": "",
+          "title": "Assembly with AMG Torque Specifications",
           "body": "Each bolt is torqued to AMG's specific values, using angle-tightening where required. We use AMG-specified sealants and assembly lubricants."
         },
         {
-          "title": "",
+          "title": "Engine Dynamometer Testing",
           "body": "The rebuilt engine is run on a dyno under load. We perform break-in cycles, check oil pressure, fuel delivery, ignition timing, and verify power output against baseline data."
         },
         {
-          "title": "",
+          "title": "Final Installation & Road Test",
           "body": "After dyno approval, the engine is installed in the vehicle, road-tested, and subjected to a final diagnostic check with Mercedes-Star Diagnostic (Xentry)."
         }
       ]
@@ -251,19 +251,19 @@
       "heading": "Is an AMG Performance Rebuild Right for You?",
       "steps": [
         {
-          "title": "",
+          "title": "1. Engine assessment",
           "body": "We inspect your AMG engine – compression, leak-down, oil analysis – to determine the scope of work needed. Many AMG engines benefit from a full rebuild after 80,000-100,000 miles."
         },
         {
-          "title": "",
+          "title": "2. Custom rebuild plan",
           "body": "We create a tailored rebuild plan covering all wear items, machining, and any upgrades you may want (e.g., stronger head studs, upgraded turbocharger components)."
         },
         {
-          "title": "",
+          "title": "3. Precision rebuild & testing",
           "body": "We carry out the rebuild with our in-house machining and dyno testing, ensuring the engine performs to AMG standards."
         },
         {
-          "title": "",
+          "title": "4. Installation & warranty",
           "body": "We install the engine, road-test the vehicle, and provide a 12-month unlimited-mileage warranty for your peace of mind."
         }
       ]

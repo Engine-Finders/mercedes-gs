@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -15,7 +15,7 @@
     },
     {
       "label": "Check Now",
-      "href": "/contact"
+      "href": "/get-quote"
     }
   ],
   "images": [
@@ -66,7 +66,7 @@
         },
         {
           "t": "p",
-          "html": "[Get your fixed-price quote](/contact)"
+          "html": "[Get your fixed-price quote](/get-quote)"
         }
       ]
     },
@@ -84,6 +84,26 @@
             {
               "label": "C-Class (W204/W205/W206)",
               "href": "/mercedes-c-class-engines"
+            },
+            {
+              "label": "E-Class (W212/W213/W214)",
+              "href": "/mercedes-e-class-engines"
+            },
+            {
+              "label": "S-Class (W221/W222/W223)",
+              "href": "/mercedes-s-class-engines"
+            },
+            {
+              "label": "G-Class (W463/W464)",
+              "href": "/mercedes-g-class-engines"
+            },
+            {
+              "label": "Sprinter (NCV3/VS30)",
+              "href": "/mercedes-sprinter-engines"
+            },
+            {
+              "label": "A-Class (W176/W177)",
+              "href": "/mercedes-a-class-engines"
             }
           ]
         },
@@ -115,27 +135,27 @@
       "heading": "Our Engine Rebuild Process",
       "steps": [
         {
-          "title": "",
+          "title": "Vehicle Arrival & Assessment",
           "body": "We perform a full diagnostic check and compression test to confirm rebuild requirements. We then provide a fixed-price quote before any work begins."
         },
         {
-          "title": "",
+          "title": "Engine Removal & Strip-Down",
           "body": "The engine is carefully removed and completely disassembled. All parts are cleaned using thermal and shot-blasting methods to reveal wear and damage."
         },
         {
-          "title": "",
+          "title": "Precision Measurement & Machining",
           "body": "Every component is measured to micron tolerance. Cylinders are bored and honed, crankshafts ground, and deck surfaces milled to factory specs."
         },
         {
-          "title": "",
+          "title": "Parts Replacement & Assembly",
           "body": "All wear items – bearings, piston rings, seals, gaskets – are replaced with genuine or OEM parts. Reassembly follows Mercedes-Benz torque and angle settings."
         },
         {
-          "title": "",
+          "title": "Dyno Test & Calibration",
           "body": "Every rebuilt engine is run on our dyno for a full break-in cycle. We check for leaks, verify performance, and calibrate engine management."
         },
         {
-          "title": "",
+          "title": "Re-fit & Road Test",
           "body": "The engine is re-installed, fluids filled, and a comprehensive road test is performed. Only when everything is perfect do we hand the car back."
         }
       ]
@@ -166,19 +186,19 @@
       "heading": "How It Works – From Quote to Collection",
       "steps": [
         {
-          "title": "",
+          "title": "1. Get a Quote",
           "body": "Call, email, or use our online form with your reg and symptoms. We'll give a fixed price within 30 mins."
         },
         {
-          "title": "",
+          "title": "2. Vehicle Recovery",
           "body": "We arrange nationwide recovery to our Essex workshop – convenient and affordable."
         },
         {
-          "title": "",
+          "title": "3. Rebuild & Test",
           "body": "Our team completes the rebuild, including dyno testing, within 3-5 working days."
         },
         {
-          "title": "",
+          "title": "4. Collection",
           "body": "Your Mercedes is ready – we call you to arrange collection or delivery."
         }
       ]
