@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec12.webp",
-    "/engine/sec1.webp",
-    "/engine/sec9_middle.webp"
+    "/guides/mercedes-engine-recovery/1-2265d832.webp",
+    "/guides/mercedes-engine-recovery/2-abd0c247.webp",
+    "/guides/mercedes-engine-recovery/3-ad953b48.webp"
   ],
   "stats": [
     {
@@ -271,5 +271,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 62,
+    "3": 68
+  }
 }

@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec3.webp",
-    "/model/sec2.webp",
-    "/variant/sec4.webp"
+    "/guides/mercedes-cylinder-head-repair/1-084917bf.webp",
+    "/guides/mercedes-cylinder-head-repair/2-18fa9bb9.webp",
+    "/guides/mercedes-cylinder-head-repair/3-73dba903.webp"
   ],
   "stats": [
     {
@@ -332,5 +332,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 72,
+    "3": 78
+  }
 }

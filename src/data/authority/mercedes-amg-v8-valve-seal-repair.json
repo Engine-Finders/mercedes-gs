@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec3.webp",
-    "/model/sec2.webp",
-    "/variant/sec4.webp"
+    "/guides/mercedes-amg-v8-valve-seal-repair/1-29522a61.webp",
+    "/guides/mercedes-amg-v8-valve-seal-repair/2-743d8997.webp",
+    "/guides/mercedes-amg-v8-valve-seal-repair/3-c099c7f4.webp"
   ],
   "stats": [
     {
@@ -510,5 +510,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 76,
+    "3": 73
+  }
 }

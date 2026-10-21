@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec3.webp",
-    "/engine/sec3.webp",
-    "/model/sec2.webp"
+    "/guides/mercedes-rebuild-vs-replacement/1-8118442f.webp",
+    "/guides/mercedes-rebuild-vs-replacement/2-052bef37.webp",
+    "/guides/mercedes-rebuild-vs-replacement/3-988f5428.webp"
   ],
   "stats": [
     {
@@ -285,5 +285,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 69,
+    "3": 67
+  }
 }

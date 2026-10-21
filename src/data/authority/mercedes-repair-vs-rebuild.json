@@ -19,9 +19,9 @@
     }
   ],
   "images": [
-    "/engine/sec9_bottom.webp",
-    "/variant/sec3.webp",
-    "/engine/sec3.webp"
+    "/guides/mercedes-repair-vs-rebuild/1-decfabf6.webp",
+    "/guides/mercedes-repair-vs-rebuild/2-78ab6b7c.webp",
+    "/guides/mercedes-repair-vs-rebuild/3-0f2ee29a.webp"
   ],
   "stats": [
     {
@@ -303,5 +303,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 65,
+    "3": 66
+  }
 }

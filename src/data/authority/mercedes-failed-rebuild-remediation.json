@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec3.webp",
-    "/variant/sec5.webp",
-    "/engine/sec5.webp"
+    "/guides/mercedes-failed-rebuild-remediation/1-7ce884a0.webp",
+    "/guides/mercedes-failed-rebuild-remediation/2-d334f119.webp",
+    "/guides/mercedes-failed-rebuild-remediation/3-a73aa6e0.webp"
   ],
   "stats": [
     {
@@ -273,5 +273,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 70,
+    "3": 75
+  }
 }

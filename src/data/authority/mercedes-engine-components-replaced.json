@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec4.webp",
-    "/model/sec3.webp",
-    "/variant/sec5.webp"
+    "/guides/mercedes-engine-components-replaced/1-7f0c12d6.webp",
+    "/guides/mercedes-engine-components-replaced/2-12eb23a9.webp",
+    "/guides/mercedes-engine-components-replaced/3-3f2bbc97.webp"
   ],
   "stats": [
     {
@@ -302,5 +302,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 74,
+    "3": 77
+  }
 }

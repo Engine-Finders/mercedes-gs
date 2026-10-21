@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec9_bottom.webp",
-    "/variant/sec3.webp",
-    "/engine/sec3.webp"
+    "/guides/mercedes-engine-failure-repair/1-f57edf13.webp",
+    "/guides/mercedes-engine-failure-repair/2-e952bdc3.webp",
+    "/guides/mercedes-engine-failure-repair/3-84a3b768.webp"
   ],
   "stats": [
     {
@@ -279,5 +279,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 73,
+    "3": 80
+  }
 }

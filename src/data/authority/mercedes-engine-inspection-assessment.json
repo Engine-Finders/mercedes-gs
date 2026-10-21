@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec5.webp",
-    "/variant/sec11.webp",
-    "/engine/sec8.webp"
+    "/guides/mercedes-engine-inspection-assessment/1-ddaabd27.webp",
+    "/guides/mercedes-engine-inspection-assessment/2-a362ae9f.webp",
+    "/guides/mercedes-engine-inspection-assessment/3-ef2aa972.webp"
   ],
   "stats": [
     {
@@ -330,5 +330,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 81,
+    "3": 80
+  }
 }

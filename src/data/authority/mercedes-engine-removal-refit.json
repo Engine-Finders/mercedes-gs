@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec5.webp",
-    "/engine/sec5.webp",
-    "/model/sec5.webp"
+    "/guides/mercedes-engine-removal-refit/1-9432300f.webp",
+    "/guides/mercedes-engine-removal-refit/2-6e25100e.webp",
+    "/guides/mercedes-engine-removal-refit/3-b255d66c.webp"
   ],
   "stats": [
     {
@@ -343,5 +343,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 66,
+    "3": 67
+  }
 }

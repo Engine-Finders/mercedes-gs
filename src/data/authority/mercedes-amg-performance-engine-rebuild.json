@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec11.webp",
-    "/engine/sec8.webp",
-    "/model/sec7.webp"
+    "/guides/mercedes-amg-performance-engine-rebuild/1-9f6af4f0.webp",
+    "/guides/mercedes-amg-performance-engine-rebuild/2-3232c671.webp",
+    "/guides/mercedes-amg-performance-engine-rebuild/3-f7f30521.webp"
   ],
   "stats": [
     {
@@ -315,5 +315,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 74,
+    "3": 73
+  }
 }

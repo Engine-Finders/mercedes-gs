@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec7.webp",
-    "/variant/sec13.webp",
-    "/engine/sec9_top.webp"
+    "/guides/mercedes-diesel-timing-chain-repair/1-dcba3641.webp",
+    "/guides/mercedes-diesel-timing-chain-repair/2-a1d3dde8.webp",
+    "/guides/mercedes-diesel-timing-chain-repair/3-028c3ee9.webp"
   ],
   "stats": [
     {
@@ -342,5 +342,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 73,
+    "3": 69
+  }
 }

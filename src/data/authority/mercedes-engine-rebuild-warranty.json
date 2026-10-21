@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec3.webp",
-    "/variant/sec5.webp",
-    "/engine/sec5.webp"
+    "/guides/mercedes-engine-rebuild-warranty/1-993de31b.webp",
+    "/guides/mercedes-engine-rebuild-warranty/2-4983d923.webp",
+    "/guides/mercedes-engine-rebuild-warranty/3-1fb45c19.webp"
   ],
   "stats": [
     {
@@ -230,5 +230,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 74,
+    "3": 73
+  }
 }

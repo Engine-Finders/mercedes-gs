@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec3.webp",
-    "/engine/sec3.webp",
-    "/model/sec2.webp"
+    "/guides/mercedes-engine-supply-fit/1-fca68028.webp",
+    "/guides/mercedes-engine-supply-fit/2-57ff53ca.webp",
+    "/guides/mercedes-engine-supply-fit/3-e1892146.webp"
   ],
   "stats": [
     {
@@ -264,5 +264,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 74,
+    "3": 71
+  }
 }

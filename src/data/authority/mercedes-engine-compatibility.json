@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec5.webp",
-    "/model/sec5.webp",
-    "/variant/sec11.webp"
+    "/guides/mercedes-engine-compatibility/1-4b1a65fc.webp",
+    "/guides/mercedes-engine-compatibility/2-fc734347.webp",
+    "/guides/mercedes-engine-compatibility/3-5b9af6e8.webp"
   ],
   "stats": [
     {
@@ -269,5 +269,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 75,
+    "3": 74
+  }
 }

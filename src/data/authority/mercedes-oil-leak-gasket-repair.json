@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec5.webp",
-    "/engine/sec5.webp",
-    "/model/sec5.webp"
+    "/guides/mercedes-oil-leak-gasket-repair/1-ae5bbebc.webp",
+    "/guides/mercedes-oil-leak-gasket-repair/2-cf090ee4.webp",
+    "/guides/mercedes-oil-leak-gasket-repair/3-a01d1495.webp"
   ],
   "stats": [
     {
@@ -269,5 +269,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 69,
+    "3": 72
+  }
 }

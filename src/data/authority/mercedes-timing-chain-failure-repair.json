@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec1.webp",
-    "/engine/sec9_middle.webp",
-    "/model/sec15.webp"
+    "/guides/mercedes-timing-chain-failure-repair/1-c511a9ef.webp",
+    "/guides/mercedes-timing-chain-failure-repair/2-ae537447.webp",
+    "/guides/mercedes-timing-chain-failure-repair/3-2bb10196.webp"
   ],
   "stats": [
     {
@@ -346,5 +346,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 70,
+    "3": 77
+  }
 }

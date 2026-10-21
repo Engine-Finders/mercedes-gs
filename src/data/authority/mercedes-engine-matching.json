@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec2.webp",
-    "/variant/sec4.webp",
-    "/engine/sec4.webp"
+    "/guides/mercedes-engine-matching/1-49f2528f.webp",
+    "/guides/mercedes-engine-matching/2-fc03004b.webp",
+    "/guides/mercedes-engine-matching/3-ea5776a1.webp"
   ],
   "stats": [
     {
@@ -265,5 +265,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 84,
+    "3": 71
+  }
 }

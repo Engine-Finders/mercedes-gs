@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec9_bottom.webp",
-    "/variant/sec3.webp",
-    "/engine/sec3.webp"
+    "/guides/mercedes-engine-machining/1-ecf1e4e2.webp",
+    "/guides/mercedes-engine-machining/2-da4a4d72.webp",
+    "/guides/mercedes-engine-machining/3-622c7598.webp"
   ],
   "stats": [
     {
@@ -324,5 +324,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 73,
+    "3": 77
+  }
 }

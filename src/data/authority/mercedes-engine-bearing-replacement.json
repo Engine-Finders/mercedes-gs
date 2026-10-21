@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec4.webp",
-    "/model/sec3.webp",
-    "/variant/sec5.webp"
+    "/guides/mercedes-engine-bearing-replacement/1-8b4bfce4.webp",
+    "/guides/mercedes-engine-bearing-replacement/2-4e212e38.webp",
+    "/guides/mercedes-engine-bearing-replacement/3-18a1de81.webp"
   ],
   "stats": [
     {
@@ -360,5 +360,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 73,
+    "3": 73
+  }
 }

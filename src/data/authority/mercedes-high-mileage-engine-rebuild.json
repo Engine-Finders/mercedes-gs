@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec4.webp",
-    "/model/sec3.webp",
-    "/variant/sec5.webp"
+    "/guides/mercedes-high-mileage-engine-rebuild/1-37352314.webp",
+    "/guides/mercedes-high-mileage-engine-rebuild/2-59b78e97.webp",
+    "/guides/mercedes-high-mileage-engine-rebuild/3-095e0587.webp"
   ],
   "stats": [
     {
@@ -355,5 +355,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 68,
+    "3": 77
+  }
 }

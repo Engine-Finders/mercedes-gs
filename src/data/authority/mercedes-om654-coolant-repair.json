@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec5.webp",
-    "/engine/sec5.webp",
-    "/model/sec5.webp"
+    "/guides/mercedes-om654-coolant-repair/1-de312e76.webp",
+    "/guides/mercedes-om654-coolant-repair/2-ad384bfd.webp",
+    "/guides/mercedes-om654-coolant-repair/3-78ce2fca.webp"
   ],
   "stats": [
     {
@@ -295,5 +295,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 73,
+    "3": 81
+  }
 }

@@ -11,9 +11,9 @@
     }
   ],
   "images": [
-    "/model/sec3.webp",
-    "/variant/sec5.webp",
-    "/engine/sec5.webp"
+    "/guides/mercedes-trade-fleet-engine-services/1-2c125f97.webp",
+    "/guides/mercedes-trade-fleet-engine-services/2-fcd3e52c.webp",
+    "/guides/mercedes-trade-fleet-engine-services/3-9420464e.webp"
   ],
   "stats": [
     {
@@ -313,5 +313,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 68,
+    "3": 78
+  }
 }

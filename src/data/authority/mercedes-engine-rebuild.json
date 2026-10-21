@@ -19,9 +19,9 @@
     }
   ],
   "images": [
-    "/engine/sec9_middle.webp",
-    "/model/sec15.webp",
-    "/engine/sec2.webp"
+    "/guides/mercedes-engine-rebuild/1-c612f546.webp",
+    "/guides/mercedes-engine-rebuild/2-1fd887a5.webp",
+    "/guides/mercedes-engine-rebuild/3-09e66b2d.webp"
   ],
   "stats": [
     {
@@ -246,5 +246,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 69,
+    "3": 75
+  }
 }

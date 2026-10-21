@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec4.webp",
-    "/engine/sec4.webp",
-    "/model/sec3.webp"
+    "/guides/mercedes-rebuild-vs-reconditioned/1-fb980016.webp",
+    "/guides/mercedes-rebuild-vs-reconditioned/2-7dcd6b54.webp",
+    "/guides/mercedes-rebuild-vs-reconditioned/3-0a389743.webp"
   ],
   "stats": [
     {
@@ -389,5 +389,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 71,
+    "3": 77
+  }
 }

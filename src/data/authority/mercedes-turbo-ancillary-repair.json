@@ -19,9 +19,9 @@
     }
   ],
   "images": [
-    "/engine/sec4.webp",
-    "/model/sec3.webp",
-    "/variant/sec5.webp"
+    "/guides/mercedes-turbo-ancillary-repair/1-65280b15.webp",
+    "/guides/mercedes-turbo-ancillary-repair/2-5dc6cb8a.webp",
+    "/guides/mercedes-turbo-ancillary-repair/3-2e944ac9.webp"
   ],
   "stats": [
     {
@@ -260,5 +260,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 78,
+    "3": 73
+  }
 }

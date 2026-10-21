@@ -11,9 +11,9 @@
     }
   ],
   "images": [
-    "/model/sec7.webp",
-    "/variant/sec13.webp",
-    "/engine/sec9_top.webp"
+    "/guides/mercedes-4cyl-timing-chain-repair/1-90e2151c.webp",
+    "/guides/mercedes-4cyl-timing-chain-repair/2-d3ee8a06.webp",
+    "/guides/mercedes-4cyl-timing-chain-repair/3-e57511b5.webp"
   ],
   "stats": [
     {
@@ -310,5 +310,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 72,
+    "3": 72
+  }
 }

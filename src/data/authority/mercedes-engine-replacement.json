@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec11.webp",
-    "/engine/sec8.webp",
-    "/model/sec7.webp"
+    "/guides/mercedes-engine-replacement/1-58023b57.webp",
+    "/guides/mercedes-engine-replacement/2-b0112a5b.webp",
+    "/guides/mercedes-engine-replacement/3-3132c3e1.webp"
   ],
   "stats": [
     {
@@ -317,5 +317,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 78,
+    "3": 72
+  }
 }
