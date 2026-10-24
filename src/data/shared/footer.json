@@ -124,51 +124,6 @@
           "href": "/mercedes-e-class-engines"
         }
       ]
-    },
-    {
-      "title": "Guides",
-      "links": [
-        {
-          "label": "Mercedes 4-Cylinder Timing Chain Repair (M270/M274)",
-          "href": "/mercedes-4cyl-timing-chain-repair"
-        },
-        {
-          "label": "Mercedes AMG V8 Valve Seal & Coolant Repair",
-          "href": "/mercedes-amg-v8-valve-seal-repair"
-        },
-        {
-          "label": "Mercedes Cylinder Head Repair & Rebuild",
-          "href": "/mercedes-cylinder-head-repair"
-        },
-        {
-          "label": "Mercedes Diesel Timing Chain & Injector Repair",
-          "href": "/mercedes-diesel-timing-chain-repair"
-        },
-        {
-          "label": "Mercedes Engine Bearing Replacement",
-          "href": "/mercedes-engine-bearing-replacement"
-        },
-        {
-          "label": "Mercedes Engine Machining & Rebuild Preparation",
-          "href": "/mercedes-engine-machining"
-        },
-        {
-          "label": "Mercedes Oil Leak & Gasket Repair",
-          "href": "/mercedes-oil-leak-gasket-repair"
-        },
-        {
-          "label": "Mercedes OM654 Coolant System Repair",
-          "href": "/mercedes-om654-coolant-repair"
-        },
-        {
-          "label": "Mercedes Turbo & Ancillary Repair",
-          "href": "/mercedes-turbo-ancillary-repair"
-        },
-        {
-          "label": "Mercedes-AMG Performance Engine Rebuild",
-          "href": "/mercedes-amg-performance-engine-rebuild"
-        }
-      ]
     }
   ],
   "contact": {
@@ -178,19 +133,5 @@
     "email": "info@mercedesgarage.uk",
     "hours": "Mon–Fri 9am–6pm · Sat 11am–2pm"
   },
-  "social": [
-    {
-      "label": "Facebook",
-      "href": "https://facebook.com/mercedesrebuildgarageuk"
-    },
-    {
-      "label": "Instagram",
-      "href": "https://instagram.com/mercedesrebuildgarageuk"
-    },
-    {
-      "label": "TikTok",
-      "href": "https://tiktok.com/@mercedesrebuildgarageuk"
-    }
-  ],
   "copyright": "© 2026 Mercedes Garage — a trading name of JLR Engine Specialists Ltd (Company No. 16500838). Independent Mercedes-Benz specialist, not affiliated with Mercedes-Benz AG."
 }

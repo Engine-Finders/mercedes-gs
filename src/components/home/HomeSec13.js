@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
-import MercedesLogo from "@/components/reusable/MercedesLogo";
 import EngineExplorerForm from "./EngineExplorerForm";
 import explorer from "@/data/shared/engineExplorer.json";
 
@@ -14,7 +13,7 @@ export default function HomeSec13({ data }) {
         <div className="flex items-start justify-between gap-3">
           <div className="min-w-0 flex-1">
             <h2 className="h2 uppercase">
-              <span className="block text-[#1a1a1a]">{line1}</span>
+              <span className="block text-[#1a1a1a]">{line1}</span>{" "}
               <span className="block text-hero-blue">{line2}</span>
             </h2>
 
@@ -22,7 +21,6 @@ export default function HomeSec13({ data }) {
           </div>
 
           <div className="relative h-40 w-40 shrink-0 overflow-hidden">
-            <MercedesLogo className="absolute -right-1 -top-1 z-10 h-9 w-9 opacity-60" />
             <Image
               src={data.image}
               alt="Mercedes engine"
@@ -53,15 +51,13 @@ export default function HomeSec13({ data }) {
 
       {/* ===== desktop ===== */}
       <div className="relative hidden overflow-hidden px-4 py-6 sm:px-6 md:block lg:px-8">
-        <MercedesLogo className="absolute right-6 top-6 h-11 w-11 opacity-60" />
-
         <div className="relative mx-auto max-w-6xl">
           <div className="grid grid-cols-1 items-start gap-6 lg:grid-cols-2 lg:gap-8">
             <div>
-              <h2 className="h2 uppercase">
-                <span className="block text-[#1a1a1a]">{line1}</span>
+              <div role="heading" aria-level="2" className="h2 uppercase">
+                <span className="block text-[#1a1a1a]">{line1}</span>{" "}
                 <span className="block text-hero-blue">{line2}</span>
-              </h2>
+              </div>
               <p className="mt-2 max-w-lg text-sm text-[#1a1a1a]">{data.description}</p>
 
               <EngineExplorerForm fields={data.fields} explorer={explorer} ctaButton={data.ctaButton} />

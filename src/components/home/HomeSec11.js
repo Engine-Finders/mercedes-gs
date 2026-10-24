@@ -1,7 +1,12 @@
+"use client";
+
+import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import ImageLightbox from "@/components/shared/ImageLightbox";
 
 export default function HomeSec11({ data }) {
+  const [open, setOpen] = useState(null);
   return (
     <section className="theme-light">
       {/* ===== mobile ===== */}
@@ -25,7 +30,7 @@ export default function HomeSec11({ data }) {
           <div className="absolute inset-0 px-4 pt-6">
             <div className="max-w-[54%] text-[#1a1a1a]">
               <h2 className="h2">
-                <span className="block">Meet The</span>
+                <span className="block">Meet The</span>{" "}
                 <span className="block text-hero-blue">Workshop</span>
               </h2>
 
@@ -41,7 +46,13 @@ export default function HomeSec11({ data }) {
 
         <div className="grid grid-cols-3 gap-2 px-4 py-6" style={{ background: "var(--theme-light-bg)" }}>
           {data.strip.map((s) => (
-            <div key={s.label} className="glow-card glow-card--sm relative h-40 overflow-hidden">
+            <button
+              key={s.label}
+              type="button"
+              onClick={() => setOpen({ src: data.cardImage, alt: s.label })}
+              aria-label={`View larger: ${s.label}`}
+              className="gallery-tile glow-card glow-card--sm relative h-40 cursor-pointer overflow-hidden text-left"
+            >
               <Image src={data.cardImage} alt={s.label} fill className="object-cover" sizes="140px" />
 
               <div className="absolute inset-x-0 bottom-0 flex flex-col justify-center gap-1.5 border-t border-white/15 bg-white/10 px-1.5 py-2 backdrop-blur-lg">
@@ -53,7 +64,7 @@ export default function HomeSec11({ data }) {
                 </div>
                 <span className="block h-px w-full bg-hero-blue/60" />
               </div>
-            </div>
+            </button>
           ))}
         </div>
       </div>
@@ -80,10 +91,10 @@ export default function HomeSec11({ data }) {
               "Workshop" set noticeably larger than "Meet The" to match the reference weight */}
           <div className="absolute inset-0 flex items-start px-4 pt-8 sm:px-6 sm:pt-10 lg:px-10 lg:pt-14">
             <div className="max-w-[36%] text-[#1a1a1a] sm:max-w-[30%]">
-              <h2 className="h2 -skew-x-6 origin-left scale-y-115 scale-x-92 uppercase">
-                <span className="block text-2xl leading-[1.05] sm:text-3xl lg:text-4xl">Meet The</span>
+              <div role="heading" aria-level="2" className="h2 -skew-x-6 origin-left scale-y-115 scale-x-92 uppercase">
+                <span className="block text-2xl leading-[1.05] sm:text-3xl lg:text-4xl">Meet The</span>{" "}
                 <span className="block text-4xl leading-[1.05] text-hero-blue sm:text-5xl lg:text-7xl">Workshop</span>
-              </h2>
+              </div>
 
               <div className="mt-5 space-y-3 text-xs leading-relaxed text-[#1a1a1a] sm:mt-7 sm:space-y-4 sm:text-sm lg:text-base">
                 {data.paragraphs.map((p, i) => (
@@ -98,7 +109,7 @@ export default function HomeSec11({ data }) {
           <div className="absolute inset-x-0 bottom-0" style={{ top: "64%" }}>
             <div className="mx-auto grid h-full max-w-6xl grid-cols-3 gap-2 px-4 py-3 sm:grid-cols-6 sm:gap-3 sm:px-6 sm:py-4 lg:px-8">
               {data.strip.map((s) => (
-                <div key={s.label} className="glow-card glow-card--sm relative h-full overflow-hidden">
+                <div key={s.label} className="gallery-tile glow-card glow-card--sm relative h-full overflow-hidden">
                   <Image src={data.cardImage} alt={s.label} fill className="object-cover" sizes="200px" />
 
                   <div className="absolute inset-x-0 bottom-0 flex flex-col justify-center gap-1 border-t border-white/15 bg-white/10 px-1.5 py-1.5 backdrop-blur-lg sm:gap-2 sm:px-3 sm:py-3">
@@ -116,6 +127,8 @@ export default function HomeSec11({ data }) {
           </div>
         </div>
       </div>
+
+      {open && <ImageLightbox img={open} onClose={() => setOpen(null)} />}
     </section>
   );
 }
