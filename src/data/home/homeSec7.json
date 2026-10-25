@@ -4,182 +4,182 @@
     {
       "name": "A-Class",
       "slug": "a-class",
-      "image": "/cars/a-class-w177-lci-standard-amg-line-hatchback-2022-new-design-529c.webp",
+      "image": "/model-cards/a-class.webp",
       "href": "/mercedes-a-class-engines",
       "price": "1,795"
     },
     {
       "name": "B-Class",
       "slug": "b-class",
-      "image": "/cars/b-class-w247-lci-standard-amg-line-mpv-2022-new-designo-hyac-60d9.webp",
+      "image": "/model-cards/b-class.webp",
       "href": "/mercedes-b-class-engines",
       "price": "1,895"
     },
     {
       "name": "C-Class",
       "slug": "c-class",
-      "image": "/cars/c-class-w206-standard-amg-line-saloon-2021-new-iridium-silve-2795.webp",
+      "image": "/model-cards/c-class.webp",
       "href": "/mercedes-c-class-engines",
       "price": "1,995"
     },
     {
       "name": "CLA",
       "slug": "cla",
-      "image": "/cars/cla-c118-coupe-4-door-coupe-20192023-new-polar-white-new-gen-bb49.webp",
+      "image": "/model-cards/cla.webp",
       "href": "/mercedes-cla-engines",
       "price": "2,195"
     },
     {
       "name": "CLC-Class",
       "slug": "clc-class",
-      "image": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-meta-1752.webp",
+      "image": "/model-cards/clc-class.webp",
       "href": "/mercedes-clc-class-engines",
       "price": "2,295"
     },
     {
       "name": "CLK",
       "slug": "clk",
-      "image": "/cars/clk-c209-facelift-coupe-coupe-20052009-new-brilliant-silver-8b4c.webp",
+      "image": "/model-cards/clk.webp",
       "href": "/mercedes-clk-engines",
       "price": "2,095"
     },
     {
       "name": "CLS",
       "slug": "cls",
-      "image": "/cars/cls-c257-facelift-4-door-coupe-20212023-new-diamond-silver-m-9314.webp",
+      "image": "/model-cards/cls.webp",
       "href": "/mercedes-cls-engines",
       "price": "2,495"
     },
     {
       "name": "E-Class",
       "slug": "e-class",
-      "image": "/vehicle-photos/mercedesbenz-12.webp",
+      "image": "/model-cards/e-class.webp",
       "href": "/mercedes-e-class-engines",
       "price": "2,395"
     },
     {
       "name": "S-Class",
       "slug": "s-class",
-      "image": "/vehicle-photos/mercedesbenz-21.webp",
+      "image": "/model-cards/s-class.webp",
       "href": "/mercedes-s-class-engines",
       "price": "2,995"
     },
     {
       "name": "SL",
       "slug": "sl",
-      "image": "/vehicle-photos/mercedesbenz-24.webp",
+      "image": "/model-cards/sl.webp",
       "href": "/mercedes-sl-engines",
       "price": "2,795"
     },
     {
       "name": "SLC",
       "slug": "slc",
-      "image": "/vehicle-photos/mercedesbenz-25.webp",
+      "image": "/model-cards/slc.webp",
       "href": "/mercedes-slc-engines",
       "price": "2,695"
     },
     {
       "name": "SLK",
       "slug": "slk",
-      "image": "/vehicle-photos/mercedesbenz-26.webp",
+      "image": "/model-cards/slk.webp",
       "href": "/mercedes-slk-engines",
       "price": "2,595"
     },
     {
       "name": "GLA",
       "slug": "gla",
-      "image": "/vehicle-photos/mercedesbenz-15.webp",
+      "image": "/model-cards/gla.webp",
       "href": "/mercedes-gla-class-engines",
       "price": "2,395"
     },
     {
       "name": "GLC",
       "slug": "glc",
-      "image": "/vehicle-photos/mercedesbenz-16.webp",
+      "image": "/model-cards/glc.webp",
       "href": "/mercedes-glc-class-engines",
       "price": "2,495"
     },
     {
       "name": "GLE",
       "slug": "gle",
-      "image": "/vehicle-photos/mercedesbenz-17.webp",
+      "image": "/model-cards/gle.webp",
       "href": "/mercedes-gle-class-engines",
       "price": "2,695"
     },
     {
       "name": "GLK",
       "slug": "glk",
-      "image": "/vehicle-photos/mercedesbenz-18.webp",
+      "image": "/model-cards/glk.webp",
       "href": "/mercedes-glk-class-engines",
       "price": "2,295"
     },
     {
       "name": "GLS",
       "slug": "gls",
-      "image": "/vehicle-photos/mercedesbenz-19.webp",
+      "image": "/model-cards/gls.webp",
       "href": "/mercedes-gls-engines",
       "price": "2,895"
     },
     {
       "name": "G-Class",
       "slug": "g-class",
-      "image": "/vehicle-photos/mercedesbenz-14.webp",
+      "image": "/model-cards/g-class.webp",
       "href": "/mercedes-g-class-engines",
       "price": "3,195"
     },
     {
       "name": "M-Class",
       "slug": "m-class",
-      "image": "/variant/mercedes_car.webp",
+      "image": "/model-cards/m-class.webp",
       "href": "/mercedes-m-class-engines",
       "price": "2,195"
     },
     {
       "name": "R-Class",
       "slug": "r-class",
-      "image": "/vehicle-photos/mercedesbenz-20.webp",
+      "image": "/model-cards/r-class.webp",
       "href": "/mercedes-r-class-engines",
       "price": "1,995"
     },
     {
       "name": "Sprinter",
       "slug": "sprinter",
-      "image": "/vehicle-photos/mercedesbenz-28.webp",
+      "image": "/model-cards/sprinter.webp",
       "href": "/mercedes-sprinter-engines",
       "price": "2,295"
     },
     {
       "name": "Vito",
       "slug": "vito",
-      "image": "/vehicle-photos/mercedesbenz-33.webp",
+      "image": "/model-cards/vito.webp",
       "href": "/mercedes-vito-engines",
       "price": "2,095"
     },
     {
       "name": "V-Class",
       "slug": "v-class",
-      "image": "/vehicle-photos/mercedesbenz-29.webp",
+      "image": "/model-cards/v-class.webp",
       "href": "/mercedes-v-class-engines",
       "price": "2,195"
     },
     {
       "name": "Viano",
       "slug": "viano",
-      "image": "/vehicle-photos/mercedesbenz-32.webp",
+      "image": "/model-cards/viano.webp",
       "href": "/mercedes-viano-engines",
       "price": "1,895"
     },
     {
       "name": "Citan",
       "slug": "citan",
-      "image": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-cit-9f47.webp",
+      "image": "/model-cards/citan.webp",
       "href": "/mercedes-citan-engines",
       "price": "1,795"
     },
     {
       "name": "Vario",
       "slug": "vario",
-      "image": "/vehicle-photos/mercedesbenz-31.webp",
+      "image": "/model-cards/vario.webp",
       "href": "/mercedes-vario-engines",
       "price": "1,695"
     }
