@@ -37,7 +37,7 @@ export default function ModelSec14({ data }) {
 
           <a
             href={data.cta.href}
-            className="mt-5 inline-flex items-center gap-2 whitespace-nowrap rounded-lg border border-white/30 px-5 py-3.5 text-xs font-bold uppercase tracking-wide text-white transition hover:brightness-110"
+            className="mt-5 inline-flex items-center gap-2 whitespace-nowrap rounded-lg border border-white/30 px-5 py-3.5 text-xs font-bold uppercase tracking-wide text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{
               background: "linear-gradient(135deg, var(--color-hero-gold) 0%, #8c6c46 100%)",
               boxShadow: "0 8px 20px rgba(173,135,92,0.4)",
@@ -56,13 +56,13 @@ export default function ModelSec14({ data }) {
 
       <div className="relative mx-auto max-w-6xl">
         <div className="max-w-[46%]">
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+          <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 uppercase">
             <span className="block whitespace-nowrap text-white">{data.line1}</span>
             <span className="block">
               <span className="text-hero-blue">{data.line2Highlight}</span>
               <span className="text-white">{data.line2Rest}</span>
             </span>
-          </h2>
+          </div>
 
           <p className="mt-4 text-sm leading-relaxed text-white">{data.paragraph}</p>
 
@@ -73,7 +73,7 @@ export default function ModelSec14({ data }) {
 
           <a
             href={data.cta.href}
-            className="mt-5 inline-flex items-center gap-2 rounded-lg border border-white/30 px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-white transition hover:brightness-110"
+            className="mt-5 inline-flex items-center gap-2 rounded-lg border border-white/30 px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{
               background: "linear-gradient(135deg, var(--color-hero-gold) 0%, #8c6c46 100%)",
               boxShadow: "0 8px 20px rgba(173,135,92,0.4)",

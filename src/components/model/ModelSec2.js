@@ -1,4 +1,5 @@
 import Image from "next/image";
+import PhotoStripes from "@/components/reusable/PhotoStripes";
 import Icon from "@/components/reusable/Icon";
 
 function renderTitleLine(line, defaultClassName) {
@@ -106,6 +107,7 @@ export default function ModelSec2({ data }) {
               space below the text, text sits directly on it with no extra frosted panel */}
           <div className="relative min-h-[25rem] w-full lg:min-h-[28rem]">
             <Image src={data.image} alt="Mercedes OM651 timing chain assembly" fill className="object-cover" sizes="1152px" />
+            <PhotoStripes preset="sec2" className="object-cover" />
 
             <div className="relative flex flex-col px-8 pb-8 pt-8 lg:px-10 lg:pb-10 lg:pt-10">
               <div className="max-w-[46%]">
@@ -114,11 +116,11 @@ export default function ModelSec2({ data }) {
                   <p className="label-text uppercase tracking-widest text-[#101828]">{data.kicker}</p>
                 </div>
 
-                <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-3 uppercase">
+                <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 mt-3 uppercase">
                   <span className="block text-[#101828]">{renderTitleLine(line1, "text-[#101828]")}</span>
                   <span className="block text-[#101828]">{renderTitleLine(line2, "text-[#101828]")}</span>
                   <span className="block text-[#101828]">{renderTitleLine(line3, "text-[#101828]")}</span>
-                </h2>
+                </div>
 
                 <p className="body-text mt-4 text-[#101828]">
                   {data.description} <span className="font-bold text-[#101828]">{data.descriptionEmphasis}</span>

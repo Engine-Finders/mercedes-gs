@@ -130,6 +130,11 @@ export default function HomeSec4_5({ data }) {
             <p className="text-xs uppercase tracking-widest text-white">{data.footer}</p>
             <span className="h-px w-16 bg-white/25" />
           </div>
+          <div className="mt-4 flex items-center justify-center gap-3">
+            <span className="h-px w-8 bg-white/25" />
+            <Image src="/brand/logo-icon.webp" alt="Mercedes Garage" width={512} height={134} className="h-8 w-auto" sizes="100px" />
+            <span className="h-px w-8 bg-white/25" />
+          </div>
         </div>
       </div>
     </section>

@@ -1,4 +1,5 @@
 {
+  "series": "Mercedes SL",
   "engineSizes": {
     "title": "Engine Sizes",
     "icon": "engine",
@@ -17,18 +18,8 @@
     "icon": "fuel",
     "items": [
       {
-        "label": "Diesel Engine Rebuilds",
-        "color": "blue",
-        "icon": "fuel"
-      },
-      {
         "label": "Petrol Engine Rebuilds",
         "color": "red",
-        "icon": "fuel"
-      },
-      {
-        "label": "Petrol/Electric Rebuilds (C350e Hybrid)",
-        "color": "blue",
         "icon": "fuel"
       }
     ]

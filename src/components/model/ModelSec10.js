@@ -68,10 +68,10 @@ export default function ModelSec10({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <MercedesLogo className="absolute right-0 top-6 h-16 w-16 opacity-90" />
         <div className="pt-8">
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+          <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 uppercase">
             <span className="text-[#101828]">{data.headlinePre} </span>
             <span className="text-hero-blue">{data.headlineHighlight}</span>
-          </h2>
+          </div>
           <p className="mt-2 max-w-2xl text-sm text-[#101828]">{data.subhead}</p>
         </div>
 

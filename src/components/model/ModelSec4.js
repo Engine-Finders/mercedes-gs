@@ -19,6 +19,10 @@ function withEmphasis(text) {
 }
 
 export default function ModelSec4({ data }) {
+  const hasChassis = data.columns.length === 5;
+  const colIcons = hasChassis ? ["gear", "fuel", "gears", "car", "price"] : ["gear", "fuel", "gears", "price"];
+  const gridM = hasChassis ? "grid-cols-[1.1fr_0.65fr_0.65fr_0.8fr_1fr]" : "grid-cols-[1.2fr_0.8fr_0.7fr_1fr]";
+  const gridD = hasChassis ? "grid-cols-[1.4fr_0.8fr_0.8fr_0.9fr_1.2fr]" : "grid-cols-[1.6fr_1fr_0.9fr_1.3fr]";
   const [disclaimerLine1, disclaimerLine2] = data.disclaimer.split(/(?<=components\.)\s+/);
 
   return (
@@ -51,45 +55,35 @@ export default function ModelSec4({ data }) {
 
           {/* pricing table */}
           <div className="glass-card mt-5 overflow-hidden rounded-2xl">
-            <div className="grid grid-cols-[1.1fr_0.65fr_0.65fr_0.8fr_1fr] divide-x divide-black/10 border-b border-black/10 bg-white/60">
-              <div className="flex min-w-0 flex-col items-start gap-1 px-1.5 py-2">
-                <Icon name="gear" className="h-3.5 w-3.5 shrink-0 text-hero-blue" />
-                <p className="label-text min-w-0 font-extrabold uppercase leading-tight tracking-wide text-hero-blue">{data.columns[0]}</p>
-              </div>
-              <div className="flex min-w-0 flex-col items-start gap-1 px-1.5 py-2">
-                <Icon name="fuel" className="h-3.5 w-3.5 shrink-0 text-hero-blue" />
-                <p className="label-text min-w-0 font-extrabold uppercase leading-tight tracking-wide text-hero-blue">{data.columns[1]}</p>
-              </div>
-              <div className="flex min-w-0 flex-col items-start gap-1 px-1.5 py-2">
-                <Icon name="gears" className="h-3.5 w-3.5 shrink-0 text-hero-blue" />
-                <p className="label-text min-w-0 font-extrabold uppercase leading-tight tracking-wide text-hero-blue">{data.columns[2]}</p>
-              </div>
-              <div className="flex min-w-0 flex-col items-start gap-1 px-1.5 py-2">
-                <Icon name="car" className="h-3.5 w-3.5 shrink-0 text-hero-blue" />
-                <p className="label-text min-w-0 font-extrabold uppercase leading-tight tracking-wide text-hero-blue">{data.columns[3]}</p>
-              </div>
-              <div className="flex min-w-0 flex-col items-start gap-1 px-1.5 py-2">
-                <Icon name="price" className="h-3.5 w-3.5 shrink-0 text-hero-blue" />
-                <p className="label-text font-extrabold uppercase leading-tight tracking-wide text-hero-blue">{data.columns[4]}</p>
-              </div>
+            <div className="overflow-x-auto">
+              <div className="min-w-[560px]">
+            <div className={`grid ${gridM} divide-x divide-black/10 border-b border-black/10 bg-white/60`}>
+              {colIcons.map((icon, i) => (
+                <div key={icon} className="flex min-w-0 flex-col items-start gap-1 px-1.5 py-2">
+                  <Icon name={icon} className="h-3.5 w-3.5 shrink-0 text-hero-blue" />
+                  <p className="label-text min-w-0 font-extrabold uppercase leading-tight tracking-wide text-hero-blue">{data.columns[i]}</p>
+                </div>
+              ))}
             </div>
 
             {data.rows.map((r, i) => (
               <div
                 key={r.family}
-                className={`grid grid-cols-[1.1fr_0.65fr_0.65fr_0.8fr_1fr] divide-x divide-black/10 ${i > 0 ? "border-t border-black/10" : ""} ${i % 2 === 1 ? "bg-white/40" : ""}`}
+                className={`grid ${gridM} divide-x divide-black/10 ${i > 0 ? "border-t border-black/10" : ""} ${i % 2 === 1 ? "bg-white/40" : ""}`}
               >
-                <p className="label-text px-2 py-2.5 font-bold leading-tight text-[#101828]">
+                <p className="text-sm px-3 py-3 font-bold leading-tight text-[#101828]">
                   {r.familyHref ? <Link href={r.familyHref} >{r.family}</Link> : r.family}
                 </p>
-                <p className={`label-text px-2 py-2.5 font-semibold leading-tight ${r.fuel === "Petrol" ? "text-bmw-red" : "text-hero-blue"}`}>
+                <p className={`text-sm px-3 py-3 font-semibold leading-tight ${r.fuel === "Petrol" ? "text-bmw-red" : "text-hero-blue"}`}>
                   {r.fuel}
                 </p>
-                <p className="label-text px-2 py-2.5 leading-tight text-[#101828]">{r.size}</p>
-                <p className="label-text px-2 py-2.5 leading-tight text-[#101828]">{r.chassis}</p>
-                <p className="label-text px-2 py-2.5 font-bold leading-tight text-[#101828]">{r.range}</p>
+                <p className="text-sm px-3 py-3 leading-tight text-[#101828]">{r.size}</p>
+                {hasChassis && <p className="text-sm px-3 py-3 leading-tight text-[#101828]">{r.chassis}</p>}
+                <p className="text-sm px-3 py-3 font-bold leading-tight text-[#101828]">{r.range}</p>
               </div>
             ))}
+              </div>
+            </div>
           </div>
 
           {/* feature cards 2x2 */}
@@ -145,49 +139,35 @@ export default function ModelSec4({ data }) {
           <p className="label-text uppercase tracking-widest text-[#101828]">{data.kicker}</p>
         </div>
 
-        <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-2 uppercase">
+        <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 mt-2 uppercase">
           <span className="text-[#101828]">{data.headlinePre} </span>
           <span className="text-hero-blue">{data.headlineHighlight}</span>
-        </h2>
+        </div>
 
         <p className="body-text mt-2 max-w-3xl text-[#101828]">{data.description}</p>
 
         {/* pricing table */}
         <div className="glass-card mt-6 overflow-hidden rounded-2xl">
-          <div className="grid grid-cols-[1.4fr_0.8fr_0.8fr_0.9fr_1.2fr] divide-x divide-black/10 border-b border-black/10 bg-white/60">
-            <div className="flex items-center gap-2 px-6 py-3">
-              <Icon name="gear" className="h-5 w-5 shrink-0 text-hero-blue" />
-              <p className="text-xs font-extrabold uppercase tracking-wide text-hero-blue">{data.columns[0]}</p>
-            </div>
-            <div className="flex items-center gap-2 px-6 py-3">
-              <Icon name="fuel" className="h-5 w-5 shrink-0 text-hero-blue" />
-              <p className="text-xs font-extrabold uppercase tracking-wide text-hero-blue">{data.columns[1]}</p>
-            </div>
-            <div className="flex items-center gap-2 px-6 py-3">
-              <Icon name="gears" className="h-5 w-5 shrink-0 text-hero-blue" />
-              <p className="text-xs font-extrabold uppercase tracking-wide text-hero-blue">{data.columns[2]}</p>
-            </div>
-            <div className="flex items-center gap-2 px-6 py-3">
-              <Icon name="car" className="h-5 w-5 shrink-0 text-hero-blue" />
-              <p className="text-xs font-extrabold uppercase tracking-wide text-hero-blue">{data.columns[3]}</p>
-            </div>
-            <div className="flex items-center gap-2 px-6 py-3">
-              <Icon name="price" className="h-5 w-5 shrink-0 text-hero-blue" />
-              <p className="text-xs font-extrabold uppercase tracking-wide text-hero-blue">{data.columns[4]}</p>
-            </div>
+          <div className={`grid ${gridD} divide-x divide-black/10 border-b border-black/10 bg-white/60`}>
+            {colIcons.map((icon, i) => (
+              <div key={icon} className="flex items-center gap-2 px-6 py-3">
+                <Icon name={icon} className="h-5 w-5 shrink-0 text-hero-blue" />
+                <p className="text-xs font-extrabold uppercase tracking-wide text-hero-blue">{data.columns[i]}</p>
+              </div>
+            ))}
           </div>
 
           {data.rows.map((r, i) => (
             <div
               key={r.family}
-              className={`grid grid-cols-[1.4fr_0.8fr_0.8fr_0.9fr_1.2fr] divide-x divide-black/10 ${i > 0 ? "border-t border-black/10" : ""} ${i % 2 === 1 ? "bg-white/40" : ""}`}
+              className={`grid ${gridD} divide-x divide-black/10 ${i > 0 ? "border-t border-black/10" : ""} ${i % 2 === 1 ? "bg-white/40" : ""}`}
             >
               <p className="px-6 py-3 text-sm font-bold text-[#101828]">
                 {r.familyHref ? <Link href={r.familyHref} >{r.family}</Link> : r.family}
               </p>
               <p className={`px-6 py-3 text-sm font-semibold ${r.fuel === "Petrol" ? "text-bmw-red" : "text-hero-blue"}`}>{r.fuel}</p>
               <p className="px-6 py-3 text-sm text-[#101828]">{r.size}</p>
-              <p className="px-6 py-3 text-sm text-[#101828]">{r.chassis}</p>
+              {hasChassis && <p className="px-6 py-3 text-sm text-[#101828]">{r.chassis}</p>}
               <p className="px-6 py-3 text-sm font-bold text-[#101828]">{r.range}</p>
             </div>
           ))}

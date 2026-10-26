@@ -74,13 +74,15 @@ export default function ModelSec5({ data }) {
 
           {/* comparison matrix */}
           <div className="glass-card relative mt-5 overflow-hidden rounded-2xl">
+            <div className="overflow-x-auto">
+              <div className="min-w-[540px]">
             <div className="grid grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)_minmax(0,1fr)] divide-x divide-black/10 border-b border-black/10">
               <div />
-              <div className="flex items-center gap-1.5 px-2 py-3">
+              <div className="flex items-center gap-1.5 px-3 py-3">
                 <Icon name="shield-check" className="h-5 w-5 shrink-0 text-hero-blue" />
                 <p className="label-text font-extrabold uppercase leading-tight tracking-wide text-hero-blue">{data.comparison.ourLabel}</p>
               </div>
-              <div className="flex items-center gap-1.5 px-2 py-3">
+              <div className="flex items-center gap-1.5 px-3 py-3">
                 <Icon name="shield" className="h-5 w-5 shrink-0 text-[#1a1a1a]" />
                 <p className="label-text font-extrabold uppercase leading-tight tracking-wide text-[#1a1a1a]">{data.comparison.usedLabel}</p>
               </div>
@@ -91,14 +93,16 @@ export default function ModelSec5({ data }) {
                 key={r.feature}
                 className={`grid grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)_minmax(0,1fr)] divide-x divide-black/10 ${i > 0 ? "border-t border-black/10" : ""}`}
               >
-                <div className="flex min-w-0 items-start gap-1.5 px-2 py-3">
+                <div className="flex min-w-0 items-start gap-1.5 px-3 py-3">
                   <Icon name={r.icon} className="h-4 w-4 shrink-0 text-[#1a1a1a]" />
                   <p className="label-text min-w-0 break-words font-bold uppercase leading-tight text-[#1a1a1a]">{r.feature}</p>
                 </div>
-                <p className="label-text min-w-0 break-words px-2 py-3 leading-snug text-[#1a1a1a]">{withCompEmphasis(r.ours)}</p>
-                <p className="label-text min-w-0 break-words px-2 py-3 leading-snug text-[#1a1a1a]">{r.used}</p>
+                <p className="text-sm min-w-0 break-words px-3 py-3 leading-snug text-[#1a1a1a]">{withCompEmphasis(r.ours)}</p>
+                <p className="text-sm min-w-0 break-words px-3 py-3 leading-snug text-[#1a1a1a]">{r.used}</p>
               </div>
             ))}
+              </div>
+            </div>
           </div>
 
           {/* bottom action bar */}
@@ -110,7 +114,7 @@ export default function ModelSec5({ data }) {
 
             <a
               href={data.cta.href}
-              className="btn-text shrink-0 rounded-lg bg-hero-blue px-4 py-2.5 uppercase text-white"
+              className="btn-text shrink-0 rounded-lg bg-hero-blue px-4 py-2.5 uppercase text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             >
               {data.cta.buttonLabel} →
             </a>
@@ -131,10 +135,10 @@ export default function ModelSec5({ data }) {
             <p className="label-text uppercase tracking-widest text-[#1a1a1a]">{data.kicker}</p>
           </div>
 
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-3 uppercase">
+          <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 mt-3 uppercase">
             <span className="block text-[#1a1a1a]">{line1}</span>
             <span className="block text-hero-blue">{line2}</span>
-          </h2>
+          </div>
           <span className="mt-3 block h-px w-16 bg-hero-blue/50" />
 
           <div className="body-text mt-5 space-y-4 text-[#1a1a1a]">

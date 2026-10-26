@@ -109,7 +109,7 @@ export default function ModelSec17({ data }) {
 
           <a
             href={data.priceCta.href}
-            className="relative flex items-center gap-4 rounded-lg p-5"
+            className="relative flex items-center gap-4 rounded-lg p-5 transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{
               background: "linear-gradient(135deg, #1a140c 0%, #0d0a06 100%)",
               border: "1px solid rgba(173,135,92,0.4)",
@@ -140,9 +140,9 @@ export default function ModelSec17({ data }) {
           <p className="label-text uppercase tracking-widest text-[#101828]">{data.kicker}</p>
         </div>
 
-        <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-2 text-[#101828] uppercase">
+        <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 mt-2 text-[#101828] uppercase">
           {data.headline}
-        </h2>
+        </div>
 
         {/* body style tabs */}
         <div className="relative mt-6 flex">
@@ -229,7 +229,7 @@ export default function ModelSec17({ data }) {
 
           <a
             href={data.priceCta.href}
-            className="relative flex items-center gap-4 rounded-2xl p-6"
+            className="relative flex items-center gap-4 rounded-2xl p-6 transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{
               background: "linear-gradient(135deg, #1a140c 0%, #0d0a06 100%)",
               border: "1px solid rgba(173,135,92,0.4)",

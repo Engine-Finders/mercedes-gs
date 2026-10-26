@@ -138,7 +138,7 @@ export default function ModelSec18({ data }) {
 
           <button
             type="submit" disabled={lead.status === "loading"}
-            className="mt-6 flex w-full items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
+            className="mt-6 flex w-full items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{
               background: "linear-gradient(135deg, var(--color-hero-gold) 0%, #8c6c46 100%)",
               boxShadow: "0 8px 20px rgba(173,135,92,0.4)",
@@ -160,10 +160,10 @@ export default function ModelSec18({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <div className="flex items-center gap-2">
           <MercedesStripe className="h-10 w-16" />
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+          <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 uppercase">
             <span className="text-[#101828]">{data.kicker} </span>
             <span className="text-hero-blue">{data.kickerHighlight}</span>
-          </h2>
+          </div>
         </div>
 
         <div className="mt-5 grid grid-cols-2 gap-4">
@@ -191,10 +191,10 @@ export default function ModelSec18({ data }) {
         >
           <MercedesStripe className="absolute right-6 top-6 h-8 w-16" />
 
-          <h3 className="h3 origin-left scale-y-110 scale-x-90 whitespace-nowrap text-white uppercase">
+          <div role="heading" aria-level="3" className="h3 origin-left scale-y-110 scale-x-90 whitespace-nowrap text-white uppercase">
             {data.form.headlinePre} <span className="text-hero-blue">{data.form.headlineHighlight}</span>{" "}
             {data.form.headlinePost}
-          </h3>
+          </div>
 
           <div className="mt-6 grid grid-cols-3 gap-4">
             <label className="block">
@@ -241,7 +241,7 @@ export default function ModelSec18({ data }) {
 
           <button
             type="submit" disabled={lead.status === "loading"}
-            className="mt-6 flex w-full items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
+            className="mt-6 flex w-full items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{
               background: "linear-gradient(135deg, var(--color-hero-gold) 0%, #8c6c46 100%)",
               boxShadow: "0 8px 20px rgba(173,135,92,0.4)",

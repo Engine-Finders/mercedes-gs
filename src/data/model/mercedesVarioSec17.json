@@ -14,10 +14,12 @@
         "label": "510D"
       },
       {
-        "label": "511D"
+        "label": "511D",
+        "href": "/mercedes-vario-511d-engines"
       },
       {
-        "label": "512D"
+        "label": "512D",
+        "href": "/mercedes-vario-512d-engines"
       },
       {
         "label": "614D"
@@ -26,10 +28,12 @@
         "label": "615D"
       },
       {
-        "label": "616D"
+        "label": "616D",
+        "href": "/mercedes-vario-616d-engines"
       },
       {
-        "label": "818D"
+        "label": "818D",
+        "href": "/mercedes-vario-818d-engines"
       }
     ]
   ],

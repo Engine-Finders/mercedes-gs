@@ -4,182 +4,182 @@
     {
       "name": "A-Class",
       "slug": "a-class",
-      "image": "/model-cards/a-class.webp",
+      "image": "/model-cards/a-class-v2.webp",
       "href": "/mercedes-a-class-engines",
       "price": "1,795"
     },
     {
       "name": "B-Class",
       "slug": "b-class",
-      "image": "/model-cards/b-class.webp",
+      "image": "/model-cards/b-class-v2.webp",
       "href": "/mercedes-b-class-engines",
       "price": "1,895"
     },
     {
       "name": "C-Class",
       "slug": "c-class",
-      "image": "/model-cards/c-class.webp",
+      "image": "/model-cards/c-class-v2.webp",
       "href": "/mercedes-c-class-engines",
       "price": "1,995"
     },
     {
       "name": "CLA",
       "slug": "cla",
-      "image": "/model-cards/cla.webp",
+      "image": "/model-cards/cla-v2.webp",
       "href": "/mercedes-cla-engines",
       "price": "2,195"
     },
     {
       "name": "CLC-Class",
       "slug": "clc-class",
-      "image": "/model-cards/clc-class.webp",
+      "image": "/model-cards/clc-class-v2.webp",
       "href": "/mercedes-clc-class-engines",
       "price": "2,295"
     },
     {
       "name": "CLK",
       "slug": "clk",
-      "image": "/model-cards/clk.webp",
+      "image": "/model-cards/clk-v2.webp",
       "href": "/mercedes-clk-engines",
       "price": "2,095"
     },
     {
       "name": "CLS",
       "slug": "cls",
-      "image": "/model-cards/cls.webp",
+      "image": "/model-cards/cls-v2.webp",
       "href": "/mercedes-cls-engines",
       "price": "2,495"
     },
     {
       "name": "E-Class",
       "slug": "e-class",
-      "image": "/model-cards/e-class.webp",
+      "image": "/model-cards/e-class-v2.webp",
       "href": "/mercedes-e-class-engines",
       "price": "2,395"
     },
     {
       "name": "S-Class",
       "slug": "s-class",
-      "image": "/model-cards/s-class.webp",
+      "image": "/model-cards/s-class-v2.webp",
       "href": "/mercedes-s-class-engines",
       "price": "2,995"
     },
     {
       "name": "SL",
       "slug": "sl",
-      "image": "/model-cards/sl.webp",
+      "image": "/model-cards/sl-v2.webp",
       "href": "/mercedes-sl-engines",
       "price": "2,795"
     },
     {
       "name": "SLC",
       "slug": "slc",
-      "image": "/model-cards/slc.webp",
+      "image": "/model-cards/slc-v2.webp",
       "href": "/mercedes-slc-engines",
       "price": "2,695"
     },
     {
       "name": "SLK",
       "slug": "slk",
-      "image": "/model-cards/slk.webp",
+      "image": "/model-cards/slk-v2.webp",
       "href": "/mercedes-slk-engines",
       "price": "2,595"
     },
     {
       "name": "GLA",
       "slug": "gla",
-      "image": "/model-cards/gla.webp",
+      "image": "/model-cards/gla-v2.webp",
       "href": "/mercedes-gla-class-engines",
       "price": "2,395"
     },
     {
       "name": "GLC",
       "slug": "glc",
-      "image": "/model-cards/glc.webp",
+      "image": "/model-cards/glc-v2.webp",
       "href": "/mercedes-glc-class-engines",
       "price": "2,495"
     },
     {
       "name": "GLE",
       "slug": "gle",
-      "image": "/model-cards/gle.webp",
+      "image": "/model-cards/gle-v2.webp",
       "href": "/mercedes-gle-class-engines",
       "price": "2,695"
     },
     {
       "name": "GLK",
       "slug": "glk",
-      "image": "/model-cards/glk.webp",
+      "image": "/model-cards/glk-v2.webp",
       "href": "/mercedes-glk-class-engines",
       "price": "2,295"
     },
     {
       "name": "GLS",
       "slug": "gls",
-      "image": "/model-cards/gls.webp",
+      "image": "/model-cards/gls-v2.webp",
       "href": "/mercedes-gls-engines",
       "price": "2,895"
     },
     {
       "name": "G-Class",
       "slug": "g-class",
-      "image": "/model-cards/g-class.webp",
+      "image": "/model-cards/g-class-v2.webp",
       "href": "/mercedes-g-class-engines",
       "price": "3,195"
     },
     {
       "name": "M-Class",
       "slug": "m-class",
-      "image": "/model-cards/m-class.webp",
+      "image": "/model-cards/m-class-v2.webp",
       "href": "/mercedes-m-class-engines",
       "price": "2,195"
     },
     {
       "name": "R-Class",
       "slug": "r-class",
-      "image": "/model-cards/r-class.webp",
+      "image": "/model-cards/r-class-v2.webp",
       "href": "/mercedes-r-class-engines",
       "price": "1,995"
     },
     {
       "name": "Sprinter",
       "slug": "sprinter",
-      "image": "/model-cards/sprinter.webp",
+      "image": "/model-cards/sprinter-v2.webp",
       "href": "/mercedes-sprinter-engines",
       "price": "2,295"
     },
     {
       "name": "Vito",
       "slug": "vito",
-      "image": "/model-cards/vito.webp",
+      "image": "/model-cards/vito-v2.webp",
       "href": "/mercedes-vito-engines",
       "price": "2,095"
     },
     {
       "name": "V-Class",
       "slug": "v-class",
-      "image": "/model-cards/v-class.webp",
+      "image": "/model-cards/v-class-v2.webp",
       "href": "/mercedes-v-class-engines",
       "price": "2,195"
     },
     {
       "name": "Viano",
       "slug": "viano",
-      "image": "/model-cards/viano.webp",
+      "image": "/model-cards/viano-v2.webp",
       "href": "/mercedes-viano-engines",
       "price": "1,895"
     },
     {
       "name": "Citan",
       "slug": "citan",
-      "image": "/model-cards/citan.webp",
+      "image": "/model-cards/citan-v2.webp",
       "href": "/mercedes-citan-engines",
       "price": "1,795"
     },
     {
       "name": "Vario",
       "slug": "vario",
-      "image": "/model-cards/vario.webp",
+      "image": "/model-cards/vario-v2.webp",
       "href": "/mercedes-vario-engines",
       "price": "1,695"
     }

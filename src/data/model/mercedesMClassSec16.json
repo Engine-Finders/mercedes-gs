@@ -1,4 +1,5 @@
 {
+  "series": "Mercedes M-Class",
   "engineSizes": {
     "title": "Engine Sizes",
     "icon": "engine",
@@ -25,11 +26,6 @@
       {
         "label": "Petrol Engine Rebuilds",
         "color": "red",
-        "icon": "fuel"
-      },
-      {
-        "label": "Petrol/Electric Rebuilds (C350e Hybrid)",
-        "color": "blue",
         "icon": "fuel"
       }
     ]

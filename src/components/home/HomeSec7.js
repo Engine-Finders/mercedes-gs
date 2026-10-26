@@ -35,7 +35,7 @@ export default function HomeSec7({ data }) {
                 className="glass-card rounded-2xl p-3 text-center"
               >
                 <div className="relative mb-2 h-20 w-full rounded-md">
-                  <Image src={m.image} alt={m.name} fill className={`object-contain mix-blend-multiply`} sizes="200px" />
+                  <Image src={m.image} alt={m.name} fill className="object-contain" sizes="200px" />
                 </div>
                 <p className="text-xs font-bold text-hero-blue">{m.name}</p>
                 {m.price && (
@@ -91,7 +91,7 @@ export default function HomeSec7({ data }) {
                 className="glass-card group rounded-xl p-3 text-center transition-shadow hover:shadow-md"
               >
                 <div className="relative mb-2 h-16 w-full rounded-md">
-                  <Image src={m.image} alt={m.name} fill className={`object-contain mix-blend-multiply`} sizes="120px" />
+                  <Image src={m.image} alt={m.name} fill className="object-contain" sizes="120px" />
                 </div>
                 <p className="text-xs font-bold text-hero-blue">{m.name}</p>
                 {m.price && (

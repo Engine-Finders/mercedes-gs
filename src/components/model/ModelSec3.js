@@ -1,4 +1,5 @@
 import Image from "next/image";
+import PhotoStripes from "@/components/reusable/PhotoStripes";
 import Link from "next/link";
 import Icon from "@/components/reusable/Icon";
 import MercedesStripe from "@/components/reusable/MercedesStripe";
@@ -103,7 +104,7 @@ export default function ModelSec3({ data }) {
 
             <a
               href={data.cta.href}
-              className="mt-4 flex items-center justify-center gap-2 rounded-lg px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-white"
+              className="mt-4 flex items-center justify-center gap-2 rounded-lg px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
               style={{
                 background: "linear-gradient(135deg, var(--color-hero-gold) 0%, #8c6c46 100%)",
                 border: "1px solid rgba(255,255,255,0.25)",
@@ -119,6 +120,7 @@ export default function ModelSec3({ data }) {
       <div className="relative hidden overflow-hidden px-4 py-10 sm:px-6 md:block lg:px-8">
       <div className="absolute inset-0">
         <Image src={data.image} alt="Mercedes C-Class in a dark Mercedes service workshop" fill className="object-cover object-[65%_30%]" sizes="100vw" />
+        <PhotoStripes preset="sec3" className="object-cover object-[65%_30%]" />
         <div className="absolute inset-0 bg-linear-to-r from-hero-dark via-hero-dark/75 to-transparent" />
       </div>
 
@@ -128,10 +130,10 @@ export default function ModelSec3({ data }) {
           <p className="label-text uppercase tracking-widest text-white">{data.kicker}</p>
         </div>
 
-        <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-3 uppercase">
+        <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 mt-3 uppercase">
           <span className="block text-white">{line1}</span>
           <span className="block text-hero-blue">{line2}</span>
-        </h2>
+        </div>
 
         <p className="mt-4 label-text inline-block uppercase tracking-widest text-white">
           {data.startingFromLabel}
@@ -167,7 +169,7 @@ export default function ModelSec3({ data }) {
               </p>
               {c.code && (
                 c.codeHref ? (
-                  <Link href={c.codeHref} className={`block px-3 text-center text-xs uppercase ${c.featured ? "text-[#101828]" : "text-white"}`}>{c.code}</Link>
+                  <Link href={c.codeHref} className={`block px-3 text-center text-xs uppercase ${c.featured ? "text-[#101828]" : "text-white"} hover:underline`}>{c.code}</Link>
                 ) : (
                   <p className={`px-3 text-center text-xs uppercase ${c.featured ? "text-[#101828]" : "text-white"}`}>{c.code}</p>
                 )
