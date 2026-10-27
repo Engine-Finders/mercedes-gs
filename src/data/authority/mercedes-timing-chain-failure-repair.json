@@ -40,7 +40,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "When a Mercedes engine arrives at our workshop with a timing chain failure, we carry out a comprehensive assessment and remediation process. This is not a simple replacement — it requires full disassembly of the upper engine, careful inspection of all internal components, and precise reassembly using correct procedures and specifications."
+          "html": "When a Mercedes engine arrives at our workshop with a timing chain failure, we carry out a comprehensive assessment and remediation process. This is not a simple replacement - it requires full disassembly of the upper engine, careful inspection of all internal components, and precise reassembly using correct procedures and specifications."
         },
         {
           "t": "p",
@@ -56,9 +56,9 @@
           "t": "callout",
           "heading": "Our Fixed-Price Rebuilds",
           "paras": [
-            "**4-Cylinder Diesel** (OM607/608/640/651/654) — from **£2,200**",
-            "**6-Cylinder Diesel** (OM642) — from **£2,800**",
-            "**AMG V8** (M156/M157/M177/M178) — from **£6,500**",
+            "**4-Cylinder Diesel** (OM607/608/640/651/654) - from **£2,200**",
+            "**6-Cylinder Diesel** (OM642) - from **£2,800**",
+            "**AMG V8** (M156/M157/M177/M178) - from **£6,500**",
             "Price includes full disassembly, parts, labour, and final testing. [Pricing disclaimer](/pricing-legal-disclaimer)."
           ]
         }
@@ -225,7 +225,7 @@
     },
     {
       "kind": "steps",
-      "heading": "Our Process — Assessment to Completion",
+      "heading": "Our Process - Assessment to Completion",
       "steps": [
         {
           "title": "Initial Workshop Assessment",
@@ -237,7 +237,7 @@
         },
         {
           "title": "Damage Inspection",
-          "body": "We inspect all internal components — cylinder head, valves, pistons, bearings, and the engine block — to determine what is salvageable and what needs replacement."
+          "body": "We inspect all internal components - cylinder head, valves, pistons, bearings, and the engine block - to determine what is salvageable and what needs replacement."
         },
         {
           "title": "Component Replacement",
@@ -262,11 +262,11 @@
           "items": [
             "Specialist Mercedes workshop with 15+ years of experience (founded 2009)",
             "Factory-trained technicians using genuine Mercedes-Benz tools and XENTY diagnostics",
-            "Transparent pricing – fixed-price rebuilds from £2,200, no hidden charges",
-            "Nationwide recovery service from £70 – we bring your vehicle to our Essex workshop",
+            "Transparent pricing - fixed-price rebuilds from £2,200, no hidden charges",
+            "Nationwide recovery service from £70 - we bring your vehicle to our Essex workshop",
             "12-month unlimited-mileage warranty on all parts and labour",
-            "Full strip-down and inspection – we identify what's salvageable and quote accurately",
-            "Engine removed and refitted with care – we match your exact engine code and VIN"
+            "Full strip-down and inspection - we identify what's salvageable and quote accurately",
+            "Engine removed and refitted with care - we match your exact engine code and VIN"
           ]
         },
         {
@@ -277,11 +277,11 @@
     },
     {
       "kind": "steps",
-      "heading": "How It Works – From Booking to Collection",
+      "heading": "How It Works - From Booking to Collection",
       "steps": [
         {
           "title": "",
-          "body": "Call or [get a quote online](/get-quote) – we'll discuss your engine and arrange recovery if needed."
+          "body": "Call or [get a quote online](/get-quote) - we'll discuss your engine and arrange recovery if needed."
         },
         {
           "title": "",
@@ -293,7 +293,7 @@
         },
         {
           "title": "",
-          "body": "You collect your vehicle with a full report and 12-month warranty – or we arrange delivery."
+          "body": "You collect your vehicle with a full report and 12-month warranty - or we arrange delivery."
         }
       ]
     },
@@ -304,7 +304,7 @@
         {
           "t": "ul",
           "items": [
-            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild) – full overhaul",
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild) - full overhaul",
             "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
             "[Mercedes Diesel Timing Chain & Injector Repair](/mercedes-diesel-timing-chain-repair)",
             "[Mercedes 4-Cylinder Timing Chain Repair](/mercedes-4cyl-timing-chain-repair)",

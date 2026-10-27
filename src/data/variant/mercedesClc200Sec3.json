@@ -4,13 +4,13 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
   "engineImage": "/engines/m271-engine-hero.webp",
-  "carImage": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
+  "carImage": "/cars/card/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
   "cards": [
     {
       "code": "M256",
       "image": "/engines/m256-engine-hero.webp",
-      "carImage": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-meta-1752.webp",
-      "generation": "R190 (2023–present)",
+      "carImage": "/cars/card/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-meta-1752.webp",
+      "generation": "R190 (2023-present)",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"
     }
@@ -18,7 +18,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -31,8 +31,8 @@
     "titlePre": "Mercedes CLC 200 Timing Chain & Balance Shaft Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "CLC 200 engines — M271, across every generation — commonly show timing chain stretch and balance shaft issues over time. We replace timing chain components, timing gears, and gaskets as standard on every M271 rebuild.",
-      "*include_in_hero_hook: yes — Source: established Mercedes specialist pattern (per VRF-mercedes-clc-class.md). The diesel OM646 is not covered by this claim as it was not independently confirmed for this application.*"
+      "CLC 200 engines - M271, across every generation - commonly show timing chain stretch and balance shaft issues over time. We replace timing chain components, timing gears, and gaskets as standard on every M271 rebuild.",
+      "*include_in_hero_hook: yes - Source: established Mercedes specialist pattern (per VRF-mercedes-clc-class.md). The diesel OM646 is not covered by this claim as it was not independently confirmed for this application.*"
     ],
     "source": "Source: established Mercedes specialist pattern (per VRF-mercedes-clc-class.md). The diesel OM646 is not covered by this claim as it was not independently confirmed for this application"
   }

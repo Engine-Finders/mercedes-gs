@@ -9,14 +9,14 @@
     {
       "code": "M177",
       "image": "/engines/m177-m178-engine-hero.webp",
-      "generation": "X253 (2015–2022)",
+      "generation": "X253 (2015-2022)",
       "price": "£6,500",
       "codeHref": "/mercedes-m177-engine"
     },
     {
       "code": "M139",
       "image": "/variant/sec10_engine.webp",
-      "generation": "X254 (2022–present)",
+      "generation": "X254 (2022-present)",
       "price": "£[MISSING: pricing tier not established for X254 AMG hybrid]",
       "codeHref": "/mercedes-amg-m139-engine"
     }
@@ -24,7 +24,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -37,9 +37,9 @@
     "titlePre": "Mercedes GLC63 AMG Known Issues by Engine ",
     "titleHighlight": "",
     "paragraphs": [
-      "If your GLC63 AMG has the M177 V8 (X253 generation, 2015–2022): valve seal and coolant system wear is an established AMG specialist pattern on this engine. We replace valve seals, coolant components, timing chains and bearings as standard on every M177 rebuild.",
-      "If your GLC63 AMG has the M139 4-cylinder hybrid (X254 generation, 2022–present): this is the current-generation setup — a significant departure from the V8. This engine is too new for established failure patterns to have emerged. We service it to the same standard as our other GLC63 AMG rebuilds, without inheriting assumptions from the older V8."
+      "If your GLC63 AMG has the M177 V8 (X253 generation, 2015-2022): valve seal and coolant system wear is an established AMG specialist pattern on this engine. We replace valve seals, coolant components, timing chains and bearings as standard on every M177 rebuild.",
+      "If your GLC63 AMG has the M139 4-cylinder hybrid (X254 generation, 2022-present): this is the current-generation setup - a significant departure from the V8. This engine is too new for established failure patterns to have emerged. We service it to the same standard as our other GLC63 AMG rebuilds, without inheriting assumptions from the older V8."
     ],
-    "source": "Source: established AMG specialist pattern (per G-BRF). M139 (X254) explicitly excluded from this claim — too new, not independently confirmed"
+    "source": "Source: established AMG specialist pattern (per G-BRF). M139 (X254) explicitly excluded from this claim - too new, not independently confirmed"
   }
 }

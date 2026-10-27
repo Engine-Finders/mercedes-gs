@@ -32,12 +32,12 @@
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "2.0L–4.0L (5.5L on earlier GLE63)"
+      "value": "2.0L-4.0L (5.5L on earlier GLE63)"
     },
     {
       "icon": "calendar",
       "label": "Generation",
-      "value": "C167 (2020–present) — shares engines with standard GLE"
+      "value": "C167 (2020-present) - shares engines with standard GLE"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The GLE COUPE uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The GLE COUPE uses the M256 3.0-litre inline-six mild-hybrid engine - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

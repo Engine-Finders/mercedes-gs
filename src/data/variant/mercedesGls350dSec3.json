@@ -9,7 +9,7 @@
     {
       "code": "OM642",
       "image": "/engines/om642-engine.webp",
-      "generation": "X166 (2015–2019)",
+      "generation": "X166 (2015-2019)",
       "price": "£2,800",
       "codeHref": "/mercedes-om642-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -30,8 +30,8 @@
     "titlePre": "Mercedes GLS350d Swirl Flap & Injector Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "If your GLS350d is an X166 generation model (2015 to 2019) with the OM642 diesel V6 — swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
-      "include_in_hero_hook: yes for X166/OM642 — Source: established specialist pattern with multiple TSBs, per VRF-mercedes-gls.md. Applies to X166 generation only; X167 mainstream range not independently confirmed this session."
+      "If your GLS350d is an X166 generation model (2015 to 2019) with the OM642 diesel V6 - swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
+      "include_in_hero_hook: yes for X166/OM642 - Source: established specialist pattern with multiple TSBs, per VRF-mercedes-gls.md. Applies to X166 generation only; X167 mainstream range not independently confirmed this session."
     ],
     "source": "Source: established specialist pattern with multiple TSBs, per VRF-mercedes-gls.md. Applies to X166 generation only; X167 mainstream range not independently confirmed this session"
   }

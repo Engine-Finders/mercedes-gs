@@ -2,70 +2,70 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "Mercedes A-Class Rebuilds",
-  "subhead": "Full variant list below covers every Mercedes A-Class engine we work on — these 10 are simply our most requested.",
-  "image": "/cars/a-class-w177-lci-standard-amg-line-hatchback-2022-new-design-529c.webp",
+  "subhead": "Full variant list below covers every Mercedes A-Class engine we work on - these 10 are simply our most requested.",
+  "image": "/cars/card/a-class-w177-lci-standard-amg-line-hatchback-2022-new-design-529c.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "Mercedes A160",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/a-class-w177-standard-amg-line-hatchback-20182022-new-amg-gr-50a6.webp"
+      "image": "/cars/card/a-class-w177-standard-amg-line-hatchback-20182022-new-amg-gr-50a6.webp"
     },
     {
       "number": "02",
       "model": "Mercedes A180",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/a-class-w177-lci-a-45-s-amg-performance-hatchback-2022-speci-67d3.webp"
+      "image": "/cars/card/a-class-w177-lci-a-45-s-amg-performance-hatchback-2022-speci-67d3.webp"
     },
     {
       "number": "03",
       "model": "Mercedes A180d",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/a-class-w176-lci-standard-amg-line-hatchback-20152018-new-de-431e.webp"
+      "image": "/cars/card/a-class-w176-lci-standard-amg-line-hatchback-20152018-new-de-431e.webp"
     },
     {
       "number": "04",
       "model": "Mercedes A200",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/a-class-w177-lci-standard-amg-line-hatchback-2022-new-designo-mocha-bl-529c.webp"
+      "image": "/cars/card/a-class-w177-lci-standard-amg-line-hatchback-2022-new-designo-mocha-bl-529c.webp"
     },
     {
       "number": "05",
       "model": "Mercedes A200d",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/a-class-w176-amg-sport-amg-line-hatchback-20122015-new-iridi-5b99.webp"
+      "image": "/cars/card/a-class-w176-amg-sport-amg-line-hatchback-20122015-new-iridi-5b99.webp"
     },
     {
       "number": "06",
       "model": "Mercedes A220",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/a-class-w177-a-35-amg-performance-hatchback-20192022-special-f1ed.webp"
+      "image": "/cars/card/a-class-w177-a-35-amg-performance-hatchback-20192022-special-f1ed.webp"
     },
     {
       "number": "07",
       "model": "Mercedes A220d",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/a-class-w177-a-45-s-amg-performance-hatchback-20192022-speci-69b6.webp"
+      "image": "/cars/card/a-class-w177-a-45-s-amg-performance-hatchback-20192022-speci-69b6.webp"
     },
     {
       "number": "08",
       "model": "Mercedes A250",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/a-class-w177-lci-standard-amg-line-hatchback-2022-new-designo-mocha-bl-529c.webp"
+      "image": "/cars/card/a-class-w177-lci-standard-amg-line-hatchback-2022-new-designo-mocha-bl-529c.webp"
     },
     {
       "number": "09",
       "model": "Mercedes A35 AMG",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/a-class-w177-lci-a-35-amg-performance-hatchback-2022-special-polar-whi-20d1.webp"
+      "image": "/cars/card/a-class-w177-lci-a-35-amg-performance-hatchback-2022-special-polar-whi-20d1.webp"
     },
     {
       "number": "10",
       "model": "Mercedes A45 AMG",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/a-class-w177-lci-standard-amg-line-hatchback-2022-new-designo-mocha-bl-529c.webp"
+      "image": "/cars/card/a-class-w177-lci-standard-amg-line-hatchback-2022-new-designo-mocha-bl-529c.webp"
     }
   ]
 }

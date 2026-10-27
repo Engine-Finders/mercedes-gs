@@ -9,7 +9,7 @@
     {
       "code": "M177",
       "image": "/engines/m177-m178-engine-hero.webp",
-      "generation": "X167 (2021–present)",
+      "generation": "X167 (2021-present)",
       "price": "£6,500",
       "codeHref": "/mercedes-m177-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -27,10 +27,10 @@
   },
   "warning": {
     "bgImage": "/variant/sec3.webp",
-    "titlePre": "Mercedes GLS600 Maybach M177 V8 — Valve Seal & Coolant System Wear ",
+    "titlePre": "Mercedes GLS600 Maybach M177 V8 - Valve Seal & Coolant System Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "If your GLS600 Maybach has the M177 twin-turbo V8 — the engine fitted across the X167 generation since 2021 — valve seal and coolant system wear is a recognised pattern on this AMG-derived V8 family. We inspect and replace valve seals and coolant components as standard on every M177 rebuild.",
+      "If your GLS600 Maybach has the M177 twin-turbo V8 - the engine fitted across the X167 generation since 2021 - valve seal and coolant system wear is a recognised pattern on this AMG-derived V8 family. We inspect and replace valve seals and coolant components as standard on every M177 rebuild.",
       "This is the same engine family used across AMG and performance V8 models throughout the Mercedes range, and the wear pattern is consistent regardless of which badge sits on the boot."
     ],
     "source": "Source: established AMG/performance V8 pattern, confirmed elsewhere in Mercedes G-BRF, per VRF-mercedes-gls.md"

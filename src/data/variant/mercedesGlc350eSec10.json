@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLC350E ENGINE",
     "paragraphs": [
-      "The GLC350e has been part of the GLC-Class range since 2020, spanning two generations as a plug-in hybrid variant. The earlier X253 generation uses the M274 — a 2.0-litre four-cylinder petrol engine paired with a 13.5kWh electric motor and battery. From the X254 generation onwards (2025), the GLC350e switched to the M254, a newer 2.0-litre four-cylinder unit with mild-hybrid and plug-in hybrid integration, offering an electric-only range of up to 54 miles in its latest form. The GLC350e was discontinued in X253 form but returned for the X254 generation as a 2025 model-year addition."
+      "The GLC350e has been part of the GLC-Class range since 2020, spanning two generations as a plug-in hybrid variant. The earlier X253 generation uses the M274 - a 2.0-litre four-cylinder petrol engine paired with a 13.5kWh electric motor and battery. From the X254 generation onwards (2025), the GLC350e switched to the M254, a newer 2.0-litre four-cylinder unit with mild-hybrid and plug-in hybrid integration, offering an electric-only range of up to 54 miles in its latest form. The GLC350e was discontinued in X253 form but returned for the X254 generation as a 2025 model-year addition."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLC350E on the road."
   },
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLC350E ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the GLC350e spans two distinct engines across two generations, fitting the wrong replacement — or assuming an M274 part will work on an M254 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the GLC350e spans two distinct engines across two generations, fitting the wrong replacement - or assuming an M274 part will work on an M254 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLC350E ",
@@ -78,7 +78,7 @@
       {
         "generation": "X253",
         "chassis": "X253",
-        "years": "2020–2022",
+        "years": "2020-2022",
         "engineCode": "M274 + Electric",
         "fuel": "Petrol PHEV",
         "codeHref": "/mercedes-m274-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "X254",
         "chassis": "X254",
-        "years": "2025–present",
+        "years": "2025-present",
         "engineCode": "M254 + Electric",
         "fuel": "Petrol PHEV",
         "codeHref": "/mercedes-m254-engine"

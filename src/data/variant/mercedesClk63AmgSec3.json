@@ -4,13 +4,13 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£6,500",
   "engineImage": "/engines/m256-engine-hero.webp",
-  "carImage": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-cl-dfe7.webp",
+  "carImage": "/cars/card/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-cl-dfe7.webp",
   "cards": [
     {
       "code": "M256",
       "image": "/engines/m256-engine-hero.webp",
-      "carImage": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-cl-dfe7.webp",
-      "generation": "R190 (2023–present)",
+      "carImage": "/cars/card/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-cl-dfe7.webp",
+      "generation": "R190 (2023-present)",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"
     }
@@ -18,7 +18,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -31,8 +31,8 @@
     "titlePre": "Mercedes CLK 63 AMG Camshaft Adjuster & Head Bolt Wear ",
     "titleHighlight": "(M156)",
     "paragraphs": [
-      "If your CLK 63 AMG has the M156 6.2-litre V8 — that's every C209-generation car — camshaft adjuster and head bolt wear is a well-documented pattern on this engine, confirmed by established AMG specialist consensus. We replace the timing chain, camshaft adjuster, and bearings as standard on every M156 rebuild.",
-      "include_in_hero_hook: yes — Source: established AMG specialist pattern (per G-BRF, confirmed in original model page build), per VRF-mercedes-clk.md."
+      "If your CLK 63 AMG has the M156 6.2-litre V8 - that's every C209-generation car - camshaft adjuster and head bolt wear is a well-documented pattern on this engine, confirmed by established AMG specialist consensus. We replace the timing chain, camshaft adjuster, and bearings as standard on every M156 rebuild.",
+      "include_in_hero_hook: yes - Source: established AMG specialist pattern (per G-BRF, confirmed in original model page build), per VRF-mercedes-clk.md."
     ],
     "source": "Source: established AMG specialist pattern (per G-BRF, confirmed in original model page build), per VRF-mercedes-clk.md"
   }

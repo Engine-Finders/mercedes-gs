@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES CLC 220 CDI ENGINE",
     "paragraphs": [
-      "The CLC 220 CDI uses the OM646 — a 2.2-litre inline-four diesel. It was fitted from 2008 to 2011 across the CL203 generation, the final iteration of the C-Class-based coupé that originally launched as the SportCoupé. The CLC-Class had a relatively short production run, but the OM646 engine itself is a well-established Mercedes diesel unit shared across multiple models of that era. The CLC 220 CDI is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The CLC 220 CDI uses the OM646 - a 2.2-litre inline-four diesel. It was fitted from 2008 to 2011 across the CL203 generation, the final iteration of the C-Class-based coupé that originally launched as the SportCoupé. The CLC-Class had a relatively short production run, but the OM646 engine itself is a well-established Mercedes diesel unit shared across multiple models of that era. The CLC 220 CDI is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every CLC 220 CDI on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the CLC 220 CDI from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 CLC 220 CDI",
         "codeHref": "/mercedes-m256-engine"
@@ -53,12 +53,12 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic CLC-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic CLC-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES CLC 220 CDI ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
+    "image": "/cars/card/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "CL203",
-        "image": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
+        "image": "/cars/card/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
         "chassis": "CL203",
-        "years": "2008–2011",
+        "years": "2008-2011",
         "engineCode": "OM646",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om646-engine"

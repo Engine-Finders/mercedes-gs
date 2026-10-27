@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES AMG GT S ENGINE",
     "paragraphs": [
-      "The AMG GT S uses the M178 — a 4.0-litre twin-turbo V8 developed specifically for AMG's GT sports car line. It was fitted throughout the C190 generation's production run, from 2015 to 2023. The M178 is a hand-assembled AMG engine, known for its hot-vee turbo layout and high-performance character. The AMG GT S is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The AMG GT S uses the M178 - a 4.0-litre twin-turbo V8 developed specifically for AMG's GT sports car line. It was fitted throughout the C190 generation's production run, from 2015 to 2023. The M178 is a hand-assembled AMG engine, known for its hot-vee turbo layout and high-performance character. The AMG GT S is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every AMG GT S on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the AMG GT S from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 AMG GT S",
         "codeHref": "/mercedes-m256-engine"
@@ -53,12 +53,12 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic AMG GT quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic AMG GT quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES AMG GT S ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/amg-gt-c190-gt-coupe-20142016-new-iridium-silver-metallic-original-amg-6308.webp",
+    "image": "/cars/card/amg-gt-c190-gt-coupe-20142016-new-iridium-silver-metallic-original-amg-6308.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "C190",
-        "image": "/cars/amg-gt-c190-gt-coupe-20142016-new-iridium-silver-metallic-original-amg-6308.webp",
+        "image": "/cars/card/amg-gt-c190-gt-coupe-20142016-new-iridium-silver-metallic-original-amg-6308.webp",
         "chassis": "C190",
-        "years": "2015–2023",
+        "years": "2015-2023",
         "engineCode": "M178",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m178-engine"

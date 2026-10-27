@@ -8,22 +8,22 @@
   "partImage": "/model/sec15_part.webp",
   "generations": [
     {
-      "years": "1995–2006",
+      "years": "1995-2006",
       "code": "T1N, W901-W905",
       "list": "1995 through 2006 Mercedes Sprinter engines"
     },
     {
-      "years": "2006–2018",
+      "years": "2006-2018",
       "code": "NCV3, W906",
       "list": "2006 through 2018 Mercedes Sprinter engines"
     },
     {
-      "years": "2018–present",
+      "years": "2018-present",
       "code": "VS30, W907/W910",
       "list": "2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 Mercedes Sprinter engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "Mercedes Sprinter 316 CDI Model:",
   "checklistLeft": [

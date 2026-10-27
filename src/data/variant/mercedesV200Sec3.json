@@ -8,21 +8,21 @@
   "cards": [
     {
       "code": "OM601/OM602",
-      "generation": "W638 (1996–2003)",
+      "generation": "W638 (1996-2003)",
       "price": "£2,200",
       "codeHref": "/mercedes-om601-engine"
     },
     {
       "code": "OM651",
       "image": "/engines/om651-engine.webp",
-      "generation": "W447 (2014–2025, early production)",
+      "generation": "W447 (2014-2025, early production)",
       "price": "£2,200",
       "codeHref": "/mercedes-om651-engine"
     },
     {
       "code": "OM654",
       "image": "/engines/om654-engine.webp",
-      "generation": "W447 (2025 refresh–present, current production)",
+      "generation": "W447 (2025 refresh-present, current production)",
       "price": "£2,200",
       "codeHref": "/mercedes-om654-engine"
     }
@@ -30,7 +30,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -43,8 +43,8 @@
     "titlePre": "Mercedes V200 Injector Seal & Timing Chain Wear ",
     "titleHighlight": "(Early W447, OM651)",
     "paragraphs": [
-      "If your V200 is an early W447-generation model with the OM651 engine — broadly the period before the 2025 refresh — injector seal leaks and timing chain wear are a recognised specialist pattern on this engine. We replace injector seals, timing chain components, tensioners and gaskets as standard on every OM651 rebuild.",
-      "The W638 generation uses different engines (OM601/OM602), and the current 2025-refresh W447 models use the newer OM654 engine — neither of which shares this specific pattern. The OM654 is a separate, more recent diesel family with its own characteristics, but nothing as consistently documented as the OM651's pattern in this application."
+      "If your V200 is an early W447-generation model with the OM651 engine - broadly the period before the 2025 refresh - injector seal leaks and timing chain wear are a recognised specialist pattern on this engine. We replace injector seals, timing chain components, tensioners and gaskets as standard on every OM651 rebuild.",
+      "The W638 generation uses different engines (OM601/OM602), and the current 2025-refresh W447 models use the newer OM654 engine - neither of which shares this specific pattern. The OM654 is a separate, more recent diesel family with its own characteristics, but nothing as consistently documented as the OM651's pattern in this application."
     ],
     "source": "Source: established specialist pattern per VRF-mercedes-v-class.md. W638 (OM601/OM602) and current OM654 explicitly excluded from this claim per VRF, correctly scoped to generation and engine code"
   }

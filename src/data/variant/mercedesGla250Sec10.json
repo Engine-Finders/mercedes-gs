@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLA250 ENGINE",
     "paragraphs": [
-      "The GLA250 has been a mainstay of the GLA-Class petrol range since the model launched, spanning two generations under one badge. First-generation cars (X156, 2013–2020) use either the M270 or M282 — both 4-cylinder petrol units, with the M282 introduced as a later running change in the X156 run. From 2020, the H247-generation GLA250 uses the M260 or M282, a newer 2.0-litre unit and the 1.3-litre M282 respectively. Knowing which one your car has matters because the components differ between them — which is exactly why we confirm your exact engine by registration before quoting. The GLA250 is no longer in production as of the latest H247 facelift, but we continue to rebuild and replace engines for every one still on the road."
+      "The GLA250 has been a mainstay of the GLA-Class petrol range since the model launched, spanning two generations under one badge. First-generation cars (X156, 2013-2020) use either the M270 or M282 - both 4-cylinder petrol units, with the M282 introduced as a later running change in the X156 run. From 2020, the H247-generation GLA250 uses the M260 or M282, a newer 2.0-litre unit and the 1.3-litre M282 respectively. Knowing which one your car has matters because the components differ between them - which is exactly why we confirm your exact engine by registration before quoting. The GLA250 is no longer in production as of the latest H247 facelift, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLA250 on the road."
   },
@@ -43,7 +43,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLA250 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the GLA250 spans three engine codes across two generations, fitting the wrong replacement — or assuming an M270 part will work on an M260 or M282 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the GLA250 spans three engine codes across two generations, fitting the wrong replacement - or assuming an M270 part will work on an M260 or M282 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -69,7 +69,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLA-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLA-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLA250 ",
@@ -86,7 +86,7 @@
       {
         "generation": "X156",
         "chassis": "X156",
-        "years": "2013–2020",
+        "years": "2013-2020",
         "engineCode": "M270",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m270-engine"
@@ -94,7 +94,7 @@
       {
         "generation": "X156",
         "chassis": "X156",
-        "years": "2013–2020",
+        "years": "2013-2020",
         "engineCode": "M282",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m282-engine"
@@ -102,7 +102,7 @@
       {
         "generation": "H247",
         "chassis": "H247",
-        "years": "2020–present",
+        "years": "2020-present",
         "engineCode": "M260",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m260-engine"
@@ -110,7 +110,7 @@
       {
         "generation": "H247",
         "chassis": "H247",
-        "years": "2020–present",
+        "years": "2020-present",
         "engineCode": "M282",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m282-engine"

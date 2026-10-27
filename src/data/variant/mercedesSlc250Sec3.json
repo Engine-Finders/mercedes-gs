@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "M270 / M274",
-      "generation": "R172 (2016–2020)",
+      "generation": "R172 (2016-2020)",
       "price": "£2,200",
       "codeHref": "/mercedes-m270-engine"
     }
@@ -16,7 +16,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -29,8 +29,8 @@
     "titlePre": "Mercedes SLC250 Timing Chain Wear ",
     "titleHighlight": "(R172, M270/M274)",
     "paragraphs": [
-      "If your SLC250 is a 2016–2020 model with the M270 or M274 4-cylinder petrol — that's the R172 generation — timing chain wear is a well-documented pattern on this engine family, shared with the C-Class of the same era. We replace the timing chain, bearings, and gaskets as standard on every SLC250 rebuild.",
-      "include_in_hero_hook: yes — Source: established specialist pattern (per G-BRF, confirmed in original model page build) per VRF-mercedes-slc.md."
+      "If your SLC250 is a 2016-2020 model with the M270 or M274 4-cylinder petrol - that's the R172 generation - timing chain wear is a well-documented pattern on this engine family, shared with the C-Class of the same era. We replace the timing chain, bearings, and gaskets as standard on every SLC250 rebuild.",
+      "include_in_hero_hook: yes - Source: established specialist pattern (per G-BRF, confirmed in original model page build) per VRF-mercedes-slc.md."
     ],
     "source": "Source: established specialist pattern (per G-BRF, confirmed in original model page build) per VRF-mercedes-slc.md"
   }

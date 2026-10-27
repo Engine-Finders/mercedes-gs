@@ -26,7 +26,7 @@
         "codeHighlight": "OM646",
         "image": "/engines/om646-model-hero.webp",
         "codeRest": "(W639)",
-        "body": "A 2.2-litre I4 diesel fitted to the Vito 115/116 CDI across the W639 generation. Known for timing chain wear and injector seal leaks — see the callout above. We replace worn timing chains and injector seals as standard on every OM646 rebuild, along with the gaskets.",
+        "body": "A 2.2-litre I4 diesel fitted to the Vito 115/116 CDI across the W639 generation. Known for timing chain wear and injector seal leaks - see the callout above. We replace worn timing chains and injector seals as standard on every OM646 rebuild, along with the gaskets.",
         "cta": "Check Your OM646 Vito 115 116 CDI",
         "codeHref": "/mercedes-om646-engine"
       }
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES VITO 115 116 CDI ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the Vito 115/116 CDI spans two engine codes across the W639 generation, fitting the wrong replacement — or assuming parts from one engine will work on the other — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the Vito 115/116 CDI spans two engine codes across the W639 generation, fitting the wrong replacement - or assuming parts from one engine will work on the other - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Vito quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Vito quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES VITO 115 116 CDI ",
@@ -78,7 +78,7 @@
       {
         "generation": "W639",
         "chassis": "W639",
-        "years": "2003–2014",
+        "years": "2003-2014",
         "engineCode": "OM611",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om611-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "W639",
         "chassis": "W639",
-        "years": "2003–2014",
+        "years": "2003-2014",
         "engineCode": "OM646",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om646-engine"

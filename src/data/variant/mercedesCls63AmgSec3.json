@@ -4,29 +4,29 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£6,500",
   "engineImage": "/engines/m177-m178-engine-hero.webp",
-  "carImage": "/cars/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
+  "carImage": "/cars/card/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
   "cards": [
     {
       "code": "M156",
       "image": "/variant/sec10_engine.webp",
-      "carImage": "/cars/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
-      "generation": "C219 (2004–2010)",
+      "carImage": "/cars/card/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
+      "generation": "C219 (2004-2010)",
       "price": "£6,500",
       "codeHref": "/mercedes-m156-engine"
     },
     {
       "code": "M157",
       "image": "/variant/sec10_engine.webp",
-      "carImage": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
-      "generation": "C218 (2010–2018)",
+      "carImage": "/cars/card/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
+      "generation": "C218 (2010-2018)",
       "price": "£6,500",
       "codeHref": "/mercedes-m157-engine"
     },
     {
       "code": "M177",
       "image": "/engines/m177-m178-engine-hero.webp",
-      "carImage": "/cars/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
-      "generation": "C257 (2018–2023)",
+      "carImage": "/cars/card/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
+      "generation": "C257 (2018-2023)",
       "price": "£6,500",
       "codeHref": "/mercedes-m177-engine"
     }
@@ -34,7 +34,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -47,8 +47,8 @@
     "titlePre": "Mercedes CLS 63 AMG Valve Seal & Coolant System Wear ",
     "titleHighlight": "(C218/C257, M157/M177)",
     "paragraphs": [
-      "If your CLS 63 AMG is from the C218 or C257 generation — that's 2010 onwards — the M157 or M177 twin-turbo V8 engines are known for valve seal and coolant system wear over time. This is a well-documented pattern among AMG specialists. We replace valve seals, coolant components, timing chains and bearings as standard on every M157 and M177 rebuild.",
-      "The earlier C219 generation uses a different engine, the naturally aspirated M156 6.2-litre V8, which doesn't share this specific twin-turbo issue — it's a separate design with its own known characteristics that we inspect case-by-case rather than as a pattern."
+      "If your CLS 63 AMG is from the C218 or C257 generation - that's 2010 onwards - the M157 or M177 twin-turbo V8 engines are known for valve seal and coolant system wear over time. This is a well-documented pattern among AMG specialists. We replace valve seals, coolant components, timing chains and bearings as standard on every M157 and M177 rebuild.",
+      "The earlier C219 generation uses a different engine, the naturally aspirated M156 6.2-litre V8, which doesn't share this specific twin-turbo issue - it's a separate design with its own known characteristics that we inspect case-by-case rather than as a pattern."
     ],
     "source": "Source: established AMG specialist pattern, per VRF-mercedes-cls.md. C219/M156 explicitly excluded from this claim per VRF, correctly scoped to generation"
   }

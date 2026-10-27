@@ -52,7 +52,7 @@
             "Precise installation of the replacement engine with manufacturer-specified torque settings",
             "Reconnection of cooling, fuel, exhaust, and electrical systems",
             "Fluid filling and system bleeding (oil, coolant, transmission fluid where required)",
-            "ECU programming and adaptation using **Xentry** diagnostic system – including 48V mild-hybrid and V12 M275 engines",
+            "ECU programming and adaptation using **Xentry** diagnostic system - including 48V mild-hybrid and V12 M275 engines",
             "Comprehensive road testing and final quality control"
           ]
         },
@@ -72,13 +72,13 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Our engine replacement costs are quoted per vehicle based on the specific engine type and condition. As a guide, our **engine rebuild** starting prices are listed below – replacement pricing includes the cost of the replacement unit and is provided as a fixed quote after inspection."
+          "html": "Our engine replacement costs are quoted per vehicle based on the specific engine type and condition. As a guide, our **engine rebuild** starting prices are listed below - replacement pricing includes the cost of the replacement unit and is provided as a fixed quote after inspection."
         },
         {
           "t": "callout",
           "heading": "",
           "paras": [
-            "[Pricing disclaimer](/pricing-legal-disclaimer) – actual replacement costs vary; contact us for a personalised quote."
+            "[Pricing disclaimer](/pricing-legal-disclaimer) - actual replacement costs vary; contact us for a personalised quote."
           ]
         },
         {
@@ -231,12 +231,12 @@
           "t": "ul",
           "items": [
             "**12-month, unlimited-mileage warranty** on all engine replacement work",
-            "**Nationwide recovery** from £70 – most vehicles collected within hours",
+            "**Nationwide recovery** from £70 - most vehicles collected within hours",
             "**Under-30-minute quote** during working hours after initial contact",
-            "**Manufacturer-grade diagnostics** – Xentry and Vediamo for full ECU programming",
-            "**48V and V12 expertise** – we handle all Mercedes engine systems",
-            "**3–5 working day turnaround** for rebuilds; replacement times quoted per job",
-            "**Established since 2009** – trusted by Mercedes owners across the UK"
+            "**Manufacturer-grade diagnostics** - Xentry and Vediamo for full ECU programming",
+            "**48V and V12 expertise** - we handle all Mercedes engine systems",
+            "**3-5 working day turnaround** for rebuilds; replacement times quoted per job",
+            "**Established since 2009** - trusted by Mercedes owners across the UK"
           ]
         },
         {

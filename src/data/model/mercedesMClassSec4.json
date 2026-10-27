@@ -2,7 +2,7 @@
   "kicker": "Full Breakdown",
   "headlinePre": "Mercedes M-Class",
   "headlineHighlight": "Engine Rebuild Price Guide",
-  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide - request a free quote for an exact fixed price on your specific engine.",
   "columns": [
     "Engine Code",
     "Fuel",
@@ -16,7 +16,7 @@
       "fuel": "Diesel",
       "size": "2.7L/3.0L",
       "chassis": "W163/W164",
-      "range": "£2,200 – £3,200",
+      "range": "£2,200 - £3,200",
       "familyHref": "/mercedes-om611-engine"
     },
     {
@@ -24,7 +24,7 @@
       "fuel": "Diesel V6",
       "size": "3.0L",
       "chassis": "W164/W166",
-      "range": "£2,800 – £3,900",
+      "range": "£2,800 - £3,900",
       "familyHref": "/mercedes-om642-engine"
     },
     {
@@ -32,7 +32,7 @@
       "fuel": "Petrol V6",
       "size": "3.2L",
       "chassis": "W163",
-      "range": "£2,800 – £3,800",
+      "range": "£2,800 - £3,800",
       "familyHref": "/mercedes-m112-engine"
     },
     {
@@ -40,7 +40,7 @@
       "fuel": "Petrol V6",
       "size": "3.5L",
       "chassis": "W164",
-      "range": "£3,200 – £4,400",
+      "range": "£3,200 - £4,400",
       "familyHref": "/mercedes-m272-engine"
     },
     {
@@ -48,7 +48,7 @@
       "fuel": "Petrol V8",
       "size": "4.3L/5.0L",
       "chassis": "W163",
-      "range": "£4,500 – £5,800",
+      "range": "£4,500 - £5,800",
       "familyHref": "/mercedes-m113-engine"
     },
     {
@@ -56,7 +56,7 @@
       "fuel": "Petrol V8",
       "size": "5.5L",
       "chassis": "W164",
-      "range": "£4,500 – £5,800",
+      "range": "£4,500 - £5,800",
       "familyHref": "/mercedes-m273-engine"
     },
     {
@@ -64,7 +64,7 @@
       "fuel": "Petrol V8",
       "size": "6.2L",
       "chassis": "W164",
-      "range": "£6,500 – £10,000",
+      "range": "£6,500 - £10,000",
       "familyHref": "/mercedes-m156-engine"
     },
     {
@@ -72,7 +72,7 @@
       "fuel": "Petrol Twin-Turbo V8",
       "size": "5.5L",
       "chassis": "W166",
-      "range": "£6,500 – £9,500",
+      "range": "£6,500 - £9,500",
       "familyHref": "/mercedes-m157-engine"
     }
   ],

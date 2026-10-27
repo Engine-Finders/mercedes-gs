@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES V300 EXCLUSIVE ENGINE",
     "paragraphs": [
-      "The V300 Exclusive is the top-spec people-mover trim of the Vito range. It uses the OM654 — a 2.0-litre four-cylinder turbo-diesel producing 174kW and 500Nm. This is the same engine family used across the wider W447 Vito range in different states of tune, from the entry-level Vito 114 (100kW/300Nm) up to the V300 Exclusive's flagship output. The V300 Exclusive sits at the top of the current range, and the OM654 is the latest-generation diesel unit powering the 2025-refreshed models."
+      "The V300 Exclusive is the top-spec people-mover trim of the Vito range. It uses the OM654 - a 2.0-litre four-cylinder turbo-diesel producing 174kW and 500Nm. This is the same engine family used across the wider W447 Vito range in different states of tune, from the entry-level Vito 114 (100kW/300Nm) up to the V300 Exclusive's flagship output. The V300 Exclusive sits at the top of the current range, and the OM654 is the latest-generation diesel unit powering the 2025-refreshed models."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every V300 EXCLUSIVE on the road."
   },
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Vito quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Vito quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES V300 EXCLUSIVE ",
@@ -70,7 +70,7 @@
       {
         "generation": "W447 (2025 refresh)",
         "chassis": "W447",
-        "years": "2025–present",
+        "years": "2025-present",
         "engineCode": "OM654",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om654-engine"

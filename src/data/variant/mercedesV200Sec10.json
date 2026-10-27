@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES V200 ENGINE",
     "paragraphs": [
-      "The V200 has been part of the V-Class range since 1996, and across its two distinct generations has used four different diesel engines — from the early OM601 and OM602 units through to today's OM654 in the 2025-refresh models. The first-generation W638 (1996–2003) used the OM601 and OM602, older diesels that are no longer in production. The current W447-generation V200 (2014–present) started with the OM651, a 2.1-litre diesel, and switched to the newer OM654 2.0-litre diesel with the 2025 refresh — a different engine family entirely, not an evolution of the OM651. Knowing which one your van has matters, because the components, the known wear pattern, and even the rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+      "The V200 has been part of the V-Class range since 1996, and across its two distinct generations has used four different diesel engines - from the early OM601 and OM602 units through to today's OM654 in the 2025-refresh models. The first-generation W638 (1996-2003) used the OM601 and OM602, older diesels that are no longer in production. The current W447-generation V200 (2014-present) started with the OM651, a 2.1-litre diesel, and switched to the newer OM654 2.0-litre diesel with the 2025 refresh - a different engine family entirely, not an evolution of the OM651. Knowing which one your van has matters, because the components, the known wear pattern, and even the rebuild specifics differ between them - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every V200 on the road."
   },
@@ -18,14 +18,14 @@
         "codeHighlight": "OM651",
         "image": "/engines/om651-engine.webp",
         "codeRest": "(W447, early production)",
-        "body": "A 2.1-litre four-cylinder diesel fitted to the V200 from the start of W447 production through to the 2025 refresh. Known for injector seal leaks and timing chain wear — see the callout above. We replace both as standard on every OM651 rebuild.",
+        "body": "A 2.1-litre four-cylinder diesel fitted to the V200 from the start of W447 production through to the 2025 refresh. Known for injector seal leaks and timing chain wear - see the callout above. We replace both as standard on every OM651 rebuild.",
         "cta": "Check Your OM651 V200",
         "codeHref": "/mercedes-om651-engine"
       },
       {
         "codeHighlight": "OM654",
         "image": "/engines/om654-engine.webp",
-        "codeRest": "(W447, 2025 refresh–present)",
+        "codeRest": "(W447, 2025 refresh-present)",
         "body": "The current 2.0-litre four-cylinder diesel, fitted from the 2025 refresh onwards. A genuinely different engine from the OM651, sharing no major components with its predecessor. While no specific issue has been independently confirmed for this application in this session, we service it to the same standard as our other V200 rebuilds.",
         "cta": "Check Your OM654 V200",
         "codeHref": "/mercedes-om654-engine"
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES V200 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the V200 spans two distinct generations and four different engine codes, fitting the wrong replacement — or assuming an OM651 part will work on an OM654 van, or vice versa — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the V200 spans two distinct generations and four different engine codes, fitting the wrong replacement - or assuming an OM651 part will work on an OM654 van, or vice versa - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic V-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic V-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES V200 ",
@@ -78,7 +78,7 @@
       {
         "generation": "W638 (1st gen)",
         "chassis": "W638",
-        "years": "1996–2003",
+        "years": "1996-2003",
         "engineCode": "OM601/OM602",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om601-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "W447 (current)",
         "chassis": "W447",
-        "years": "2014–2025",
+        "years": "2014-2025",
         "engineCode": "OM651",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om651-engine"
@@ -94,7 +94,7 @@
       {
         "generation": "W447 (current, refreshed)",
         "chassis": "W447",
-        "years": "2025–present",
+        "years": "2025-present",
         "engineCode": "OM654",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om654-engine"

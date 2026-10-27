@@ -1,7 +1,7 @@
 {
   "kicker": "Known Issue",
   "h2": "Mercedes GLS|**OM642** Swirl|Flap Issues?",
-  "description": "The GLS shares its diesel V6/I6 with the GLE and E-Class — the same swirl flap and injector wear pattern applies. We replace worn swirl flaps and injectors as standard.",
+  "description": "The GLS shares its diesel V6/I6 with the GLE and E-Class - the same swirl flap and injector wear pattern applies. We replace worn swirl flaps and injectors as standard.",
   "descriptionEmphasis": "No hidden extras.",
   "image": "/model/sec2.webp",
   "imageMobile": "/model/sec2_mobile.webp",
@@ -13,7 +13,7 @@
   "heroHook": {
     "icon": "shield-check",
     "title": "Include In Hero Hook:",
-    "body": "Yes — both verified: OM651 widely documented with multiple TSBs; M156 pre-2012 established AMG specialist pattern."
+    "body": "Yes - both verified: OM651 widely documented with multiple TSBs; M156 pre-2012 established AMG specialist pattern."
   },
   "features": [
     {
@@ -34,7 +34,7 @@
     {
       "icon": "shield-check",
       "title": "Peace Of Mind",
-      "body": "No hidden extras — just a stronger, longer-lasting engine"
+      "body": "No hidden extras - just a stronger, longer-lasting engine"
     }
   ]
 }

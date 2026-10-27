@@ -45,10 +45,10 @@
         {
           "t": "ul",
           "items": [
-            "**More comprehensive parts replacement** — components that are still serviceable in a lower-mileage engine are often at end-of-life here and must be renewed.",
-            "**Stricter inspection criteria** — all parts are checked against tighter tolerances because wear is more distributed and hidden damage is more likely.",
-            "**Higher machining demand** — cylinder bores, crankshaft journals, and deck surfaces are more likely to be out of specification and require machining to restore geometry.",
-            "**Ancillary renewal** — oil pumps, water pumps, and timing components are often replaced as a matter of course, even if they appear functional, because their service life is typically aligned with the engine's major overhaul interval."
+            "**More comprehensive parts replacement** - components that are still serviceable in a lower-mileage engine are often at end-of-life here and must be renewed.",
+            "**Stricter inspection criteria** - all parts are checked against tighter tolerances because wear is more distributed and hidden damage is more likely.",
+            "**Higher machining demand** - cylinder bores, crankshaft journals, and deck surfaces are more likely to be out of specification and require machining to restore geometry.",
+            "**Ancillary renewal** - oil pumps, water pumps, and timing components are often replaced as a matter of course, even if they appear functional, because their service life is typically aligned with the engine's major overhaul interval."
           ]
         },
         {
@@ -68,11 +68,11 @@
             "**Our high-mileage rebuilds start from the same base pricing as our standard rebuilds**, but additional machining and parts replacement may increase the final cost. We quote after a full inspection.",
             {
               "ul": [
-                "**4-cylinder engines** — from £2,200",
-                "**6-cylinder engines** — from £2,800 (diesel) / £3,200 (petrol)",
-                "**V8 (non-AMG)** — from £4,500",
-                "**AMG V8** — from £6,500",
-                "**V12** — from £8,000+"
+                "**4-cylinder engines** - from £2,200",
+                "**6-cylinder engines** - from £2,800 (diesel) / £3,200 (petrol)",
+                "**V8 (non-AMG)** - from £4,500",
+                "**AMG V8** - from £6,500",
+                "**V12** - from £8,000+"
               ]
             },
             "Prices are indicative. Final cost depends on inspection findings. [View pricing disclaimer →](/pricing-legal-disclaimer)"
@@ -234,7 +234,7 @@
         },
         {
           "title": "Detailed Measurement",
-          "body": "Critical dimensions — cylinder bores, crankshaft journals, camshaft bearing surfaces — are measured against OE wear limits."
+          "body": "Critical dimensions - cylinder bores, crankshaft journals, camshaft bearing surfaces - are measured against OE wear limits."
         },
         {
           "title": "Machining & Restoration",
@@ -261,13 +261,13 @@
         {
           "t": "ul",
           "items": [
-            "**12-month unlimited-mileage warranty** on all rebuilds — we stand behind our work.",
-            "**Established in 2009** — specialist Mercedes workshop with extensive experience on high-mileage engines.",
+            "**12-month unlimited-mileage warranty** on all rebuilds - we stand behind our work.",
+            "**Established in 2009** - specialist Mercedes workshop with extensive experience on high-mileage engines.",
             "**We use genuine OEM parts** and follow factory specifications for machining and assembly.",
-            "**Nationwide recovery** available from £70 — we can bring your car to us.",
+            "**Nationwide recovery** available from £70 - we can bring your car to us.",
             "**Quote turnaround under 30 minutes** during working hours.",
             "**Rebuilds completed in 3-5 working days** from arrival at our workshop (subject to parts availability).",
-            "**Full machine shop on-site** — we handle all machining in-house, ensuring quality control at every step."
+            "**Full machine shop on-site** - we handle all machining in-house, ensuring quality control at every step."
           ]
         },
         {
@@ -315,7 +315,7 @@
         {
           "t": "ul",
           "items": [
-            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild) – standard rebuild service",
+            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild) - standard rebuild service",
             "[Mercedes Engine Inspection & Assessment](/mercedes-engine-inspection-assessment)",
             "[Mercedes Engine Matching by Registration & VIN](/mercedes-engine-matching)",
             "[Mercedes Engine Machining](/mercedes-engine-machining)",

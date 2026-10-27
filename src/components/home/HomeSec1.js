@@ -20,12 +20,12 @@ export default function HomeSec1({ hero, lookup }) {
           </div>
 
           {/* dedicated dark backdrop behind the text column only, sized to the exact 60vw the
-              text is constrained to — independent of the full-width gradient overlays above,
+              text is constrained to - independent of the full-width gradient overlays above,
               so legibility doesn't depend on how dark the photo happens to be underneath */}
           <div className="absolute inset-y-0 left-0 w-[60vw] bg-black/45" />
 
           {/* content flows normally so the hero's real height tracks whatever the text/box
-              actually need on this device — no reserved overlap padding, no scroll past fold. */}
+              actually need on this device - no reserved overlap padding, no scroll past fold. */}
           <div className="relative flex flex-col px-4 pb-40 pt-5">
             <div className="w-[62vw]">
               <h1 className="h1 uppercase">
@@ -108,7 +108,7 @@ export default function HomeSec1({ hero, lookup }) {
               }}
             >
               <span className="glare-border" aria-hidden="true" />
-              {/* mirror sheen — a bright diagonal streak plus a soft top-edge light-glint,
+              {/* mirror sheen - a bright diagonal streak plus a soft top-edge light-glint,
                   giving the panel a real glassy/reflective look instead of a flat gradient */}
               <div
                 className="pointer-events-none absolute inset-0 opacity-40 mix-blend-overlay"

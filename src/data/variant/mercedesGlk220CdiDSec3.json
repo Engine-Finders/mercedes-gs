@@ -9,7 +9,7 @@
     {
       "code": "OM651",
       "image": "/engines/om651-engine.webp",
-      "generation": "X204 (2008–2015)",
+      "generation": "X204 (2008-2015)",
       "price": "£2,200",
       "codeHref": "/mercedes-om651-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -30,8 +30,8 @@
     "titlePre": "Mercedes GLK220 CDI/d Injector Seal & Timing Chain Wear ",
     "titleHighlight": "(OM651)",
     "paragraphs": [
-      "If your GLK220 CDI/d has the OM651 2.1-litre diesel — that's the X204 generation, produced from 2008 to 2015 — injector seal leaks and timing chain/tensioner wear are well-documented patterns on this engine, shared across the C-Class family and backed by multiple manufacturer technical service bulletins. We replace the timing chain, injector seals and gaskets as standard on every OM651 rebuild.",
-      "include_in_hero_hook: yes for OM651 — Source: established specialist pattern, per VRF-mercedes-glk-class.md. Only confirmed for OM651 diesel variant."
+      "If your GLK220 CDI/d has the OM651 2.1-litre diesel - that's the X204 generation, produced from 2008 to 2015 - injector seal leaks and timing chain/tensioner wear are well-documented patterns on this engine, shared across the C-Class family and backed by multiple manufacturer technical service bulletins. We replace the timing chain, injector seals and gaskets as standard on every OM651 rebuild.",
+      "include_in_hero_hook: yes for OM651 - Source: established specialist pattern, per VRF-mercedes-glk-class.md. Only confirmed for OM651 diesel variant."
     ],
     "source": "Source: established specialist pattern, per VRF-mercedes-glk-class.md. Only confirmed for OM651 diesel variant"
   }

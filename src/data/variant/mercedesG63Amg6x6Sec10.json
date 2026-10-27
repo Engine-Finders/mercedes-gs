@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES G63 AMG 6X6 ENGINE",
     "paragraphs": [
-      "The G63 AMG 6x6 is a special-edition off-road vehicle produced between 2013 and 2015, based on the W463-generation G-Class. It uses the M157 — a 5.5-litre twin-turbo V8 shared with the standard G63 AMG of the same era, as well as AMG versions of the S-Class, CLS and E-Class. The 6x6's engine is mechanically identical to the standard G63's M157, delivering 544hp through a seven-speed automatic transmission to all six wheels. The G63 AMG 6x6 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The G63 AMG 6x6 is a special-edition off-road vehicle produced between 2013 and 2015, based on the W463-generation G-Class. It uses the M157 - a 5.5-litre twin-turbo V8 shared with the standard G63 AMG of the same era, as well as AMG versions of the S-Class, CLS and E-Class. The 6x6's engine is mechanically identical to the standard G63's M157, delivering 544hp through a seven-speed automatic transmission to all six wheels. The G63 AMG 6x6 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every G63 AMG 6X6 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M157",
         "codeRest": "",
-        "body": "A 5.5-litre twin-turbo V8 fitted to the G63 AMG 6x6 throughout its 2013–2015 production run. Known for valve seal and coolant system wear — see the callout above. We replace valve seals, coolant components, timing chain components and bearings as standard on every M157 rebuild.",
+        "body": "A 5.5-litre twin-turbo V8 fitted to the G63 AMG 6x6 throughout its 2013-2015 production run. Known for valve seal and coolant system wear - see the callout above. We replace valve seals, coolant components, timing chain components and bearings as standard on every M157 rebuild.",
         "cta": "Check Your M157 G63 AMG 6x6",
         "codeHref": "/mercedes-m157-engine"
       }
@@ -52,7 +52,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic G-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic G-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES G63 AMG 6X6 ",
@@ -69,7 +69,7 @@
       {
         "generation": "W463",
         "chassis": "W463",
-        "years": "2013–2015",
+        "years": "2013-2015",
         "engineCode": "M157",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m157-engine"

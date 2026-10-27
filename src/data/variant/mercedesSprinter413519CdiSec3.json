@@ -1,5 +1,5 @@
 {
-  "headlinePre": "Mercedes Sprinter 413–519 CDI",
+  "headlinePre": "Mercedes Sprinter 413-519 CDI",
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
@@ -8,13 +8,13 @@
   "cards": [
     {
       "code": "OM651 (4-cyl)",
-      "generation": "NCV3 (2006–2018)",
+      "generation": "NCV3 (2006-2018)",
       "price": "£2,200",
       "codeHref": "/mercedes-om651-engine"
     },
     {
       "code": "OM642 (V6)",
-      "generation": "NCV3 (2006–2018)",
+      "generation": "NCV3 (2006-2018)",
       "price": "£2,800",
       "codeHref": "/mercedes-om642-engine"
     }
@@ -22,7 +22,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -32,11 +32,11 @@
   },
   "warning": {
     "bgImage": "/variant/sec3.webp",
-    "titlePre": "Mercedes Sprinter 413–519 CDI Known Issues by Engine ",
+    "titlePre": "Mercedes Sprinter 413-519 CDI Known Issues by Engine ",
     "titleHighlight": "",
     "paragraphs": [
-      "If your Sprinter 413–519 CDI has the OM651 4-cylinder diesel (the 2.1-litre unit), injector seal leaks and timing chain wear are a well-established pattern across the wider Mercedes commercial vehicle range. We replace injector seals and timing chain components as standard on every OM651 rebuild.",
-      "If your Sprinter 413–519 CDI has the OM642 V6 diesel (the 3.0-litre unit), swirl flap and injector wear is a documented pattern on this engine. We replace worn swirl flaps, injector seals and gaskets as standard on every OM642 rebuild."
+      "If your Sprinter 413-519 CDI has the OM651 4-cylinder diesel (the 2.1-litre unit), injector seal leaks and timing chain wear are a well-established pattern across the wider Mercedes commercial vehicle range. We replace injector seals and timing chain components as standard on every OM651 rebuild.",
+      "If your Sprinter 413-519 CDI has the OM642 V6 diesel (the 3.0-litre unit), swirl flap and injector wear is a documented pattern on this engine. We replace worn swirl flaps, injector seals and gaskets as standard on every OM642 rebuild."
     ],
     "source": "Source: established commercial vehicle specialist pattern, per VRF-mercedes-sprinter.md. Both engine codes confirmed with separate known issues"
   }

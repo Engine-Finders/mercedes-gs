@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES CITAN 112 ENGINE",
     "paragraphs": [
-      "The Citan 112 uses the M282 — a 1.3-litre turbocharged petrol engine fitted from the current W420 generation onwards. It is part of a family of modern, efficient four-cylinder units used across the Mercedes-Benz range. No widely-reported engine issue for this variant — we still recommend a full inspection before any long journey."
+      "The Citan 112 uses the M282 - a 1.3-litre turbocharged petrol engine fitted from the current W420 generation onwards. It is part of a family of modern, efficient four-cylinder units used across the Mercedes-Benz range. No widely-reported engine issue for this variant - we still recommend a full inspection before any long journey."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every CITAN 112 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the CITAN 112 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 CITAN 112",
         "codeHref": "/mercedes-m256-engine"
@@ -53,12 +53,12 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Citan quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Citan quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES CITAN 112 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
+    "image": "/cars/card/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "W420",
-        "image": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
+        "image": "/cars/card/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
         "chassis": "W420",
-        "years": "2021–present",
+        "years": "2021-present",
         "engineCode": "M282",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m282-engine"

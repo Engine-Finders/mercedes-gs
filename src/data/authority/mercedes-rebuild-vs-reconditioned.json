@@ -3,7 +3,7 @@
   "metaTitle": "Mercedes-Benz Rebuild vs Reconditioned | Mercedes Garage",
   "metaDescription": "Understand the key differences between a reconditioned engine and a full rebuild. Learn about process, parts quality, and when each option makes sense for your Mercedes.",
   "h1": "Mercedes-Benz Rebuild vs Reconditioned",
-  "lede": "A clear, no-jargon breakdown of what “reconditioned” and “rebuilt” actually mean for your Mercedes engine — and why the difference matters for long-term reliability and value.",
+  "lede": "A clear, no-jargon breakdown of what “reconditioned” and “rebuilt” actually mean for your Mercedes engine - and why the difference matters for long-term reliability and value.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -36,7 +36,7 @@
   "sections": [
     {
       "kind": "prose",
-      "heading": "Reconditioned vs Rebuilt – What's the Actual Difference?",
+      "heading": "Reconditioned vs Rebuilt - What's the Actual Difference?",
       "blocks": [
         {
           "t": "p",
@@ -48,15 +48,15 @@
         },
         {
           "t": "p",
-          "html": "**Technical definition:** The engine is partially or fully disassembled, cleaned, and some damaged parts may be replaced. The aim is to restore it to a previous working state – not necessarily to Original Equipment (OE) specifications."
+          "html": "**Technical definition:** The engine is partially or fully disassembled, cleaned, and some damaged parts may be replaced. The aim is to restore it to a previous working state - not necessarily to Original Equipment (OE) specifications."
         },
         {
           "t": "ul",
           "items": [
-            "Often incomplete disassembly – only what's accessible gets addressed.",
+            "Often incomplete disassembly - only what's accessible gets addressed.",
             "May use non-OE aftermarket parts or reused components.",
             "Quality and scope vary widely between workshops.",
-            "Typically a “fix to usable” approach – cheaper upfront, but may compromise longevity."
+            "Typically a “fix to usable” approach - cheaper upfront, but may compromise longevity."
           ]
         },
         {
@@ -70,15 +70,15 @@
         {
           "t": "ul",
           "items": [
-            "Full disassembly – every component is evaluated.",
+            "Full disassembly - every component is evaluated.",
             "New wear parts (timing chains, bearings, seals, gaskets, etc.) are used throughout.",
             "Consistent quality control, with documented procedures and testing.",
-            "“Restore function properly” – aimed at returning the engine to as-new reliability."
+            "“Restore function properly” - aimed at returning the engine to as-new reliability."
           ]
         },
         {
           "t": "p",
-          "html": "At **Mercedes Garage**, we only perform full rebuilds – we don't offer “reconditioning” as a shortcut. We believe your Mercedes deserves the thorough, documented approach that a rebuild provides."
+          "html": "At **Mercedes Garage**, we only perform full rebuilds - we don't offer “reconditioning” as a shortcut. We believe your Mercedes deserves the thorough, documented approach that a rebuild provides."
         }
       ]
     },
@@ -96,8 +96,8 @@
           "rows": [
             [
               "**Disassembly**",
-              "Partial – only what's needed",
-              "Complete – every component stripped"
+              "Partial - only what's needed",
+              "Complete - every component stripped"
             ],
             [
               "**Parts Replacement**",
@@ -106,7 +106,7 @@
             ],
             [
               "**Quality Control**",
-              "Varies – often no documented standards",
+              "Varies - often no documented standards",
               "Systematic inspections, measured tolerances, and testing"
             ],
             [
@@ -116,8 +116,8 @@
             ],
             [
               "**Typical Cost**",
-              "Lower upfront – but may hide future issues",
-              "Higher initial investment – but long-term peace of mind"
+              "Lower upfront - but may hide future issues",
+              "Higher initial investment - but long-term peace of mind"
             ],
             [
               "**Best For**",
@@ -275,7 +275,7 @@
     },
     {
       "kind": "steps",
-      "heading": "Our Full Rebuild Process – The Thorough Approach",
+      "heading": "Our Full Rebuild Process - The Thorough Approach",
       "steps": [
         {
           "title": "Inspection & Assessment",
@@ -310,11 +310,11 @@
         {
           "t": "ul",
           "items": [
-            "**Specialist focus** – we work exclusively on Mercedes-Benz, so we know every engine family in detail.",
-            "**Full rebuilds only** – we never offer “reconditioning” as a shortcut; we believe in doing the job properly.",
-            "**OEM-spec parts** – we use genuine or equivalent quality components throughout, never cheap aftermarket substitutes.",
-            "**12-month unlimited-mileage warranty** – our rebuilds are backed by a comprehensive warranty, [see details](/warranty).",
-            "**Transparent process** – we document everything and keep you informed at every stage.",
+            "**Specialist focus** - we work exclusively on Mercedes-Benz, so we know every engine family in detail.",
+            "**Full rebuilds only** - we never offer “reconditioning” as a shortcut; we believe in doing the job properly.",
+            "**OEM-spec parts** - we use genuine or equivalent quality components throughout, never cheap aftermarket substitutes.",
+            "**12-month unlimited-mileage warranty** - our rebuilds are backed by a comprehensive warranty, [see details](/warranty).",
+            "**Transparent process** - we document everything and keep you informed at every stage.",
             "[Learn more about our workshop →](/about)"
           ]
         }
@@ -326,15 +326,15 @@
       "steps": [
         {
           "title": "1. Assess the vehicle's value and your plans",
-          "body": "If it's a low-value daily driver you only need for a short time, reconditioning might seem cheaper – but be aware of the risks. For a car you plan to keep, a rebuild is the better long-term investment."
+          "body": "If it's a low-value daily driver you only need for a short time, reconditioning might seem cheaper - but be aware of the risks. For a car you plan to keep, a rebuild is the better long-term investment."
         },
         {
           "title": "2. Understand what's actually included",
-          "body": "Always ask for a detailed scope of work. “Reconditioned” can mean anything from a clean-up to a partial rebuild – get it in writing. We provide a full breakdown of every part replaced in a rebuild."
+          "body": "Always ask for a detailed scope of work. “Reconditioned” can mean anything from a clean-up to a partial rebuild - get it in writing. We provide a full breakdown of every part replaced in a rebuild."
         },
         {
           "title": "3. Consider the warranty",
-          "body": "Recon work often comes with a short or limited warranty. Our full rebuilds include a 12-month unlimited-mileage warranty – that's real peace of mind."
+          "body": "Recon work often comes with a short or limited warranty. Our full rebuilds include a 12-month unlimited-mileage warranty - that's real peace of mind."
         },
         {
           "title": "4. Choose the workshop carefully",
@@ -365,7 +365,7 @@
       "items": [
         {
           "q": "What is the difference between reconditioned and rebuilt?",
-          "a": "**Reconditioned** typically means partial disassembly, cleaning, and replacement of only obviously damaged parts – aim is to get the engine running again. **Rebuilt** means complete disassembly, systematic inspection, and replacement of all wear parts with new OE-spec components – aim is to restore the engine to as-new reliability."
+          "a": "**Reconditioned** typically means partial disassembly, cleaning, and replacement of only obviously damaged parts - aim is to get the engine running again. **Rebuilt** means complete disassembly, systematic inspection, and replacement of all wear parts with new OE-spec components - aim is to restore the engine to as-new reliability."
         },
         {
           "q": "Is a reconditioned engine cheaper?",
@@ -381,7 +381,7 @@
         },
         {
           "q": "How long does a rebuild take?",
-          "a": "Our typical turnaround is **3–5 working days** from arrival at our workshop, depending on engine complexity and parts availability."
+          "a": "Our typical turnaround is **3-5 working days** from arrival at our workshop, depending on engine complexity and parts availability."
         },
         {
           "q": "What warranty comes with a rebuild?",

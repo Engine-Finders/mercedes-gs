@@ -40,22 +40,22 @@
       "blocks": [
         {
           "t": "p",
-          "html": "We handle the complete engine replacement process – from sourcing the correct replacement unit to final road testing. Our service includes:"
+          "html": "We handle the complete engine replacement process - from sourcing the correct replacement unit to final road testing. Our service includes:"
         },
         {
           "t": "ul",
           "items": [
-            "**Compatibility verification** – matching the engine to your vehicle's VIN, chassis code, and specification.",
-            "**Secure sourcing** – using verified engines with documented history and serial numbers.",
-            "**Full removal and fitting** – including all ancillaries, mounts, and fluids.",
-            "**ECU coding and integration** – using Mercedes-Benz Xentry/Star Diagnosis for proper programming.",
-            "**Post-installation testing** – oil pressure checks, leak testing, and road tests.",
-            "**12-month unlimited mileage warranty** – covering parts and labour."
+            "**Compatibility verification** - matching the engine to your vehicle's VIN, chassis code, and specification.",
+            "**Secure sourcing** - using verified engines with documented history and serial numbers.",
+            "**Full removal and fitting** - including all ancillaries, mounts, and fluids.",
+            "**ECU coding and integration** - using Mercedes-Benz Xentry/Star Diagnosis for proper programming.",
+            "**Post-installation testing** - oil pressure checks, leak testing, and road tests.",
+            "**12-month unlimited mileage warranty** - covering parts and labour."
           ]
         },
         {
           "t": "p",
-          "html": "We never supply engines without fitting – every unit is installed by our experienced technicians at our Essex workshop."
+          "html": "We never supply engines without fitting - every unit is installed by our experienced technicians at our Essex workshop."
         }
       ]
     },
@@ -121,11 +121,11 @@
         {
           "t": "ul",
           "items": [
-            "[OM651 4-cyl diesel](/mercedes-om651-engine) – fitted across many models",
-            "[OM642 V6 diesel](/mercedes-om642-engine) – common in E-Class, ML, etc.",
-            "[M276 V6 petrol](/mercedes-m276-engine) – widely used",
-            "[M177 V8 AMG](/mercedes-m177-engine) – high-performance units",
-            "[OM654 4-cyl diesel](/mercedes-om654-engine) – newer generation"
+            "[OM651 4-cyl diesel](/mercedes-om651-engine) - fitted across many models",
+            "[OM642 V6 diesel](/mercedes-om642-engine) - common in E-Class, ML, etc.",
+            "[M276 V6 petrol](/mercedes-m276-engine) - widely used",
+            "[M177 V8 AMG](/mercedes-m177-engine) - high-performance units",
+            "[OM654 4-cyl diesel](/mercedes-om654-engine) - newer generation"
           ]
         },
         {
@@ -170,7 +170,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Use our quick lookup to get started – we'll confirm your engine type and provide a tailored quote."
+          "html": "Use our quick lookup to get started - we'll confirm your engine type and provide a tailored quote."
         }
       ]
     },
@@ -181,12 +181,12 @@
         {
           "t": "ul",
           "items": [
-            "**Established since 2009** – with a dedicated Mercedes-Benz workshop in Essex.",
-            "**Genuine specialist equipment** – including Mercedes-Benz Xentry/Star Diagnosis.",
-            "**12-month unlimited-mileage warranty** – on all parts and labour.",
-            "**Nationwide recovery** – we can collect your vehicle from anywhere in the UK (separate charge).",
-            "**Quick turnaround** – most jobs completed within 3-5 working days.",
-            "**Transparent quoting** – fixed price after inspection, no hidden extras."
+            "**Established since 2009** - with a dedicated Mercedes-Benz workshop in Essex.",
+            "**Genuine specialist equipment** - including Mercedes-Benz Xentry/Star Diagnosis.",
+            "**12-month unlimited-mileage warranty** - on all parts and labour.",
+            "**Nationwide recovery** - we can collect your vehicle from anywhere in the UK (separate charge).",
+            "**Quick turnaround** - most jobs completed within 3-5 working days.",
+            "**Transparent quoting** - fixed price after inspection, no hidden extras."
           ]
         },
         {
@@ -197,7 +197,7 @@
     },
     {
       "kind": "steps",
-      "heading": "How It Works – Simple Steps",
+      "heading": "How It Works - Simple Steps",
       "steps": [
         {
           "title": "Contact Us",
@@ -240,7 +240,7 @@
       "items": [
         {
           "q": "What is included in your engine supply and fit service?",
-          "a": "We source the correct replacement engine, match it to your vehicle, remove the old unit, install the new engine with all ancillaries, program the ECU, and perform full testing – all covered by our 12-month warranty."
+          "a": "We source the correct replacement engine, match it to your vehicle, remove the old unit, install the new engine with all ancillaries, program the ECU, and perform full testing - all covered by our 12-month warranty."
         },
         {
           "q": "How long does the whole process take?",
@@ -248,7 +248,7 @@
         },
         {
           "q": "Do you supply engines without fitting?",
-          "a": "No – we only offer supply and fit as a complete service. This ensures correct installation, coding, and warranty coverage."
+          "a": "No - we only offer supply and fit as a complete service. This ensures correct installation, coding, and warranty coverage."
         },
         {
           "q": "Will my engine be matched to my specific vehicle?",
@@ -260,7 +260,7 @@
         },
         {
           "q": "Can you collect my vehicle?",
-          "a": "Yes – we offer nationwide recovery from £70 (separate charge). We can arrange collection and delivery back to you."
+          "a": "Yes - we offer nationwide recovery from £70 (separate charge). We can arrange collection and delivery back to you."
         }
       ]
     }

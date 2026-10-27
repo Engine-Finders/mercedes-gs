@@ -43,7 +43,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -57,7 +57,7 @@
     "titleHighlight": "",
     "paragraphs": [
       "OM642 (diesel V6, GLE Coupe 300d/350d models) If your GLE Coupe has the OM642 diesel V6, swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and timing chain components as standard on every OM642 rebuild.",
-      "AMG V8 (M157/M177, GLE63 Coupe) If your GLE Coupe is the GLE63 AMG — with either the earlier M157 or current M177 V8 — valve seal and coolant system wear are established AMG specialist patterns. We inspect and replace valve seals and coolant components as standard on every AMG V8 rebuild."
+      "AMG V8 (M157/M177, GLE63 Coupe) If your GLE Coupe is the GLE63 AMG - with either the earlier M157 or current M177 V8 - valve seal and coolant system wear are established AMG specialist patterns. We inspect and replace valve seals and coolant components as standard on every AMG V8 rebuild."
     ],
     "source": "Source: established specialist pattern, multiple TSBs (OM642) / AMG specialist pattern (M157/M177). Current V167 mainstream range not independently confirmed per VRF"
   }

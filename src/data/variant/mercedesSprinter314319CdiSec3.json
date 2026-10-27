@@ -1,5 +1,5 @@
 {
-  "headlinePre": "Mercedes Sprinter 314–319 CDI",
+  "headlinePre": "Mercedes Sprinter 314-319 CDI",
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
@@ -8,13 +8,13 @@
   "cards": [
     {
       "code": "OM651 (4-cyl)",
-      "generation": "VS30 (2018–2022)",
+      "generation": "VS30 (2018-2022)",
       "price": "£2,200",
       "codeHref": "/mercedes-om651-engine"
     },
     {
       "code": "OM642 (V6)",
-      "generation": "VS30 (2018–2022)",
+      "generation": "VS30 (2018-2022)",
       "price": "£2,800",
       "codeHref": "/mercedes-om642-engine"
     }
@@ -22,7 +22,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -32,12 +32,12 @@
   },
   "warning": {
     "bgImage": "/variant/sec3.webp",
-    "titlePre": "Mercedes Sprinter 314–319 CDI Known Issues by Engine ",
+    "titlePre": "Mercedes Sprinter 314-319 CDI Known Issues by Engine ",
     "titleHighlight": "",
     "paragraphs": [
-      "If your Sprinter 314–319 CDI has the OM651 4-cylinder diesel, injector seal leaks and timing chain wear are well-documented on this engine — a pattern shared across the wider Mercedes commercial vehicle range. We replace injector seals, timing chain components and gaskets as standard on every OM651 rebuild.",
+      "If your Sprinter 314-319 CDI has the OM651 4-cylinder diesel, injector seal leaks and timing chain wear are well-documented on this engine - a pattern shared across the wider Mercedes commercial vehicle range. We replace injector seals, timing chain components and gaskets as standard on every OM651 rebuild.",
       "If your Sprinter has the OM642 V6 diesel, swirl flap and injector wear are the established patterns on this engine. We replace swirl flaps, injector seals and gaskets as standard on every OM642 rebuild."
     ],
-    "source": "Source: established commercial vehicle specialist pattern, per VRF-mercedes-sprinter.md. Both engine codes confirmed for the VS30 2018–2022 generation"
+    "source": "Source: established commercial vehicle specialist pattern, per VRF-mercedes-sprinter.md. Both engine codes confirmed for the VS30 2018-2022 generation"
   }
 }

@@ -4,13 +4,13 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
   "engineImage": "/engines/m271-engine-hero.webp",
-  "carImage": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
+  "carImage": "/cars/card/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
   "cards": [
     {
       "code": "M271",
       "image": "/engines/m271-engine-hero.webp",
-      "carImage": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
-      "generation": "CL203 (2008–2011)",
+      "carImage": "/cars/card/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
+      "generation": "CL203 (2008-2011)",
       "price": "£2,200",
       "codeHref": "/mercedes-m271-engine"
     }
@@ -18,7 +18,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -31,8 +31,8 @@
     "titlePre": "Mercedes CLC 180 Timing Chain Wear ",
     "titleHighlight": "(M271)",
     "paragraphs": [
-      "If your CLC 180 has the M271 1.8-litre supercharged petrol engine — fitted across the entire CL203 generation from 2008 to 2011 — timing chain stretch and balance shaft issues are a well-documented pattern on this engine, backed by established Mercedes specialist consensus. We replace the timing chain, timing gears and gaskets as standard on every M271 rebuild.",
-      "include_in_hero_hook: yes — Source: established Mercedes specialist pattern (per G-BRF). Applies to M271 petrol variants. Excludes CLC 220 CDI diesel variants, which use a different engine family."
+      "If your CLC 180 has the M271 1.8-litre supercharged petrol engine - fitted across the entire CL203 generation from 2008 to 2011 - timing chain stretch and balance shaft issues are a well-documented pattern on this engine, backed by established Mercedes specialist consensus. We replace the timing chain, timing gears and gaskets as standard on every M271 rebuild.",
+      "include_in_hero_hook: yes - Source: established Mercedes specialist pattern (per G-BRF). Applies to M271 petrol variants. Excludes CLC 220 CDI diesel variants, which use a different engine family."
     ],
     "source": "Source: established Mercedes specialist pattern (per G-BRF). Applies to M271 petrol variants. Excludes CLC 220 CDI diesel variants, which use a different engine family"
   }

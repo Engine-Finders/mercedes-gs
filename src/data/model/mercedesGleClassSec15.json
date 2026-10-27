@@ -8,22 +8,22 @@
   "partImage": "/model/sec15_part.webp",
   "generations": [
     {
-      "years": "1997–2015",
+      "years": "1997-2015",
       "code": "as ML-Class, W163/W164",
       "list": "1997 through 2015 Mercedes M-Class/GLE-lineage engines"
     },
     {
-      "years": "2011–2019",
+      "years": "2011-2019",
       "code": "W166, GLE naming from 2015",
       "list": "2011 through 2019 Mercedes GLE-Class engines"
     },
     {
-      "years": "2019–present",
+      "years": "2019-present",
       "code": "W167",
       "list": "2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 Mercedes GLE-Class engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "Mercedes GLE400d Model:",
   "checklistLeft": [

@@ -45,12 +45,12 @@
         {
           "t": "ul",
           "items": [
-            "**Initial visual check** – external inspection for leaks, overheating signs, and visible damage",
-            "**Complete disassembly** – strip the engine down to its core components: block, crankshaft, connecting rods, cylinder head, and valvetrain",
-            "**Critical measurements** – block deck flatness, cylinder bore wear, crankshaft journal condition, connecting rod straightness and big-end bore",
-            "**Crack testing** – dye-penetrant (visible/fluorescent) and magnetic-particle inspection on machined parts to detect surface and sub-surface cracks",
-            "**Reusability determination** – assess each component against manufacturer specifications; decide which parts can be reused, which require machining, and which must be replaced",
-            "**Quotation and repair plan** – provide a detailed, fixed-price quotation for the required rebuild or replacement, with a clear roadmap of work"
+            "**Initial visual check** - external inspection for leaks, overheating signs, and visible damage",
+            "**Complete disassembly** - strip the engine down to its core components: block, crankshaft, connecting rods, cylinder head, and valvetrain",
+            "**Critical measurements** - block deck flatness, cylinder bore wear, crankshaft journal condition, connecting rod straightness and big-end bore",
+            "**Crack testing** - dye-penetrant (visible/fluorescent) and magnetic-particle inspection on machined parts to detect surface and sub-surface cracks",
+            "**Reusability determination** - assess each component against manufacturer specifications; decide which parts can be reused, which require machining, and which must be replaced",
+            "**Quotation and repair plan** - provide a detailed, fixed-price quotation for the required rebuild or replacement, with a clear roadmap of work"
           ]
         },
         {
@@ -69,13 +69,13 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Our inspection and assessment fee is deducted from the final rebuild or replacement cost. The table below shows our rebuild starting prices – your quotation will be based on the actual condition of your engine."
+          "html": "Our inspection and assessment fee is deducted from the final rebuild or replacement cost. The table below shows our rebuild starting prices - your quotation will be based on the actual condition of your engine."
         },
         {
           "t": "callout",
           "heading": "",
           "paras": [
-            "[Pricing disclaimer](/pricing-legal-disclaimer) – the inspection fee is waived if you proceed with the rebuild. Contact us for a detailed quote after assessment."
+            "[Pricing disclaimer](/pricing-legal-disclaimer) - the inspection fee is waived if you proceed with the rebuild. Contact us for a detailed quote after assessment."
           ]
         },
         {
@@ -177,13 +177,13 @@
         {
           "t": "ul",
           "items": [
-            "[M156 – AMG 6.2L V8](/mercedes-m156-engine)",
-            "[M157 – AMG 5.5L biturbo V8](/mercedes-m157-engine)",
-            "[OM642 – 3.0L V6 diesel](/mercedes-om642-engine)",
-            "[M276 – 3.5L V6 petrol](/mercedes-m276-engine)",
-            "[M274 – 2.0L 4-cyl petrol](/mercedes-m274-engine)",
-            "[OM654 – 2.0L 4-cyl diesel](/mercedes-om654-engine)",
-            "M275 – 6.0L V12"
+            "[M156 - AMG 6.2L V8](/mercedes-m156-engine)",
+            "[M157 - AMG 5.5L biturbo V8](/mercedes-m157-engine)",
+            "[OM642 - 3.0L V6 diesel](/mercedes-om642-engine)",
+            "[M276 - 3.5L V6 petrol](/mercedes-m276-engine)",
+            "[M274 - 2.0L 4-cyl petrol](/mercedes-m274-engine)",
+            "[OM654 - 2.0L 4-cyl diesel](/mercedes-om654-engine)",
+            "M275 - 6.0L V12"
           ]
         },
         {
@@ -202,7 +202,7 @@
         },
         {
           "title": "Complete Disassembly",
-          "body": "Engine is stripped down to its bare components – block, crank, rods, cylinder head, valvetrain, and all ancillary parts."
+          "body": "Engine is stripped down to its bare components - block, crank, rods, cylinder head, valvetrain, and all ancillary parts."
         },
         {
           "title": "Precision Measurement",
@@ -218,7 +218,7 @@
         },
         {
           "title": "Decision & Next Steps",
-          "body": "You approve the plan, and we move forward – either with a rebuild (including in-house machining) or, if needed, a replacement."
+          "body": "You approve the plan, and we move forward - either with a rebuild (including in-house machining) or, if needed, a replacement."
         }
       ]
     },
@@ -239,13 +239,13 @@
         {
           "t": "ul",
           "items": [
-            "**In-house assessment** – all work performed on-site, no outsourcing of critical inspection steps",
-            "**Certified precision tools** – dial bore gauges, micrometers, and crack detection equipment regularly calibrated",
-            "**Mercedes-specific expertise** – we know the exact wear patterns and tolerance specifications for every engine family",
-            "**Transparent findings** – we document everything and explain what each measurement means for your engine",
-            "**Fixed-price quotations** – no hidden extras, you get a clear cost before any work begins",
-            "**Second-opinion service** – if you're unsure about a previous diagnosis, we provide an independent assessment",
-            "**Part of a full-service workshop** – we can immediately move from assessment to machining and rebuild"
+            "**In-house assessment** - all work performed on-site, no outsourcing of critical inspection steps",
+            "**Certified precision tools** - dial bore gauges, micrometers, and crack detection equipment regularly calibrated",
+            "**Mercedes-specific expertise** - we know the exact wear patterns and tolerance specifications for every engine family",
+            "**Transparent findings** - we document everything and explain what each measurement means for your engine",
+            "**Fixed-price quotations** - no hidden extras, you get a clear cost before any work begins",
+            "**Second-opinion service** - if you're unsure about a previous diagnosis, we provide an independent assessment",
+            "**Part of a full-service workshop** - we can immediately move from assessment to machining and rebuild"
           ]
         },
         {
@@ -268,7 +268,7 @@
         },
         {
           "title": "Assessment & Quote",
-          "body": "We carry out the full inspection and provide a detailed quotation within 1–3 days."
+          "body": "We carry out the full inspection and provide a detailed quotation within 1-3 days."
         },
         {
           "title": "Decision & Action",
@@ -314,7 +314,7 @@
         },
         {
           "q": "How long does an inspection take before I get a quote?",
-          "a": "The disassembly, cleaning, and inspection phase typically takes 1–3 days. We aim to provide your quotation within this timeframe, though machining or external specialist assessments may add a few days."
+          "a": "The disassembly, cleaning, and inspection phase typically takes 1-3 days. We aim to provide your quotation within this timeframe, though machining or external specialist assessments may add a few days."
         },
         {
           "q": "What equipment do you use for crack testing?",
@@ -326,7 +326,7 @@
         },
         {
           "q": "How long does the whole rebuild process take after assessment?",
-          "a": "The total journey from assessment to completion can range from a few days to a couple of weeks, depending on parts availability and the scope of machining required. Most rebuilds are completed within 3–5 working days once the parts are sourced."
+          "a": "The total journey from assessment to completion can range from a few days to a couple of weeks, depending on parts availability and the scope of machining required. Most rebuilds are completed within 3-5 working days once the parts are sourced."
         }
       ]
     }

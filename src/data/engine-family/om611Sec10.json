@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The OM611 is one of the older commercial diesel engines we work on — fitted across the Sprinter, Vario and Vito model lines."
+      "body": "The OM611 is one of the older commercial diesel engines we work on - fitted across the Sprinter, Vario and Vito model lines."
     },
     {
       "icon": "wrench",
@@ -26,15 +26,15 @@
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed OM611 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed OM611 rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "MERCEDES-BENZ OM611 REBUILD",
     "image": "/engine/sec10_bottom.webp",
     "imageMobile": "/engine/sec10_bottom_mobile.webp",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "*The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.*",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "*The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.*",
     "scope": {
       "label": "Typical Scope:",
       "text": "Timing chain components, injector seals, gaskets, bearings, EGR system inspection, and oil system flush."

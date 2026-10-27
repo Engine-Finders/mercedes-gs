@@ -2,10 +2,10 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "Mercedes GLC-Class Rebuilds",
-  "subhead": "Full variant list below covers every Mercedes GLC-Class engine we work on — these are simply our most requested.",
+  "subhead": "Full variant list below covers every Mercedes GLC-Class engine we work on - these are simply our most requested.",
   "image": "/model/sec10.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
@@ -16,7 +16,7 @@
     {
       "number": "02",
       "model": "Mercedes GLC220d",
-      "spec": "2.0L–2.1L I4 Diesel (OM651 (X253 early) or OM654 (X253 later/X254))",
+      "spec": "2.0L-2.1L I4 Diesel (OM651 (X253 early) or OM654 (X253 later/X254))",
       "href": "/mercedes-glc220d-engines"
     },
     {
@@ -34,7 +34,7 @@
     {
       "number": "05",
       "model": "Mercedes GLC300d",
-      "spec": "2.0L–2.1L I4 Diesel (OM651 (early X253) or OM654 (later X253/X254))",
+      "spec": "2.0L-2.1L I4 Diesel (OM651 (early X253) or OM654 (later X253/X254))",
       "href": "/mercedes-glc300d-engines"
     },
     {

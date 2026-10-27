@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES SLK350 ENGINE",
     "paragraphs": [
-      "The SLK350 was introduced with the second-generation R171 in 2004 and continued through the facelift to the R172 generation, which ran until 2016 before being succeeded by the SLC. Across both generations, the SLK350 used the M272 — a 3.5-litre V6 petrol engine that served as the range's mid-tier option, positioned between the four-cylinder SLK200 and the V8-powered SLK55 AMG. The M272 is a 90-degree V6 with four valves per cylinder, offering strong performance for a compact roadster. The SLK350 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The SLK350 was introduced with the second-generation R171 in 2004 and continued through the facelift to the R172 generation, which ran until 2016 before being succeeded by the SLC. Across both generations, the SLK350 used the M272 - a 3.5-litre V6 petrol engine that served as the range's mid-tier option, positioned between the four-cylinder SLK200 and the V8-powered SLK55 AMG. The M272 is a 90-degree V6 with four valves per cylinder, offering strong performance for a compact roadster. The SLK350 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every SLK350 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SLK350 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 SLK350",
         "codeHref": "/mercedes-m256-engine"
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic SLK quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic SLK quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES SLK350 ",
@@ -70,7 +70,7 @@
       {
         "generation": "R171",
         "chassis": "R171",
-        "years": "2004–2011",
+        "years": "2004-2011",
         "engineCode": "M272",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m272-engine"
@@ -78,7 +78,7 @@
       {
         "generation": "R172",
         "chassis": "R172",
-        "years": "2011–2016",
+        "years": "2011-2016",
         "engineCode": "M272",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m272-engine"

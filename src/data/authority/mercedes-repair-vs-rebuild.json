@@ -3,7 +3,7 @@
   "metaTitle": "Mercedes-Benz Repair vs Full Rebuild | Mercedes Garage",
   "metaDescription": "Understand the difference between a targeted engine repair and a full engine rebuild for your Mercedes-Benz. Decision factors, process differences, and guidance from our specialists.",
   "h1": "Mercedes-Benz: Repair vs Full Engine Rebuild",
-  "lede": "Not every engine issue needs a full rebuild. We help you decide between a targeted repair and a complete factory-spec rebuild – based on damage, vehicle value, and your long-term plans.",
+  "lede": "Not every engine issue needs a full rebuild. We help you decide between a targeted repair and a complete factory-spec rebuild - based on damage, vehicle value, and your long-term plans.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -40,7 +40,7 @@
   "sections": [
     {
       "kind": "prose",
-      "heading": "Repair or Rebuild – Which Is Right for Your Mercedes?",
+      "heading": "Repair or Rebuild - Which Is Right for Your Mercedes?",
       "blocks": [
         {
           "t": "p",
@@ -85,7 +85,7 @@
         {
           "t": "ul",
           "items": [
-            "**Scope:** Minimal intervention – only the faulty part is addressed.",
+            "**Scope:** Minimal intervention - only the faulty part is addressed.",
             "**Machining:** Typically none.",
             "**Labour:** Shorter, focused time.",
             "**Testing:** Limited to confirming the repair."
@@ -102,7 +102,7 @@
         {
           "t": "ul",
           "items": [
-            "**Scope:** Complete teardown – all components checked.",
+            "**Scope:** Complete teardown - all components checked.",
             "**Machining:** Boring, honing, grinding, surfacing as required.",
             "**Labour:** Additional 10-15 hours on top of removal/refit.",
             "**Testing:** Full dyno and road testing."
@@ -116,7 +116,7 @@
     },
     {
       "kind": "prose",
-      "heading": "Key Decision Factors – How We Choose",
+      "heading": "Key Decision Factors - How We Choose",
       "blocks": [
         {
           "t": "h3",
@@ -218,7 +218,7 @@
     },
     {
       "kind": "steps",
-      "heading": "Our Approach – For Repairs and Rebuilds",
+      "heading": "Our Approach - For Repairs and Rebuilds",
       "steps": [
         {
           "title": "Inspection & Diagnosis",
@@ -226,7 +226,7 @@
         },
         {
           "title": "Recommendation",
-          "body": "We present you with clear options – repair vs rebuild – with costs and benefits explained, so you can choose."
+          "body": "We present you with clear options - repair vs rebuild - with costs and benefits explained, so you can choose."
         },
         {
           "title": "Authorised Work",
@@ -234,7 +234,7 @@
         },
         {
           "title": "Testing & Handover",
-          "body": "We test the engine thoroughly – dyno for rebuilds, road test for both – and hand the car back with a 12-month warranty."
+          "body": "We test the engine thoroughly - dyno for rebuilds, road test for both - and hand the car back with a 12-month warranty."
         }
       ]
     },
@@ -245,11 +245,11 @@
         {
           "t": "ul",
           "items": [
-            "**Expert guidance** – we help you decide between repair and rebuild based on real engineering assessment, not a sales pitch.",
-            "**Mercedes-specialist tools** – Star Diagnostic, factory timing tools, and full machine shop capability.",
-            "**12-month unlimited-mileage warranty** – on both repairs and rebuilds.",
-            "**Transparent fixed pricing** – quoted after inspection, no hidden surprises.",
-            "**Nationwide recovery** – we can collect your vehicle from anywhere in the UK."
+            "**Expert guidance** - we help you decide between repair and rebuild based on real engineering assessment, not a sales pitch.",
+            "**Mercedes-specialist tools** - Star Diagnostic, factory timing tools, and full machine shop capability.",
+            "**12-month unlimited-mileage warranty** - on both repairs and rebuilds.",
+            "**Transparent fixed pricing** - quoted after inspection, no hidden surprises.",
+            "**Nationwide recovery** - we can collect your vehicle from anywhere in the UK."
           ]
         },
         {
@@ -287,7 +287,7 @@
         },
         {
           "q": "Is a repair always cheaper than a rebuild?",
-          "a": "Typically, yes – but not always. If multiple components are failing, a rebuild may be more cost-effective in the long run than repeated repairs. We'll show you the total cost of ownership comparison."
+          "a": "Typically, yes - but not always. If multiple components are failing, a rebuild may be more cost-effective in the long run than repeated repairs. We'll show you the total cost of ownership comparison."
         },
         {
           "q": "How long does a repair take compared to a rebuild?",
@@ -295,7 +295,7 @@
         },
         {
           "q": "Do you offer a warranty on both repairs and rebuilds?",
-          "a": "Yes – all work we carry out is backed by our 12-month unlimited-mileage warranty, whether it's a repair or a full rebuild."
+          "a": "Yes - all work we carry out is backed by our 12-month unlimited-mileage warranty, whether it's a repair or a full rebuild."
         },
         {
           "q": "Can I bring my car in for a free inspection?",

@@ -2,10 +2,10 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "Mercedes S-Class Rebuilds",
-  "subhead": "Full variant list below covers every Mercedes S-Class engine we work on — these are simply our most requested.",
+  "subhead": "Full variant list below covers every Mercedes S-Class engine we work on - these are simply our most requested.",
   "image": "/model/sec10.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
@@ -40,7 +40,7 @@
     {
       "number": "06",
       "model": "Mercedes S580",
-      "spec": "4.0L V8 Petrol Twin-Turbo, Mild Hybrid (M176 (2021–2025) or M177 Evo (facelift onwards))",
+      "spec": "4.0L V8 Petrol Twin-Turbo, Mild Hybrid (M176 (2021-2025) or M177 Evo (facelift onwards))",
       "href": "/mercedes-s580-engines"
     },
     {

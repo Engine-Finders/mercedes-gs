@@ -8,13 +8,13 @@
   "cards": [
     {
       "code": "OM602",
-      "generation": "Single generation, lighter chassis (1996–2013)",
+      "generation": "Single generation, lighter chassis (1996-2013)",
       "price": "£2,200",
       "codeHref": "/mercedes-om602-engine"
     },
     {
       "code": "OM611",
-      "generation": "Single generation, lighter chassis (1996–2013)",
+      "generation": "Single generation, lighter chassis (1996-2013)",
       "price": "£2,200",
       "codeHref": "/mercedes-om611-engine"
     }
@@ -22,7 +22,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -35,9 +35,9 @@
     "titlePre": "Mercedes Vario 512D Injector Seal & Timing Chain Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "Vario 512D engines — OM602 and OM611, across the full production run — commonly show injector seal and timing chain/gear wear over time. This pattern is shared with the equivalent-era Sprinter and is well documented across Mercedes commercial vehicle specialist circles. We replace injector seals, timing chain components, timing gears and gaskets as standard on every Vario 512D rebuild.",
-      "include_in_hero_hook: yes — Source: established specialist pattern (per G-BRF), shared with equivalent-era Sprinter. Applies to both OM602 and OM611 — the same pattern is confirmed across the range."
+      "Vario 512D engines - OM602 and OM611, across the full production run - commonly show injector seal and timing chain/gear wear over time. This pattern is shared with the equivalent-era Sprinter and is well documented across Mercedes commercial vehicle specialist circles. We replace injector seals, timing chain components, timing gears and gaskets as standard on every Vario 512D rebuild.",
+      "include_in_hero_hook: yes - Source: established specialist pattern (per G-BRF), shared with equivalent-era Sprinter. Applies to both OM602 and OM611 - the same pattern is confirmed across the range."
     ],
-    "source": "Source: established specialist pattern (per G-BRF), shared with equivalent-era Sprinter. Applies to both OM602 and OM611 — the same pattern is confirmed across the range"
+    "source": "Source: established specialist pattern (per G-BRF), shared with equivalent-era Sprinter. Applies to both OM602 and OM611 - the same pattern is confirmed across the range"
   }
 }

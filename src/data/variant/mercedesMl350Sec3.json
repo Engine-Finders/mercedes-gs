@@ -9,14 +9,14 @@
     {
       "code": "M112",
       "image": "/engines/m112-engine-hero.webp",
-      "generation": "W163 (1997–2005)",
+      "generation": "W163 (1997-2005)",
       "price": "£2,800",
       "codeHref": "/mercedes-m112-engine"
     },
     {
       "code": "M272",
       "image": "/engines/m272-engine-hero.webp",
-      "generation": "W164 (2005–2011)",
+      "generation": "W164 (2005-2011)",
       "price": "£2,800",
       "codeHref": "/mercedes-m272-engine"
     }
@@ -24,7 +24,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -37,9 +37,9 @@
     "titlePre": "Mercedes ML350 Oil Leaks & Coolant System Wear ",
     "titleHighlight": "(M256 I6)",
     "paragraphs": [
-      "The M256 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+      "The M256 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor - a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
       "Because the ML350 uses a completely different engine family from the V8 M178 fitted to the M-Class 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
     ],
-    "source": "Source: Established M256 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
+    "source": "Source: Established M256 specialist pattern - timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
   }
 }

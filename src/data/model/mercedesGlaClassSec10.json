@@ -2,21 +2,21 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "Mercedes GLA-Class Rebuilds",
-  "subhead": "Full variant list below covers every Mercedes GLA-Class engine we work on — these are simply our most requested.",
+  "subhead": "Full variant list below covers every Mercedes GLA-Class engine we work on - these are simply our most requested.",
   "image": "/model/sec10.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "Mercedes GLA180",
-      "spec": "1.3L–2.0L Petrol (M270)",
+      "spec": "1.3L-2.0L Petrol (M270)",
       "href": "/mercedes-gla180-engines"
     },
     {
       "number": "02",
       "model": "Mercedes GLA200",
-      "spec": "1.3L–2.0L Petrol (M270, M282, M260 and other engine variants)",
+      "spec": "1.3L-2.0L Petrol (M270, M282, M260 and other engine variants)",
       "href": "/mercedes-gla200-engines"
     },
     {
@@ -28,7 +28,7 @@
     {
       "number": "04",
       "model": "Mercedes GLA250",
-      "spec": "1.3L–2.0L Petrol (M270, M282, M260)",
+      "spec": "1.3L-2.0L Petrol (M270, M282, M260)",
       "href": "/mercedes-gla250-engines"
     },
     {

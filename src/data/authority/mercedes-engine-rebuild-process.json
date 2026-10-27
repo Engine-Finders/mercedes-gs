@@ -3,7 +3,7 @@
   "metaTitle": "Mercedes-Benz Engine Rebuild Process | Mercedes Garage",
   "metaDescription": "Our complete 10-step engine rebuild process for Mercedes-Benz: from vehicle arrival and diagnosis to strip-down, machining, reassembly, testing, and road test.",
   "h1": "Mercedes-Benz Engine Rebuild Process",
-  "lede": "Our complete 10-step rebuild process — from arrival to road test — performed in-house with manufacturer-grade equipment and expertise.",
+  "lede": "Our complete 10-step rebuild process - from arrival to road test - performed in-house with manufacturer-grade equipment and expertise.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -45,16 +45,16 @@
         {
           "t": "ul",
           "items": [
-            "**Initial diagnosis** – full vehicle and engine assessment to confirm the required work",
-            "**Engine removal** – safe extraction using specialised lifting equipment",
-            "**Full strip-down** – complete disassembly to inspect every component",
-            "**Cleaning and inspection** – parts are cleaned and measured to determine reusability",
-            "**Precision machining** – cylinder boring/honing, deck surfacing, crank grinding, and align honing (all in-house)",
-            "**Parts sourcing and quality check** – we supply genuine or high-quality OEM-equivalent components",
-            "**Reassembly** – new bearings, seals, piston rings, and timing components fitted to exact torque specifications",
-            "**Final assembly and torquing** – all fasteners tightened to manufacturer-specified values",
-            "**Engine testing** – oil pressure, compression, and leak-down tests to verify performance",
-            "**Refit and road test** – engine reinstalled, fluids filled, and a full road test to confirm drivability"
+            "**Initial diagnosis** - full vehicle and engine assessment to confirm the required work",
+            "**Engine removal** - safe extraction using specialised lifting equipment",
+            "**Full strip-down** - complete disassembly to inspect every component",
+            "**Cleaning and inspection** - parts are cleaned and measured to determine reusability",
+            "**Precision machining** - cylinder boring/honing, deck surfacing, crank grinding, and align honing (all in-house)",
+            "**Parts sourcing and quality check** - we supply genuine or high-quality OEM-equivalent components",
+            "**Reassembly** - new bearings, seals, piston rings, and timing components fitted to exact torque specifications",
+            "**Final assembly and torquing** - all fasteners tightened to manufacturer-specified values",
+            "**Engine testing** - oil pressure, compression, and leak-down tests to verify performance",
+            "**Refit and road test** - engine reinstalled, fluids filled, and a full road test to confirm drivability"
           ]
         },
         {
@@ -73,13 +73,13 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Our rebuild pricing is fixed per engine type. The table below shows our starting prices – your final quote may vary based on the specific condition and required parts."
+          "html": "Our rebuild pricing is fixed per engine type. The table below shows our starting prices - your final quote may vary based on the specific condition and required parts."
         },
         {
           "t": "callout",
           "heading": "",
           "paras": [
-            "[Pricing disclaimer](/pricing-legal-disclaimer) – exact cost depends on condition and parts required; we provide a fixed quote after inspection."
+            "[Pricing disclaimer](/pricing-legal-disclaimer) - exact cost depends on condition and parts required; we provide a fixed quote after inspection."
           ]
         },
         {
@@ -209,7 +209,7 @@
         },
         {
           "title": "Full Strip-Down",
-          "body": "Engine is completely disassembled – block, crank, rods, head, valvetrain, and all internal parts."
+          "body": "Engine is completely disassembled - block, crank, rods, head, valvetrain, and all internal parts."
         },
         {
           "title": "Cleaning & Inspection",
@@ -221,7 +221,7 @@
         },
         {
           "title": "Parts Sourcing",
-          "body": "We order all required new components – bearings, seals, rings, timing gear – to OEM quality."
+          "body": "We order all required new components - bearings, seals, rings, timing gear - to OEM quality."
         },
         {
           "title": "Reassembly",
@@ -258,13 +258,13 @@
         {
           "t": "ul",
           "items": [
-            "**Complete in-house capability** – we control every stage, from diagnosis to road test, including machining",
-            "**Manufacturer-grade equipment** – Xentry diagnostics, dedicated torque plates, and precision machine tools",
-            "**12-month unlimited-mileage warranty** – on all rebuilds, giving you peace of mind",
-            "**Established since 2009** – trusted by Mercedes owners across the UK",
-            "**Transparent process** – we keep you updated at every step and explain all decisions",
-            "**Nationwide recovery** – from £70, with most vehicles collected within hours",
-            "**Fixed-price quotes** – no hidden extras, you know the cost upfront"
+            "**Complete in-house capability** - we control every stage, from diagnosis to road test, including machining",
+            "**Manufacturer-grade equipment** - Xentry diagnostics, dedicated torque plates, and precision machine tools",
+            "**12-month unlimited-mileage warranty** - on all rebuilds, giving you peace of mind",
+            "**Established since 2009** - trusted by Mercedes owners across the UK",
+            "**Transparent process** - we keep you updated at every step and explain all decisions",
+            "**Nationwide recovery** - from £70, with most vehicles collected within hours",
+            "**Fixed-price quotes** - no hidden extras, you know the cost upfront"
           ]
         },
         {

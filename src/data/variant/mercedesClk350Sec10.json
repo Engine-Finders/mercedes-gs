@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES CLK 350 ENGINE",
     "paragraphs": [
-      "The CLK 350 was introduced with the C209 generation from 2002, using the M272 — a 3.5-litre V6 petrol engine. It replaced the earlier CLK 320's M112 V6, offering more power and improved refinement. The M272 was fitted to the CLK 350 throughout its production run until 2009, when the C207-generation CLK (based on the E-Class platform) succeeded it. The CLK 350 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The CLK 350 was introduced with the C209 generation from 2002, using the M272 - a 3.5-litre V6 petrol engine. It replaced the earlier CLK 320's M112 V6, offering more power and improved refinement. The M272 was fitted to the CLK 350 throughout its production run until 2009, when the C207-generation CLK (based on the E-Class platform) succeeded it. The CLK 350 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every CLK 350 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the CLK 350 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 CLK 350",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES CLK 350 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The CLK 350 uses the M272 3.5-litre V6 across its entire C209 production run (2002–2009). Before we quote or supply anything, we confirm:",
+    "intro": "The CLK 350 uses the M272 3.5-litre V6 across its entire C209 production run (2002-2009). Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,12 +53,12 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic CLK quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic CLK quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES CLK 350 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-clk-c209-dfe7.webp",
+    "image": "/cars/card/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-clk-c209-dfe7.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "C209",
-        "image": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-clk-c209-dfe7.webp",
+        "image": "/cars/card/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-clk-c209-dfe7.webp",
         "chassis": "C209",
-        "years": "2002–2009",
+        "years": "2002-2009",
         "engineCode": "M272",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m272-engine"

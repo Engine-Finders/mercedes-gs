@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Mercedes-Benz M256 Applications — ",
+  "titlePre": "Mercedes-Benz M256 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "AMG GT 53",
       "generation": "X290",
       "chassis": "X290",
-      "years": "2018–present",
+      "years": "2018-present",
       "powertrain": "",
       "modelHref": "/mercedes-amg-gt-engines",
       "variantHref": "/mercedes-amg-gt-53-engines"
@@ -38,7 +38,7 @@
       "variant": "C 43 AMG",
       "generation": "W206",
       "chassis": "W206",
-      "years": "2023–present",
+      "years": "2023-present",
       "powertrain": "",
       "modelHref": "/mercedes-c-class-engines"
     },
@@ -47,7 +47,7 @@
       "variant": "E 53 AMG",
       "generation": "W213",
       "chassis": "W213",
-      "years": "2018–2023",
+      "years": "2018-2023",
       "powertrain": "",
       "modelHref": "/mercedes-e-class-engines"
     },
@@ -56,7 +56,7 @@
       "variant": "GLE 450",
       "generation": "W167",
       "chassis": "W167",
-      "years": "2019–present",
+      "years": "2019-present",
       "powertrain": "",
       "modelHref": "/mercedes-gle-class-engines"
     },
@@ -65,7 +65,7 @@
       "variant": "GLE 53 AMG",
       "generation": "W167",
       "chassis": "W167",
-      "years": "2019–present",
+      "years": "2019-present",
       "powertrain": "",
       "modelHref": "/mercedes-gle-class-engines"
     },
@@ -74,7 +74,7 @@
       "variant": "GLS 450",
       "generation": "X167",
       "chassis": "X167",
-      "years": "2019–present",
+      "years": "2019-present",
       "powertrain": "",
       "modelHref": "/mercedes-gls-engines"
     },
@@ -83,7 +83,7 @@
       "variant": "GLS 580",
       "generation": "X167",
       "chassis": "X167",
-      "years": "2019–present",
+      "years": "2019-present",
       "powertrain": "",
       "modelHref": "/mercedes-gls-engines"
     }

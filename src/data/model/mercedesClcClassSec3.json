@@ -4,12 +4,13 @@
   "startingFromLabel": "Starting From:",
   "image": "/model/sec3.webp",
   "imageMobile": "/model/sec3_mobile.webp",
-  "cardImage": "/model/engine_trim.webp",
+  "cardImage": "/engines/card3-engine-trim.webp",
   "cards": [
     {
       "titlePre": "4-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(M271/OM646)", "image": "/engines/m271-engine-hero.webp",
+      "code": "(M271/OM646)",
+      "image": "/engines/card3-m271-engine-hero.webp",
       "price": "£2,200",
       "featured": false,
       "codeHref": "/mercedes-m271-engine"
@@ -19,10 +20,11 @@
       "titleHighlight": "Recovery",
       "code": "",
       "price": "£from £70",
-      "featured": false
+      "featured": false,
+      "icon": "truck"
     }
   ],
-  "disclaimer": "Exact price depends on engine code, condition and parts required — full pricing further down this page.",
+  "disclaimer": "Exact price depends on engine code, condition and parts required - full pricing further down this page.",
   "cta": {
     "line1": "Get Your Fixed-Price Quote",
     "line2": "In Under 30 Minutes",

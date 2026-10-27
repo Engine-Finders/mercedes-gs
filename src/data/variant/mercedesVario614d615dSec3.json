@@ -8,13 +8,13 @@
   "cards": [
     {
       "code": "OM612",
-      "generation": "1996–2013",
+      "generation": "1996-2013",
       "price": "£2,300",
       "codeHref": "/mercedes-om612-engine"
     },
     {
       "code": "OM647",
-      "generation": "1996–2013",
+      "generation": "1996-2013",
       "price": "£2,300",
       "codeHref": "/mercedes-om647-engine"
     }
@@ -22,7 +22,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -35,8 +35,8 @@
     "titlePre": "Mercedes Vario 614D/615D Timing Chain & Injector Seal Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "Vario 614D/615D engines — OM612 and OM647, across the entire 1996–2013 production run — commonly show timing chain and gear wear, along with injector seal failure over time. This is a well-documented pattern shared with the equivalent-era Sprinter, backed by established Mercedes specialist consensus. We replace timing chain components, timing gears, injector seals and gaskets as standard on every Vario 614D/615D rebuild.",
-      "include_in_hero_hook: yes — Source: established specialist pattern (per G-BRF), confirmed across both OM612 and OM647. Verified via VRF-mercedes-vario.md."
+      "Vario 614D/615D engines - OM612 and OM647, across the entire 1996-2013 production run - commonly show timing chain and gear wear, along with injector seal failure over time. This is a well-documented pattern shared with the equivalent-era Sprinter, backed by established Mercedes specialist consensus. We replace timing chain components, timing gears, injector seals and gaskets as standard on every Vario 614D/615D rebuild.",
+      "include_in_hero_hook: yes - Source: established specialist pattern (per G-BRF), confirmed across both OM612 and OM647. Verified via VRF-mercedes-vario.md."
     ],
     "source": "Source: established specialist pattern (per G-BRF), confirmed across both OM612 and OM647. Verified via VRF-mercedes-vario.md"
   }

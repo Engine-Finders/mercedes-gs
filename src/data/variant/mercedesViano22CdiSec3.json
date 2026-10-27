@@ -9,7 +9,7 @@
     {
       "code": "OM646",
       "image": "/engines/om646-model-hero.webp",
-      "generation": "W639 (2003–2014)",
+      "generation": "W639 (2003-2014)",
       "price": "£2,200",
       "codeHref": "/mercedes-om646-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -30,7 +30,7 @@
     "titlePre": "Mercedes Viano 2.2 CDI Timing Chain & Injector Seal Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "If your Viano is a 2003–2014 model with the OM646 4-cylinder diesel — that's the W639 generation — timing chain and injector seal wear is a well-documented pattern on this engine, confirmed by established Mercedes specialist consensus. We replace the timing chain, injector seals and gaskets as standard on every OM646 rebuild.",
+      "If your Viano is a 2003-2014 model with the OM646 4-cylinder diesel - that's the W639 generation - timing chain and injector seal wear is a well-documented pattern on this engine, confirmed by established Mercedes specialist consensus. We replace the timing chain, injector seals and gaskets as standard on every OM646 rebuild.",
       "The Viano range also includes petrol variants (2.0, 3.0 and 3.5) which use different engines and don't share this specific issue."
     ],
     "source": "Source: established specialist pattern, per VRF-mercedes-viano.md. Petrol variants explicitly excluded from this claim per VRF"

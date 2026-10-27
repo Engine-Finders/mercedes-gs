@@ -36,7 +36,7 @@
   "sections": [
     {
       "kind": "prose",
-      "heading": "Rebuild vs Remanufactured — What's the Difference?",
+      "heading": "Rebuild vs Remanufactured - What's the Difference?",
       "blocks": [
         {
           "t": "p",
@@ -56,7 +56,7 @@
         },
         {
           "t": "p",
-          "html": "A **remanufactured** engine follows a more rigorous, standardised process that returns the engine to original equipment (OE) specifications — or better. Remanufacturing is governed by **BSI AU 257:2002**, the British Standard for internal combustion engine remanufacturing, which sets out detailed procedures for disassembly, inspection, machining, assembly, and testing."
+          "html": "A **remanufactured** engine follows a more rigorous, standardised process that returns the engine to original equipment (OE) specifications - or better. Remanufacturing is governed by **BSI AU 257:2002**, the British Standard for internal combustion engine remanufacturing, which sets out detailed procedures for disassembly, inspection, machining, assembly, and testing."
         },
         {
           "t": "p",
@@ -84,7 +84,7 @@
     },
     {
       "kind": "prose",
-      "heading": "Rebuild vs Remanufacture — Side by Side",
+      "heading": "Rebuild vs Remanufacture - Side by Side",
       "blocks": [
         {
           "t": "modelgroup",
@@ -337,13 +337,13 @@
         {
           "t": "ul",
           "items": [
-            "**12-month unlimited-mileage warranty** on all rebuilds — and extended warranty options for remanufactured engines.",
-            "**Established in 2009** — specialist Mercedes workshop with a proven track record.",
+            "**12-month unlimited-mileage warranty** on all rebuilds - and extended warranty options for remanufactured engines.",
+            "**Established in 2009** - specialist Mercedes workshop with a proven track record.",
             "**We use genuine OEM parts** and follow factory torque and clearance specifications.",
-            "**Nationwide recovery** available from £70 — we can bring your car to us.",
+            "**Nationwide recovery** available from £70 - we can bring your car to us.",
             "**Quote turnaround under 30 minutes** during working hours.",
             "**Rebuilds completed in 3-5 working days** from arrival at our workshop.",
-            "**BSI AU 257:2002** — our remanufacturing process follows the recognised British Standard."
+            "**BSI AU 257:2002** - our remanufacturing process follows the recognised British Standard."
           ]
         },
         {
@@ -391,8 +391,8 @@
         {
           "t": "ul",
           "items": [
-            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild) — full bottom-end and top-end rebuilds",
-            "[Mercedes Engine Replacement](/mercedes-engine-replacement) — supply and fit",
+            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild) - full bottom-end and top-end rebuilds",
+            "[Mercedes Engine Replacement](/mercedes-engine-replacement) - supply and fit",
             "[Mercedes Rebuild vs Replacement](/mercedes-rebuild-vs-replacement)",
             "[Mercedes Rebuild vs Used Engine](/mercedes-rebuild-vs-used)",
             "[Mercedes Rebuild vs Reconditioned](/mercedes-rebuild-vs-reconditioned)",
@@ -419,7 +419,7 @@
         },
         {
           "q": "How long does a remanufactured engine last?",
-          "a": "A properly remanufactured engine should deliver a service life comparable to a new engine — typically 100,000 miles or more, depending on maintenance and usage."
+          "a": "A properly remanufactured engine should deliver a service life comparable to a new engine - typically 100,000 miles or more, depending on maintenance and usage."
         },
         {
           "q": "What warranty do you offer?",

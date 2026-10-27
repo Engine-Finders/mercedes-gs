@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function VariantSec9({ data }) {
   return (
@@ -24,13 +25,13 @@ export default function VariantSec9({ data }) {
             <p className="mt-1.5 text-xs font-semibold text-white">{data.prompt}</p>
           </div>
 
-          <a
+          <QuoteLink
             href={data.cta.href}
             className="btn-text mt-3.5 flex w-fit items-center gap-2.5 whitespace-nowrap rounded-lg border border-hero-blue bg-black/30 px-5 py-3 uppercase text-hero-blue transition-colors hover:bg-hero-blue/10"
           >
             <Icon name="engine" className="h-5 w-5 shrink-0" />
             {data.cta.label} <span aria-hidden>→</span>
-          </a>
+          </QuoteLink>
         </div>
       </div>
 
@@ -62,13 +63,13 @@ export default function VariantSec9({ data }) {
             <p className="mt-4 w-full text-sm text-white lg:text-base">{data.body}</p>
             <p className="mt-2 text-sm font-semibold text-white">{data.prompt}</p>
 
-            <a
+            <QuoteLink
               href={data.cta.href}
               className="mt-5 inline-flex items-center gap-3 rounded-lg border border-hero-blue bg-black/30 px-7 py-3.5 text-sm font-bold uppercase text-hero-blue transition-colors hover:bg-hero-blue/10"
             >
               <Icon name="engine" className="h-6 w-6 shrink-0" />
               {data.cta.label} <span aria-hidden>→</span>
-            </a>
+            </QuoteLink>
           </div>
         </div>
       </div>

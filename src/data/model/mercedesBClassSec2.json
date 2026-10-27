@@ -1,7 +1,7 @@
 {
   "kicker": "Known Issue",
   "h2": "Mercedes B-Class|**OM640** Timing|Chain Issues?",
-  "description": "The B-Class shares its OM640 diesel engine directly with the A-Class of the same era — the same timing chain and injector seal wear pattern applies. We replace worn timing chains and injector seals as standard.",
+  "description": "The B-Class shares its OM640 diesel engine directly with the A-Class of the same era - the same timing chain and injector seal wear pattern applies. We replace worn timing chains and injector seals as standard.",
   "descriptionEmphasis": "No hidden extras.",
   "image": "/model/sec2.webp",
   "imageMobile": "/model/sec2_mobile.webp",
@@ -13,7 +13,7 @@
   "heroHook": {
     "icon": "shield-check",
     "title": "Include In Hero Hook:",
-    "body": "Yes — both verified: OM651 widely documented with multiple TSBs; M156 pre-2012 established AMG specialist pattern."
+    "body": "Yes - both verified: OM651 widely documented with multiple TSBs; M156 pre-2012 established AMG specialist pattern."
   },
   "features": [
     {
@@ -34,7 +34,7 @@
     {
       "icon": "shield-check",
       "title": "Peace Of Mind",
-      "body": "No hidden extras — just a stronger, longer-lasting engine"
+      "body": "No hidden extras - just a stronger, longer-lasting engine"
     }
   ]
 }

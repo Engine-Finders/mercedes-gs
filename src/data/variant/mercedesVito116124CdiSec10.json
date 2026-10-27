@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the VITO 116-124 CDI from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 VITO 116-124 CDI",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES VITO 116-124 CDI ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the W447 Vito 116-124 CDI range spans two distinct engines, fitting the wrong replacement — or assuming an OM651 part will work on an OM654 van — risks a compatibility problem. Before we quote or supply anything, we confirm: - Your exact engine code (OM651 or OM654) via registration or VIN - Your generation (early W447 or refreshed 2025) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
+    "intro": "Because the W447 Vito 116-124 CDI range spans two distinct engines, fitting the wrong replacement - or assuming an OM651 part will work on an OM654 van - risks a compatibility problem. Before we quote or supply anything, we confirm: - Your exact engine code (OM651 or OM654) via registration or VIN - Your generation (early W447 or refreshed 2025) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Vito quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Vito quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES VITO 116-124 CDI ",
@@ -70,7 +70,7 @@
       {
         "generation": "W447 (early)",
         "chassis": "W447",
-        "years": "2014–2024",
+        "years": "2014-2024",
         "engineCode": "OM651",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om651-engine"
@@ -78,7 +78,7 @@
       {
         "generation": "W447 (2025 refresh)",
         "chassis": "W447",
-        "years": "2025–present",
+        "years": "2025-present",
         "engineCode": "OM654",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om654-engine"

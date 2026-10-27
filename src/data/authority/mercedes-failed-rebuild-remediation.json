@@ -45,17 +45,17 @@
         {
           "t": "ul",
           "items": [
-            "**Visual inspection & strip-down** – we remove the engine and fully disassemble it, recording every detail of the previous work.",
-            "**Full component measurement** – all critical dimensions (bearing clearances, cylinder bore, crankshaft journals, valve guides) are measured against original specifications.",
-            "**Salvage vs. replace decision** – we identify which parts are still serviceable, which can be re-machined, and which must be replaced.",
-            "**Corrective machining & parts sourcing** – we carry out any necessary machining (honing, boring, grinding) and source genuine or OEM-quality replacement parts.",
-            "**Factory-spec reassembly** – every bolt is torqued to the correct angle and setting, with all single-use seals and gaskets replaced.",
-            "**Final testing and validation** – once reassembled, the engine is tested on the vehicle to confirm oil pressure, temperature stability, and smooth running."
+            "**Visual inspection & strip-down** - we remove the engine and fully disassemble it, recording every detail of the previous work.",
+            "**Full component measurement** - all critical dimensions (bearing clearances, cylinder bore, crankshaft journals, valve guides) are measured against original specifications.",
+            "**Salvage vs. replace decision** - we identify which parts are still serviceable, which can be re-machined, and which must be replaced.",
+            "**Corrective machining & parts sourcing** - we carry out any necessary machining (honing, boring, grinding) and source genuine or OEM-quality replacement parts.",
+            "**Factory-spec reassembly** - every bolt is torqued to the correct angle and setting, with all single-use seals and gaskets replaced.",
+            "**Final testing and validation** - once reassembled, the engine is tested on the vehicle to confirm oil pressure, temperature stability, and smooth running."
           ]
         },
         {
           "t": "p",
-          "html": "This is not a quick “patch-up” – it is a complete re-engineering of the engine to ensure it meets the durability and performance standards it was designed for."
+          "html": "This is not a quick “patch-up” - it is a complete re-engineering of the engine to ensure it meets the durability and performance standards it was designed for."
         }
       ]
     },
@@ -145,7 +145,7 @@
         },
         {
           "t": "p",
-          "html": "If your model isn't listed, contact us directly – we assess every Mercedes engine on its own merits."
+          "html": "If your model isn't listed, contact us directly - we assess every Mercedes engine on its own merits."
         }
       ]
     },
@@ -186,11 +186,11 @@
         {
           "t": "ul",
           "items": [
-            "**Established 2009** – we've been working exclusively on Mercedes-Benz engines for over a decade. [Learn about us](/about).",
-            "**Factory-spec methodology** – we don't guess; we measure, we machine, and we assemble strictly to Mercedes tolerances.",
-            "**Transparent assessment** – you receive a detailed report with photos and a clear breakdown of salvageable parts vs. replacements.",
-            "**Fully equipped machine shop** – we carry out all critical machining in-house, reducing lead times and ensuring quality control.",
-            "**12-month unlimited-mileage warranty** – our remediation work carries the same warranty as our standard rebuilds."
+            "**Established 2009** - we've been working exclusively on Mercedes-Benz engines for over a decade. [Learn about us](/about).",
+            "**Factory-spec methodology** - we don't guess; we measure, we machine, and we assemble strictly to Mercedes tolerances.",
+            "**Transparent assessment** - you receive a detailed report with photos and a clear breakdown of salvageable parts vs. replacements.",
+            "**Fully equipped machine shop** - we carry out all critical machining in-house, reducing lead times and ensuring quality control.",
+            "**12-month unlimited-mileage warranty** - our remediation work carries the same warranty as our standard rebuilds."
           ]
         }
       ]
@@ -253,11 +253,11 @@
       "items": [
         {
           "q": "How long does a remediation assessment take?",
-          "a": "Removing, stripping and measuring the engine typically takes 1–3 working days. We'll provide a full report and quote once the assessment is complete."
+          "a": "Removing, stripping and measuring the engine typically takes 1-3 working days. We'll provide a full report and quote once the assessment is complete."
         },
         {
           "q": "Can you salvage parts from a failed rebuild?",
-          "a": "Yes – our assessment identifies which components are still within factory specification and can be re-used, and which require machining or replacement."
+          "a": "Yes - our assessment identifies which components are still within factory specification and can be re-used, and which require machining or replacement."
         },
         {
           "q": "Do you offer a warranty on remediation work?",
@@ -265,11 +265,11 @@
         },
         {
           "q": "What types of Mercedes engines do you work on?",
-          "a": "All of them – from 4-cylinder diesel and petrol units to V6, V8, V12 and AMG performance engines. We have full data for every Mercedes engine family in the current range."
+          "a": "All of them - from 4-cylinder diesel and petrol units to V6, V8, V12 and AMG performance engines. We have full data for every Mercedes engine family in the current range."
         },
         {
           "q": "Do you recover vehicles that aren't drivable?",
-          "a": "Yes – we offer nationwide recovery for any Mercedes-Benz. You can [book recovery separately here](/mercedes-engine-recovery)."
+          "a": "Yes - we offer nationwide recovery for any Mercedes-Benz. You can [book recovery separately here](/mercedes-engine-recovery)."
         }
       ]
     }

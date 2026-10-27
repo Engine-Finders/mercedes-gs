@@ -3,7 +3,7 @@
   "metaTitle": "Mercedes Oil Leak & Gasket Repair | Mercedes Garage",
   "metaDescription": "Professional oil leak and gasket repair for all Mercedes-Benz models. Valve cover, timing cover, oil pan, and filter housing gaskets. Get a quote.",
   "h1": "Mercedes Oil Leak & Gasket Repair",
-  "lede": "The cost of oil leak repair depends on the location and extent of the leak. We provide a fixed-price quote after inspection – no hidden extras.",
+  "lede": "The cost of oil leak repair depends on the location and extent of the leak. We provide a fixed-price quote after inspection - no hidden extras.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -49,11 +49,11 @@
         {
           "t": "ul",
           "items": [
-            "**Valve cover gasket replacement** – the most common leak point. We remove intake components, clean sealing surfaces thoroughly, install new gaskets with correct sealant at joints, and torque to factory specifications. On V6/V8 engines, both banks are done together to save time and prevent future leaks.",
-            "**Timing cover gasket repair** – a more involved job. We drain oil, remove auxiliaries and the harmonic balancer, replace the cover gasket and front crankshaft seal, and reinstall with fresh sealant. This also gives us the opportunity to inspect timing components.",
-            "**Oil pan / sump gasket** – we drain oil, remove the sump, clean old gasket material, and install new gasket or sealant (some models use only sealant).",
-            "**Oil filter housing gasket** – we remove the housing, clean both mating faces to bare metal, and install a new OEM-spec gasket, torqued to specification.",
-            "**Additional seals** – we also check and replace spark plug tube seals, oil filler cap O-rings, and camshaft adjuster seals where needed."
+            "**Valve cover gasket replacement** - the most common leak point. We remove intake components, clean sealing surfaces thoroughly, install new gaskets with correct sealant at joints, and torque to factory specifications. On V6/V8 engines, both banks are done together to save time and prevent future leaks.",
+            "**Timing cover gasket repair** - a more involved job. We drain oil, remove auxiliaries and the harmonic balancer, replace the cover gasket and front crankshaft seal, and reinstall with fresh sealant. This also gives us the opportunity to inspect timing components.",
+            "**Oil pan / sump gasket** - we drain oil, remove the sump, clean old gasket material, and install new gasket or sealant (some models use only sealant).",
+            "**Oil filter housing gasket** - we remove the housing, clean both mating faces to bare metal, and install a new OEM-spec gasket, torqued to specification.",
+            "**Additional seals** - we also check and replace spark plug tube seals, oil filler cap O-rings, and camshaft adjuster seals where needed."
           ]
         },
         {
@@ -68,7 +68,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "The cost of oil leak repair depends on the location and extent of the leak. We provide a fixed-price quote after inspection – no hidden extras."
+          "html": "The cost of oil leak repair depends on the location and extent of the leak. We provide a fixed-price quote after inspection - no hidden extras."
         },
         {
           "t": "callout",
@@ -124,11 +124,11 @@
         {
           "t": "ul",
           "items": [
-            "[OM651 4-cyl diesel](/mercedes-om651-engine) – valve cover and oil filter housing leaks common",
-            "[OM642 V6 diesel](/mercedes-om642-engine) – oil cooler and valve cover gaskets often leak",
-            "[M276 V6 petrol](/mercedes-m276-engine) – timing cover and oil pan seals",
-            "[M272 V6 petrol](/mercedes-m272-engine) – known for valve cover gasket leaks",
-            "[OM654 4-cyl diesel](/mercedes-om654-engine) – oil filter housing leaks"
+            "[OM651 4-cyl diesel](/mercedes-om651-engine) - valve cover and oil filter housing leaks common",
+            "[OM642 V6 diesel](/mercedes-om642-engine) - oil cooler and valve cover gaskets often leak",
+            "[M276 V6 petrol](/mercedes-m276-engine) - timing cover and oil pan seals",
+            "[M272 V6 petrol](/mercedes-m272-engine) - known for valve cover gasket leaks",
+            "[OM654 4-cyl diesel](/mercedes-om654-engine) - oil filter housing leaks"
           ]
         },
         {
@@ -147,11 +147,11 @@
         },
         {
           "title": "Preparation",
-          "body": "We drain oil, remove necessary components to access the leaking gasket – this may include intake parts, auxiliaries, or the harmonic balancer."
+          "body": "We drain oil, remove necessary components to access the leaking gasket - this may include intake parts, auxiliaries, or the harmonic balancer."
         },
         {
           "title": "Cleaning",
-          "body": "We meticulously clean all mating surfaces to bare metal – the quality of cleaning is the single most important factor for long-term repair success."
+          "body": "We meticulously clean all mating surfaces to bare metal - the quality of cleaning is the single most important factor for long-term repair success."
         },
         {
           "title": "Gasket & Seal Replacement",
@@ -173,7 +173,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Use our quick lookup to get started – we'll confirm your engine type and advise on common oil leak points for your model."
+          "html": "Use our quick lookup to get started - we'll confirm your engine type and advise on common oil leak points for your model."
         }
       ]
     },
@@ -184,12 +184,12 @@
         {
           "t": "ul",
           "items": [
-            "**Established since 2009** – with a dedicated Mercedes-Benz workshop in Essex.",
-            "**OEM parts and Mercedes-approved sealants** – we never use generic alternatives that can fail early.",
-            "**Meticulous cleaning** – the key to a lasting repair, we take the time to do it right.",
-            "**12-month unlimited-mileage warranty** – on all parts and labour.",
-            "**Nationwide recovery** – we can collect your vehicle from anywhere in the UK (separate charge).",
-            "**Transparent quoting** – fixed price after inspection, no hidden extras."
+            "**Established since 2009** - with a dedicated Mercedes-Benz workshop in Essex.",
+            "**OEM parts and Mercedes-approved sealants** - we never use generic alternatives that can fail early.",
+            "**Meticulous cleaning** - the key to a lasting repair, we take the time to do it right.",
+            "**12-month unlimited-mileage warranty** - on all parts and labour.",
+            "**Nationwide recovery** - we can collect your vehicle from anywhere in the UK (separate charge).",
+            "**Transparent quoting** - fixed price after inspection, no hidden extras."
           ]
         },
         {
@@ -200,7 +200,7 @@
     },
     {
       "kind": "steps",
-      "heading": "How It Works – Simple Steps",
+      "heading": "How It Works - Simple Steps",
       "steps": [
         {
           "title": "Contact Us",
@@ -253,7 +253,7 @@
         },
         {
           "q": "Do you use genuine Mercedes parts?",
-          "a": "We use OEM-quality gaskets and Mercedes-approved sealants (Drei Bond 1209) – never generic alternatives that can fail prematurely."
+          "a": "We use OEM-quality gaskets and Mercedes-approved sealants (Drei Bond 1209) - never generic alternatives that can fail prematurely."
         },
         {
           "q": "Do you provide a warranty on gasket repairs?",
@@ -261,7 +261,7 @@
         },
         {
           "q": "Can you collect my vehicle?",
-          "a": "Yes – we offer nationwide recovery from £70 (separate charge). We can arrange collection and delivery back to you."
+          "a": "Yes - we offer nationwide recovery from £70 (separate charge). We can arrange collection and delivery back to you."
         },
         {
           "q": "Why is cleaning so important for gasket repairs?",

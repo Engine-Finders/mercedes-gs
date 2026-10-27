@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLC43 AMG ENGINE",
     "paragraphs": [
-      "The GLC43 AMG has been part of the GLC-Class range since 2015, and across its two generations has used two different engines — from the M276 V6 through to today's M139 4-cylinder hybrid. The full breakdown by engine code is below."
+      "The GLC43 AMG has been part of the GLC-Class range since 2015, and across its two generations has used two different engines - from the M276 V6 through to today's M139 4-cylinder hybrid. The full breakdown by engine code is below."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLC43 AMG on the road."
   },
@@ -26,7 +26,7 @@
         "codeHighlight": "M139",
         "image": "/variant/sec10_engine.webp",
         "codeRest": "(X254)",
-        "body": "A 2.0-litre I4 hybrid petrol fitted to the GLC43 AMG from 2022 to present (X254 generation). This is a notable departure from the older V6, part of a wider AMG shift to hybridised 4-cylinder power. No specific known issue confirmed for this application — it's a newer engine and we treat it as such.",
+        "body": "A 2.0-litre I4 hybrid petrol fitted to the GLC43 AMG from 2022 to present (X254 generation). This is a notable departure from the older V6, part of a wider AMG shift to hybridised 4-cylinder power. No specific known issue confirmed for this application - it's a newer engine and we treat it as such.",
         "cta": "Check Your M139 GLC43 AMG",
         "codeHref": "/mercedes-amg-m139-engine"
       }
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLC43 AMG ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the GLC43 AMG spans two distinct engines across two generations, fitting the wrong replacement — or assuming an M276 part will work on an M139 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the GLC43 AMG spans two distinct engines across two generations, fitting the wrong replacement - or assuming an M276 part will work on an M139 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLC43 AMG ",
@@ -78,7 +78,7 @@
       {
         "generation": "X253",
         "chassis": "X253",
-        "years": "2015–2022",
+        "years": "2015-2022",
         "engineCode": "M276",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m276-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "X254",
         "chassis": "X254",
-        "years": "2022–present",
+        "years": "2022-present",
         "engineCode": "M139",
         "fuel": "Petrol Hybrid",
         "codeHref": "/mercedes-amg-m139-engine"

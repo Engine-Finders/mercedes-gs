@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generation",
-      "value": "W163 (1997–2005) · W164 (2005–2011)"
+      "value": "W163 (1997-2005) · W164 (2005-2011)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The ML500 uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The ML500 uses the M256 3.0-litre inline-six mild-hybrid engine - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

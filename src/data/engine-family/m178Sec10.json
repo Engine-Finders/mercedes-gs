@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The M178 is a relatively new engine, and we see it across the entire range of its applications — from the compact 45-series AMGs to the more recent 43-series models and the SL 43."
+      "body": "The M178 is a relatively new engine, and we see it across the entire range of its applications - from the compact 45-series AMGs to the more recent 43-series models and the SL 43."
     },
     {
       "icon": "wrench",
@@ -26,14 +26,14 @@
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed M178 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed M178 rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "MERCEDES-AMG M178 REBUILD",
     "image": "/engine/sec10_bottom.webp",
     "imageMobile": "/engine/sec10_bottom_mobile.webp",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
     "body": "The M178 is a highly-strung, high-performance engine, and its twin-scroll turbocharger is a central component in its design. A full rebuild involves removing and inspecting the turbocharger, replacing timing chain components, bearings, gaskets, and calibrating the two-stage fuel injection system (direct and port injection). Given its 421 hp output in S guise, the engine's components are stressed to a high degree, and we pay particular attention to the crankshaft and cylinder head during inspection.",
     "scope": {
       "label": "Typical Scope:",

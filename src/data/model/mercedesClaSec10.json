@@ -2,46 +2,46 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "Mercedes CLA Rebuilds",
-  "subhead": "Full variant list below covers every Mercedes CLA engine we work on — these 10 are simply our most requested.",
-  "image": "/cars/cla-c174-electric-cla-4-door-coupe-2025-new-citrine-brown-me-313e.webp",
+  "subhead": "Full variant list below covers every Mercedes CLA engine we work on - these 10 are simply our most requested.",
+  "image": "/cars/card/cla-c174-electric-cla-4-door-coupe-2025-new-citrine-brown-me-313e.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "Mercedes CLA180",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/cla-c117-facelift-coupe-4-door-coupe-20162019-new-cavansite-5171.webp"
+      "image": "/cars/card/cla-c117-facelift-coupe-4-door-coupe-20162019-new-cavansite-5171.webp"
     },
     {
       "number": "02",
       "model": "Mercedes CLA200",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/cla-c117-coupe-4-door-coupe-20132016-new-brilliant-silver-me-6ddf.webp"
+      "image": "/cars/card/cla-c117-coupe-4-door-coupe-20132016-new-brilliant-silver-me-6ddf.webp"
     },
     {
       "number": "03",
       "model": "Mercedes CLA220d",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/cla-c174-electric-cla-4-door-coupe-2025-new-citrine-brown-me-313e.webp"
+      "image": "/cars/card/cla-c174-electric-cla-4-door-coupe-2025-new-citrine-brown-me-313e.webp"
     },
     {
       "number": "04",
       "model": "Mercedes CLA250",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/cla-c118-coupe-4-door-coupe-20192023-new-polar-white-new-generation-cl-bb49.webp"
+      "image": "/cars/card/cla-c118-coupe-4-door-coupe-20192023-new-polar-white-new-generation-cl-bb49.webp"
     },
     {
       "number": "05",
       "model": "Mercedes CLA35 AMG",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/cla-x118-shooting-brake-estate-coupe-20192023-new-emerald-gr-4edb.webp"
+      "image": "/cars/card/cla-x118-shooting-brake-estate-coupe-20192023-new-emerald-gr-4edb.webp"
     },
     {
       "number": "06",
       "model": "Mercedes CLA45 AMG",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/cla-c118-coupe-4-door-coupe-20192023-new-polar-white-new-generation-cl-bb49.webp"
+      "image": "/cars/card/cla-c118-coupe-4-door-coupe-20192023-new-polar-white-new-generation-cl-bb49.webp"
     }
   ]
 }

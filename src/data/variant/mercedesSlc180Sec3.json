@@ -9,7 +9,7 @@
     {
       "code": "M256",
       "image": "/engines/m256-engine-hero.webp",
-      "generation": "R190 (2023–present)",
+      "generation": "R190 (2023-present)",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -30,8 +30,8 @@
     "titlePre": "Mercedes SLC180 Timing Chain Wear ",
     "titleHighlight": "(M270 4-Cyl)",
     "paragraphs": [
-      "If your SLC180 has the M270 1.6-litre 4-cylinder petrol engine — that's all SLC180 models across the full 2016–2020 R172 generation — timing chain wear is a recognised pattern on this engine family, shared with the broader M270/M274 range used across C-Class and other models of the same era. We replace timing chains, bearings and gaskets as standard on every M270 rebuild.",
-      "include_in_hero_hook: yes — Source: established specialist pattern (per G-BRF, confirmed in original SLC model page build)."
+      "If your SLC180 has the M270 1.6-litre 4-cylinder petrol engine - that's all SLC180 models across the full 2016-2020 R172 generation - timing chain wear is a recognised pattern on this engine family, shared with the broader M270/M274 range used across C-Class and other models of the same era. We replace timing chains, bearings and gaskets as standard on every M270 rebuild.",
+      "include_in_hero_hook: yes - Source: established specialist pattern (per G-BRF, confirmed in original SLC model page build)."
     ],
     "source": "Source: established specialist pattern (per G-BRF, confirmed in original SLC model page build)"
   }

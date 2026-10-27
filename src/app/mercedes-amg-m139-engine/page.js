@@ -35,7 +35,7 @@ const FAQ = [...(sec11.faq?.faqLeft || []), ...(sec11.faq?.faqRight || [])];
 export const metadata = {
   title: "Mercedes-AMG M139 Engine Rebuild & Replacement | From £3,600",
   description:
-    "Mercedes-AMG M139 engine rebuild from £3,600. Fitted across 6 models — A-Class, CLA, GLA, C-Class, GLC & SL. 12-month warranty, nationwide recovery. Free quote in 30 mins.",
+    "Mercedes-AMG M139 engine rebuild from £3,600. Fitted across 6 models - A-Class, CLA, GLA, C-Class, GLC & SL. 12-month warranty, nationwide recovery. Free quote in 30 mins.",
   alternates: { canonical: "/mercedes-amg-m139-engine" },
 };
 

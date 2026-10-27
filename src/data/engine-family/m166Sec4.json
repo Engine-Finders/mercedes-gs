@@ -6,39 +6,39 @@
       "icon": "bearing",
       "image": "/engine/sec4.webp",
       "title": "Main bearings and connecting rod bearings",
-      "body": "Main bearings and connecting rod bearings — we replace these as standard."
+      "body": "Main bearings and connecting rod bearings - we replace these as standard."
     },
     {
       "icon": "gasket",
       "image": "/engine/sec4.webp",
       "title": "Complete gasket and seal set",
-      "body": "Complete gasket and seal set — all engine seals are renewed."
+      "body": "Complete gasket and seal set - all engine seals are renewed."
     },
     {
       "icon": "chain",
       "image": "/engine/sec4.webp",
       "title": "Timing chain components",
-      "body": "Timing chain components — we inspect and replace timing chain components where required."
+      "body": "Timing chain components - we inspect and replace timing chain components where required."
     },
     {
       "icon": "gasket",
       "image": "/engine/sec4.webp",
       "title": "Oil filter housing gasket",
-      "body": "Oil filter housing gasket — replaced as standard."
+      "body": "Oil filter housing gasket - replaced as standard."
     },
     {
       "icon": "piston",
       "image": "/engine/sec4.webp",
       "title": "Crankshaft",
-      "body": "Crankshaft — we inspect and measure for wear."
+      "body": "Crankshaft - we inspect and measure for wear."
     },
     {
       "icon": "piston",
       "image": "/engine/sec4.webp",
       "title": "Cylinder head",
-      "body": "Cylinder head — we inspect and measure for wear and damage."
+      "body": "Cylinder head - we inspect and measure for wear and damage."
     }
   ],
-  "notice": "Components drawn directly from VRF Key Components data. If your M166's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
+  "notice": "Components drawn directly from VRF Key Components data. If your M166's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected - not guessed in advance.",
   "noticeImage": "/model/sec15_part.webp"
 }

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES SLK55 AMG ENGINE",
     "paragraphs": [
-      "The SLK55 AMG was the flagship performance variant of the SLK range, produced across two generations from 2004 to 2016. The R171 generation (2004–2011) uses the M113 — a 5.5-litre naturally aspirated V8 that was a staple of the AMG range during that era. The R172 generation (2011–2016) switched to the M152, a newer 5.5-litre naturally aspirated V8 that shares architecture with the M155 and M157. Knowing which one your car has matters because the components, the known wear patterns, and even the rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+      "The SLK55 AMG was the flagship performance variant of the SLK range, produced across two generations from 2004 to 2016. The R171 generation (2004-2011) uses the M113 - a 5.5-litre naturally aspirated V8 that was a staple of the AMG range during that era. The R172 generation (2011-2016) switched to the M152, a newer 5.5-litre naturally aspirated V8 that shares architecture with the M155 and M157. Knowing which one your car has matters because the components, the known wear patterns, and even the rebuild specifics differ between them - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every SLK55 AMG on the road."
   },
@@ -18,7 +18,7 @@
         "codeHighlight": "M113",
         "image": "/engines/m113-engine-hero.webp",
         "codeRest": "(R171)",
-        "body": "A 5.5-litre naturally aspirated V8 fitted to the SLK55 AMG from 2004 to 2011. A well-established AMG V8 of its era. No specific known issue confirmed for this application — we service it to the same standard as our other AMG V8 rebuilds.",
+        "body": "A 5.5-litre naturally aspirated V8 fitted to the SLK55 AMG from 2004 to 2011. A well-established AMG V8 of its era. No specific known issue confirmed for this application - we service it to the same standard as our other AMG V8 rebuilds.",
         "cta": "Check Your M113 SLK55 AMG",
         "codeHref": "/mercedes-m113-engine"
       },
@@ -26,7 +26,7 @@
         "codeHighlight": "M152",
         "image": "/variant/sec10_engine.webp",
         "codeRest": "(R172)",
-        "body": "A 5.5-litre naturally aspirated V8 fitted to the SLK55 AMG from 2011 to 2016. Shares architecture with the M155 and M157. Known for valve seal and coolant system wear — see the callout above. We replace valve seals and coolant components as standard on every M152 rebuild.",
+        "body": "A 5.5-litre naturally aspirated V8 fitted to the SLK55 AMG from 2011 to 2016. Shares architecture with the M155 and M157. Known for valve seal and coolant system wear - see the callout above. We replace valve seals and coolant components as standard on every M152 rebuild.",
         "cta": "Check Your M152 SLK55 AMG",
         "codeHref": "/mercedes-m152-engine"
       }
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES SLK55 AMG ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the SLK55 AMG spans two distinct V8 engines across two generations, fitting the wrong replacement — or assuming an M113 part will work on an R172 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the SLK55 AMG spans two distinct V8 engines across two generations, fitting the wrong replacement - or assuming an M113 part will work on an R172 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic SLK quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic SLK quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES SLK55 AMG ",
@@ -78,7 +78,7 @@
       {
         "generation": "R171",
         "chassis": "R171",
-        "years": "2004–2011",
+        "years": "2004-2011",
         "engineCode": "M113",
         "fuel": "Petrol V8",
         "codeHref": "/mercedes-m113-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "R172",
         "chassis": "R172",
-        "years": "2011–2016",
+        "years": "2011-2016",
         "engineCode": "M152",
         "fuel": "Petrol V8",
         "codeHref": "/mercedes-m152-engine"

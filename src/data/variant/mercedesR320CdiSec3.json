@@ -9,7 +9,7 @@
     {
       "code": "OM642",
       "image": "/engines/om642-engine.webp",
-      "generation": "W251/V251 (2006–2013)",
+      "generation": "W251/V251 (2006-2013)",
       "price": "£2,800",
       "codeHref": "/mercedes-om642-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -30,8 +30,8 @@
     "titlePre": "Mercedes R320 CDI Swirl Flap & Injector Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "If your R320 CDI is a 2006–2013 model with the OM642 diesel V6 — that's the W251/V251 generation — swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
-      "include_in_hero_hook: yes for OM642 — Source: established specialist pattern, multiple TSBs, per VRF-mercedes-r-class.md."
+      "If your R320 CDI is a 2006-2013 model with the OM642 diesel V6 - that's the W251/V251 generation - swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
+      "include_in_hero_hook: yes for OM642 - Source: established specialist pattern, multiple TSBs, per VRF-mercedes-r-class.md."
     ],
     "source": "Source: established specialist pattern, multiple TSBs, per VRF-mercedes-r-class.md"
   }

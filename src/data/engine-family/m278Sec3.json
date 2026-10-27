@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Mercedes-Benz M278 Applications — ",
+  "titlePre": "Mercedes-Benz M278 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "A 45 AMG",
       "generation": "W177",
       "chassis": "W177",
-      "years": "2019–present",
+      "years": "2019-present",
       "powertrain": "Petrol",
       "modelHref": "/mercedes-a-class-engines"
     },
@@ -37,7 +37,7 @@
       "variant": "A 45 S AMG",
       "generation": "W177",
       "chassis": "W177",
-      "years": "2019–present",
+      "years": "2019-present",
       "powertrain": "Petrol",
       "modelHref": "/mercedes-a-class-engines"
     },
@@ -46,7 +46,7 @@
       "variant": "C 43 AMG",
       "generation": "W206",
       "chassis": "W206",
-      "years": "2023–present",
+      "years": "2023-present",
       "powertrain": "Petrol",
       "modelHref": "/mercedes-c-class-engines"
     },
@@ -55,7 +55,7 @@
       "variant": "CLA 45 AMG",
       "generation": "C118",
       "chassis": "C118",
-      "years": "2019–present",
+      "years": "2019-present",
       "powertrain": "Petrol",
       "modelHref": "/mercedes-cla-engines"
     },
@@ -64,7 +64,7 @@
       "variant": "CLA 45 S AMG",
       "generation": "C118",
       "chassis": "C118",
-      "years": "2019–present",
+      "years": "2019-present",
       "powertrain": "Petrol",
       "modelHref": "/mercedes-cla-engines"
     },
@@ -73,7 +73,7 @@
       "variant": "GLA 45 AMG",
       "generation": "H247",
       "chassis": "H247",
-      "years": "2020–present",
+      "years": "2020-present",
       "powertrain": "Petrol",
       "modelHref": "/mercedes-gla-class-engines"
     },
@@ -82,7 +82,7 @@
       "variant": "GLA 45 S AMG",
       "generation": "H247",
       "chassis": "H247",
-      "years": "2020–present",
+      "years": "2020-present",
       "powertrain": "Petrol",
       "modelHref": "/mercedes-gla-class-engines"
     },
@@ -91,7 +91,7 @@
       "variant": "GLC 43 AMG",
       "generation": "X254",
       "chassis": "X254",
-      "years": "2023–present",
+      "years": "2023-present",
       "powertrain": "Petrol",
       "modelHref": "/mercedes-glc-class-engines"
     },
@@ -100,7 +100,7 @@
       "variant": "SL 43",
       "generation": "R232",
       "chassis": "R232",
-      "years": "2023–present",
+      "years": "2023-present",
       "powertrain": "Petrol",
       "modelHref": "/mercedes-sl-engines"
     }

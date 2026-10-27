@@ -16,7 +16,7 @@
     "cards": [
       {
         "codeHighlight": "M256",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the MAYBACH S680 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 MAYBACH S680",
         "codeHref": "/mercedes-m256-engine"
@@ -52,7 +52,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic S-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic S-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES MAYBACH S680 ",
@@ -69,7 +69,7 @@
       {
         "generation": "Z223",
         "chassis": "Z223",
-        "years": "2021–present",
+        "years": "2021-present",
         "engineCode": "V12",
         "fuel": "Petrol Twin-Turbo"
       }

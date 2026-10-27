@@ -2,28 +2,28 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "Mercedes C-Class Rebuilds",
-  "subhead": "Full variant list below covers every Mercedes C-Class engine we work on — these 10 are simply our most requested.",
-  "image": "/cars/c-class-w206-standard-amg-line-saloon-2021-new-iridium-silve-2795.webp",
+  "subhead": "Full variant list below covers every Mercedes C-Class engine we work on - these 10 are simply our most requested.",
+  "image": "/cars/card/c-class-w206-standard-amg-line-saloon-2021-new-iridium-silve-2795.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "Mercedes C180",
       "spec": "1.6L Petrol (M274)",
-      "image": "/cars/c-class-w205-standard-amg-line-saloon-20142018-new-jupiter-r-36ce.webp"
+      "image": "/cars/card/c-class-w205-standard-amg-line-saloon-20142018-new-jupiter-r-36ce.webp"
     },
     {
       "number": "02",
       "model": "Mercedes C200",
       "spec": "2.0L Petrol (M274)",
-      "image": "/cars/c-class-w205-c43-amg-performance-saloon-20162018-special-amg-60e8.webp"
+      "image": "/cars/card/c-class-w205-c43-amg-performance-saloon-20162018-special-amg-60e8.webp"
     },
     {
       "number": "03",
       "model": "Mercedes C220d",
       "spec": "2.1L Diesel (OM651)",
-      "image": "/cars/c-class-w205-facelift-saloon-20182021-new-magnetite-black-metallic-maj-fea0.webp"
+      "image": "/cars/card/c-class-w205-facelift-saloon-20182021-new-magnetite-black-metallic-maj-fea0.webp"
     },
     {
       "number": "04",
@@ -34,37 +34,37 @@
       "number": "05",
       "model": "Mercedes C250d",
       "spec": "2.1L Diesel (OM651)",
-      "image": "/cars/c-class-w204-facelift-saloon-20112014-new-cavansite-blue-met-153b.webp"
+      "image": "/cars/card/c-class-w204-facelift-saloon-20112014-new-cavansite-blue-met-153b.webp"
     },
     {
       "number": "06",
       "model": "Mercedes C300",
       "spec": "2.0L Petrol Turbo (M274)",
-      "image": "/cars/c-class-s205-lci-estate-estate-20182021-new-dolomite-brown-m-cb3a.webp"
+      "image": "/cars/card/c-class-s205-lci-estate-estate-20182021-new-dolomite-brown-m-cb3a.webp"
     },
     {
       "number": "07",
       "model": "Mercedes C300d",
       "spec": "2.0L Diesel (OM654)",
-      "image": "/cars/c-class-w206-standard-amg-line-saloon-2021-new-iridium-silver-metallic-2795.webp"
+      "image": "/cars/card/c-class-w206-standard-amg-line-saloon-2021-new-iridium-silver-metallic-2795.webp"
     },
     {
       "number": "08",
       "model": "Mercedes C350",
       "spec": "3.5L Petrol (M276)",
-      "image": "/cars/c-class-w205-facelift-saloon-20182021-new-magnetite-black-metallic-maj-fea0.webp"
+      "image": "/cars/card/c-class-w205-facelift-saloon-20182021-new-magnetite-black-metallic-maj-fea0.webp"
     },
     {
       "number": "09",
       "model": "Mercedes C43 AMG",
       "spec": "3.0L Petrol Twin-Turbo (M276)",
-      "image": "/cars/c-class-w205-lci-c43-amg-performance-saloon-20182021-special-high-tech-a042.webp"
+      "image": "/cars/card/c-class-w205-lci-c43-amg-performance-saloon-20182021-special-high-tech-a042.webp"
     },
     {
       "number": "10",
       "model": "Mercedes C63 AMG",
       "spec": "6.2 / 4.0L Petrol (M156 / M177)",
-      "image": "/cars/c-class-w205-c63-amg-performance-saloon-20152018-special-designo-mocha-1cd5.webp"
+      "image": "/cars/card/c-class-w205-c63-amg-performance-saloon-20152018-special-designo-mocha-1cd5.webp"
     }
   ]
 }

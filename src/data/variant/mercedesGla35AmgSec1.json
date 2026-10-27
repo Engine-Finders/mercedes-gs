@@ -1,10 +1,10 @@
 {
   "kicker": "Mercedes GLA35 AMG Specialists",
-  "h1": "Mercedes GLA35 AMG|Engine Rebuild —|From £3,600",
+  "h1": "Mercedes GLA35 AMG|Engine Rebuild -|From £3,600",
   "subhead": "Specialist Mercedes GLA35 AMG engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
   "rating": {
     "stars": 5,
-    "label": "Rated Mercedes Engine Specialists — 1,800+ Engines Rebuilt"
+    "label": "Rated Mercedes Engine Specialists - 1,800+ Engines Rebuilt"
   },
   "trustBar": [
     {
@@ -29,7 +29,7 @@
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £3,600 —",
+    "kicker": "Starting from £3,600 -",
     "label": "Get a Fixed-Price Quote →",
     "href": "#quote-form"
   },

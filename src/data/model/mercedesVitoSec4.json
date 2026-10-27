@@ -2,7 +2,7 @@
   "kicker": "Full Breakdown",
   "headlinePre": "Mercedes Vito",
   "headlineHighlight": "Engine Rebuild Price Guide",
-  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide - request a free quote for an exact fixed price on your specific engine.",
   "columns": [
     "Engine Code",
     "Fuel",
@@ -16,7 +16,7 @@
       "fuel": "Diesel",
       "size": "2.3L/2.9L",
       "chassis": "W638",
-      "range": "£2,200 – £3,000",
+      "range": "£2,200 - £3,000",
       "familyHref": "/mercedes-om601-engine"
     },
     {
@@ -24,7 +24,7 @@
       "fuel": "Diesel",
       "size": "2.2L",
       "chassis": "W639",
-      "range": "£2,200 – £3,000",
+      "range": "£2,200 - £3,000",
       "familyHref": "/mercedes-om611-engine"
     },
     {
@@ -32,7 +32,7 @@
       "fuel": "Diesel",
       "size": "2.2L",
       "chassis": "W639",
-      "range": "£2,200 – £3,000",
+      "range": "£2,200 - £3,000",
       "familyHref": "/mercedes-om646-engine"
     },
     {
@@ -40,7 +40,7 @@
       "fuel": "Diesel",
       "size": "2.1L",
       "chassis": "W447",
-      "range": "£2,200 – £3,200",
+      "range": "£2,200 - £3,200",
       "familyHref": "/mercedes-om651-engine"
     },
     {
@@ -48,7 +48,7 @@
       "fuel": "Diesel",
       "size": "2.0L",
       "chassis": "W447",
-      "range": "£2,400 – £3,400",
+      "range": "£2,400 - £3,400",
       "familyHref": "/mercedes-om654-engine"
     },
     {
@@ -56,7 +56,7 @@
       "fuel": "Petrol V6",
       "size": "3.5L",
       "chassis": "W639/W447",
-      "range": "£3,200 – £4,400",
+      "range": "£3,200 - £4,400",
       "familyHref": "/mercedes-m272-engine"
     }
   ],

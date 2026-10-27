@@ -3,14 +3,14 @@
     "image": "/variant/sec10_top_div.webp",
     "imageMobile": "/variant/sec10_top_div_mobile.webp",
     "titlePre": "ABOUT THE",
-    "titleHighlight": "MERCEDES SPRINTER 210–216 CDI ENGINE",
+    "titleHighlight": "MERCEDES SPRINTER 210-216 CDI ENGINE",
     "paragraphs": [
-      "The Sprinter 210–216 CDI was part of the first-generation T1N Sprinter range, produced from 1995 to 2006. Across this production run, it used several different diesel engines from the OM601, OM602, OM611, OM612 and OM647 families — spanning 2.2-litre to 2.9-litre capacities — with the exact engine varying by year and specific model variant. This generation is no longer in production, but we continue to rebuild and replace engines for every Sprinter still on the road."
+      "The Sprinter 210-216 CDI was part of the first-generation T1N Sprinter range, produced from 1995 to 2006. Across this production run, it used several different diesel engines from the OM601, OM602, OM611, OM612 and OM647 families - spanning 2.2-litre to 2.9-litre capacities - with the exact engine varying by year and specific model variant. This generation is no longer in production, but we continue to rebuild and replace engines for every Sprinter still on the road."
     ],
-    "boldParagraph": "We continue to rebuild and replace M256 engines for every SPRINTER 210–216 CDI on the road."
+    "boldParagraph": "We continue to rebuild and replace M256 engines for every SPRINTER 210-216 CDI on the road."
   },
   "codes": {
-    "titlePre": "MERCEDES SPRINTER 210–216 CDI ENGINE ",
+    "titlePre": "MERCEDES SPRINTER 210-216 CDI ENGINE ",
     "titleHighlight": "CODES",
     "image": "/variant/sec10_engine.webp",
     "cards": [
@@ -18,43 +18,43 @@
         "codeHighlight": "OM601",
         "codeRest": "",
         "body": "A 2.3-litre diesel fitted to early T1N Sprinters. We replace timing chain/gears, injector seals and gaskets as standard on every rebuild.",
-        "cta": "Check Your OM601 Sprinter 210–216 CDI",
+        "cta": "Check Your OM601 Sprinter 210-216 CDI",
         "codeHref": "/mercedes-om601-engine"
       },
       {
         "codeHighlight": "OM602",
         "codeRest": "",
         "body": "A 2.9-litre diesel used across T1N production. We replace timing chain/gears, injector seals and gaskets as standard on every rebuild.",
-        "cta": "Check Your OM602 Sprinter 210–216 CDI",
+        "cta": "Check Your OM602 Sprinter 210-216 CDI",
         "codeHref": "/mercedes-om602-engine"
       },
       {
         "codeHighlight": "OM611",
         "codeRest": "",
         "body": "A 2.2-litre diesel fitted to later T1N models. We replace timing chain/gears, injector seals and gaskets as standard on every rebuild.",
-        "cta": "Check Your OM611 Sprinter 210–216 CDI",
+        "cta": "Check Your OM611 Sprinter 210-216 CDI",
         "codeHref": "/mercedes-om611-engine"
       },
       {
         "codeHighlight": "OM612",
         "codeRest": "",
         "body": "A 2.7-litre diesel used across T1N production. We replace timing chain/gears, injector seals and gaskets as standard on every rebuild.",
-        "cta": "Check Your OM612 Sprinter 210–216 CDI",
+        "cta": "Check Your OM612 Sprinter 210-216 CDI",
         "codeHref": "/mercedes-om612-engine"
       },
       {
         "codeHighlight": "OM647",
         "codeRest": "",
         "body": "A 2.7-litre diesel fitted to later T1N models. We replace timing chain/gears, injector seals and gaskets as standard on every rebuild.",
-        "cta": "Check Your OM647 Sprinter 210–216 CDI",
+        "cta": "Check Your OM647 Sprinter 210-216 CDI",
         "codeHref": "/mercedes-om647-engine"
       }
     ]
   },
   "compatibility": {
-    "titlePre": "MERCEDES SPRINTER 210–216 CDI ENGINE ",
+    "titlePre": "MERCEDES SPRINTER 210-216 CDI ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the Sprinter 210–216 CDI spans multiple engines across T1N production, fitting the wrong replacement — or assuming parts from one engine code will work on another — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the Sprinter 210-216 CDI spans multiple engines across T1N production, fitting the wrong replacement - or assuming parts from one engine code will work on another - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -80,10 +80,10 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Sprinter quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Sprinter quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
-    "titlePre": "MERCEDES SPRINTER 210–216 CDI ",
+    "titlePre": "MERCEDES SPRINTER 210-216 CDI ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
     "image": "/variant/mercedes_car.webp",
     "columns": [
@@ -97,7 +97,7 @@
       {
         "generation": "T1N",
         "chassis": "T1N",
-        "years": "1995–2006",
+        "years": "1995-2006",
         "engineCode": "OM601, OM602, OM611, OM612, OM647",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om601-engine"

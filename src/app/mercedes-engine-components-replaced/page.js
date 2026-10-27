@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "Mercedes-Benz Engine Components We Replace (Overview) | Mercedes Garage",
-  description: "Overview of components replaced during a Mercedes engine rebuild – bearings, seals, piston rings, timing chains, and machining. Based on industry standards and workshop practice.",
+  description: "Overview of components replaced during a Mercedes engine rebuild - bearings, seals, piston rings, timing chains, and machining. Based on industry standards and workshop practice.",
   alternates: { canonical: PATH },
 };
 

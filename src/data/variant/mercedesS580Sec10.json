@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES S580 ENGINE",
     "paragraphs": [
-      "The S580 is the flagship V8 variant of the W223-generation S-Class, introduced in 2021 as a replacement for the S560. For its first four years of production (2021 to 2025), it used the M176 — a 4.0-litre twin-turbo V8 with mild-hybrid assistance, the same engine family used in the preceding S560 and Maybach S580. From the 2026 model-year facelift, Mercedes introduced a running change to the M177 Evo, a more powerful 4.0-litre twin-turbo V8 with a flat-plane crank and revised hybrid system. The exact production changeover date hasn't been confirmed yet, so if your S580 is a 2026 model or later, we'll confirm which engine you have by registration before quoting."
+      "The S580 is the flagship V8 variant of the W223-generation S-Class, introduced in 2021 as a replacement for the S560. For its first four years of production (2021 to 2025), it used the M176 - a 4.0-litre twin-turbo V8 with mild-hybrid assistance, the same engine family used in the preceding S560 and Maybach S580. From the 2026 model-year facelift, Mercedes introduced a running change to the M177 Evo, a more powerful 4.0-litre twin-turbo V8 with a flat-plane crank and revised hybrid system. The exact production changeover date hasn't been confirmed yet, so if your S580 is a 2026 model or later, we'll confirm which engine you have by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every S580 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M176",
         "image": "/variant/sec10_engine.webp",
-        "codeRest": "(W223, 2021–2025)",
+        "codeRest": "(W223, 2021-2025)",
         "body": "A 4.0-litre twin-turbo V8 with mild-hybrid assistance, fitted to the S580 from the W223's launch in 2021 until the 2025 model-year. A proven, powerful V8 shared with the Maybach S580 and GLS 580.",
         "cta": "Check Your M176 S580",
         "codeHref": "/mercedes-m176-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES S580 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the S580 spans two distinct V8 engines across a single generation, fitting the wrong replacement — or assuming an M176 part will work on an M177 Evo car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the S580 spans two distinct V8 engines across a single generation, fitting the wrong replacement - or assuming an M176 part will work on an M177 Evo car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic S-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic S-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES S580 ",
@@ -70,7 +70,7 @@
       {
         "generation": "W223",
         "chassis": "W223/V223",
-        "years": "2021–2025",
+        "years": "2021-2025",
         "engineCode": "M176",
         "fuel": "Petrol Twin-Turbo, Mild Hybrid",
         "codeHref": "/mercedes-m176-engine"
@@ -78,7 +78,7 @@
       {
         "generation": "W223 (facelift)",
         "chassis": "W223/V223",
-        "years": "running change – present",
+        "years": "running change - present",
         "engineCode": "M177 Evo",
         "fuel": "Petrol Twin-Turbo, Flat-Plane Crank, Mild Hybrid",
         "codeHref": "/mercedes-m177-engine"

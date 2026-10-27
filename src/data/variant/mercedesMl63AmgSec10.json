@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES ML63 AMG ENGINE",
     "paragraphs": [
-      "The ML63 AMG was the flagship performance variant of the M-Class from 2005 to 2011, during the W164 generation. It uses the M156 — a 6.2-litre naturally aspirated V8, developed by AMG and hand-assembled. This engine was fitted across the W164 ML63 AMG only; the later W166-generation M-Class (2011–2015) switched to the M157 biturbo V8 when the model was renamed GLE. The M156 is known for specific wear items at higher mileages, particularly the camshaft adjuster and head bolt issues that affect pre-2012 examples."
+      "The ML63 AMG was the flagship performance variant of the M-Class from 2005 to 2011, during the W164 generation. It uses the M156 - a 6.2-litre naturally aspirated V8, developed by AMG and hand-assembled. This engine was fitted across the W164 ML63 AMG only; the later W166-generation M-Class (2011-2015) switched to the M157 biturbo V8 when the model was renamed GLE. The M156 is known for specific wear items at higher mileages, particularly the camshaft adjuster and head bolt issues that affect pre-2012 examples."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every ML63 AMG on the road."
   },
@@ -16,7 +16,7 @@
     "cards": [
       {
         "codeHighlight": "M256",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the ML63 AMG from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 ML63 AMG",
         "codeHref": "/mercedes-m256-engine"
@@ -52,7 +52,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic M-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic M-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES ML63 AMG ",
@@ -69,7 +69,7 @@
       {
         "generation": "W164",
         "chassis": "W164",
-        "years": "2005–2011",
+        "years": "2005-2011",
         "engineCode": "M156",
         "fuel": "Petrol V8",
         "codeHref": "/mercedes-m156-engine"

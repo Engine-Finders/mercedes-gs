@@ -3,7 +3,7 @@
   "metaTitle": "Mercedes-Benz Engine Rebuild Specialists | Mercedes Garage",
   "metaDescription": "Professional Mercedes-Benz engine rebuild service by Mercedes Garage. Full strip-down, machining, reassembly, and testing. 12-month unlimited mileage warranty.",
   "h1": "Mercedes-Benz Engine Rebuild Specialists",
-  "lede": "Full professional engine rebuild for all Mercedes-Benz models – from A-Class to S-Class, AMG to Sprinter. 12-month unlimited mileage warranty.",
+  "lede": "Full professional engine rebuild for all Mercedes-Benz models - from A-Class to S-Class, AMG to Sprinter. 12-month unlimited mileage warranty.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -44,7 +44,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Our engine rebuild service returns your Mercedes-Benz engine to factory specifications – or better. Every rebuild follows a strict, documented process carried out in our purpose-built workshop."
+          "html": "Our engine rebuild service returns your Mercedes-Benz engine to factory specifications - or better. Every rebuild follows a strict, documented process carried out in our purpose-built workshop."
         },
         {
           "t": "p",
@@ -76,7 +76,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "We rebuild engines across the entire Mercedes-Benz range. Below are some of the models we regularly work on – click through for model-specific details."
+          "html": "We rebuild engines across the entire Mercedes-Benz range. Below are some of the models we regularly work on - click through for model-specific details."
         },
         {
           "t": "linkgrid",
@@ -148,7 +148,7 @@
         },
         {
           "title": "Parts Replacement & Assembly",
-          "body": "All wear items – bearings, piston rings, seals, gaskets – are replaced with genuine or OEM parts. Reassembly follows Mercedes-Benz torque and angle settings."
+          "body": "All wear items - bearings, piston rings, seals, gaskets - are replaced with genuine or OEM parts. Reassembly follows Mercedes-Benz torque and angle settings."
         },
         {
           "title": "Dyno Test & Calibration",
@@ -167,12 +167,12 @@
         {
           "t": "ul",
           "items": [
-            "**12-month unlimited-mileage warranty** – standard on every rebuild.",
+            "**12-month unlimited-mileage warranty** - standard on every rebuild.",
             "**Under 30-minute quote turnaround** during working hours.",
             "**3-5 working days rebuild time** from arrival at our workshop.",
-            "**Nationwide recovery** from £70 – we collect your vehicle wherever you are.",
-            "**Full machining capability** – bore, hone, grind, mill in-house.",
-            "**Mercedes-specific diagnostics & tools** – including Star Diagnostic and factory timing tools."
+            "**Nationwide recovery** from £70 - we collect your vehicle wherever you are.",
+            "**Full machining capability** - bore, hone, grind, mill in-house.",
+            "**Mercedes-specific diagnostics & tools** - including Star Diagnostic and factory timing tools."
           ]
         },
         {
@@ -183,7 +183,7 @@
     },
     {
       "kind": "steps",
-      "heading": "How It Works – From Quote to Collection",
+      "heading": "How It Works - From Quote to Collection",
       "steps": [
         {
           "title": "1. Get a Quote",
@@ -191,7 +191,7 @@
         },
         {
           "title": "2. Vehicle Recovery",
-          "body": "We arrange nationwide recovery to our Essex workshop – convenient and affordable."
+          "body": "We arrange nationwide recovery to our Essex workshop - convenient and affordable."
         },
         {
           "title": "3. Rebuild & Test",
@@ -199,7 +199,7 @@
         },
         {
           "title": "4. Collection",
-          "body": "Your Mercedes is ready – we call you to arrange collection or delivery."
+          "body": "Your Mercedes is ready - we call you to arrange collection or delivery."
         }
       ]
     },
@@ -242,7 +242,7 @@
         },
         {
           "q": "Do you collect vehicles from outside Essex?",
-          "a": "Yes – we offer nationwide recovery from £70. Most vehicles are collected within a few hours of booking."
+          "a": "Yes - we offer nationwide recovery from £70. Most vehicles are collected within a few hours of booking."
         }
       ]
     }

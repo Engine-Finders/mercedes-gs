@@ -9,21 +9,21 @@
     {
       "code": "OM601",
       "image": "/variant/sec10_engine.webp",
-      "generation": "W638 (1996–2003)",
+      "generation": "W638 (1996-2003)",
       "price": "£2,200",
       "codeHref": "/mercedes-om601-engine"
     },
     {
       "code": "OM611",
       "image": "/variant/sec10_engine.webp",
-      "generation": "W639 (2003–2006)",
+      "generation": "W639 (2003-2006)",
       "price": "£2,200",
       "codeHref": "/mercedes-om611-engine"
     },
     {
       "code": "OM646",
       "image": "/engines/om646-model-hero.webp",
-      "generation": "W639 (2006–2014)",
+      "generation": "W639 (2006-2014)",
       "price": "£2,200",
       "codeHref": "/mercedes-om646-engine"
     }
@@ -31,7 +31,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -44,8 +44,8 @@
     "titlePre": "Mercedes Vito 110/111 CDI Timing Chain & Injector Seal Wear ",
     "titleHighlight": "(W639, OM646)",
     "paragraphs": [
-      "If your Vito 110/111 CDI is a W639 generation model with the OM646 engine — that's roughly 2006 to 2014 — timing chain wear and injector seal leaks are well-documented patterns on this engine. We replace the timing chain, tensioners, injector seals and gaskets as standard on every OM646 rebuild.",
-      "The earlier W638 generation uses the OM601 or OM611 engine families, which don't share this specific issue pattern — they're older, different designs with their own service requirements."
+      "If your Vito 110/111 CDI is a W639 generation model with the OM646 engine - that's roughly 2006 to 2014 - timing chain wear and injector seal leaks are well-documented patterns on this engine. We replace the timing chain, tensioners, injector seals and gaskets as standard on every OM646 rebuild.",
+      "The earlier W638 generation uses the OM601 or OM611 engine families, which don't share this specific issue pattern - they're older, different designs with their own service requirements."
     ],
     "source": "Source: established specialist pattern, per VRF-mercedes-vito.md. OM601 and OM611 explicitly excluded from this claim per VRF, correctly scoped to generation"
   }

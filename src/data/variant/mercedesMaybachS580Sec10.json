@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES MAYBACH S580 ENGINE",
     "paragraphs": [
-      "The Maybach S580 is the V8-powered version of Mercedes-Maybach's flagship luxury saloon. It uses the M176 — a 4.0-litre twin-turbo V8 with mild hybrid technology, shared with other high-end Mercedes models of its era. The engine first appeared in the X222-generation Maybach S560 (which used the same M176 from 2017), then continued into the Z223 Maybach S580 from 2021. It's a smooth, powerful unit, and while no specific engine issue is yet confirmed as a widespread pattern for this application, we service it to the same high standard as every other V8 in our workshop."
+      "The Maybach S580 is the V8-powered version of Mercedes-Maybach's flagship luxury saloon. It uses the M176 - a 4.0-litre twin-turbo V8 with mild hybrid technology, shared with other high-end Mercedes models of its era. The engine first appeared in the X222-generation Maybach S560 (which used the same M176 from 2017), then continued into the Z223 Maybach S580 from 2021. It's a smooth, powerful unit, and while no specific engine issue is yet confirmed as a widespread pattern for this application, we service it to the same high standard as every other V8 in our workshop."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every MAYBACH S580 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the MAYBACH S580 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 MAYBACH S580",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES MAYBACH S580 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The Maybach S580 consistently uses the M176 V8 across its production run. However, engine and ECU specifications can vary by year and market — which is why we always confirm your exact VIN or registration before quoting or supplying anything. This ensures you get exactly the right components for your car.",
+    "intro": "The Maybach S580 consistently uses the M176 V8 across its production run. However, engine and ECU specifications can vary by year and market - which is why we always confirm your exact VIN or registration before quoting or supplying anything. This ensures you get exactly the right components for your car.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic S-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic S-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES MAYBACH S580 ",
@@ -70,7 +70,7 @@
       {
         "generation": "X222 (Maybach S560, predecessor naming)",
         "chassis": "X222",
-        "years": "2017–2020",
+        "years": "2017-2020",
         "engineCode": "M176",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m176-engine"
@@ -78,7 +78,7 @@
       {
         "generation": "Z223",
         "chassis": "Z223",
-        "years": "2021–present",
+        "years": "2021-present",
         "engineCode": "M176",
         "fuel": "Petrol Twin-Turbo, mild hybrid",
         "codeHref": "/mercedes-m176-engine"

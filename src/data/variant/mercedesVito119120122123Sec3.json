@@ -9,14 +9,14 @@
     {
       "code": "M272",
       "image": "/engines/m272-engine-hero.webp",
-      "generation": "W639 (2003–2014)",
+      "generation": "W639 (2003-2014)",
       "price": "£3,200",
       "codeHref": "/mercedes-m272-engine"
     },
     {
       "code": "OM642",
       "image": "/engines/om642-engine.webp",
-      "generation": "W639 (2003–2014)",
+      "generation": "W639 (2003-2014)",
       "price": "£3,200",
       "codeHref": "/mercedes-om642-engine"
     }
@@ -24,7 +24,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -37,8 +37,8 @@
     "titlePre": "Mercedes Vito OM642 Swirl Flap & Injector Wear ",
     "titleHighlight": "(W639, Diesel V6)",
     "paragraphs": [
-      "If your Vito 119/120/122/123 is a diesel model with the OM642 V6 — that's the W639 generation — swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
-      "Petrol models with the M272 V6 don't share this specific issue — the M272 is a different engine family with its own characteristics, and no independently confirmed pattern of failure has been established for this application."
+      "If your Vito 119/120/122/123 is a diesel model with the OM642 V6 - that's the W639 generation - swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
+      "Petrol models with the M272 V6 don't share this specific issue - the M272 is a different engine family with its own characteristics, and no independently confirmed pattern of failure has been established for this application."
     ],
     "source": "Source: established specialist pattern, multiple TSBs, per VRF-mercedes-vito.md. M272 explicitly excluded from this claim per VRF, correctly scoped to diesel V6 only"
   }

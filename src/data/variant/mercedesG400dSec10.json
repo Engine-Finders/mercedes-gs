@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES G400D ENGINE",
     "paragraphs": [
-      "The G400d uses the OM656 — a 2.9-litre inline-six diesel. It was fitted from 2018 across the W463a generation of the G-Class. This engine is a member of a modern family of Mercedes diesel engines also found in the S-Class and GLS. The OM656 is a reliable and powerful unit, but like all modern diesels, it benefits from regular servicing and the occasional component replacement. A full rebuild can address wear items such as timing chains, injector seals, and gaskets, restoring your engine to near-new condition."
+      "The G400d uses the OM656 - a 2.9-litre inline-six diesel. It was fitted from 2018 across the W463a generation of the G-Class. This engine is a member of a modern family of Mercedes diesel engines also found in the S-Class and GLS. The OM656 is a reliable and powerful unit, but like all modern diesels, it benefits from regular servicing and the occasional component replacement. A full rebuild can address wear items such as timing chains, injector seals, and gaskets, restoring your engine to near-new condition."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every G400D on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the G400D from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 G400D",
         "codeHref": "/mercedes-m256-engine"
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic G-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic G-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES G400D ",
@@ -70,7 +70,7 @@
       {
         "generation": "R190",
         "chassis": "R190",
-        "years": "2023–present",
+        "years": "2023-present",
         "engineCode": "M256",
         "fuel": "Petrol Mild Hybrid",
         "codeHref": "/mercedes-m256-engine"

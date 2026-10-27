@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Mercedes-Benz M166 Applications — ",
+  "titlePre": "Mercedes-Benz M166 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "Vaneo 1.6",
       "generation": "W414",
       "chassis": "W414",
-      "years": "2001–2005",
+      "years": "2001-2005",
       "powertrain": "Petrol",
       "modelHref": "/mercedes-vaneo-engines",
       "variantHref": "/mercedes-vaneo-1-6-engines"
@@ -38,7 +38,7 @@
       "variant": "Vaneo 1.9",
       "generation": "W414",
       "chassis": "W414",
-      "years": "2001–2005",
+      "years": "2001-2005",
       "powertrain": "Petrol",
       "modelHref": "/mercedes-vaneo-engines",
       "variantHref": "/mercedes-vaneo-1-9-engines"

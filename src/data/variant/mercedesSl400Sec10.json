@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES SL400 ENGINE",
     "paragraphs": [
-      "The SL400 was introduced with the R231 generation in 2012, replacing the SL350 as the V6 entry point to the SL range. It uses the M276 — a 3.0-litre twin-turbo V6 that represented a significant step forward from Mercedes' earlier naturally aspirated V6 engines. The R231 SL400 continued through to 2021, when the SL moved to an AMG-only lineup with the R232 generation. The SL400 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The SL400 was introduced with the R231 generation in 2012, replacing the SL350 as the V6 entry point to the SL range. It uses the M276 - a 3.0-litre twin-turbo V6 that represented a significant step forward from Mercedes' earlier naturally aspirated V6 engines. The R231 SL400 continued through to 2021, when the SL moved to an AMG-only lineup with the R232 generation. The SL400 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every SL400 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SL400 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 SL400",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES SL400 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The SL400 uses a single engine code — the M276 — across its entire R231 production run. This makes compatibility simpler than on models that span multiple engine families. However, the M276 went through several revisions during its production life, and the exact specification can vary by model year. Before we quote or supply anything, we confirm:",
+    "intro": "The SL400 uses a single engine code - the M276 - across its entire R231 production run. This makes compatibility simpler than on models that span multiple engine families. However, the M276 went through several revisions during its production life, and the exact specification can vary by model year. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic SL quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic SL quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES SL400 ",
@@ -70,7 +70,7 @@
       {
         "generation": "R231",
         "chassis": "R231",
-        "years": "2012–2021",
+        "years": "2012-2021",
         "engineCode": "M276",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m276-engine"

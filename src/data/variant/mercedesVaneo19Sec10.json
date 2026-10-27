@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES VANEO 1.9 ENGINE",
     "paragraphs": [
-      "The Vaneo 1.9 uses the M166 — a 1.9-litre four-cylinder petrol engine. It was fitted from 2001 to 2005 across the single W414 generation. Based on the A-Class platform of the same era, the Vaneo had a relatively short production run, but the M166 engine itself was shared with other Mercedes models of the period. The Vaneo is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The Vaneo 1.9 uses the M166 - a 1.9-litre four-cylinder petrol engine. It was fitted from 2001 to 2005 across the single W414 generation. Based on the A-Class platform of the same era, the Vaneo had a relatively short production run, but the M166 engine itself was shared with other Mercedes models of the period. The Vaneo is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every VANEO 1.9 on the road."
   },
@@ -16,7 +16,7 @@
     "cards": [
       {
         "codeHighlight": "M256",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the VANEO 1.9 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 VANEO 1.9",
         "codeHref": "/mercedes-m256-engine"
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "MERCEDES VANEO 1.9 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The Vaneo 1.9 uses a single engine across its entire production run — the M166 1.9-litre petrol four-cylinder. Before we quote or supply anything, we confirm:",
+    "intro": "The Vaneo 1.9 uses a single engine across its entire production run - the M166 1.9-litre petrol four-cylinder. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -52,7 +52,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Vaneo quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Vaneo quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES VANEO 1.9 ",
@@ -69,7 +69,7 @@
       {
         "generation": "W414",
         "chassis": "W414",
-        "years": "2001–2005",
+        "years": "2001-2005",
         "engineCode": "M166",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m166-engine"

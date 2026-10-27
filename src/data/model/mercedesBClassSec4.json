@@ -2,7 +2,7 @@
   "kicker": "Full Breakdown",
   "headlinePre": "Mercedes B-Class",
   "headlineHighlight": "Engine Rebuild Price Guide",
-  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide - request a free quote for an exact fixed price on your specific engine.",
   "columns": [
     "Engine Code",
     "Fuel",
@@ -14,21 +14,21 @@
       "family": "OM640",
       "fuel": "Diesel",
       "size": "1.5L/1.8L",
-      "range": "£2,200 – £3,000",
+      "range": "£2,200 - £3,000",
       "familyHref": "/mercedes-om640-engine"
     },
     {
       "family": "OM607",
       "fuel": "Diesel",
       "size": "1.5L/1.8L",
-      "range": "£2,200 – £2,900",
+      "range": "£2,200 - £2,900",
       "familyHref": "/mercedes-om607-engine"
     },
     {
       "family": "M270",
       "fuel": "Petrol",
       "size": "1.6L/2.0L",
-      "range": "£2,200 – £3,000",
+      "range": "£2,200 - £3,000",
       "familyHref": "/mercedes-m270-engine"
     }
   ],

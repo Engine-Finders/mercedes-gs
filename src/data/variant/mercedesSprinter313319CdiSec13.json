@@ -3,12 +3,12 @@
   "kickerHighlight": "QUESTIONS",
   "faqLeft": [
     {
-      "q": "What engine does the Mercedes Sprinter 313–319 CDI use?",
-      "a": "It depends on the variant. The 313, 315 and 316 models use the OM651 2.1-litre four-cylinder diesel. The 318 and 319 models use the OM642 3.0-litre V6 diesel — a different engine entirely. Send us your registration and we'll confirm which one your van has."
+      "q": "What engine does the Mercedes Sprinter 313-319 CDI use?",
+      "a": "It depends on the variant. The 313, 315 and 316 models use the OM651 2.1-litre four-cylinder diesel. The 318 and 319 models use the OM642 3.0-litre V6 diesel - a different engine entirely. Send us your registration and we'll confirm which one your van has."
     },
     {
-      "q": "How much does a Mercedes Sprinter 313–319 CDI engine rebuild cost?",
-      "a": "Rebuilds start from £2,200 for the OM651 4-cylinder or £2,800 for the OM642 V6. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "q": "How much does a Mercedes Sprinter 313-319 CDI engine rebuild cost?",
+      "a": "Rebuilds start from £2,200 for the OM651 4-cylinder or £2,800 for the OM642 V6. Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     },
     {
       "q": "Which engine code is fitted to my Sprinter?",
@@ -30,7 +30,7 @@
     },
     {
       "q": "Can you recover my Sprinter if the engine has failed?",
-      "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
+      "a": "Yes - nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
     },
     {
       "q": "How long does a Sprinter engine rebuild take?",
@@ -38,12 +38,12 @@
     },
     {
       "q": "Is rebuilding better than fitting a used engine?",
-      "a": "For most Sprinter owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history, and comes with a 12-month unlimited-mileage warranty — often longer and more comprehensive than what a used engine supplier offers."
+      "a": "For most Sprinter owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history, and comes with a 12-month unlimited-mileage warranty - often longer and more comprehensive than what a used engine supplier offers."
     }
   ],
   "form": {
     "headlinePre": "GET YOUR",
-    "headlineHighlight": "FREE MERCEDES SPRINTER 313–319 CDI",
+    "headlineHighlight": "FREE MERCEDES SPRINTER 313-319 CDI",
     "headlinePost": "FIXED-PRICE QUOTE",
     "fields": {
       "reg": {

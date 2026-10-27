@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES S63 AMG ENGINE",
     "paragraphs": [
-      "The S63 AMG has been the performance flagship of the S-Class range since 2008, spanning three generations. Early and mid-generation cars (W221 and W222, roughly 2008 to 2020) use the M157 — a 5.5-litre twin-turbo V8 shared with several AMG models of that era. From 2020, the W223-generation S63 AMG switched to the M177, a newer 4.0-litre twin-turbo V8. Knowing which one your car has matters, because the components and the known wear patterns differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+      "The S63 AMG has been the performance flagship of the S-Class range since 2008, spanning three generations. Early and mid-generation cars (W221 and W222, roughly 2008 to 2020) use the M157 - a 5.5-litre twin-turbo V8 shared with several AMG models of that era. From 2020, the W223-generation S63 AMG switched to the M177, a newer 4.0-litre twin-turbo V8. Knowing which one your car has matters, because the components and the known wear patterns differ between them - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every S63 AMG on the road."
   },
@@ -18,7 +18,7 @@
         "codeHighlight": "M157",
         "image": "/variant/sec10_engine.webp",
         "codeRest": "(W221, W222)",
-        "body": "A 5.5-litre twin-turbo V8 fitted to the S63 AMG from 2008 to 2020, across two generations. Known for valve seal and coolant system wear over time — see the callout above. We replace these as standard on every M157 rebuild.",
+        "body": "A 5.5-litre twin-turbo V8 fitted to the S63 AMG from 2008 to 2020, across two generations. Known for valve seal and coolant system wear over time - see the callout above. We replace these as standard on every M157 rebuild.",
         "cta": "Check Your M157 S63 AMG",
         "codeHref": "/mercedes-m157-engine"
       },
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES S63 AMG ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the S63 AMG spans two distinct engines across three generations, fitting the wrong replacement — or assuming an M157 part will work on an M177 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the S63 AMG spans two distinct engines across three generations, fitting the wrong replacement - or assuming an M157 part will work on an M177 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic S-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic S-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES S63 AMG ",
@@ -78,7 +78,7 @@
       {
         "generation": "W221",
         "chassis": "W221",
-        "years": "2008–2013",
+        "years": "2008-2013",
         "engineCode": "M157",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m157-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "W222",
         "chassis": "W222",
-        "years": "2013–2020",
+        "years": "2013-2020",
         "engineCode": "M157",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m157-engine"
@@ -94,7 +94,7 @@
       {
         "generation": "W223",
         "chassis": "W223",
-        "years": "2020–present",
+        "years": "2020-present",
         "engineCode": "M177",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m177-engine"

@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import AMGBadge from "@/components/reusable/AMGBadge";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function HeroSec1({ data }) {
   return (
@@ -50,7 +51,7 @@ export default function HeroSec1({ data }) {
             </div>
           </div>
 
-          {/* five-column feature breakdown — plain icons directly on the photo, no card */}
+          {/* five-column feature breakdown - plain icons directly on the photo, no card */}
           <div className="relative mt-3 grid grid-cols-5 divide-x divide-white/15">
             {data.trustBar.map((t) => (
               <div key={t.label} className="flex flex-col items-center gap-1 px-1 text-center">
@@ -66,20 +67,20 @@ export default function HeroSec1({ data }) {
             <p className="-mt-1 text-2xl font-extrabold text-hero-blue">{data.priceCta.label}</p>
           </div>
 
-          <a
+          <QuoteLink
             href={data.priceCta.href}
             className="mt-3 flex items-center justify-center gap-2 rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-5 py-3.5 text-sm font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
           >
             {data.priceCta.buttonLabel}
-          </a>
+          </QuoteLink>
 
-          <a
+          <QuoteLink
             href={data.phoneCta.href}
             className="mt-2.5 flex items-center justify-center gap-2 rounded-lg border border-white/50 py-3 text-sm font-bold text-white"
           >
             <Icon name={data.phoneCta.icon} className="h-4 w-4 shrink-0 text-hero-blue" />
             {data.phoneCta.label}: {data.phoneCta.phone}
-          </a>
+          </QuoteLink>
         </div>
       </div>
 
@@ -126,7 +127,7 @@ export default function HeroSec1({ data }) {
               <p className="whitespace-nowrap text-sm font-medium text-white">{data.rating.label}</p>
             </div>
 
-            {/* five-column feature breakdown — plain icons directly on the photo, no card */}
+            {/* five-column feature breakdown - plain icons directly on the photo, no card */}
             <div className="mt-5">
               <div className="grid grid-cols-5 divide-x divide-white/15">
                 {data.trustBar.map((t) => (
@@ -145,20 +146,20 @@ export default function HeroSec1({ data }) {
               </div>
               <span className="w-px shrink-0 bg-white/15" aria-hidden="true" />
               <div className="flex flex-col justify-center gap-2.5">
-                <a
+                <QuoteLink
                   href={data.priceCta.href}
                   className="flex items-center justify-center gap-2 whitespace-nowrap rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-6 py-3 text-sm font-bold text-white shadow-lg transition-transform hover:scale-[1.02]"
                   style={{ boxShadow: "0 15px 35px -15px rgba(173,135,92,0.6)" }}
                 >
                   {data.priceCta.buttonLabel}
-                </a>
-                <a
+                </QuoteLink>
+                <QuoteLink
                   href={data.phoneCta.href}
                   className="flex items-center gap-2.5 whitespace-nowrap rounded-lg border border-white/50 px-6 py-3 text-sm font-semibold text-white"
                 >
                   <Icon name={data.phoneCta.icon} className="h-4 w-4 shrink-0 text-hero-blue" />
                   {data.phoneCta.label}: {data.phoneCta.phone}
-                </a>
+                </QuoteLink>
               </div>
             </div>
           </div>

@@ -2,10 +2,10 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "Mercedes G-Class Rebuilds",
-  "subhead": "Full variant list below covers every Mercedes G-Class engine we work on — these are simply our most requested.",
+  "subhead": "Full variant list below covers every Mercedes G-Class engine we work on - these are simply our most requested.",
   "image": "/model/sec10.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
@@ -22,7 +22,7 @@
     {
       "number": "03",
       "model": "Mercedes G500",
-      "spec": "5.0L–5.5L & 4.0L Petrol (M113, M273 & M176)",
+      "spec": "5.0L-5.5L & 4.0L Petrol (M113, M273 & M176)",
       "href": "/mercedes-g500-engines"
     },
     {

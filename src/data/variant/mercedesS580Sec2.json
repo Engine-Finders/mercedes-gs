@@ -27,7 +27,7 @@
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "M176 (2021–2025) or M177 Evo (facelift onwards)"
+      "value": "M176 (2021-2025) or M177 Evo (facelift onwards)"
     },
     {
       "icon": "gauge",
@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generation",
-      "value": "W223 (2021–2025) · W223 (facelift, running change)"
+      "value": "W223 (2021-2025) · W223 (facelift, running change)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The S580 uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The S580 uses the M256 3.0-litre inline-six mild-hybrid engine - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

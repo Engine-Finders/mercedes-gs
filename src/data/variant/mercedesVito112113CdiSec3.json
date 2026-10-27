@@ -9,7 +9,7 @@
     {
       "code": "OM646",
       "image": "/engines/om646-model-hero.webp",
-      "generation": "W639 (2003–2014)",
+      "generation": "W639 (2003-2014)",
       "price": "£2,200",
       "codeHref": "/mercedes-om646-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -30,7 +30,7 @@
     "titlePre": "Mercedes Vito 112/113 CDI Timing Chain & Injector Seal Wear ",
     "titleHighlight": "(W639, OM646)",
     "paragraphs": [
-      "If your Vito 112/113 CDI is a W639 generation model with the OM646 diesel — that's the 2003–2014 generation — timing chain wear and injector seal leaks are well-documented patterns on this engine, backed by established Mercedes specialist consensus. We replace the timing chain, injector seals and gaskets as standard on every OM646 rebuild.",
+      "If your Vito 112/113 CDI is a W639 generation model with the OM646 diesel - that's the 2003-2014 generation - timing chain wear and injector seal leaks are well-documented patterns on this engine, backed by established Mercedes specialist consensus. We replace the timing chain, injector seals and gaskets as standard on every OM646 rebuild.",
       "The older W638 generation and newer W447 generation of Vito use different engines (OM601/OM611 and OM651/OM654 respectively), which don't share this specific issue with the OM646."
     ],
     "source": "Source: established specialist pattern (per G-BRF), cross-referenced across Mercedes commercial vehicle G-BRF. OM601, OM611, OM651, OM654 explicitly excluded from this claim per VRF, correctly scoped to generation and engine code"

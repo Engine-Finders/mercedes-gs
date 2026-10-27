@@ -2,7 +2,7 @@
   "kicker": "Full Breakdown",
   "headlinePre": "Mercedes Citan",
   "headlineHighlight": "Engine Rebuild Price Guide",
-  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide - request a free quote for an exact fixed price on your specific engine.",
   "columns": [
     "Engine Code",
     "Fuel",
@@ -14,28 +14,28 @@
       "family": "K9K (Renault-sourced)",
       "fuel": "Diesel",
       "size": "1.5L",
-      "range": "£2,200 – £2,900",
+      "range": "£2,200 - £2,900",
       "familyHref": "/mercedes-k9k-engine"
     },
     {
       "family": "OM607",
       "fuel": "Diesel",
       "size": "1.5L",
-      "range": "£2,200 – £2,900",
+      "range": "£2,200 - £2,900",
       "familyHref": "/mercedes-om607-engine"
     },
     {
       "family": "OM608",
       "fuel": "Diesel",
       "size": "1.5L",
-      "range": "£2,200 – £3,000",
+      "range": "£2,200 - £3,000",
       "familyHref": "/mercedes-om608-engine"
     },
     {
       "family": "M282",
       "fuel": "Petrol",
       "size": "1.3L",
-      "range": "£2,200 – £2,900",
+      "range": "£2,200 - £2,900",
       "familyHref": "/mercedes-m282-engine"
     }
   ],

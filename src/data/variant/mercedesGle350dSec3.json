@@ -9,14 +9,14 @@
     {
       "code": "OM642",
       "image": "/engines/om642-engine.webp",
-      "generation": "W166 (2015–2019)",
+      "generation": "W166 (2015-2019)",
       "price": "£2,800",
       "codeHref": "/mercedes-om642-engine"
     },
     {
       "code": "OM656",
       "image": "/engines/om656-engine.webp",
-      "generation": "V167 (2019–present)",
+      "generation": "V167 (2019-present)",
       "price": "£2,800",
       "codeHref": "/mercedes-om656-engine"
     }
@@ -24,7 +24,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -37,8 +37,8 @@
     "titlePre": "Mercedes GLE350d Swirl Flap & Injector Wear ",
     "titleHighlight": "(W166, OM642)",
     "paragraphs": [
-      "If your GLE350d is a pre-2019 model with the OM642 diesel V6 — that's the W166 generation — swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
-      "The newer V167 generation uses a different engine, the OM656, which doesn't share this specific issue — it's a separate, more recent design."
+      "If your GLE350d is a pre-2019 model with the OM642 diesel V6 - that's the W166 generation - swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
+      "The newer V167 generation uses a different engine, the OM656, which doesn't share this specific issue - it's a separate, more recent design."
     ],
     "source": "Source: established specialist pattern, multiple TSBs, per VRF-mercedes-gle-class.md. OM656 explicitly excluded from this claim per VRF, correctly scoped to generation"
   }

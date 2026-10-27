@@ -4,12 +4,13 @@
   "startingFromLabel": "Starting From:",
   "image": "/model/sec3.webp",
   "imageMobile": "/model/sec3_mobile.webp",
-  "cardImage": "/model/engine_trim.webp",
+  "cardImage": "/engines/card3-engine-trim.webp",
   "cards": [
     {
       "titlePre": "4-Cylinder Diesel",
       "titleHighlight": "Rebuild",
-      "code": "(OM646)", "image": "/engines/om646-model-hero.webp",
+      "code": "(OM646)",
+      "image": "/engines/card3-om646-model-hero.webp",
       "price": "£2,200",
       "featured": false,
       "codeHref": "/mercedes-om646-engine"
@@ -17,7 +18,8 @@
     {
       "titlePre": "6-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(OM642/M272)", "image": "/engines/om642-engine.webp",
+      "code": "(OM642/M272)",
+      "image": "/engines/card3-om642-engine.webp",
       "price": "£2,800",
       "featured": false,
       "codeHref": "/mercedes-om642-engine"
@@ -27,10 +29,11 @@
       "titleHighlight": "Recovery",
       "code": "",
       "price": "£from £70",
-      "featured": false
+      "featured": false,
+      "icon": "truck"
     }
   ],
-  "disclaimer": "Exact price depends on engine code, condition and parts required — full pricing further down this page.",
+  "disclaimer": "Exact price depends on engine code, condition and parts required - full pricing further down this page.",
   "cta": {
     "line1": "Get Your Fixed-Price Quote",
     "line2": "In Under 30 Minutes",

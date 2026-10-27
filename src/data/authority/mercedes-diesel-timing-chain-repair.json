@@ -3,7 +3,7 @@
   "metaTitle": "Mercedes Diesel Timing Chain & Injector Repair | Mercedes Garage",
   "metaDescription": "Specialist Mercedes diesel timing chain and injector seal repair for OM-series engines. Fixed-price rebuilds from £2,200. Nationwide recovery and 12-month warranty.",
   "h1": "Mercedes Diesel Timing Chain & Injector Repair",
-  "lede": "Expert workshop repair for OM-series diesel engines — timing chain replacement, injector seal renewal, and full system recalibration. Rebuilds start from £2,200.",
+  "lede": "Expert workshop repair for OM-series diesel engines - timing chain replacement, injector seal renewal, and full system recalibration. Rebuilds start from £2,200.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -40,7 +40,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Our workshop carries out full timing chain and injector seal repairs on all Mercedes OM-series diesel engines — including OM640, OM607, OM608, OM651, OM654, and OM642. The work is carried out to manufacturer specifications using genuine or OEM-quality parts, with full diagnostic calibration afterwards."
+          "html": "Our workshop carries out full timing chain and injector seal repairs on all Mercedes OM-series diesel engines - including OM640, OM607, OM608, OM651, OM654, and OM642. The work is carried out to manufacturer specifications using genuine or OEM-quality parts, with full diagnostic calibration afterwards."
         },
         {
           "t": "p",
@@ -60,8 +60,8 @@
           "t": "callout",
           "heading": "Our Fixed-Price Rebuilds",
           "paras": [
-            "**4-Cylinder Diesel** (OM607/608/640/651/654) — from **£2,200**",
-            "**6-Cylinder Diesel** (OM642) — from **£2,800**",
+            "**4-Cylinder Diesel** (OM607/608/640/651/654) - from **£2,200**",
+            "**6-Cylinder Diesel** (OM642) - from **£2,800**",
             "Price includes full disassembly, parts, labour, and final testing. [Pricing disclaimer](/pricing-legal-disclaimer)."
           ]
         }
@@ -213,7 +213,7 @@
               "desc": "(OM654)"
             },
             {
-              "label": "Sprinter 313–319 CDI",
+              "label": "Sprinter 313-319 CDI",
               "href": "/mercedes-sprinter-313319-cdi-engines",
               "desc": "(OM651/OM642)"
             },
@@ -232,7 +232,7 @@
       "steps": [
         {
           "title": "Initial Assessment",
-          "body": "We inspect the engine and confirm the scope of work – whether timing chain, injector seals, or both. We lock the engine at TDC using factory tools."
+          "body": "We inspect the engine and confirm the scope of work - whether timing chain, injector seals, or both. We lock the engine at TDC using factory tools."
         },
         {
           "title": "Engine Preparation",
@@ -265,10 +265,10 @@
           "items": [
             "Specialist Mercedes workshop with 15+ years of experience (founded 2009)",
             "Factory-trained technicians using genuine Mercedes-Benz tools and XENTY diagnostics",
-            "Transparent pricing – fixed-price rebuilds from £2,200, no hidden charges",
-            "Nationwide recovery service from £70 – we bring your vehicle to our Essex workshop",
+            "Transparent pricing - fixed-price rebuilds from £2,200, no hidden charges",
+            "Nationwide recovery service from £70 - we bring your vehicle to our Essex workshop",
             "12-month unlimited-mileage warranty on all parts and labour",
-            "Engine removed/replaced with care – we match your exact engine code and VIN"
+            "Engine removed/replaced with care - we match your exact engine code and VIN"
           ]
         },
         {
@@ -279,11 +279,11 @@
     },
     {
       "kind": "steps",
-      "heading": "How It Works – From Booking to Collection",
+      "heading": "How It Works - From Booking to Collection",
       "steps": [
         {
           "title": "",
-          "body": "Call or [get a quote online](/get-quote) – we'll discuss your engine and arrange recovery if needed."
+          "body": "Call or [get a quote online](/get-quote) - we'll discuss your engine and arrange recovery if needed."
         },
         {
           "title": "",
@@ -295,7 +295,7 @@
         },
         {
           "title": "",
-          "body": "You collect your vehicle with a full report and 12-month warranty – or we arrange delivery."
+          "body": "You collect your vehicle with a full report and 12-month warranty - or we arrange delivery."
         }
       ]
     },
@@ -306,7 +306,7 @@
         {
           "t": "ul",
           "items": [
-            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild) – full overhaul",
+            "[Mercedes-Benz Engine Rebuild](/mercedes-engine-rebuild) - full overhaul",
             "[Mercedes-Benz Engine Replacement](/mercedes-engine-replacement)",
             "[Mercedes 4-Cylinder Timing Chain Repair](/mercedes-4cyl-timing-chain-repair) (petrol M270/M274)",
             "[Mercedes AMG V8 Valve Seal & Coolant Repair](/mercedes-amg-v8-valve-seal-repair)",

@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the S450 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 S450",
         "codeHref": "/mercedes-m256-engine"
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic S-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic S-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES S450 ",
@@ -70,7 +70,7 @@
       {
         "generation": "W222",
         "chassis": "W222",
-        "years": "2017–2020",
+        "years": "2017-2020",
         "engineCode": "M256",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m256-engine"
@@ -78,7 +78,7 @@
       {
         "generation": "W223",
         "chassis": "W223",
-        "years": "2020–present",
+        "years": "2020-present",
         "engineCode": "M256",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m256-engine"

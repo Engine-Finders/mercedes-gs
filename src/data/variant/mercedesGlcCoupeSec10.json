@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLC COUPE ENGINE",
     "paragraphs": [
-      "The GLC Coupe has been part of the GLC-Class range since 2015, and across its two generations has used multiple different engines — from the original M274 and OM651 units through to the current M254, OM654, OM656 and M139 hybrid setups. The full breakdown by engine code is below."
+      "The GLC Coupe has been part of the GLC-Class range since 2015, and across its two generations has used multiple different engines - from the original M274 and OM651 units through to the current M254, OM654, OM656 and M139 hybrid setups. The full breakdown by engine code is below."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLC COUPE on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M274",
         "image": "/engines/m274-engine-hero.webp",
-        "codeRest": "(X253, 2015–2022)",
+        "codeRest": "(X253, 2015-2022)",
         "body": "A 2.0-litre four-cylinder petrol fitted to the GLC200 and GLC300 in the first-generation X253. No specific known issue confirmed for this application. We service it to the same standard as our other GLC Coupe rebuilds.",
         "cta": "Check Your M274 GLC Coupe",
         "codeHref": "/mercedes-m274-engine"
@@ -25,56 +25,56 @@
       {
         "codeHighlight": "M254",
         "image": "/engines/m254-engine-hero.webp",
-        "codeRest": "(X254, 2022–present)",
-        "body": "A 2.0-litre four-cylinder petrol with mild-hybrid technology, fitted to the GLC200 and GLC300 in the current X254 generation from 2023. No specific known issue confirmed for this application — it's a newer design. We service it to the same standard as our other GLC Coupe rebuilds.",
+        "codeRest": "(X254, 2022-present)",
+        "body": "A 2.0-litre four-cylinder petrol with mild-hybrid technology, fitted to the GLC200 and GLC300 in the current X254 generation from 2023. No specific known issue confirmed for this application - it's a newer design. We service it to the same standard as our other GLC Coupe rebuilds.",
         "cta": "Check Your M254 GLC Coupe",
         "codeHref": "/mercedes-m254-engine"
       },
       {
         "codeHighlight": "OM651",
         "image": "/engines/om651-engine.webp",
-        "codeRest": "(X253 early, 2015–early)",
-        "body": "A 2.0-litre four-cylinder diesel fitted to early X253-generation GLC220d and GLC300d models. Known for injector seal leakage and timing chain wear — see the callout above. We replace injector seals and timing chain components as standard on every OM651 rebuild.",
+        "codeRest": "(X253 early, 2015-early)",
+        "body": "A 2.0-litre four-cylinder diesel fitted to early X253-generation GLC220d and GLC300d models. Known for injector seal leakage and timing chain wear - see the callout above. We replace injector seals and timing chain components as standard on every OM651 rebuild.",
         "cta": "Check Your OM651 GLC Coupe",
         "codeHref": "/mercedes-om651-engine"
       },
       {
         "codeHighlight": "OM654",
         "image": "/engines/om654-engine.webp",
-        "codeRest": "(X253 late/X254, late–present)",
-        "body": "A 2.0-litre four-cylinder diesel fitted to later X253 and all X254 GLC220d/GLC300d models. No specific known issue confirmed for this application — it's a newer design from the OM651. We service it to the same standard as our other GLC Coupe rebuilds.",
+        "codeRest": "(X253 late/X254, late-present)",
+        "body": "A 2.0-litre four-cylinder diesel fitted to later X253 and all X254 GLC220d/GLC300d models. No specific known issue confirmed for this application - it's a newer design from the OM651. We service it to the same standard as our other GLC Coupe rebuilds.",
         "cta": "Check Your OM654 GLC Coupe",
         "codeHref": "/mercedes-om654-engine"
       },
       {
         "codeHighlight": "OM656",
         "image": "/engines/om656-engine.webp",
-        "codeRest": "(X254, 2022–present)",
-        "body": "A 3.0-litre inline-six diesel with mild-hybrid technology, fitted to the GLC400d in the current X254 generation. No specific known issue confirmed for this application — it's a newer design. We service it to the same standard as our other GLC Coupe rebuilds.",
+        "codeRest": "(X254, 2022-present)",
+        "body": "A 3.0-litre inline-six diesel with mild-hybrid technology, fitted to the GLC400d in the current X254 generation. No specific known issue confirmed for this application - it's a newer design. We service it to the same standard as our other GLC Coupe rebuilds.",
         "cta": "Check Your OM656 GLC Coupe",
         "codeHref": "/mercedes-om656-engine"
       },
       {
         "codeHighlight": "M276",
         "image": "/engines/m276-engine-hero.webp",
-        "codeRest": "(X253, 2015–2022)",
-        "body": "A 3.0-litre V6 petrol fitted to the GLC43 AMG in the first-generation X253. No specific known issue confirmed for this application — it's a well-established Mercedes V6. We service it to the same standard as our other GLC Coupe rebuilds.",
+        "codeRest": "(X253, 2015-2022)",
+        "body": "A 3.0-litre V6 petrol fitted to the GLC43 AMG in the first-generation X253. No specific known issue confirmed for this application - it's a well-established Mercedes V6. We service it to the same standard as our other GLC Coupe rebuilds.",
         "cta": "Check Your M276 GLC Coupe",
         "codeHref": "/mercedes-m276-engine"
       },
       {
         "codeHighlight": "M139",
         "image": "/variant/sec10_engine.webp",
-        "codeRest": "(X254, 2022–present)",
-        "body": "A 2.0-litre four-cylinder hybrid petrol fitted to the GLC43 and GLC63 AMG in the current X254 generation. No specific known issue confirmed for this application — it's a very new design and should not inherit the M177/V8 story from the previous generation. We service it to the same standard as our other GLC Coupe rebuilds.",
+        "codeRest": "(X254, 2022-present)",
+        "body": "A 2.0-litre four-cylinder hybrid petrol fitted to the GLC43 and GLC63 AMG in the current X254 generation. No specific known issue confirmed for this application - it's a very new design and should not inherit the M177/V8 story from the previous generation. We service it to the same standard as our other GLC Coupe rebuilds.",
         "cta": "Check Your M139 GLC Coupe",
         "codeHref": "/mercedes-amg-m139-engine"
       },
       {
         "codeHighlight": "M177",
         "image": "/engines/m177-m178-engine-hero.webp",
-        "codeRest": "(X253, 2015–2022)",
-        "body": "A 4.0-litre V8 petrol fitted to the GLC63 AMG in the first-generation X253. Known for valve seal and coolant system wear — see the callout above. We replace valve seals, coolant components and timing chain components as standard on every M177 rebuild.",
+        "codeRest": "(X253, 2015-2022)",
+        "body": "A 4.0-litre V8 petrol fitted to the GLC63 AMG in the first-generation X253. Known for valve seal and coolant system wear - see the callout above. We replace valve seals, coolant components and timing chain components as standard on every M177 rebuild.",
         "cta": "Check Your M177 GLC Coupe",
         "codeHref": "/mercedes-m177-engine"
       }
@@ -83,7 +83,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLC COUPE ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the GLC Coupe spans multiple distinct engines across two generations — including a significant switch for the AMG variants from the V8 M177 to the 4-cylinder hybrid M139 — we confirm your exact engine code before quoting or supplying anything:",
+    "intro": "Because the GLC Coupe spans multiple distinct engines across two generations - including a significant switch for the AMG variants from the V8 M177 to the 4-cylinder hybrid M139 - we confirm your exact engine code before quoting or supplying anything:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -109,7 +109,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLC COUPE ",
@@ -126,7 +126,7 @@
       {
         "generation": "X253",
         "chassis": "X253",
-        "years": "2015–2022",
+        "years": "2015-2022",
         "engineCode": "M274",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m274-engine"
@@ -134,7 +134,7 @@
       {
         "generation": "X253",
         "chassis": "X253",
-        "years": "2015–2022",
+        "years": "2015-2022",
         "engineCode": "OM651",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om651-engine"
@@ -142,7 +142,7 @@
       {
         "generation": "X253",
         "chassis": "X253",
-        "years": "2015–2022",
+        "years": "2015-2022",
         "engineCode": "OM654",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om654-engine"
@@ -150,7 +150,7 @@
       {
         "generation": "X253",
         "chassis": "X253",
-        "years": "2015–2022",
+        "years": "2015-2022",
         "engineCode": "M276",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m276-engine"
@@ -158,7 +158,7 @@
       {
         "generation": "X253",
         "chassis": "X253",
-        "years": "2015–2022",
+        "years": "2015-2022",
         "engineCode": "M177",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m177-engine"
@@ -166,7 +166,7 @@
       {
         "generation": "X254",
         "chassis": "X254",
-        "years": "2022–present",
+        "years": "2022-present",
         "engineCode": "M254",
         "fuel": "Petrol MHEV",
         "codeHref": "/mercedes-m254-engine"
@@ -174,7 +174,7 @@
       {
         "generation": "X254",
         "chassis": "X254",
-        "years": "2022–present",
+        "years": "2022-present",
         "engineCode": "OM654",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om654-engine"
@@ -182,7 +182,7 @@
       {
         "generation": "X254",
         "chassis": "X254",
-        "years": "2022–present",
+        "years": "2022-present",
         "engineCode": "OM656",
         "fuel": "Diesel MHEV",
         "codeHref": "/mercedes-om656-engine"
@@ -190,7 +190,7 @@
       {
         "generation": "X254",
         "chassis": "X254",
-        "years": "2022–present",
+        "years": "2022-present",
         "engineCode": "M139",
         "fuel": "Petrol Hybrid",
         "codeHref": "/mercedes-amg-m139-engine"

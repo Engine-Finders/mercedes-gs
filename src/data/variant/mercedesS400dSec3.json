@@ -9,14 +9,14 @@
     {
       "code": "OM656",
       "image": "/engines/om656-engine.webp",
-      "generation": "W222 (2017–2020)",
+      "generation": "W222 (2017-2020)",
       "price": "£2,800",
       "codeHref": "/mercedes-om656-engine"
     },
     {
       "code": "OM656",
       "image": "/engines/om656-engine.webp",
-      "generation": "W223 (2020–present)",
+      "generation": "W223 (2020-present)",
       "price": "£2,800",
       "codeHref": "/mercedes-om656-engine"
     }
@@ -24,7 +24,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -37,8 +37,8 @@
     "titlePre": "Mercedes S400d Injector Seal Wear ",
     "titleHighlight": "(OM656)",
     "paragraphs": [
-      "If your S400d has the OM656 diesel engine — that's fitted to both the W222 (2017–2020) and W223 (2020–present) generations — occasional injector seal wear is possible at higher mileage, though the engine is generally considered reliable compared to earlier Mercedes diesel designs. We replace injector seals, timing chain components and gaskets as standard on every OM656 rebuild.",
-      "The OM656 is a newer, more modern engine than the OM642 it replaced, and doesn't share the older engine's swirl flap pattern — but routine servicing of the injector seals during a rebuild remains sensible preventative maintenance."
+      "If your S400d has the OM656 diesel engine - that's fitted to both the W222 (2017-2020) and W223 (2020-present) generations - occasional injector seal wear is possible at higher mileage, though the engine is generally considered reliable compared to earlier Mercedes diesel designs. We replace injector seals, timing chain components and gaskets as standard on every OM656 rebuild.",
+      "The OM656 is a newer, more modern engine than the OM642 it replaced, and doesn't share the older engine's swirl flap pattern - but routine servicing of the injector seals during a rebuild remains sensible preventative maintenance."
     ],
     "source": "Source: specialist consensus, per VRF-mercedes-s-class.md. No hero-hook claim exists for this engine; this is routine maintenance, not a defect pattern"
   }

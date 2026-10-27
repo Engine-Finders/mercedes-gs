@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLE400D ENGINE",
     "paragraphs": [
-      "The GLE400d is a relatively recent addition to the GLE-Class lineup, introduced with the V167 generation in 2019. It uses the OM656 — a 3.0-litre inline-six diesel with mild-hybrid assistance, a unit that represents a significant departure from the older OM642 V6 diesel that powered earlier generations of the GLE. The OM656 is a more modern, more efficient engine, and while it shares the '400d' badge with other models in the Mercedes range, its specific application in the GLE is a key point of fitment for any engine work."
+      "The GLE400d is a relatively recent addition to the GLE-Class lineup, introduced with the V167 generation in 2019. It uses the OM656 - a 3.0-litre inline-six diesel with mild-hybrid assistance, a unit that represents a significant departure from the older OM642 V6 diesel that powered earlier generations of the GLE. The OM656 is a more modern, more efficient engine, and while it shares the '400d' badge with other models in the Mercedes range, its specific application in the GLE is a key point of fitment for any engine work."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLE400D on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLE400D from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 GLE400D",
         "codeHref": "/mercedes-m256-engine"
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLE-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLE-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLE400D ",
@@ -70,7 +70,7 @@
       {
         "generation": "V167",
         "chassis": "V167",
-        "years": "2019–present",
+        "years": "2019-present",
         "engineCode": "OM656",
         "fuel": "Diesel MHEV",
         "codeHref": "/mercedes-om656-engine"

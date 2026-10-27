@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES S350D ENGINE",
     "paragraphs": [
-      "The S350d has been a mainstay of the S-Class diesel range since 2008, spanning three generations under one badge. Early and mid-generation cars (W221 and W222, roughly 2008 to 2020) use the OM642 — a 3.0-litre V6 diesel shared across a wide range of Mercedes models of that era. From 2020, the W223-generation S350d switched to the OM656, a newer inline-six diesel that's a different unit entirely, not an evolution of the OM642. Knowing which one your car has matters, because the components, the known wear pattern, and even the rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+      "The S350d has been a mainstay of the S-Class diesel range since 2008, spanning three generations under one badge. Early and mid-generation cars (W221 and W222, roughly 2008 to 2020) use the OM642 - a 3.0-litre V6 diesel shared across a wide range of Mercedes models of that era. From 2020, the W223-generation S350d switched to the OM656, a newer inline-six diesel that's a different unit entirely, not an evolution of the OM642. Knowing which one your car has matters, because the components, the known wear pattern, and even the rebuild specifics differ between them - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every S350D on the road."
   },
@@ -18,7 +18,7 @@
         "codeHighlight": "OM642",
         "image": "/engines/om642-engine.webp",
         "codeRest": "(W221, W222)",
-        "body": "A 3.0-litre V6 diesel fitted to the S350d from 2008 to 2020, across two generations. Known for swirl flap and injector wear over time — see the callout above. We replace both as standard on every OM642 rebuild, along with the timing chain where worn.",
+        "body": "A 3.0-litre V6 diesel fitted to the S350d from 2008 to 2020, across two generations. Known for swirl flap and injector wear over time - see the callout above. We replace both as standard on every OM642 rebuild, along with the timing chain where worn.",
         "cta": "Check Your OM642 S350d",
         "codeHref": "/mercedes-om642-engine"
       },
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES S350D ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the S350d spans two distinct engines across three generations, fitting the wrong replacement — or assuming an OM642 part will work on an OM656 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the S350d spans two distinct engines across three generations, fitting the wrong replacement - or assuming an OM642 part will work on an OM656 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic S-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic S-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES S350D ",
@@ -78,7 +78,7 @@
       {
         "generation": "W221",
         "chassis": "W221",
-        "years": "2008–2013",
+        "years": "2008-2013",
         "engineCode": "OM642",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om642-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "W222",
         "chassis": "W222",
-        "years": "2013–2020",
+        "years": "2013-2020",
         "engineCode": "OM642",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om642-engine"
@@ -94,7 +94,7 @@
       {
         "generation": "W223",
         "chassis": "W223",
-        "years": "2020–present",
+        "years": "2020-present",
         "engineCode": "OM656",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om656-engine"

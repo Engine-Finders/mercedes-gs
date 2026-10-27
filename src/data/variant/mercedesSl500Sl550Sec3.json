@@ -9,28 +9,28 @@
     {
       "code": "M113",
       "image": "/engines/m113-engine-hero.webp",
-      "generation": "R129 (1989–2002)",
+      "generation": "R129 (1989-2002)",
       "price": "£4,500",
       "codeHref": "/mercedes-m113-engine"
     },
     {
       "code": "M113",
       "image": "/engines/m113-engine-hero.webp",
-      "generation": "R230 (2001–2012)",
+      "generation": "R230 (2001-2012)",
       "price": "£4,500",
       "codeHref": "/mercedes-m113-engine"
     },
     {
       "code": "M273",
       "image": "/engines/m273-engine-hero.webp",
-      "generation": "R230 (2001–2012)",
+      "generation": "R230 (2001-2012)",
       "price": "£4,500",
       "codeHref": "/mercedes-m273-engine"
     },
     {
       "code": "M278",
       "image": "/engines/m278-engine-hero.webp",
-      "generation": "R231 (2012–2021)",
+      "generation": "R231 (2012-2021)",
       "price": "£4,500",
       "codeHref": "/mercedes-m278-engine"
     }
@@ -38,7 +38,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -51,9 +51,9 @@
     "titlePre": "Mercedes SL500/SL550 V8 Valve Seal & Coolant Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "SL500/SL550 engines — M113, M273 and M278, across every SL generation — commonly show valve seal and coolant system wear at higher mileage. This is a well-documented pattern on these V8s, confirmed by established Mercedes specialist sources. We replace valve seals, coolant system components, timing chain components and bearings as standard on every rebuild.",
+      "SL500/SL550 engines - M113, M273 and M278, across every SL generation - commonly show valve seal and coolant system wear at higher mileage. This is a well-documented pattern on these V8s, confirmed by established Mercedes specialist sources. We replace valve seals, coolant system components, timing chain components and bearings as standard on every rebuild.",
       "Source: established Mercedes specialist pattern, per VRF-mercedes-sl.md. Applies to M113, M273 and M278 across all generations."
     ],
-    "source": "Source: Established M256 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
+    "source": "Source: Established M256 specialist pattern - timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
   }
 }

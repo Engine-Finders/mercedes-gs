@@ -2,37 +2,37 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "Mercedes CLC-Class Rebuilds",
-  "subhead": "Full variant list below covers every Mercedes CLC-Class engine we work on — these are simply our most requested.",
-  "image": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-meta-1752.webp",
+  "subhead": "Full variant list below covers every Mercedes CLC-Class engine we work on - these are simply our most requested.",
+  "image": "/cars/card/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-meta-1752.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "Mercedes CLC 160",
       "spec": "1.8L I4 Petrol Supercharged (M271)",
-      "image": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
+      "image": "/cars/card/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
       "href": "/mercedes-clc-160-engines"
     },
     {
       "number": "02",
       "model": "Mercedes CLC 180",
       "spec": "1.8L I4 Petrol Supercharged (M271)",
-      "image": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
+      "image": "/cars/card/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
       "href": "/mercedes-clc-180-engines"
     },
     {
       "number": "03",
       "model": "Mercedes CLC 200",
       "spec": "1.8L I4 Petrol Supercharged (M271)",
-      "image": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
+      "image": "/cars/card/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
       "href": "/mercedes-clc-200-engines"
     },
     {
       "number": "04",
       "model": "Mercedes CLC 220 CDI",
       "spec": "2.2L I4 Diesel (OM646)",
-      "image": "/cars/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
+      "image": "/cars/card/clc-class-cl203-clc-coupe-20082010-new-brilliant-silver-metallic-final-1752.webp",
       "href": "/mercedes-clc-220-cdi-engines"
     }
   ]

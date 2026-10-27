@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES G300 ENGINE",
     "paragraphs": [
-      "The G300 Turbodiesel uses the OM606 — a 3.0-litre inline-six diesel that was fitted to the W463-generation G-Class from the 1990s through to the 2000s. It's a well-known engine among G-Class enthusiasts and restoration specialists, valued for its durability and mechanical simplicity compared to later, more complex diesel units. The OM606 is a pre-common-rail design that many owners specifically seek out for its reliability and relative ease of maintenance."
+      "The G300 Turbodiesel uses the OM606 - a 3.0-litre inline-six diesel that was fitted to the W463-generation G-Class from the 1990s through to the 2000s. It's a well-known engine among G-Class enthusiasts and restoration specialists, valued for its durability and mechanical simplicity compared to later, more complex diesel units. The OM606 is a pre-common-rail design that many owners specifically seek out for its reliability and relative ease of maintenance."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every G300 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the G300 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 G300",
         "codeHref": "/mercedes-m256-engine"
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic G-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic G-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES G300 ",
@@ -70,7 +70,7 @@
       {
         "generation": "W463 (pre-2018)",
         "chassis": "W463",
-        "years": "1990s–2000s",
+        "years": "1990s-2000s",
         "engineCode": "OM606",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om606-engine"

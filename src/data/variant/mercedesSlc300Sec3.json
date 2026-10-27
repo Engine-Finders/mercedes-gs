@@ -9,7 +9,7 @@
     {
       "code": "M256",
       "image": "/engines/m256-engine-hero.webp",
-      "generation": "R190 (2023–present)",
+      "generation": "R190 (2023-present)",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -30,8 +30,8 @@
     "titlePre": "Mercedes SLC300 Timing Chain Wear ",
     "titleHighlight": "(M274)",
     "paragraphs": [
-      "If your SLC300 is from the R172 generation, it uses the M274 petrol engine. This engine is part of the broader M270/M274 family, which is known for timing chain wear over time — a pattern well-documented across the C-Class and other Mercedes models of the same era. We replace the timing chain, bearings, and gaskets as standard on every M274 rebuild.",
-      "*include_in_hero_hook: yes for M270/M274 — Source: established specialist pattern (per G-BRF, confirmed in original model page build), per VRF-mercedes-slc.md.*"
+      "If your SLC300 is from the R172 generation, it uses the M274 petrol engine. This engine is part of the broader M270/M274 family, which is known for timing chain wear over time - a pattern well-documented across the C-Class and other Mercedes models of the same era. We replace the timing chain, bearings, and gaskets as standard on every M274 rebuild.",
+      "*include_in_hero_hook: yes for M270/M274 - Source: established specialist pattern (per G-BRF, confirmed in original model page build), per VRF-mercedes-slc.md.*"
     ],
     "source": "Source: established specialist pattern (per G-BRF, confirmed in original model page build), per VRF-mercedes-slc.md"
   }

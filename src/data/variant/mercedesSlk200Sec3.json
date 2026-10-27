@@ -9,7 +9,7 @@
     {
       "code": "M256",
       "image": "/engines/m256-engine-hero.webp",
-      "generation": "R190 (2023–present)",
+      "generation": "R190 (2023-present)",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -30,7 +30,7 @@
     "titlePre": "Mercedes SLK200 Timing Chain & Balance Shaft Wear ",
     "titleHighlight": "(R171/R172, M271)",
     "paragraphs": [
-      "If your SLK200 is an R171 or R172 model with the M271 engine — that's the 2004–2016 generations — timing chain stretch and balance shaft issues are a known pattern on this engine, backed by established Mercedes specialist consensus. We replace the timing chain, timing gears, and gaskets as standard on every M271 rebuild.",
+      "If your SLK200 is an R171 or R172 model with the M271 engine - that's the 2004-2016 generations - timing chain stretch and balance shaft issues are a known pattern on this engine, backed by established Mercedes specialist consensus. We replace the timing chain, timing gears, and gaskets as standard on every M271 rebuild.",
       "The older R170 generation uses a different engine, the M111, which doesn't share this specific issue."
     ],
     "source": "Source: established Mercedes specialist pattern, per VRF‑mercedes‑slk.md. M111 (R170) explicitly excluded from this claim per VRF, correctly scoped to generation"

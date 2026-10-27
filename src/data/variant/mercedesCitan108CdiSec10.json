@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES CITAN 108 CDI ENGINE",
     "paragraphs": [
-      "The Citan 108 CDI uses the K9K — a 1.5-litre diesel unit sourced from Renault, shared with the Kangoo of the same era. It was fitted across the W415 generation from 2012 to 2021. This engine is known for injector and EGR-related wear over time, which is why we replace those components as standard on every rebuild. The Citan 108 CDI is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The Citan 108 CDI uses the K9K - a 1.5-litre diesel unit sourced from Renault, shared with the Kangoo of the same era. It was fitted across the W415 generation from 2012 to 2021. This engine is known for injector and EGR-related wear over time, which is why we replace those components as standard on every rebuild. The Citan 108 CDI is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every CITAN 108 CDI on the road."
   },
@@ -16,7 +16,7 @@
     "cards": [
       {
         "codeHighlight": "M256",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the CITAN 108 CDI from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 CITAN 108 CDI",
         "codeHref": "/mercedes-m256-engine"
@@ -52,12 +52,12 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Citan quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Citan quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES CITAN 108 CDI ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/citan-w415-tourer-mpv-20122021-new-pebble-grey-passenger-body-citan-w4-4723.webp",
+    "image": "/cars/card/citan-w415-tourer-mpv-20122021-new-pebble-grey-passenger-body-citan-w4-4723.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -68,9 +68,9 @@
     "rows": [
       {
         "generation": "W415",
-        "image": "/cars/citan-w415-tourer-mpv-20122021-new-pebble-grey-passenger-body-citan-w4-4723.webp",
+        "image": "/cars/card/citan-w415-tourer-mpv-20122021-new-pebble-grey-passenger-body-citan-w4-4723.webp",
         "chassis": "W415",
-        "years": "2012–2021",
+        "years": "2012-2021",
         "engineCode": "K9K",
         "fuel": "Diesel",
         "codeHref": "/mercedes-k9k-engine"

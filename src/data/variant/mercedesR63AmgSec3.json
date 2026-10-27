@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "M156",
-      "generation": "W251/V251 (2006–2007)",
+      "generation": "W251/V251 (2006-2007)",
       "price": "£6,500",
       "codeHref": "/mercedes-m156-engine"
     }
@@ -16,7 +16,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -29,8 +29,8 @@
     "titlePre": "Mercedes R63 AMG Camshaft Adjuster & Head Bolt Wear ",
     "titleHighlight": "(M156)",
     "paragraphs": [
-      "If your R63 AMG has the M156 V8 — that's the 6.2-litre AMG engine fitted to the extremely limited 2006–2007 production run — camshaft adjuster and head bolt wear is a well-established pattern on this engine, confirmed by AMG specialist sources. We replace the camshaft adjuster, timing chain, and bearings as standard on every M156 rebuild.",
-      "include_in_hero_hook: yes for M156 — Source: established AMG specialist pattern, confirmed elsewhere in Mercedes G-BRF, per VRF-mercedes-r-class.md."
+      "If your R63 AMG has the M156 V8 - that's the 6.2-litre AMG engine fitted to the extremely limited 2006-2007 production run - camshaft adjuster and head bolt wear is a well-established pattern on this engine, confirmed by AMG specialist sources. We replace the camshaft adjuster, timing chain, and bearings as standard on every M156 rebuild.",
+      "include_in_hero_hook: yes for M156 - Source: established AMG specialist pattern, confirmed elsewhere in Mercedes G-BRF, per VRF-mercedes-r-class.md."
     ],
     "source": "Source: established AMG specialist pattern, confirmed elsewhere in Mercedes G-BRF, per VRF-mercedes-r-class.md"
   }

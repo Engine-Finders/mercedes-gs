@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "M156",
-      "generation": "W164 (2005–2011)",
+      "generation": "W164 (2005-2011)",
       "price": "£6,500",
       "codeHref": "/mercedes-m156-engine"
     }
@@ -16,7 +16,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -29,8 +29,8 @@
     "titlePre": "Mercedes ML63 AMG Camshaft Adjuster & Head Bolt Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "If your ML63 AMG is a pre-2012 model with the M156 6.2-litre V8 — that's the W164 generation — camshaft adjuster and head bolt wear is a well-documented pattern on this AMG engine, backed by specialist consensus. We replace worn camshaft adjusters, timing chain components and bearings as standard on every M156 rebuild.",
-      "The later W166-generation M-Class (2011–2015) does not use the M156 — it switched to the M157 biturbo V8 for the ML63 AMG, which is a different engine with its own separate service requirements."
+      "If your ML63 AMG is a pre-2012 model with the M156 6.2-litre V8 - that's the W164 generation - camshaft adjuster and head bolt wear is a well-documented pattern on this AMG engine, backed by specialist consensus. We replace worn camshaft adjusters, timing chain components and bearings as standard on every M156 rebuild.",
+      "The later W166-generation M-Class (2011-2015) does not use the M156 - it switched to the M157 biturbo V8 for the ML63 AMG, which is a different engine with its own separate service requirements."
     ],
     "source": "Source: established AMG specialist pattern, per VRF-mercedes-m-class.md. Correctly scoped to the pre-2012 W164 generation"
   }

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLK200 ENGINE",
     "paragraphs": [
-      "The GLK200 uses the M271 — a 1.8-litre four-cylinder petrol engine. It was fitted throughout the X204 generation's entire production run, from 2008 to 2015. The GLK200 sat as the entry-level petrol option in the GLK-Class range, offering a more accessible alternative to the larger GLK250 and GLK350 petrol variants. The GLK-Class was discontinued in 2015 and succeeded by the GLC, but we continue to rebuild and replace engines for every one still on the road."
+      "The GLK200 uses the M271 - a 1.8-litre four-cylinder petrol engine. It was fitted throughout the X204 generation's entire production run, from 2008 to 2015. The GLK200 sat as the entry-level petrol option in the GLK-Class range, offering a more accessible alternative to the larger GLK250 and GLK350 petrol variants. The GLK-Class was discontinued in 2015 and succeeded by the GLC, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLK200 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLK200 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 GLK200",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLK200 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The GLK200 uses the M271 petrol engine throughout its production life — there's no running change to a different engine code for this variant. Before we quote or supply anything, we confirm:",
+    "intro": "The GLK200 uses the M271 petrol engine throughout its production life - there's no running change to a different engine code for this variant. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLK-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLK-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLK200 ",
@@ -70,7 +70,7 @@
       {
         "generation": "X204",
         "chassis": "X204",
-        "years": "2008–2015",
+        "years": "2008-2015",
         "engineCode": "M271",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m271-engine"

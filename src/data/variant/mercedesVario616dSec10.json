@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES VARIO 616D ENGINE",
     "paragraphs": [
-      "The Vario 616D has been part of the Vario range since 1996, and across its single generation has used two different engines — from the OM612 through to the later OM647. These are the heavier-chassis variants of the Vario, using 2.2L to 2.7L diesel units shared with the equivalent-era Sprinter. They're known for the same timing chain and injector seal wear pattern as the lighter-chassis Varios, a well-documented specialist pattern. The Vario 616D is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The Vario 616D has been part of the Vario range since 1996, and across its single generation has used two different engines - from the OM612 through to the later OM647. These are the heavier-chassis variants of the Vario, using 2.2L to 2.7L diesel units shared with the equivalent-era Sprinter. They're known for the same timing chain and injector seal wear pattern as the lighter-chassis Varios, a well-documented specialist pattern. The Vario 616D is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every VARIO 616D on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the VARIO 616D from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 VARIO 616D",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES VARIO 616D ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the Vario 616D uses two distinct engines, fitting the wrong replacement — or assuming an OM612 part will work on an OM647 van — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm: - Your exact engine code (OM612 or OM647) via registration or VIN - Your van's chassis variant and weight rating - Ancillary specification and any fitment considerations",
+    "intro": "Because the Vario 616D uses two distinct engines, fitting the wrong replacement - or assuming an OM612 part will work on an OM647 van - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm: - Your exact engine code (OM612 or OM647) via registration or VIN - Your van's chassis variant and weight rating - Ancillary specification and any fitment considerations",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Vario quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Vario quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES VARIO 616D ",
@@ -70,7 +70,7 @@
       {
         "generation": "Single generation",
         "chassis": "W670",
-        "years": "1996–2013",
+        "years": "1996-2013",
         "engineCode": "OM612",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om612-engine"
@@ -78,7 +78,7 @@
       {
         "generation": "Single generation",
         "chassis": "W670",
-        "years": "1996–2013",
+        "years": "1996-2013",
         "engineCode": "OM647",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om647-engine"

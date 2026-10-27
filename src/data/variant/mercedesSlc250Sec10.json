@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES SLC250 ENGINE",
     "paragraphs": [
-      "The SLC250 is part of the R172-generation SLC, produced from 2016 to 2020. It uses the M270 or M274 — a 2.0-litre turbocharged 4-cylinder petrol engine, shared across a wide range of Mercedes models of that era, including the C-Class. The SLC was the successor to the SLK and has been discontinued with no direct replacement — but we continue to rebuild and replace engines for every one still on the road."
+      "The SLC250 is part of the R172-generation SLC, produced from 2016 to 2020. It uses the M270 or M274 - a 2.0-litre turbocharged 4-cylinder petrol engine, shared across a wide range of Mercedes models of that era, including the C-Class. The SLC was the successor to the SLK and has been discontinued with no direct replacement - but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every SLC250 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SLC250 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 SLC250",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES SLC250 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The SLC250 uses the M270/M274 4-cylinder petrol family across its entire 2016–2020 production run. The R172 generation was the only SLC generation, so there are no chassis-crossing compatibility concerns — but confirming your exact engine code still matters for parts specification.",
+    "intro": "The SLC250 uses the M270/M274 4-cylinder petrol family across its entire 2016-2020 production run. The R172 generation was the only SLC generation, so there are no chassis-crossing compatibility concerns - but confirming your exact engine code still matters for parts specification.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic SLC quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic SLC quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES SLC250 ",
@@ -70,7 +70,7 @@
       {
         "generation": "R172",
         "chassis": "R172",
-        "years": "2016–2020",
+        "years": "2016-2020",
         "engineCode": "M270 / M274",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m270-engine"

@@ -4,21 +4,21 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,800",
   "engineImage": "/engines/om642-engine.webp",
-  "carImage": "/cars/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
+  "carImage": "/cars/card/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
   "cards": [
     {
       "code": "OM642",
       "image": "/engines/om642-engine.webp",
-      "carImage": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
-      "generation": "C218 (2010–2018)",
+      "carImage": "/cars/card/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
+      "generation": "C218 (2010-2018)",
       "price": "£2,800",
       "codeHref": "/mercedes-om642-engine"
     },
     {
       "code": "OM642",
       "image": "/engines/om642-engine.webp",
-      "carImage": "/cars/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
-      "generation": "C257 (2018–2023)",
+      "carImage": "/cars/card/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
+      "generation": "C257 (2018-2023)",
       "price": "£2,800",
       "codeHref": "/mercedes-om642-engine"
     }
@@ -26,7 +26,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -39,8 +39,8 @@
     "titlePre": "Mercedes CLS 350d Swirl Flap & Injector Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "If your CLS 350d has the OM642 diesel V6 — that's every CLS 350d across both C218 and C257 generations — swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
-      "include_in_hero_hook: yes — Source: established specialist pattern, multiple TSBs, per VRF-mercedes-cls.md confirmed in original model page build. Applies to all OM642-fitted CLS 350d generations."
+      "If your CLS 350d has the OM642 diesel V6 - that's every CLS 350d across both C218 and C257 generations - swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
+      "include_in_hero_hook: yes - Source: established specialist pattern, multiple TSBs, per VRF-mercedes-cls.md confirmed in original model page build. Applies to all OM642-fitted CLS 350d generations."
     ],
     "source": "Source: established specialist pattern, multiple TSBs, per VRF-mercedes-cls.md confirmed in original model page build. Applies to all OM642-fitted CLS 350d generations"
   }

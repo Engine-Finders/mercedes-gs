@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES VIANO 3.0 CDI ENGINE",
     "paragraphs": [
-      "The Viano 3.0 CDI uses the OM642 — a 3.0‑litre V6 diesel that was fitted throughout its entire production run from 2003 to 2014 (W639 generation). The OM642 is shared across a wide range of Mercedes models of that era and is known for swirl flap and injector wear over time. Knowing which engine your van has is straightforward because there is only one code for this variant, but we still confirm it by registration before any work begins to ensure we have the right parts and spec."
+      "The Viano 3.0 CDI uses the OM642 - a 3.0‑litre V6 diesel that was fitted throughout its entire production run from 2003 to 2014 (W639 generation). The OM642 is shared across a wide range of Mercedes models of that era and is known for swirl flap and injector wear over time. Knowing which engine your van has is straightforward because there is only one code for this variant, but we still confirm it by registration before any work begins to ensure we have the right parts and spec."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every VIANO 3.0 CDI on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the VIANO 3.0 CDI from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 VIANO 3.0 CDI",
         "codeHref": "/mercedes-m256-engine"
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Viano quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Viano quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES VIANO 3.0 CDI ",
@@ -70,7 +70,7 @@
       {
         "generation": "R190",
         "chassis": "R190",
-        "years": "2023–present",
+        "years": "2023-present",
         "engineCode": "M256",
         "fuel": "Petrol Mild Hybrid",
         "codeHref": "/mercedes-m256-engine"

@@ -1,10 +1,10 @@
 {
   "kicker": "Mercedes AMG GT 63 Specialists",
-  "h1": "Mercedes AMG GT 63|Engine Rebuild —|From £3,200",
+  "h1": "Mercedes AMG GT 63|Engine Rebuild -|From £3,200",
   "subhead": "Model: AMG GT",
   "rating": {
     "stars": 5,
-    "label": "Rated Mercedes Engine Specialists — 1,800+ Engines Rebuilt"
+    "label": "Rated Mercedes Engine Specialists - 1,800+ Engines Rebuilt"
   },
   "trustBar": [
     {
@@ -29,7 +29,7 @@
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £5,500 —",
+    "kicker": "Starting from £5,500 -",
     "label": "Get a Fixed-Price Quote →",
     "href": "#quote-form"
   },

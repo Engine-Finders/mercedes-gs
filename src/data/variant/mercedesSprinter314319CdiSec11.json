@@ -1,8 +1,8 @@
 {
   "image": "/variant/sec11.webp",
-  "titlePre": "MERCEDES SPRINTER 314–319 CDI ENGINES ",
+  "titlePre": "MERCEDES SPRINTER 314-319 CDI ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the R190's launch in 2023, the SPRINTER 314–319 CDI has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "description": "From the R190's launch in 2023, the SPRINTER 314-319 CDI has used the M256 3.0-litre inline-six mild hybrid throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -69,6 +69,6 @@
   ],
   "notice": {
     "highlight": "The M256",
-    "rest": " has been fitted to every SPRINTER 314–319 CDI since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+    "rest": " has been fitted to every SPRINTER 314-319 CDI since launch - if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
   }
 }

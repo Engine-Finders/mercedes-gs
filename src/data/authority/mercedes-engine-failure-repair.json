@@ -40,7 +40,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "When an engine has failed, our workshop follows a structured, methodical process to determine exactly what is needed and carry out the repair. This is not about why it happened – we focus on what needs to be done next."
+          "html": "When an engine has failed, our workshop follows a structured, methodical process to determine exactly what is needed and carry out the repair. This is not about why it happened - we focus on what needs to be done next."
         },
         {
           "t": "p",
@@ -49,13 +49,13 @@
         {
           "t": "ul",
           "items": [
-            "**Initial inspection** – we examine the engine externally, check fluid condition, and verify the vehicle's VIN and engine code.",
-            "**Engine removal** – the engine is carefully lifted out of the vehicle, with all connections properly disconnected.",
-            "**Full strip-down** – the engine is dismantled completely, with every component labelled and laid out for inspection.",
-            "**Component-by-component inspection** – we check every part for wear, damage, or condition, measuring against factory tolerances.",
-            "**Quotation and authorisation** – we provide a detailed, itemised repair estimate before any work begins.",
-            "**Remediation and rebuild** – we machine, replace, and reassemble using genuine or OEM parts, to factory torque specifications.",
-            "**Testing and handover** – the rebuilt engine is tested, refitted, and road-tested before you collect your vehicle."
+            "**Initial inspection** - we examine the engine externally, check fluid condition, and verify the vehicle's VIN and engine code.",
+            "**Engine removal** - the engine is carefully lifted out of the vehicle, with all connections properly disconnected.",
+            "**Full strip-down** - the engine is dismantled completely, with every component labelled and laid out for inspection.",
+            "**Component-by-component inspection** - we check every part for wear, damage, or condition, measuring against factory tolerances.",
+            "**Quotation and authorisation** - we provide a detailed, itemised repair estimate before any work begins.",
+            "**Remediation and rebuild** - we machine, replace, and reassemble using genuine or OEM parts, to factory torque specifications.",
+            "**Testing and handover** - the rebuilt engine is tested, refitted, and road-tested before you collect your vehicle."
           ]
         },
         {
@@ -126,11 +126,11 @@
         {
           "t": "ul",
           "items": [
-            "[OM651 4-cyl diesel](/mercedes-om651-engine) – fitted across many models",
-            "[OM642 V6 diesel](/mercedes-om642-engine) – common in E-Class, ML, etc.",
-            "[M276 V6 petrol](/mercedes-m276-engine) – widely used",
-            "[M177 V8 AMG](/mercedes-m177-engine) – high-performance units",
-            "[OM654 4-cyl diesel](/mercedes-om654-engine) – newer generation"
+            "[OM651 4-cyl diesel](/mercedes-om651-engine) - fitted across many models",
+            "[OM642 V6 diesel](/mercedes-om642-engine) - common in E-Class, ML, etc.",
+            "[M276 V6 petrol](/mercedes-m276-engine) - widely used",
+            "[M177 V8 AMG](/mercedes-m177-engine) - high-performance units",
+            "[OM654 4-cyl diesel](/mercedes-om654-engine) - newer generation"
           ]
         },
         {
@@ -157,7 +157,7 @@
         },
         {
           "title": "Component Inspection & Measurement",
-          "body": "We inspect every part – cylinder head, block, pistons, rings, bearings, crankshaft, camshaft, timing components, and oil galleries. We measure wear against factory tolerances and identify what is salvageable and what must be replaced."
+          "body": "We inspect every part - cylinder head, block, pistons, rings, bearings, crankshaft, camshaft, timing components, and oil galleries. We measure wear against factory tolerances and identify what is salvageable and what must be replaced."
         },
         {
           "title": "Quotation & Authorisation",
@@ -183,7 +183,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Use our quick lookup to get started – we'll confirm your engine type and provide a tailored assessment."
+          "html": "Use our quick lookup to get started - we'll confirm your engine type and provide a tailored assessment."
         }
       ]
     },
@@ -194,12 +194,12 @@
         {
           "t": "ul",
           "items": [
-            "**Established since 2009** – with a dedicated Mercedes-Benz workshop in Essex.",
-            "**Genuine specialist equipment** – including Mercedes-Benz Xentry/Star Diagnosis.",
-            "**12-month unlimited-mileage warranty** – on all parts and labour.",
-            "**Nationwide recovery** – we can collect your vehicle from anywhere in the UK (separate charge).",
-            "**Transparent quoting** – fixed price after inspection, no hidden extras.",
-            "**Full strip-down and inspection** – we leave no stone unturned."
+            "**Established since 2009** - with a dedicated Mercedes-Benz workshop in Essex.",
+            "**Genuine specialist equipment** - including Mercedes-Benz Xentry/Star Diagnosis.",
+            "**12-month unlimited-mileage warranty** - on all parts and labour.",
+            "**Nationwide recovery** - we can collect your vehicle from anywhere in the UK (separate charge).",
+            "**Transparent quoting** - fixed price after inspection, no hidden extras.",
+            "**Full strip-down and inspection** - we leave no stone unturned."
           ]
         },
         {
@@ -210,7 +210,7 @@
     },
     {
       "kind": "steps",
-      "heading": "How It Works – Simple Steps",
+      "heading": "How It Works - Simple Steps",
       "steps": [
         {
           "title": "Contact Us",
@@ -259,7 +259,7 @@
         },
         {
           "q": "How long does the assessment and repair process take?",
-          "a": "The full process – from inspection to completion – typically takes 3-5 working days, depending on parts availability and the extent of the repair needed."
+          "a": "The full process - from inspection to completion - typically takes 3-5 working days, depending on parts availability and the extent of the repair needed."
         },
         {
           "q": "Do you provide a warranty on engine failure repairs?",
@@ -267,11 +267,11 @@
         },
         {
           "q": "Can you collect my vehicle?",
-          "a": "Yes – we offer nationwide recovery from £70 (separate charge). We can arrange collection and delivery back to you."
+          "a": "Yes - we offer nationwide recovery from £70 (separate charge). We can arrange collection and delivery back to you."
         },
         {
           "q": "What if the engine is beyond repair?",
-          "a": "If the engine is not economically repairable, we will advise you on the best course of action – which may be a replacement engine. We can supply and fit a replacement unit as an alternative."
+          "a": "If the engine is not economically repairable, we will advise you on the best course of action - which may be a replacement engine. We can supply and fit a replacement unit as an alternative."
         },
         {
           "q": "Do you use genuine Mercedes-Benz parts?",

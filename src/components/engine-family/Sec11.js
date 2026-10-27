@@ -7,6 +7,8 @@ import useLeadForm, { LeadStatus } from "@/components/reusable/useLeadForm";
 import MercedesLogo from "@/components/reusable/MercedesLogo";
 import AMGBadge from "@/components/reusable/AMGBadge";
 import MercedesStripe from "@/components/reusable/MercedesStripe";
+import QuoteLink from "@/components/shared/QuoteLink";
+import FormSelect from "@/components/reusable/FormSelect";
 
 const HEX_POINTS = "50,2 96,25 96,75 50,98 4,75 4,25";
 
@@ -129,7 +131,7 @@ export default function Sec11({ data }) {
           </div>
         </div>
 
-        {/* ===== desktop — full-bleed photo (built-in empty portion on the left for text) ===== */}
+        {/* ===== desktop - full-bleed photo (built-in empty portion on the left for text) ===== */}
         <div className="relative hidden overflow-hidden md:block">
           <div className="absolute inset-0">
             <Image src={costBanner.image} alt="Mercedes-AMG M139 engine" fill className="object-cover" sizes="100vw" />
@@ -196,12 +198,12 @@ export default function Sec11({ data }) {
             ))}
           </div>
 
-          <a
+          <QuoteLink
             href={comparison.cta.href}
             className="mt-5 flex items-center justify-center gap-2 rounded-lg bg-hero-dark px-4 py-3.5 text-xs font-bold uppercase text-white"
           >
             {comparison.cta.label}
-          </a>
+          </QuoteLink>
         </div>
 
         {/* ===== desktop ===== */}
@@ -229,9 +231,9 @@ export default function Sec11({ data }) {
             </div>
 
             <div className="mt-8 flex justify-center">
-              <a href={comparison.cta.href} className="flex items-center justify-center gap-2 rounded-lg bg-hero-dark px-8 py-4 text-sm font-bold uppercase text-white">
+              <QuoteLink href={comparison.cta.href} className="flex items-center justify-center gap-2 rounded-lg bg-hero-dark px-8 py-4 text-sm font-bold uppercase text-white">
                 {comparison.cta.label}
-              </a>
+              </QuoteLink>
             </div>
           </div>
         </div>
@@ -372,13 +374,7 @@ export default function Sec11({ data }) {
             <label className="block">
               <span className="text-xs font-bold uppercase tracking-wide text-white">{quote.fields.enquiry.label}</span>
               <div className="relative mt-1.5">
-                <select name="description" required className="h-11 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
-                  <option value="">{quote.fields.enquiry.placeholder}</option>
-                  {["Engine Failure", "Replacement Needed", "General Enquiry"].map((o) => (
-                    <option key={o} value={o}>{o}</option>
-                  ))}
-                </select>
-                <Icon name="chevron-down" className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-white" />
+                <FormSelect name="description" required theme="dark" placeholder={quote.fields.enquiry.placeholder} options={["Engine Failure", "Replacement Needed", "General Enquiry"]} className="h-11 rounded-lg border border-white/15 bg-white/5 px-4 text-sm text-white" />
               </div>
             </label>
 
@@ -428,13 +424,7 @@ export default function Sec11({ data }) {
               <label className="block">
                 <span className="text-xs font-bold uppercase tracking-wide text-white">{quote.fields.enquiry.label}</span>
                 <div className="relative mt-2">
-                  <select name="description" required className="h-12 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
-                    <option value="">{quote.fields.enquiry.placeholder}</option>
-                    {["Engine Failure", "Replacement Needed", "General Enquiry"].map((o) => (
-                      <option key={o} value={o}>{o}</option>
-                    ))}
-                  </select>
-                  <Icon name="chevron-down" className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-white" />
+                  <FormSelect name="description" required theme="dark" placeholder={quote.fields.enquiry.placeholder} options={["Engine Failure", "Replacement Needed", "General Enquiry"]} className="h-12 rounded-lg border border-white/15 bg-white/5 px-4 text-sm text-white" />
                 </div>
               </label>
 

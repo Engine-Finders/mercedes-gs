@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLA200 ENGINE",
     "paragraphs": [
-      "The GLA200 has been part of the GLA-Class range since the model launched in 2013, and across its two generations has used several different petrol engines — from the early M270 and M282 through to today's M260 and M282 units. Early cars (X156 generation, 2013–2020) used the M270 2.0-litre turbo petrol in pre-facelift form, with some later X156 models switching to the M282 1.3-litre unit. From 2020, the current H247 generation uses the M260 2.0-litre and continues with the M282 1.3-litre in some markets. The full breakdown by engine code is below."
+      "The GLA200 has been part of the GLA-Class range since the model launched in 2013, and across its two generations has used several different petrol engines - from the early M270 and M282 through to today's M260 and M282 units. Early cars (X156 generation, 2013-2020) used the M270 2.0-litre turbo petrol in pre-facelift form, with some later X156 models switching to the M282 1.3-litre unit. From 2020, the current H247 generation uses the M260 2.0-litre and continues with the M282 1.3-litre in some markets. The full breakdown by engine code is below."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLA200 on the road."
   },
@@ -26,7 +26,7 @@
         "codeHighlight": "M282",
         "image": "/variant/sec10_engine.webp",
         "codeRest": "(X156, facelift / H247)",
-        "body": "A 1.3-litre turbocharged petrol four-cylinder fitted to later X156 GLA200s (roughly 2017–2020) and continuing into the H247 generation from 2020. This is the smaller-capacity unit in the GLA200 range.",
+        "body": "A 1.3-litre turbocharged petrol four-cylinder fitted to later X156 GLA200s (roughly 2017-2020) and continuing into the H247 generation from 2020. This is the smaller-capacity unit in the GLA200 range.",
         "cta": "Check Your M282 GLA200",
         "codeHref": "/mercedes-m282-engine"
       },
@@ -43,7 +43,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLA200 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the GLA200 spans multiple engine codes across its two generations, fitting the wrong replacement — or assuming parts from one engine will work on another — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the GLA200 spans multiple engine codes across its two generations, fitting the wrong replacement - or assuming parts from one engine will work on another - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -69,7 +69,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLA-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLA-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLA200 ",
@@ -86,7 +86,7 @@
       {
         "generation": "X156",
         "chassis": "X156",
-        "years": "2013–2017",
+        "years": "2013-2017",
         "engineCode": "M270",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m270-engine"
@@ -94,7 +94,7 @@
       {
         "generation": "X156",
         "chassis": "X156",
-        "years": "2017–2020",
+        "years": "2017-2020",
         "engineCode": "M282",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m282-engine"
@@ -102,7 +102,7 @@
       {
         "generation": "H247",
         "chassis": "H247",
-        "years": "2020–present",
+        "years": "2020-present",
         "engineCode": "M260",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m260-engine"
@@ -110,7 +110,7 @@
       {
         "generation": "H247",
         "chassis": "H247",
-        "years": "2020–present",
+        "years": "2020-present",
         "engineCode": "M282",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m282-engine"

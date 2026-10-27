@@ -9,7 +9,7 @@
     {
       "code": "M256",
       "image": "/engines/m256-engine-hero.webp",
-      "generation": "R190 (2023–present)",
+      "generation": "R190 (2023-present)",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -30,7 +30,7 @@
     "titlePre": "Mercedes SLC200 Timing Chain Wear ",
     "titleHighlight": "(M274)",
     "paragraphs": [
-      "If your SLC200 has the M274 4-cylinder petrol engine — which is the only engine used in the SLC200 across its full 2016–2020 production run — timing chain wear is an established pattern on this engine family, shared with the wider M270/M274 family used across C-Class models of the same era.",
+      "If your SLC200 has the M274 4-cylinder petrol engine - which is the only engine used in the SLC200 across its full 2016-2020 production run - timing chain wear is an established pattern on this engine family, shared with the wider M270/M274 family used across C-Class models of the same era.",
       "We replace the timing chain, bearings and gaskets as standard on every M274 rebuild."
     ],
     "source": "Source: established specialist pattern (per G-BRF, confirmed in original model page build). This issue applies to the M274 engine as used in the SLC200"

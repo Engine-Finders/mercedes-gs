@@ -2,6 +2,7 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import MercedesLogo from "@/components/reusable/MercedesLogo";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function VariantSec2({ data }) {
   return (
@@ -132,12 +133,12 @@ export default function VariantSec2({ data }) {
                 <div className="min-w-0 flex-1">
                   <RegLookupForm buttonLabel={data.lookup.buttonLabel} row hideButton darkField />
                 </div>
-                <a
+                <QuoteLink
                   href="#quote-form"
                   className="btn-text flex h-15 w-64 shrink-0 items-center justify-center whitespace-nowrap rounded-lg border-2 border-hero-blue bg-linear-to-br from-hero-blue to-hero-blue-dark px-2 uppercase text-white shadow-lg transition-all hover:scale-[1.02] hover:bg-none hover:bg-white hover:text-hero-blue"
                 >
                   {data.lookup.buttonLabel} <span className="ml-1.5" aria-hidden>→</span>
-                </a>
+                </QuoteLink>
               </div>
 
               <div className="relative mt-5 flex items-stretch">

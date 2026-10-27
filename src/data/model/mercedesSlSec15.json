@@ -8,27 +8,27 @@
   "partImage": "/model/sec15_part.webp",
   "generations": [
     {
-      "years": "1989–2002",
+      "years": "1989-2002",
       "code": "R129",
       "list": "1989 through 2002 Mercedes SL engines"
     },
     {
-      "years": "2001–2012",
+      "years": "2001-2012",
       "code": "R230",
       "list": "2001 through 2012 Mercedes SL engines"
     },
     {
-      "years": "2012–2021",
+      "years": "2012-2021",
       "code": "R231",
       "list": "2012 through 2021 Mercedes SL engines"
     },
     {
-      "years": "2021–present",
+      "years": "2021-present",
       "code": "R232",
       "list": "2021, 2022, 2023, 2024, 2025, 2026 Mercedes SL engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "Mercedes SL500 Model:",
   "checklistLeft": [

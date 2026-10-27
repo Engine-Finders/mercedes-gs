@@ -40,7 +40,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "When you invest in an engine rebuild, the warranty is a key part of the package. This page explains the typical warranty practices for rebuilt engines, what is and isn't covered, the factors that affect warranty terms, and Mercedes-specific considerations — including our own 12-month unlimited-mileage warranty."
+          "html": "When you invest in an engine rebuild, the warranty is a key part of the package. This page explains the typical warranty practices for rebuilt engines, what is and isn't covered, the factors that affect warranty terms, and Mercedes-specific considerations - including our own 12-month unlimited-mileage warranty."
         },
         {
           "t": "p",
@@ -55,10 +55,10 @@
         {
           "t": "ul",
           "items": [
-            "**12 months / unlimited mileage** – This is the standard warranty offered by many specialist rebuilders, including Mercedes Garage, as per our G-BRF.",
-            "**Remanufactured engines** often carry longer coverage, typically 2–3 years, because they are produced in a factory environment with stricter quality controls.",
-            "**Coverage scope** – The warranty generally covers parts and labour for defects in workmanship or materials that arise during the warranty period.",
-            "**Transferability** – In many cases, the warranty is tied to the vehicle, not the owner, which can add value if the car is sold."
+            "**12 months / unlimited mileage** - This is the standard warranty offered by many specialist rebuilders, including Mercedes Garage, as per our G-BRF.",
+            "**Remanufactured engines** often carry longer coverage, typically 2-3 years, because they are produced in a factory environment with stricter quality controls.",
+            "**Coverage scope** - The warranty generally covers parts and labour for defects in workmanship or materials that arise during the warranty period.",
+            "**Transferability** - In many cases, the warranty is tied to the vehicle, not the owner, which can add value if the car is sold."
           ]
         },
         {
@@ -147,11 +147,11 @@
         {
           "t": "ul",
           "items": [
-            "**Quality of parts used** – Genuine OEM parts or high-quality aftermarket components generally command better warranty coverage than budget alternatives.",
-            "**Workshop reputation & adherence to standards** – Membership in professional bodies (e.g., AERA – Automotive Engine Rebuilders Association) often correlates with more robust warranties.",
-            "**Engine type** – High-performance engines (AMG) and V12 units have higher complexity and may carry different warranty conditions, sometimes with a shorter duration or additional stipulations.",
-            "**Rebuild scope** – A full overhaul (all internal components replaced) typically carries a stronger warranty than a partial rebuild (e.g., top-end only).",
-            "**Vehicle usage** – Engines used in heavy-duty or track applications may have different warranty terms compared to normal road use."
+            "**Quality of parts used** - Genuine OEM parts or high-quality aftermarket components generally command better warranty coverage than budget alternatives.",
+            "**Workshop reputation & adherence to standards** - Membership in professional bodies (e.g., AERA - Automotive Engine Rebuilders Association) often correlates with more robust warranties.",
+            "**Engine type** - High-performance engines (AMG) and V12 units have higher complexity and may carry different warranty conditions, sometimes with a shorter duration or additional stipulations.",
+            "**Rebuild scope** - A full overhaul (all internal components replaced) typically carries a stronger warranty than a partial rebuild (e.g., top-end only).",
+            "**Vehicle usage** - Engines used in heavy-duty or track applications may have different warranty terms compared to normal road use."
           ]
         },
         {
@@ -167,10 +167,10 @@
         {
           "t": "ul",
           "items": [
-            "**Our standard warranty** – 12 months / unlimited mileage, as specified in the G-BRF, covering all parts and labour for our rebuilds.",
-            "**AMG and performance units** – Due to higher output and more complex assemblies, we perform additional checks and extended test runs before the warranty is activated. These engines are warrantied separately, with terms that reflect their engineering demands.",
-            "**V12 engines** – Found in S65 AMG, SL65 AMG, and Maybach models, these have very high complexity. Warranty risk is greater, and pricing and warranty terms are assessed individually.",
-            "**OM654 / OM642 diesel engines** – Our warranty covers the known issues (e.g., timing chain, injector seals) as part of our rebuild process, but we require that the vehicle has been maintained correctly to validate the warranty."
+            "**Our standard warranty** - 12 months / unlimited mileage, as specified in the G-BRF, covering all parts and labour for our rebuilds.",
+            "**AMG and performance units** - Due to higher output and more complex assemblies, we perform additional checks and extended test runs before the warranty is activated. These engines are warrantied separately, with terms that reflect their engineering demands.",
+            "**V12 engines** - Found in S65 AMG, SL65 AMG, and Maybach models, these have very high complexity. Warranty risk is greater, and pricing and warranty terms are assessed individually.",
+            "**OM654 / OM642 diesel engines** - Our warranty covers the known issues (e.g., timing chain, injector seals) as part of our rebuild process, but we require that the vehicle has been maintained correctly to validate the warranty."
           ]
         },
         {

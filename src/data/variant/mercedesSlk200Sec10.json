@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES SLK200 ENGINE",
     "paragraphs": [
-      "The SLK200 was a mainstay of the SLK range from 1996 until the model was discontinued in 2016, spanning three generations under one badge. Early cars (R170, 1996–2004) use the M111 — a 2.0‑litre four‑cylinder petrol engine. From the R171 generation onwards (2004–2011, and continuing into the R172 2011–2016), the SLK200 switched to the M271, a different four‑cylinder unit. Knowing which one your car has matters, because the components and the known wear pattern differ between them — which is exactly why we confirm your exact engine by registration before quoting. The SLK200 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The SLK200 was a mainstay of the SLK range from 1996 until the model was discontinued in 2016, spanning three generations under one badge. Early cars (R170, 1996-2004) use the M111 - a 2.0‑litre four‑cylinder petrol engine. From the R171 generation onwards (2004-2011, and continuing into the R172 2011-2016), the SLK200 switched to the M271, a different four‑cylinder unit. Knowing which one your car has matters, because the components and the known wear pattern differ between them - which is exactly why we confirm your exact engine by registration before quoting. The SLK200 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every SLK200 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SLK200 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 SLK200",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES SLK200 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the SLK200 spans two distinct engines across three generations, fitting the wrong replacement — or assuming an M271 part will work on an R170 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm: - Your exact engine code (M111 or M271) via registration or VIN - Your generation (R170, R171, or R172) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
+    "intro": "Because the SLK200 spans two distinct engines across three generations, fitting the wrong replacement - or assuming an M271 part will work on an R170 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm: - Your exact engine code (M111 or M271) via registration or VIN - Your generation (R170, R171, or R172) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic SLK quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic SLK quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES SLK200 ",
@@ -70,7 +70,7 @@
       {
         "generation": "R170",
         "chassis": "R170",
-        "years": "1996–2004",
+        "years": "1996-2004",
         "engineCode": "M111",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m111-engine"
@@ -78,7 +78,7 @@
       {
         "generation": "R171",
         "chassis": "R171",
-        "years": "2004–2011",
+        "years": "2004-2011",
         "engineCode": "M271",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m271-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "R172",
         "chassis": "R172",
-        "years": "2011–2016",
+        "years": "2011-2016",
         "engineCode": "M271",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m271-engine"

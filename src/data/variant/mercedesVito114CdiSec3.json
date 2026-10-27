@@ -9,14 +9,14 @@
     {
       "code": "OM651",
       "image": "/engines/om651-engine.webp",
-      "generation": "W447 (2014–2024, early)",
+      "generation": "W447 (2014-2024, early)",
       "price": "£2,200",
       "codeHref": "/mercedes-om651-engine"
     },
     {
       "code": "OM654",
       "image": "/engines/om654-engine.webp",
-      "generation": "W447 (2025 refresh–present, current)",
+      "generation": "W447 (2025 refresh-present, current)",
       "price": "£2,200",
       "codeHref": "/mercedes-om654-engine"
     }
@@ -24,7 +24,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -37,8 +37,8 @@
     "titlePre": "Mercedes Vito 114 CDI Injector Seal & Timing Chain Wear ",
     "titleHighlight": "(Early W447, OM651)",
     "paragraphs": [
-      "If your Vito 114 CDI is an early W447 model with the OM651 diesel engine — that's roughly 2014 to 2024 production — injector seal leaks and timing chain wear are a well-documented pattern on this engine. We replace injector seals, timing chain components and gaskets as standard on every OM651 rebuild.",
-      "The current W447 refresh from 2025 onwards uses a different engine, the OM654, which doesn't share this specific issue — it's a newer design with its own characteristics. We still service it to the same standard as the OM651."
+      "If your Vito 114 CDI is an early W447 model with the OM651 diesel engine - that's roughly 2014 to 2024 production - injector seal leaks and timing chain wear are a well-documented pattern on this engine. We replace injector seals, timing chain components and gaskets as standard on every OM651 rebuild.",
+      "The current W447 refresh from 2025 onwards uses a different engine, the OM654, which doesn't share this specific issue - it's a newer design with its own characteristics. We still service it to the same standard as the OM651."
     ],
     "source": "Source: established specialist pattern (per G-BRF). OM654 explicitly excluded from this claim per VRF, correctly scoped to early W447/OM651"
   }

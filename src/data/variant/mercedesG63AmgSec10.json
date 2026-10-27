@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES G63 AMG ENGINE",
     "paragraphs": [
-      "The G63 AMG has been the high-performance flagship of the G-Class range since 2012. The 2012–2018 W463-generation model uses the M157 — a 5.5-litre twin-turbo V8 that was the pinnacle of Mercedes-AMG's V8 engineering of that era. It's a different engine from both the naturally-aspirated M156 that preceded it in other AMG models and the newer M177 4.0-litre unit that replaced it from 2018. The M157 is known for valve seal and coolant system wear at higher mileages — which is why we replace those components as standard on every rebuild, alongside the timing chains and bearings."
+      "The G63 AMG has been the high-performance flagship of the G-Class range since 2012. The 2012-2018 W463-generation model uses the M157 - a 5.5-litre twin-turbo V8 that was the pinnacle of Mercedes-AMG's V8 engineering of that era. It's a different engine from both the naturally-aspirated M156 that preceded it in other AMG models and the newer M177 4.0-litre unit that replaced it from 2018. The M157 is known for valve seal and coolant system wear at higher mileages - which is why we replace those components as standard on every rebuild, alongside the timing chains and bearings."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every G63 AMG on the road."
   },
@@ -16,8 +16,8 @@
     "cards": [
       {
         "codeHighlight": "M157",
-        "codeRest": "(W463, 2012–2018)",
-        "body": "A 5.5-litre twin-turbo V8 fitted to the G63 AMG across the 2012–2018 W463 generation — the same M157 family confirmed elsewhere in the AMG V8 range (S-Class, CLS, E-Class). Known for valve seal and coolant system wear over time. We replace valve seals, timing chains, coolant components and bearings as standard on every M157 rebuild.",
+        "codeRest": "(W463, 2012-2018)",
+        "body": "A 5.5-litre twin-turbo V8 fitted to the G63 AMG across the 2012-2018 W463 generation - the same M157 family confirmed elsewhere in the AMG V8 range (S-Class, CLS, E-Class). Known for valve seal and coolant system wear over time. We replace valve seals, timing chains, coolant components and bearings as standard on every M157 rebuild.",
         "cta": "Check Your M157 G63 AMG",
         "codeHref": "/mercedes-m157-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "MERCEDES G63 AMG ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The G63 AMG's M157 engine is specific to the 2012–2018 W463 generation. Fitting a later M177 4.0-litre unit — or assuming parts from the M156 or M177 will work — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The G63 AMG's M157 engine is specific to the 2012-2018 W463 generation. Fitting a later M177 4.0-litre unit - or assuming parts from the M156 or M177 will work - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -52,7 +52,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic G-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic G-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES G63 AMG ",
@@ -69,7 +69,7 @@
       {
         "generation": "W463 (pre-2018)",
         "chassis": "W463",
-        "years": "2012–2018",
+        "years": "2012-2018",
         "engineCode": "M157",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m157-engine"

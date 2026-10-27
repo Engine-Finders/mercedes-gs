@@ -2,7 +2,7 @@
   "yearBanner": {
     "titlePre": "WE COVER ",
     "titleHighlight": "EVERY",
-    "titlePost": " MERCEDES SPRINTER 313–319 CDI MODEL YEAR:",
+    "titlePost": " MERCEDES SPRINTER 313-319 CDI MODEL YEAR:",
     "years": [
       "2006",
       "2007",
@@ -18,15 +18,15 @@
       "2017",
       "2018"
     ],
-    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg.",
-    "vehicleLabel": "Mercedes Sprinter 313–319 CDI"
+    "footer": "If your registration year isn't listed above, get in touch - we'll confirm availability directly against your reg.",
+    "vehicleLabel": "Mercedes Sprinter 313-319 CDI"
   },
   "costs": {
-    "titlePre": "MERCEDES SPRINTER 313–319 CDI ENGINE ",
+    "titlePre": "MERCEDES SPRINTER 313-319 CDI ENGINE ",
     "titleHighlight": "COSTS",
-    "intro": "A Mercedes Sprinter 313–319 CDI engine rebuild starts from",
+    "intro": "A Mercedes Sprinter 313-319 CDI engine rebuild starts from",
     "price": "£2,200",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required - submit your registration for a fixed-price quote within 30 minutes.",
     "image": "/engines/om651-engine.webp",
     "warranty": {
       "line1": "12 MONTH",
@@ -36,13 +36,13 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES SPRINTER 313–319 CDI ENGINE SIZES",
-        "item": "Mercedes Sprinter 313–319 CDI 3.0 Litre Engine (M256, I6)"
+        "title": "MERCEDES SPRINTER 313-319 CDI ENGINE SIZES",
+        "item": "Mercedes Sprinter 313-319 CDI 3.0 Litre Engine (M256, I6)"
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES SPRINTER 313–319 CDI FUEL TYPES",
-        "item": "Mercedes Sprinter 313–319 CDI Petrol Mild Hybrid Engine Rebuilds"
+        "title": "MERCEDES SPRINTER 313-319 CDI FUEL TYPES",
+        "item": "Mercedes Sprinter 313-319 CDI Petrol Mild Hybrid Engine Rebuilds"
       }
     ]
   },

@@ -8,13 +8,13 @@
   "cards": [
     {
       "code": "OM602",
-      "generation": "1996–2013",
+      "generation": "1996-2013",
       "price": "£2,200",
       "codeHref": "/mercedes-om602-engine"
     },
     {
       "code": "OM611",
-      "generation": "1996–2013",
+      "generation": "1996-2013",
       "price": "£2,200",
       "codeHref": "/mercedes-om611-engine"
     }
@@ -22,7 +22,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -35,8 +35,8 @@
     "titlePre": "Mercedes Vario Injector Seal & Timing Chain Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "Vario 508D/510D engines — OM602 and OM611, across the entire production run — commonly show injector seal and timing chain/gear wear over time. We replace timing chain components, timing gears, injector seals, and gaskets as standard on every Vario 508D/510D rebuild.",
-      "include_in_hero_hook: yes — Source: established specialist pattern (per G-BRF), shared with the equivalent-era Sprinter. Confirmed for both OM602 and OM611 engines per VRF-mercedes-vario.md."
+      "Vario 508D/510D engines - OM602 and OM611, across the entire production run - commonly show injector seal and timing chain/gear wear over time. We replace timing chain components, timing gears, injector seals, and gaskets as standard on every Vario 508D/510D rebuild.",
+      "include_in_hero_hook: yes - Source: established specialist pattern (per G-BRF), shared with the equivalent-era Sprinter. Confirmed for both OM602 and OM611 engines per VRF-mercedes-vario.md."
     ],
     "source": "Source: established specialist pattern (per G-BRF), shared with the equivalent-era Sprinter. Confirmed for both OM602 and OM611 engines per VRF-mercedes-vario.md"
   }

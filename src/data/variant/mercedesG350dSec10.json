@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES G350D ENGINE",
     "paragraphs": [
-      "The G350d has been a mainstay of the G-Class diesel range, spanning two distinct generations under one badge. Pre-2018 models (W463 generation) use the OM642 — a 3.0-litre V6 diesel shared across a wide range of Mercedes models of that era. From 2018, the W463a-generation G350d switched to the OM656, a newer 2.9-litre inline-six diesel that's a different unit entirely, not an evolution of the OM642. Knowing which one your vehicle has matters, because the components, the known wear pattern, and even the rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+      "The G350d has been a mainstay of the G-Class diesel range, spanning two distinct generations under one badge. Pre-2018 models (W463 generation) use the OM642 - a 3.0-litre V6 diesel shared across a wide range of Mercedes models of that era. From 2018, the W463a-generation G350d switched to the OM656, a newer 2.9-litre inline-six diesel that's a different unit entirely, not an evolution of the OM642. Knowing which one your vehicle has matters, because the components, the known wear pattern, and even the rebuild specifics differ between them - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every G350D on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the G350D from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 G350D",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES G350D ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the G350d spans two distinct engines across two generations, fitting the wrong replacement — or assuming an OM642 part will work on an OM656 vehicle — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm: - Your exact engine code (OM642 or OM656) via registration or VIN - Your generation (W463 or W463a) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
+    "intro": "Because the G350d spans two distinct engines across two generations, fitting the wrong replacement - or assuming an OM642 part will work on an OM656 vehicle - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm: - Your exact engine code (OM642 or OM656) via registration or VIN - Your generation (W463 or W463a) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic G-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic G-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES G350D ",
@@ -70,7 +70,7 @@
       {
         "generation": "W463 (pre-2018)",
         "chassis": "W463",
-        "years": "1990–2018",
+        "years": "1990-2018",
         "engineCode": "OM642",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om642-engine"
@@ -78,7 +78,7 @@
       {
         "generation": "W463a",
         "chassis": "W463a",
-        "years": "2018–present",
+        "years": "2018-present",
         "engineCode": "OM656",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om656-engine"

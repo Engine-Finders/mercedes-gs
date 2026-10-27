@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES SLC300 ENGINE",
     "paragraphs": [
-      "The SLC300 is powered by the M274 — a 2.0-litre turbocharged petrol engine from the M270/M274 family, a four-cylinder unit widely used across the Mercedes range. In the SLC, it was fitted throughout the model's single-generation run, from 2016 until production ended in 2020, making it a consistent and well-understood engine for specialist rebuilders. The SLC itself was a short-lived model, the successor to the SLK and discontinued with no direct replacement, but we continue to rebuild engines for every one still on the road."
+      "The SLC300 is powered by the M274 - a 2.0-litre turbocharged petrol engine from the M270/M274 family, a four-cylinder unit widely used across the Mercedes range. In the SLC, it was fitted throughout the model's single-generation run, from 2016 until production ended in 2020, making it a consistent and well-understood engine for specialist rebuilders. The SLC itself was a short-lived model, the successor to the SLK and discontinued with no direct replacement, but we continue to rebuild engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every SLC300 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SLC300 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 SLC300",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES SLC300 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the SLC300 uses the M274 engine across its entire production, compatibility is straightforward — but still not something to guess. We confirm: - Your exact engine code (M274) via registration or VIN - Your generation (R172) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
+    "intro": "Because the SLC300 uses the M274 engine across its entire production, compatibility is straightforward - but still not something to guess. We confirm: - Your exact engine code (M274) via registration or VIN - Your generation (R172) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic SLC quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic SLC quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES SLC300 ",
@@ -70,7 +70,7 @@
       {
         "generation": "R172",
         "chassis": "R172",
-        "years": "2016–2020",
+        "years": "2016-2020",
         "engineCode": "M270/M274",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m270-engine"

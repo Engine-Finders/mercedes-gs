@@ -8,13 +8,13 @@
   "cards": [
     {
       "code": "OM612",
-      "generation": "W670 (1996–2013)",
+      "generation": "W670 (1996-2013)",
       "price": "£2,300",
       "codeHref": "/mercedes-om612-engine"
     },
     {
       "code": "OM647",
-      "generation": "W670 (1996–2013)",
+      "generation": "W670 (1996-2013)",
       "price": "£2,300",
       "codeHref": "/mercedes-om647-engine"
     }
@@ -22,7 +22,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -35,8 +35,8 @@
     "titlePre": "Mercedes Vario 818D Timing Chain & Injector Seal Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "Vario 818D engines — OM612 and OM647, across the entire W670 production run — commonly show timing chain and injector seal wear over time. This is a well-documented pattern shared with the equivalent-era Sprinter, and we replace timing chain components, timing gears, injector seals and gaskets as standard on every rebuild.",
-      "include_in_hero_hook: yes — Source: established specialist pattern (per G-BRF), confirmed across the whole Vario range via shared Sprinter-era pattern. Applies to both OM612 and OM647."
+      "Vario 818D engines - OM612 and OM647, across the entire W670 production run - commonly show timing chain and injector seal wear over time. This is a well-documented pattern shared with the equivalent-era Sprinter, and we replace timing chain components, timing gears, injector seals and gaskets as standard on every rebuild.",
+      "include_in_hero_hook: yes - Source: established specialist pattern (per G-BRF), confirmed across the whole Vario range via shared Sprinter-era pattern. Applies to both OM612 and OM647."
     ],
     "source": "Source: established specialist pattern (per G-BRF), confirmed across the whole Vario range via shared Sprinter-era pattern. Applies to both OM612 and OM647"
   }

@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "OM668",
-      "generation": "W414 (2001–2005)",
+      "generation": "W414 (2001-2005)",
       "price": "£2,200",
       "codeHref": "/mercedes-om668-engine"
     }
@@ -16,7 +16,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -29,8 +29,8 @@
     "titlePre": "Mercedes Vaneo 1.7 CDI Injector Seal Leaks ",
     "titleHighlight": "(OM668)",
     "paragraphs": [
-      "If your Vaneo 1.7 CDI has the OM668 diesel engine — fitted across the entire W414 generation from 2001 to 2005 — injector seal leaks are a well-documented pattern on this engine, shared with the early A-Class of the same era. We replace injector seals, timing chain components, and gaskets as standard on every OM668 rebuild.",
-      "include_in_hero_hook: yes — Source: established specialist pattern (shared with early A-Class), per VRF-mercedes-vaneo.md"
+      "If your Vaneo 1.7 CDI has the OM668 diesel engine - fitted across the entire W414 generation from 2001 to 2005 - injector seal leaks are a well-documented pattern on this engine, shared with the early A-Class of the same era. We replace injector seals, timing chain components, and gaskets as standard on every OM668 rebuild.",
+      "include_in_hero_hook: yes - Source: established specialist pattern (shared with early A-Class), per VRF-mercedes-vaneo.md"
     ],
     "source": "Source: established specialist pattern (shared with early A-Class), per VRF-mercedes-vaneo.md"
   }

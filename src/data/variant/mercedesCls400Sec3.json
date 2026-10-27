@@ -4,21 +4,21 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£3,200",
   "engineImage": "/engines/m276-engine-hero.webp",
-  "carImage": "/cars/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
+  "carImage": "/cars/card/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
   "cards": [
     {
       "code": "M276",
       "image": "/engines/m276-engine-hero.webp",
-      "carImage": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
-      "generation": "C218 (2010–2018)",
+      "carImage": "/cars/card/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
+      "generation": "C218 (2010-2018)",
       "price": "£3,200",
       "codeHref": "/mercedes-m276-engine"
     },
     {
       "code": "M276",
       "image": "/engines/m276-engine-hero.webp",
-      "carImage": "/cars/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
-      "generation": "C257 (2018–2023)",
+      "carImage": "/cars/card/cls-c257-standard-4-door-coupe-20182021-new-emerald-green-metallic-new-16b6.webp",
+      "generation": "C257 (2018-2023)",
       "price": "£3,200",
       "codeHref": "/mercedes-m276-engine"
     }
@@ -26,7 +26,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -39,9 +39,9 @@
     "titlePre": "Mercedes CLS 400 Oil Leaks & Coolant System Wear ",
     "titleHighlight": "(M256 I6)",
     "paragraphs": [
-      "The M256 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+      "The M256 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor - a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
       "Because the CLS 400 uses a completely different engine family from the V8 M178 fitted to the CLS 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
     ],
-    "source": "Source: Established M256 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
+    "source": "Source: Established M256 specialist pattern - timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
   }
 }

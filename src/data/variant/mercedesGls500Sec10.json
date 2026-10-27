@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLS500 ENGINE",
     "paragraphs": [
-      "The GLS500 uses the M278 — a 4.7‑litre V8 twin‑turbo petrol engine. It was fitted from 2015 to 2019 across the X166 generation, serving as the flagship non‑AMG V8 option in the GLS range at that time. The GLS500 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The GLS500 uses the M278 - a 4.7‑litre V8 twin‑turbo petrol engine. It was fitted from 2015 to 2019 across the X166 generation, serving as the flagship non‑AMG V8 option in the GLS range at that time. The GLS500 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLS500 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLS500 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 GLS500",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLS500 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the GLS500 uses a single engine family across its entire production run — the M278 V8 — there is no confusion about which engine code applies. All X166‑generation GLS500 models share the same 4.7‑litre twin‑turbo unit, so compatibility is straightforward. We still confirm your registration before quoting, mainly to verify ancillary specifications and ensure we match the correct parts for your exact build.",
+    "intro": "Because the GLS500 uses a single engine family across its entire production run - the M278 V8 - there is no confusion about which engine code applies. All X166‑generation GLS500 models share the same 4.7‑litre twin‑turbo unit, so compatibility is straightforward. We still confirm your registration before quoting, mainly to verify ancillary specifications and ensure we match the correct parts for your exact build.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLS quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLS quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLS500 ",
@@ -70,7 +70,7 @@
       {
         "generation": "X166",
         "chassis": "X166",
-        "years": "2015–2019",
+        "years": "2015-2019",
         "engineCode": "M278",
         "fuel": "Petrol Twin‑Turbo V8",
         "codeHref": "/mercedes-m278-engine"

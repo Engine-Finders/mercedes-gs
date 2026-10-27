@@ -9,14 +9,14 @@
     {
       "code": "OM611",
       "image": "/variant/sec10_engine.webp",
-      "generation": "W639 (2003–2014)",
+      "generation": "W639 (2003-2014)",
       "price": "£2,200",
       "codeHref": "/mercedes-om611-engine"
     },
     {
       "code": "OM646",
       "image": "/engines/om646-model-hero.webp",
-      "generation": "W639 (2003–2014)",
+      "generation": "W639 (2003-2014)",
       "price": "£2,200",
       "codeHref": "/mercedes-om646-engine"
     }
@@ -24,7 +24,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -37,7 +37,7 @@
     "titlePre": "Mercedes Vito 115/116 CDI Injector Seal & Timing Chain Wear ",
     "titleHighlight": "(W639, OM646)",
     "paragraphs": [
-      "If your Vito 115/116 CDI is a W639 generation model with the OM646 diesel engine — that's the majority of the 2003–2014 production run — injector seal leaks and timing chain wear are well-documented patterns on this engine, shared with the Viano of the same platform. We replace worn timing chains and injector seals as standard on every OM646 rebuild, along with the gaskets.",
+      "If your Vito 115/116 CDI is a W639 generation model with the OM646 diesel engine - that's the majority of the 2003-2014 production run - injector seal leaks and timing chain wear are well-documented patterns on this engine, shared with the Viano of the same platform. We replace worn timing chains and injector seals as standard on every OM646 rebuild, along with the gaskets.",
       "The older W638 generation uses a different engine family (OM601/OM611) and wasn't offered as a 115/116 CDI, so this issue is correctly scoped to the W639/OM646 application."
     ],
     "source": "Source: established specialist pattern, per VRF-mercedes-vito.md. W638/OM601 and current W447 OM651/OM654 applications explicitly excluded from this claim per VRF. Older W638 OM611 applications require independent confirmation"

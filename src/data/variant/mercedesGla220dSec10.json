@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLA220D ENGINE",
     "paragraphs": [
-      "The GLA220d has been a key diesel variant in the GLA-Class range since the model's launch in 2013, spanning two generations. The X156 generation (2013–2020) uses the OM651 — a 2.1-litre four-cylinder diesel shared across many Mercedes models of that era, including the A-Class. From 2020, the H247-generation GLA220d switched to the OM607, a 1.5-litre diesel unit. Knowing which one your car has matters, because the components and known wear patterns differ — which is exactly why we confirm your exact engine by registration before quoting."
+      "The GLA220d has been a key diesel variant in the GLA-Class range since the model's launch in 2013, spanning two generations. The X156 generation (2013-2020) uses the OM651 - a 2.1-litre four-cylinder diesel shared across many Mercedes models of that era, including the A-Class. From 2020, the H247-generation GLA220d switched to the OM607, a 1.5-litre diesel unit. Knowing which one your car has matters, because the components and known wear patterns differ - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLA220D on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLA220D from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 GLA220D",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLA220D ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the GLA220d spans two distinct engines across two generations, fitting the wrong replacement — or assuming an OM651 part will work on an OM607 car — risks a compatibility problem. Before we quote or supply anything, we confirm: - Your exact engine code (OM651 or OM607) via registration or VIN - Your generation (X156 or H247) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
+    "intro": "Because the GLA220d spans two distinct engines across two generations, fitting the wrong replacement - or assuming an OM651 part will work on an OM607 car - risks a compatibility problem. Before we quote or supply anything, we confirm: - Your exact engine code (OM651 or OM607) via registration or VIN - Your generation (X156 or H247) - Drivetrain and ancillary specification - Any electronics or ECU considerations specific to your exact build",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLA-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLA-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLA220D ",
@@ -70,7 +70,7 @@
       {
         "generation": "X156",
         "chassis": "X156",
-        "years": "2013–2020",
+        "years": "2013-2020",
         "engineCode": "OM651",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om651-engine"
@@ -78,7 +78,7 @@
       {
         "generation": "H247",
         "chassis": "H247",
-        "years": "2020–present",
+        "years": "2020-present",
         "engineCode": "OM607",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om607-engine"

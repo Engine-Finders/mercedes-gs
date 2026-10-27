@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES V250 V250D ENGINE",
     "paragraphs": [
-      "The V250/V250d has been part of the V-Class range since the W447 generation launched in 2014, and the model received a major refresh alongside the Vito for 2025. Earlier W447 models use the OM651 — a 2.1-litre four-cylinder diesel shared across a wide range of Mercedes vehicles of that era. From the 2025 refresh, the V250/V250d switched to the OM654 — a newer 2.0-litre diesel that's a different unit entirely, not an evolution of the OM651. Knowing which one your van has matters, because the components and the known wear patterns differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+      "The V250/V250d has been part of the V-Class range since the W447 generation launched in 2014, and the model received a major refresh alongside the Vito for 2025. Earlier W447 models use the OM651 - a 2.1-litre four-cylinder diesel shared across a wide range of Mercedes vehicles of that era. From the 2025 refresh, the V250/V250d switched to the OM654 - a newer 2.0-litre diesel that's a different unit entirely, not an evolution of the OM651. Knowing which one your van has matters, because the components and the known wear patterns differ between them - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every V250 V250D on the road."
   },
@@ -18,7 +18,7 @@
         "codeHighlight": "OM651",
         "image": "/engines/om651-engine.webp",
         "codeRest": "(W447 early)",
-        "body": "A 2.1-litre four-cylinder diesel fitted to the V250/V250d from the W447 launch in 2014 through to the 2025 refresh. Known for injector seal leaks and timing chain wear — see the callout above. We replace timing chain components, injector seals, EGR, and gaskets as standard on every OM651 rebuild.",
+        "body": "A 2.1-litre four-cylinder diesel fitted to the V250/V250d from the W447 launch in 2014 through to the 2025 refresh. Known for injector seal leaks and timing chain wear - see the callout above. We replace timing chain components, injector seals, EGR, and gaskets as standard on every OM651 rebuild.",
         "cta": "Check Your OM651 V250 V250d",
         "codeHref": "/mercedes-om651-engine"
       },
@@ -26,7 +26,7 @@
         "codeHighlight": "OM654",
         "image": "/engines/om654-engine.webp",
         "codeRest": "(W447 current)",
-        "body": "The current 2.0-litre four-cylinder diesel, fitted from the 2025 refresh onward. A genuinely different design from the OM651 — no specific known issues independently confirmed for this application at this stage, though we service it to the same rigorous standard as our other V-Class rebuilds.",
+        "body": "The current 2.0-litre four-cylinder diesel, fitted from the 2025 refresh onward. A genuinely different design from the OM651 - no specific known issues independently confirmed for this application at this stage, though we service it to the same rigorous standard as our other V-Class rebuilds.",
         "cta": "Check Your OM654 V250 V250d",
         "codeHref": "/mercedes-om654-engine"
       }
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES V250 V250D ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the V250/V250d spans two distinct engines across the W447 generation, fitting the wrong replacement — or assuming an OM651 part will work on an OM654 van — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the V250/V250d spans two distinct engines across the W447 generation, fitting the wrong replacement - or assuming an OM651 part will work on an OM654 van - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic V-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic V-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES V250 V250D ",
@@ -78,7 +78,7 @@
       {
         "generation": "W447 (early)",
         "chassis": "W447",
-        "years": "2014–2025",
+        "years": "2014-2025",
         "engineCode": "OM651",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om651-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "W447 (current, 2025 refresh)",
         "chassis": "W447",
-        "years": "2025–present",
+        "years": "2025-present",
         "engineCode": "OM654",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om654-engine"

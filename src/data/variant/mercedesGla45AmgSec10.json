@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLA45 AMG ENGINE",
     "paragraphs": [
-      "The GLA45 AMG uses the M139 — a 2.0-litre turbocharged four-cylinder engine, one of the most powerful four-cylinder production engines ever built. Hand-assembled under AMG's \"One Man, One Engine\" philosophy, the M139 was introduced with the X156-generation GLA45 AMG in 2013 and continued into the H247 generation when the GLA-Class was redesigned from 2020. The GLA45 AMG sits above the GLA35 AMG in the range, offering a more powerful state of tune from the same M139 architecture."
+      "The GLA45 AMG uses the M139 - a 2.0-litre turbocharged four-cylinder engine, one of the most powerful four-cylinder production engines ever built. Hand-assembled under AMG's \"One Man, One Engine\" philosophy, the M139 was introduced with the X156-generation GLA45 AMG in 2013 and continued into the H247 generation when the GLA-Class was redesigned from 2020. The GLA45 AMG sits above the GLA35 AMG in the range, offering a more powerful state of tune from the same M139 architecture."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLA45 AMG on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLA45 AMG from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 GLA45 AMG",
         "codeHref": "/mercedes-m256-engine"
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLA-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLA-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLA45 AMG ",
@@ -70,7 +70,7 @@
       {
         "generation": "X156",
         "chassis": "X156",
-        "years": "2013–2020",
+        "years": "2013-2020",
         "engineCode": "M139",
         "fuel": "Petrol Turbo",
         "codeHref": "/mercedes-amg-m139-engine"
@@ -78,7 +78,7 @@
       {
         "generation": "H247",
         "chassis": "H247",
-        "years": "2020–present",
+        "years": "2020-present",
         "engineCode": "M139",
         "fuel": "Petrol Turbo",
         "codeHref": "/mercedes-amg-m139-engine"

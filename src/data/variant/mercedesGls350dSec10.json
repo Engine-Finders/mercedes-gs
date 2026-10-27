@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLS350D ENGINE",
     "paragraphs": [
-      "The GLS350d was introduced with the X166 generation of the GLS (originally badged as the GL-Class) and remained in production from 2015 to 2019. It uses the OM642 — a 3.0-litre V6 diesel that served across a wide range of Mercedes models of that era. The GLS350d was discontinued when the X167 generation arrived in 2019, replaced in the lineup by the GLS400d with its newer OM656 inline-six diesel. The OM642 is a proven, well-understood engine with known wear patterns — which means we know exactly what to check and what to replace on every rebuild."
+      "The GLS350d was introduced with the X166 generation of the GLS (originally badged as the GL-Class) and remained in production from 2015 to 2019. It uses the OM642 - a 3.0-litre V6 diesel that served across a wide range of Mercedes models of that era. The GLS350d was discontinued when the X167 generation arrived in 2019, replaced in the lineup by the GLS400d with its newer OM656 inline-six diesel. The OM642 is a proven, well-understood engine with known wear patterns - which means we know exactly what to check and what to replace on every rebuild."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLS350D on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLS350D from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 GLS350D",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLS350D ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the GLS350d uses a single engine code across its entire production run, compatibility is straightforward — every X166-generation GLS350d has the OM642. However, getting the right replacement parts, ancillaries and engine management calibration still depends on your exact build year and specification. Before we quote or supply anything, we confirm:",
+    "intro": "Because the GLS350d uses a single engine code across its entire production run, compatibility is straightforward - every X166-generation GLS350d has the OM642. However, getting the right replacement parts, ancillaries and engine management calibration still depends on your exact build year and specification. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLS quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLS quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLS350D ",
@@ -70,7 +70,7 @@
       {
         "generation": "X166",
         "chassis": "X166",
-        "years": "2015–2019",
+        "years": "2015-2019",
         "engineCode": "OM642",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om642-engine"

@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generation",
-      "value": "R190 (2023–present)"
+      "value": "R190 (2023-present)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The AMG GT 63 uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The AMG GT 63 uses the M256 3.0-litre inline-six mild-hybrid engine - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

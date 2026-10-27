@@ -4,29 +4,29 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,800",
   "engineImage": "/engines/m112-engine-hero.webp",
-  "carImage": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-whi-966d.webp",
+  "carImage": "/cars/card/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-whi-966d.webp",
   "cards": [
     {
       "code": "OM642",
       "image": "/engines/om642-engine.webp",
-      "carImage": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
-      "generation": "C218 (2010–2018)",
+      "carImage": "/cars/card/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
+      "generation": "C218 (2010-2018)",
       "price": "£2,800",
       "codeHref": "/mercedes-om642-engine"
     },
     {
       "code": "M112",
       "image": "/engines/m112-engine-hero.webp",
-      "carImage": "/cars/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
-      "generation": "C219 (2004–2010)",
+      "carImage": "/cars/card/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
+      "generation": "C219 (2004-2010)",
       "price": "£3,200",
       "codeHref": "/mercedes-m112-engine"
     },
     {
       "code": "M272",
       "image": "/engines/m272-engine-hero.webp",
-      "carImage": "/cars/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
-      "generation": "C219 (2004–2010) · C218 (2010–2018)",
+      "carImage": "/cars/card/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
+      "generation": "C219 (2004-2010) · C218 (2010-2018)",
       "price": "£3,200",
       "codeHref": "/mercedes-m272-engine"
     }
@@ -34,7 +34,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -47,9 +47,9 @@
     "titlePre": "Mercedes CLS 320 Oil Leaks & Coolant System Wear ",
     "titleHighlight": "(M256 I6)",
     "paragraphs": [
-      "The M256 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
+      "The M256 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor - a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
       "Because the CLS 320 uses a completely different engine family from the V8 M178 fitted to the CLS 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
     ],
-    "source": "Source: Established M256 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
+    "source": "Source: Established M256 specialist pattern - timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
   }
 }

@@ -1,10 +1,10 @@
 {
   "kicker": "Mercedes GLC400d Specialists",
-  "h1": "Mercedes GLC400d|Engine Rebuild —|From £2,800",
+  "h1": "Mercedes GLC400d|Engine Rebuild -|From £2,800",
   "subhead": "Specialist Mercedes GLC400d engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
   "rating": {
     "stars": 5,
-    "label": "Rated Mercedes Engine Specialists — 1,800+ Engines Rebuilt"
+    "label": "Rated Mercedes Engine Specialists - 1,800+ Engines Rebuilt"
   },
   "trustBar": [
     {
@@ -29,7 +29,7 @@
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £2,800 —",
+    "kicker": "Starting from £2,800 -",
     "label": "Get a Fixed-Price Quote →",
     "href": "#quote-form"
   },

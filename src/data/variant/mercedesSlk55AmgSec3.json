@@ -9,14 +9,14 @@
     {
       "code": "M113",
       "image": "/engines/m113-engine-hero.webp",
-      "generation": "R171 (2004–2011)",
+      "generation": "R171 (2004-2011)",
       "price": "£4,500",
       "codeHref": "/mercedes-m113-engine"
     },
     {
       "code": "M152",
       "image": "/variant/sec10_engine.webp",
-      "generation": "R172 (2011–2016)",
+      "generation": "R172 (2011-2016)",
       "price": "£4,500",
       "codeHref": "/mercedes-m152-engine"
     }
@@ -24,7 +24,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -37,7 +37,7 @@
     "titlePre": "Mercedes SLK55 AMG Valve Seal & Coolant Wear ",
     "titleHighlight": "(R172, M152)",
     "paragraphs": [
-      "If your SLK55 AMG is a 2011–2016 model with the M152 V8 — that's the R172 generation — valve seal and coolant system wear is a documented pattern on this engine family (shared architecture with the M155 and M157). We replace valve seals and coolant components as standard on every M152 rebuild.",
+      "If your SLK55 AMG is a 2011-2016 model with the M152 V8 - that's the R172 generation - valve seal and coolant system wear is a documented pattern on this engine family (shared architecture with the M155 and M157). We replace valve seals and coolant components as standard on every M152 rebuild.",
       "The earlier R171 generation uses a different engine, the M113 V8, which doesn't share this specific issue. If you're unsure which engine your SLK55 AMG has, enter your reg and we'll confirm before quoting."
     ],
     "source": "Source: established AMG specialist pattern, per VRF-mercedes-slk.md. R171/M113 explicitly excluded from this claim per VRF, correctly scoped to generation"

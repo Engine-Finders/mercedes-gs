@@ -9,21 +9,21 @@
     {
       "code": "M278",
       "image": "/engines/m278-engine-hero.webp",
-      "generation": "W221 (2008–2013)",
+      "generation": "W221 (2008-2013)",
       "price": "£4,500",
       "codeHref": "/mercedes-m278-engine"
     },
     {
       "code": "M278",
       "image": "/engines/m278-engine-hero.webp",
-      "generation": "W222 (2013–2017)",
+      "generation": "W222 (2013-2017)",
       "price": "£4,500",
       "codeHref": "/mercedes-m278-engine"
     },
     {
       "code": "M256",
       "image": "/engines/m256-engine-hero.webp",
-      "generation": "W223 (2020–present)",
+      "generation": "W223 (2020-present)",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"
     }
@@ -31,7 +31,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -44,7 +44,7 @@
     "titlePre": "Mercedes S500 Timing Chain & Coolant System Wear ",
     "titleHighlight": "(W221/W222, M278)",
     "paragraphs": [
-      "If your S500 is a pre-2020 model with the M278 V8 petrol — that's the W221 or W222 generation — timing chain wear and coolant system issues are a well-documented pattern on this engine, confirmed by established specialist sources. We replace timing chains, valve seals and coolant system components as standard on every M278 rebuild.",
+      "If your S500 is a pre-2020 model with the M278 V8 petrol - that's the W221 or W222 generation - timing chain wear and coolant system issues are a well-documented pattern on this engine, confirmed by established specialist sources. We replace timing chains, valve seals and coolant system components as standard on every M278 rebuild.",
       "The newer W223 generation uses a different engine, the M256 3.0-litre straight-six with mild-hybrid assistance. This engine is considered generally reliable and doesn't share the same known issues as the older M278 V8."
     ],
     "source": "Source: Established specialist pattern, per VRF-mercedes-s-class.md. M256 explicitly excluded from this claim per VRF, correctly scoped to generation"

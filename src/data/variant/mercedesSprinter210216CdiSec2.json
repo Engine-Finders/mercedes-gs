@@ -1,13 +1,13 @@
 {
   "headlinePre": "Your ",
-  "headlineHighlight": "Mercedes Sprinter 210–216 CDI",
+  "headlineHighlight": "Mercedes Sprinter 210-216 CDI",
   "headlinePost": " Engine",
   "image": "/variant/sec10_engine.webp",
   "specs": [
     {
       "icon": "car",
       "label": "Vehicle",
-      "value": "Mercedes Sprinter 210–216 CDI"
+      "value": "Mercedes Sprinter 210-216 CDI"
     },
     {
       "icon": "layers",
@@ -17,7 +17,7 @@
     {
       "icon": "sliders",
       "label": "Variant",
-      "value": "Sprinter 210–216 CDI"
+      "value": "Sprinter 210-216 CDI"
     },
     {
       "icon": "fuel",
@@ -32,12 +32,12 @@
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "2.2L–2.9L"
+      "value": "2.2L-2.9L"
     },
     {
       "icon": "calendar",
       "label": "Generation",
-      "value": "T1N (1995–2006)"
+      "value": "T1N (1995-2006)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The SPRINTER 210–216 CDI uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The SPRINTER 210-216 CDI uses the M256 3.0-litre inline-six mild-hybrid engine - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

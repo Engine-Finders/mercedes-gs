@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES SL63 AMG ENGINE",
     "paragraphs": [
-      "The SL63 AMG has been part of the SL range since 2006, and across its three generations has used two different AMG V8 engines — from the M157 5.5-litre through to today's M177 4.0-litre. The full breakdown by engine code is below."
+      "The SL63 AMG has been part of the SL range since 2006, and across its three generations has used two different AMG V8 engines - from the M157 5.5-litre through to today's M177 4.0-litre. The full breakdown by engine code is below."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every SL63 AMG on the road."
   },
@@ -18,7 +18,7 @@
         "codeHighlight": "M157",
         "image": "/variant/sec10_engine.webp",
         "codeRest": "(R230, R231)",
-        "body": "A 5.5-litre twin-turbo V8 fitted to the SL63 AMG from 2006 to 2021, across the R230 and R231 generations. Known for valve seal and coolant system wear over time — see the callout above. We replace valve seals, coolant components, timing chains and bearings as standard on every M157 rebuild.",
+        "body": "A 5.5-litre twin-turbo V8 fitted to the SL63 AMG from 2006 to 2021, across the R230 and R231 generations. Known for valve seal and coolant system wear over time - see the callout above. We replace valve seals, coolant components, timing chains and bearings as standard on every M157 rebuild.",
         "cta": "Check Your M157 SL63 AMG",
         "codeHref": "/mercedes-m157-engine"
       },
@@ -26,7 +26,7 @@
         "codeHighlight": "M177",
         "image": "/engines/m177-m178-engine-hero.webp",
         "codeRest": "(R232)",
-        "body": "A 4.0-litre twin-turbo V8 fitted to the current R232-generation SL63 AMG from 2021 onwards. The same established AMG V8 pattern applies — valve seal and coolant system wear — and we service it to the same standard as the M157.",
+        "body": "A 4.0-litre twin-turbo V8 fitted to the current R232-generation SL63 AMG from 2021 onwards. The same established AMG V8 pattern applies - valve seal and coolant system wear - and we service it to the same standard as the M157.",
         "cta": "Check Your M177 SL63 AMG",
         "codeHref": "/mercedes-m177-engine"
       }
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES SL63 AMG ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the SL63 AMG spans two distinct AMG V8 engines across three generations, fitting the wrong replacement — or assuming an M157 part will work on an R232 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the SL63 AMG spans two distinct AMG V8 engines across three generations, fitting the wrong replacement - or assuming an M157 part will work on an R232 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic SL quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic SL quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES SL63 AMG ",
@@ -78,7 +78,7 @@
       {
         "generation": "R230",
         "chassis": "R230",
-        "years": "2006–2012",
+        "years": "2006-2012",
         "engineCode": "M157",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m157-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "R231",
         "chassis": "R231",
-        "years": "2012–2021",
+        "years": "2012-2021",
         "engineCode": "M157",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m157-engine"
@@ -94,7 +94,7 @@
       {
         "generation": "R232",
         "chassis": "R232",
-        "years": "2021–present",
+        "years": "2021-present",
         "engineCode": "M177",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m177-engine"

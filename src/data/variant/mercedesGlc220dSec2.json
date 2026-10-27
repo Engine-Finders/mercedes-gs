@@ -32,12 +32,12 @@
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "2.0L–2.1L I4"
+      "value": "2.0L-2.1L I4"
     },
     {
       "icon": "calendar",
       "label": "Generation",
-      "value": "X253 (2015–2022) · X254 (2022–present)"
+      "value": "X253 (2015-2022) · X254 (2022-present)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The GLC220D uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The GLC220D uses the M256 3.0-litre inline-six mild-hybrid engine - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES CLS 500 ENGINE",
     "paragraphs": [
-      "The CLS 500 was a V8-powered mainstay of the original CLS range, spanning two generations from 2004 to 2018. The first-generation C219 (2004–2010) uses the M273 — a 5.5-litre naturally aspirated V8. The second-generation C218 (2010–2018) switched to the M278, a 4.7-litre twin-turbo V8 — a genuinely different engine with a different character and layout. Knowing which one your car has matters, because the components and rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+      "The CLS 500 was a V8-powered mainstay of the original CLS range, spanning two generations from 2004 to 2018. The first-generation C219 (2004-2010) uses the M273 - a 5.5-litre naturally aspirated V8. The second-generation C218 (2010-2018) switched to the M278, a 4.7-litre twin-turbo V8 - a genuinely different engine with a different character and layout. Knowing which one your car has matters, because the components and rebuild specifics differ between them - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every CLS 500 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M273",
         "image": "/engines/m273-engine-hero.webp",
-        "codeRest": "(C219, 2004–2010)",
+        "codeRest": "(C219, 2004-2010)",
         "body": "A 5.5-litre naturally aspirated V8 fitted to the first-generation CLS 500. No specific known issue has been independently confirmed for this engine in this application.",
         "cta": "Check Your M273 CLS 500",
         "codeHref": "/mercedes-m273-engine"
@@ -25,7 +25,7 @@
       {
         "codeHighlight": "M278",
         "image": "/engines/m278-engine-hero.webp",
-        "codeRest": "(C218, 2010–2018)",
+        "codeRest": "(C218, 2010-2018)",
         "body": "A 4.7-litre twin-turbo V8 fitted to the second-generation CLS 500. No specific known issue has been independently confirmed for this engine in this application.",
         "cta": "Check Your M278 CLS 500",
         "codeHref": "/mercedes-m278-engine"
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES CLS 500 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the CLS 500 spans two distinct V8 engines across two generations, fitting the wrong replacement — or assuming an M273 part will work on an M278 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the CLS 500 spans two distinct V8 engines across two generations, fitting the wrong replacement - or assuming an M273 part will work on an M278 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,12 +61,12 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic CLS quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic CLS quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES CLS 500 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
+    "image": "/cars/card/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -77,18 +77,18 @@
     "rows": [
       {
         "generation": "C219",
-        "image": "/cars/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
+        "image": "/cars/card/cls-c219-standard-4-door-coupe-20042008-new-moonlight-silver-metallic-0778.webp",
         "chassis": "C219",
-        "years": "2004–2010",
+        "years": "2004-2010",
         "engineCode": "M273",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m273-engine"
       },
       {
         "generation": "C218",
-        "image": "/cars/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
+        "image": "/cars/card/cls-c218-coupe-4-door-coupe-20112014-new-designo-diamond-white-bright-966d.webp",
         "chassis": "C218",
-        "years": "2010–2018",
+        "years": "2010-2018",
         "engineCode": "M278",
         "fuel": "Petrol",
         "codeHref": "/mercedes-m278-engine"

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLE350D ENGINE",
     "paragraphs": [
-      "The GLE350d has been part of the GLE-Class range since 2015, when the model was renamed from the M-Class. The earlier W166 generation (2015–2019) uses the OM642 — a 3.0-litre V6 diesel shared across a wide range of Mercedes models of that era. From 2019, the V167-generation GLE350d switched to the OM656, a newer inline-six diesel that's a different unit entirely, not an evolution of the OM642. Knowing which one your car has matters, because the components, the known wear pattern, and even the rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+      "The GLE350d has been part of the GLE-Class range since 2015, when the model was renamed from the M-Class. The earlier W166 generation (2015-2019) uses the OM642 - a 3.0-litre V6 diesel shared across a wide range of Mercedes models of that era. From 2019, the V167-generation GLE350d switched to the OM656, a newer inline-six diesel that's a different unit entirely, not an evolution of the OM642. Knowing which one your car has matters, because the components, the known wear pattern, and even the rebuild specifics differ between them - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLE350D on the road."
   },
@@ -18,7 +18,7 @@
         "codeHighlight": "OM642",
         "image": "/engines/om642-engine.webp",
         "codeRest": "(W166)",
-        "body": "A 3.0-litre V6 diesel fitted to the GLE350d from 2015 to 2019 (W166 generation). Known for swirl flap and injector wear over time — see the callout above. We replace both as standard on every OM642 rebuild, along with the timing chain where worn.",
+        "body": "A 3.0-litre V6 diesel fitted to the GLE350d from 2015 to 2019 (W166 generation). Known for swirl flap and injector wear over time - see the callout above. We replace both as standard on every OM642 rebuild, along with the timing chain where worn.",
         "cta": "Check Your OM642 GLE350d",
         "codeHref": "/mercedes-om642-engine"
       },
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLE350D ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the GLE350d spans two distinct engines across two generations, fitting the wrong replacement — or assuming an OM642 part will work on an OM656 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the GLE350d spans two distinct engines across two generations, fitting the wrong replacement - or assuming an OM642 part will work on an OM656 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLE-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLE-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLE350D ",
@@ -78,7 +78,7 @@
       {
         "generation": "W166",
         "chassis": "W166",
-        "years": "2015–2019",
+        "years": "2015-2019",
         "engineCode": "OM642",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om642-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "V167",
         "chassis": "V167",
-        "years": "2019–present",
+        "years": "2019-present",
         "engineCode": "OM656",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om656-engine"

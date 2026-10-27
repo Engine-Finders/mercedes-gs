@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES G500 (W465) ENGINE",
     "paragraphs": [
-      "The G500 has been part of the G-Class range since the 1990s, and the current W465 generation represents the latest evolution. The W465 G500 uses the M176 — a 4.0-litre twin-turbo V8 petrol engine, which is a different unit from the pre-2018 naturally aspirated M113/M273 V8s found in earlier G500s. The M176 is the same engine family used in other current Mercedes models, and we've adapted our rebuild process specifically for this twin-turbo V8."
+      "The G500 has been part of the G-Class range since the 1990s, and the current W465 generation represents the latest evolution. The W465 G500 uses the M176 - a 4.0-litre twin-turbo V8 petrol engine, which is a different unit from the pre-2018 naturally aspirated M113/M273 V8s found in earlier G500s. The M176 is the same engine family used in other current Mercedes models, and we've adapted our rebuild process specifically for this twin-turbo V8."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every G500 (W465) on the road."
   },
@@ -16,7 +16,7 @@
     "cards": [
       {
         "codeHighlight": "M256",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the G500 (W465) from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 G500 (W465)",
         "codeHref": "/mercedes-m256-engine"
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "MERCEDES G500 (W465) ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The W465 G500 uses the M176 twin-turbo V8 — a completely different engine from earlier G500 generations. If you're considering a replacement engine, we always confirm:",
+    "intro": "The W465 G500 uses the M176 twin-turbo V8 - a completely different engine from earlier G500 generations. If you're considering a replacement engine, we always confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -52,7 +52,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic G-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic G-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES G500 (W465) ",
@@ -69,7 +69,7 @@
       {
         "generation": "W465",
         "chassis": "W465",
-        "years": "2026–present",
+        "years": "2026-present",
         "engineCode": "M176",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m176-engine"

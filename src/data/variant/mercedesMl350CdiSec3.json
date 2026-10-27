@@ -9,7 +9,7 @@
     {
       "code": "OM642",
       "image": "/engines/om642-engine.webp",
-      "generation": "W164 (2005–2011)",
+      "generation": "W164 (2005-2011)",
       "price": "£2,800",
       "codeHref": "/mercedes-om642-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -30,8 +30,8 @@
     "titlePre": "Mercedes ML350 CDI Swirl Flap & Injector Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "If your ML350 CDI has the OM642 diesel V6 — which is the engine fitted to every W164-generation model from 2005 to 2011 — swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
-      "include_in_hero_hook: yes for OM642 — Source: established specialist pattern, multiple TSBs, per VRF-mercedes-m-class.md."
+      "If your ML350 CDI has the OM642 diesel V6 - which is the engine fitted to every W164-generation model from 2005 to 2011 - swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
+      "include_in_hero_hook: yes for OM642 - Source: established specialist pattern, multiple TSBs, per VRF-mercedes-m-class.md."
     ],
     "source": "Source: established specialist pattern, multiple TSBs, per VRF-mercedes-m-class.md"
   }

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES SLK320 ENGINE",
     "paragraphs": [
-      "The SLK320 was part of the first-generation SLK range (R170) from 1996 to 2004, using the M112 — a 3.2-litre V6 petrol engine that delivered a smooth, refined driving experience. When the second-generation R171 arrived in 2004, the SLK320 was replaced by the SLK350 with a more powerful 3.5-litre M272 V6. For the R172 generation (2011–2016), the SLK350 continued with the M272 — meaning the SLK320 itself was a first-generation-only model, while the SLK350 carried the V6 torch through the later generations. Knowing which generation your car is from tells us which engine you have, because the early M112 and later M272 are completely different units."
+      "The SLK320 was part of the first-generation SLK range (R170) from 1996 to 2004, using the M112 - a 3.2-litre V6 petrol engine that delivered a smooth, refined driving experience. When the second-generation R171 arrived in 2004, the SLK320 was replaced by the SLK350 with a more powerful 3.5-litre M272 V6. For the R172 generation (2011-2016), the SLK350 continued with the M272 - meaning the SLK320 itself was a first-generation-only model, while the SLK350 carried the V6 torch through the later generations. Knowing which generation your car is from tells us which engine you have, because the early M112 and later M272 are completely different units."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every SLK320 on the road."
   },
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES SLK320 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The SLK320 itself was only produced in the R170 generation — so if your car is a genuine SLK320, it has the M112 engine. But there's a common point of confusion: the SLK350 is a different variant entirely, introduced in 2004 with the M272, and it continued through both the R171 and R172 generations. If you're searching for SLK320 parts or rebuild information but have a later car, you may actually have an SLK350 — which is why we always start with your registration to match the right engine to your actual car.",
+    "intro": "The SLK320 itself was only produced in the R170 generation - so if your car is a genuine SLK320, it has the M112 engine. But there's a common point of confusion: the SLK350 is a different variant entirely, introduced in 2004 with the M272, and it continued through both the R171 and R172 generations. If you're searching for SLK320 parts or rebuild information but have a later car, you may actually have an SLK350 - which is why we always start with your registration to match the right engine to your actual car.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic SLK quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic SLK quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES SLK320 ",
@@ -78,7 +78,7 @@
       {
         "generation": "R170",
         "chassis": "R170",
-        "years": "1996–2004",
+        "years": "1996-2004",
         "engineCode": "M112",
         "fuel": "Petrol V6",
         "codeHref": "/mercedes-m112-engine"

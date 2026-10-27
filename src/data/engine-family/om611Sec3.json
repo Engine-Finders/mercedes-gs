@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Mercedes-Benz OM611 Applications — ",
+  "titlePre": "Mercedes-Benz OM611 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "Sprinter 208 CDI, 308 CDI, 408 CDI",
       "generation": "T1N",
       "chassis": "W901-W905",
-      "years": "1995–2006",
+      "years": "1995-2006",
       "powertrain": "Diesel",
       "modelHref": "/mercedes-sprinter-engines"
     },
@@ -37,7 +37,7 @@
       "variant": "Sprinter 211 CDI, 311 CDI, 411 CDI",
       "generation": "T1N",
       "chassis": "W901-W905",
-      "years": "1995–2006",
+      "years": "1995-2006",
       "powertrain": "Diesel",
       "modelHref": "/mercedes-sprinter-engines"
     },
@@ -46,7 +46,7 @@
       "variant": "Sprinter 212 CDI, 312 CDI, 412 CDI",
       "generation": "T1N",
       "chassis": "W901-W905",
-      "years": "1995–2006",
+      "years": "1995-2006",
       "powertrain": "Diesel",
       "modelHref": "/mercedes-sprinter-engines"
     },
@@ -55,7 +55,7 @@
       "variant": "Vario 508D, 510D, 512D",
       "generation": "W670",
       "chassis": "W670",
-      "years": "1998–2013",
+      "years": "1998-2013",
       "powertrain": "Diesel",
       "modelHref": "/mercedes-vario-engines"
     },
@@ -64,7 +64,7 @@
       "variant": "Vito 108 CDI, 109 CDI, 110 CDI, 112 CDI",
       "generation": "W638",
       "chassis": "W638",
-      "years": "1997–2003",
+      "years": "1997-2003",
       "powertrain": "Diesel",
       "modelHref": "/mercedes-vito-engines"
     }

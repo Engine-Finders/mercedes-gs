@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLS580 ENGINE",
     "paragraphs": [
-      "The GLS580 is the flagship non-AMG petrol model in the GLS range, introduced with the X167 generation in 2019. It uses the M176 — a 4.0-litre twin-turbo V8 with mild-hybrid assistance, part of Mercedes' second-generation biturbo V8 family. The M176 delivers substantial power and torque while incorporating cylinder deactivation for improved efficiency. The GLS580 remains in production as of 2026."
+      "The GLS580 is the flagship non-AMG petrol model in the GLS range, introduced with the X167 generation in 2019. It uses the M176 - a 4.0-litre twin-turbo V8 with mild-hybrid assistance, part of Mercedes' second-generation biturbo V8 family. The M176 delivers substantial power and torque while incorporating cylinder deactivation for improved efficiency. The GLS580 remains in production as of 2026."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLS580 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLS580 from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 GLS580",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLS580 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the GLS580 uses a single engine family across the entire X167 generation, compatibility is relatively straightforward — but accurate matching still matters for ancillaries, ECU calibration, and year-specific revisions. Before we quote or supply anything, we confirm:",
+    "intro": "Because the GLS580 uses a single engine family across the entire X167 generation, compatibility is relatively straightforward - but accurate matching still matters for ancillaries, ECU calibration, and year-specific revisions. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLS quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLS quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLS580 ",
@@ -70,7 +70,7 @@
       {
         "generation": "X167",
         "chassis": "X167",
-        "years": "2019–present",
+        "years": "2019-present",
         "engineCode": "M176",
         "fuel": "Petrol Twin-Turbo V8 MHEV",
         "codeHref": "/mercedes-m176-engine"

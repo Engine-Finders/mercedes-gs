@@ -3,7 +3,7 @@
   "metaTitle": "Mercedes Turbo & Ancillary Repair | Mercedes Garage",
   "metaDescription": "Professional Mercedes-Benz turbocharger and ancillary component repair. Full removal, replacement, actuator calibration and testing. 12-month warranty.",
   "h1": "Mercedes Turbo & Ancillary Repair Specialists",
-  "lede": "Complete turbocharger and ancillary component repair for all Mercedes-Benz engines – from four-cylinder diesels to AMG V8 biturbos. 12-month warranty on all work.",
+  "lede": "Complete turbocharger and ancillary component repair for all Mercedes-Benz engines - from four-cylinder diesels to AMG V8 biturbos. 12-month warranty on all work.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -181,12 +181,12 @@
         {
           "t": "ul",
           "items": [
-            "**Specialised tools and knowledge** – we use Mercedes-Benz Star Diagnostic and factory-spec torque procedures.",
-            "**Genuine or OEM parts** – we always replace oil lines, seals, and gaskets with high-quality components.",
-            "**12-month unlimited-mileage warranty** – on all turbo and ancillary work.",
-            "**Under 30-minute quote turnaround** – during working hours.",
-            "**Nationwide recovery** – from £70, we can collect your vehicle if needed.",
-            "**Calibration and testing** – we don't just fit parts; we test and calibrate to ensure optimal performance."
+            "**Specialised tools and knowledge** - we use Mercedes-Benz Star Diagnostic and factory-spec torque procedures.",
+            "**Genuine or OEM parts** - we always replace oil lines, seals, and gaskets with high-quality components.",
+            "**12-month unlimited-mileage warranty** - on all turbo and ancillary work.",
+            "**Under 30-minute quote turnaround** - during working hours.",
+            "**Nationwide recovery** - from £70, we can collect your vehicle if needed.",
+            "**Calibration and testing** - we don't just fit parts; we test and calibrate to ensure optimal performance."
           ]
         },
         {
@@ -197,7 +197,7 @@
     },
     {
       "kind": "steps",
-      "heading": "How It Works – From Quote to Collection",
+      "heading": "How It Works - From Quote to Collection",
       "steps": [
         {
           "title": "1. Get a Quote",
@@ -240,15 +240,15 @@
       "items": [
         {
           "q": "How long does a Mercedes turbo repair take?",
-          "a": "Most turbocharger and ancillary repairs are completed within **2-4 working days**. This includes removal, replacement, calibration, and road testing. Complex “Hot V” engines (e.g. AMG V8) may take longer – we'll advise you when quoting."
+          "a": "Most turbocharger and ancillary repairs are completed within **2-4 working days**. This includes removal, replacement, calibration, and road testing. Complex “Hot V” engines (e.g. AMG V8) may take longer - we'll advise you when quoting."
         },
         {
           "q": "Do you replace the oil lines when fitting a new turbo?",
-          "a": "Yes – we always replace both the oil feed and return lines along with all seals and gaskets. This is a critical step to ensure the new turbo receives clean oil and drains properly, preventing premature failure."
+          "a": "Yes - we always replace both the oil feed and return lines along with all seals and gaskets. This is a critical step to ensure the new turbo receives clean oil and drains properly, preventing premature failure."
         },
         {
           "q": "Is calibration needed after turbo replacement?",
-          "a": "Yes – for engines with electronic actuators or variable geometry (VGT), we use Mercedes-Benz Star Diagnostic (XENTRY) to perform actuator calibration and reset adaptations. This ensures correct boost control and engine management."
+          "a": "Yes - for engines with electronic actuators or variable geometry (VGT), we use Mercedes-Benz Star Diagnostic (XENTRY) to perform actuator calibration and reset adaptations. This ensures correct boost control and engine management."
         },
         {
           "q": "Can you repair just the actuator without replacing the whole turbo?",
@@ -256,7 +256,7 @@
         },
         {
           "q": "Do you work on AMG biturbo engines?",
-          "a": "Yes – we have extensive experience with AMG M157, M177, and M178 V8 biturbo engines, including the complex “Hot V” layout. We have the specialised tools and knowledge to perform these repairs to the highest standard."
+          "a": "Yes - we have extensive experience with AMG M157, M177, and M178 V8 biturbo engines, including the complex “Hot V” layout. We have the specialised tools and knowledge to perform these repairs to the highest standard."
         }
       ]
     }

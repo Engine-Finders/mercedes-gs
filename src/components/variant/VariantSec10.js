@@ -4,6 +4,7 @@ import Icon from "@/components/reusable/Icon";
 import MercedesStripe from "@/components/reusable/MercedesStripe";
 import MercedesLogo from "@/components/reusable/MercedesLogo";
 import MobileSplitTitle from "@/components/variant/MobileSplitTitle";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function VariantSec10({ data }) {
   const { about, codes, compatibility, applications } = data;
@@ -82,12 +83,12 @@ export default function VariantSec10({ data }) {
                   </p>
                 </div>
                 <p className="mt-3 text-xs leading-snug text-white">{c.body}</p>
-                <a
+                <QuoteLink
                   href="#quote-form"
                   className="btn-text mt-4 inline-flex items-center gap-1.5 rounded-md border border-hero-blue/50 bg-white/5 px-4 py-2.5 text-hero-blue transition-colors hover:bg-hero-blue hover:text-white"
                 >
                   {c.cta} <span aria-hidden>→</span>
-                </a>
+                </QuoteLink>
               </div>
             ))}
           </div>
@@ -115,12 +116,12 @@ export default function VariantSec10({ data }) {
                       {c.codeHref ? <Link href={c.codeHref} ><span className="text-hero-blue">{c.codeHighlight}</span></Link> : <span className="text-hero-blue">{c.codeHighlight}</span>} <span className="text-white">{c.codeRest}</span>
                     </p>
                     <p className="text-sm leading-relaxed text-white">{c.body}</p>
-                    <a
+                    <QuoteLink
                       href="#quote-form"
                       className="mt-1 inline-flex w-fit items-center gap-2 rounded-md border border-hero-blue/50 bg-white/5 px-5 py-2.5 text-sm font-bold text-hero-blue transition-colors hover:bg-hero-blue hover:text-white"
                     >
                       {c.cta} <span aria-hidden>→</span>
-                    </a>
+                    </QuoteLink>
                   </div>
                   <div className="relative flex w-52 shrink-0 items-center justify-center pr-10">
                     <div

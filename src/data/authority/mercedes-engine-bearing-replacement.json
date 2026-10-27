@@ -45,12 +45,12 @@
         {
           "t": "ul",
           "items": [
-            "**Access & Disassembly** — Drain fluids, remove all external components (manifolds, turbochargers, accessories), and strip the engine to access the crankshaft.",
-            "**Crankshaft Removal** — Remove the oil pan and crankshaft to expose the main bearing shells and connecting rod bearings.",
-            "**Bearing Replacement** — Fit new OEM-spec main and connecting rod bearing shells, using colour-coded matching to the crankshaft and block. Replace thrust washers where fitted.",
-            "**Clearance Measurement** — Verify bearing clearances with Plastigage or dial bore gauges to ensure they meet factory specifications.",
-            "**Reassembly** — Install new torque-to-yield bolts, follow precise torque sequences and angles, and replace all gaskets and seals.",
-            "**Testing** — Run the engine on a test stand or in-vehicle to verify oil pressure, temperature, and overall performance before handover."
+            "**Access & Disassembly** - Drain fluids, remove all external components (manifolds, turbochargers, accessories), and strip the engine to access the crankshaft.",
+            "**Crankshaft Removal** - Remove the oil pan and crankshaft to expose the main bearing shells and connecting rod bearings.",
+            "**Bearing Replacement** - Fit new OEM-spec main and connecting rod bearing shells, using colour-coded matching to the crankshaft and block. Replace thrust washers where fitted.",
+            "**Clearance Measurement** - Verify bearing clearances with Plastigage or dial bore gauges to ensure they meet factory specifications.",
+            "**Reassembly** - Install new torque-to-yield bolts, follow precise torque sequences and angles, and replace all gaskets and seals.",
+            "**Testing** - Run the engine on a test stand or in-vehicle to verify oil pressure, temperature, and overall performance before handover."
           ]
         },
         {
@@ -70,11 +70,11 @@
             "**Bearing replacement is always performed as part of a full engine rebuild.** Our rebuild pricing starts from:",
             {
               "ul": [
-                "**4-cylinder engines** — from £2,200",
-                "**6-cylinder engines** — from £2,800 (diesel) / £3,200 (petrol)",
-                "**V8 (non-AMG)** — from £4,500",
-                "**AMG V8** — from £6,500",
-                "**V12** — from £8,000+"
+                "**4-cylinder engines** - from £2,200",
+                "**6-cylinder engines** - from £2,800 (diesel) / £3,200 (petrol)",
+                "**V8 (non-AMG)** - from £4,500",
+                "**AMG V8** - from £6,500",
+                "**V12** - from £8,000+"
               ]
             },
             "Prices are indicative and subject to inspection. [View pricing disclaimer →](/pricing-legal-disclaimer)"
@@ -267,10 +267,10 @@
         {
           "t": "ul",
           "items": [
-            "**12-month unlimited-mileage warranty** on all rebuilds – we stand behind our work.",
-            "**Established in 2009** – specialist Mercedes workshop with a proven track record.",
+            "**12-month unlimited-mileage warranty** on all rebuilds - we stand behind our work.",
+            "**Established in 2009** - specialist Mercedes workshop with a proven track record.",
             "**We use genuine OEM parts** and follow factory torque and clearance specifications.",
-            "**Nationwide recovery** available from £70 – we can bring your car to us.",
+            "**Nationwide recovery** available from £70 - we can bring your car to us.",
             "**Quote turnaround under 30 minutes** during working hours.",
             "**Rebuilds completed in 3-5 working days** from arrival at our workshop."
           ]
@@ -320,8 +320,8 @@
         {
           "t": "ul",
           "items": [
-            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild) – full bottom-end and top-end rebuilds",
-            "[Mercedes Engine Replacement](/mercedes-engine-replacement) – supply and fit",
+            "[Mercedes Engine Rebuild](/mercedes-engine-rebuild) - full bottom-end and top-end rebuilds",
+            "[Mercedes Engine Replacement](/mercedes-engine-replacement) - supply and fit",
             "[Mercedes Diesel Timing Chain & Injector Repair](/mercedes-diesel-timing-chain-repair)",
             "[Mercedes AMG V8 Valve Seal & Coolant Repair](/mercedes-amg-v8-valve-seal-repair)",
             "[Mercedes 4-Cylinder Timing Chain Repair](/mercedes-4cyl-timing-chain-repair)",

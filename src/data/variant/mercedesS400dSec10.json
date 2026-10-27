@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES S400D ENGINE",
     "paragraphs": [
-      "The S400d joined the S-Class range in 2017 as a more powerful diesel alternative to the S350d, fitted with the OM656 — a 3.0-litre inline-six diesel that represented a genuine step forward from the older OM642 V6. It was initially introduced on the W222 generation (2017–2020) before continuing onto the W223 (2020–present) with updated electronics and emissions hardware. The OM656 is a completely different engine from the OM642 it effectively replaced in the S-Class diesel line-up — newer design, inline configuration, and a more modern fuel and timing system, all of which means the rebuild approach and components are different too."
+      "The S400d joined the S-Class range in 2017 as a more powerful diesel alternative to the S350d, fitted with the OM656 - a 3.0-litre inline-six diesel that represented a genuine step forward from the older OM642 V6. It was initially introduced on the W222 generation (2017-2020) before continuing onto the W223 (2020-present) with updated electronics and emissions hardware. The OM656 is a completely different engine from the OM642 it effectively replaced in the S-Class diesel line-up - newer design, inline configuration, and a more modern fuel and timing system, all of which means the rebuild approach and components are different too."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every S400D on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the S400D from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 S400D",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES S400D ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The S400d uses the OM656 engine across both generations it's been fitted to, but that doesn't mean you can simply swap parts between a W222 and a W223 car. The two chassis have different engine management systems, ancillary layouts, and emissions hardware — a replacement or rebuild on one generation isn't automatically identical to the other. Before we quote or supply anything, we confirm:",
+    "intro": "The S400d uses the OM656 engine across both generations it's been fitted to, but that doesn't mean you can simply swap parts between a W222 and a W223 car. The two chassis have different engine management systems, ancillary layouts, and emissions hardware - a replacement or rebuild on one generation isn't automatically identical to the other. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic S-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic S-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES S400D ",
@@ -70,7 +70,7 @@
       {
         "generation": "W222",
         "chassis": "W222",
-        "years": "2017–2020",
+        "years": "2017-2020",
         "engineCode": "OM656",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om656-engine"
@@ -78,7 +78,7 @@
       {
         "generation": "W223",
         "chassis": "W223",
-        "years": "2020–present",
+        "years": "2020-present",
         "engineCode": "OM656",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om656-engine"

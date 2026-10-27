@@ -1,10 +1,10 @@
 {
   "kicker": "Mercedes S65 AMG Specialists",
-  "h1": "Mercedes S65 AMG|Engine Rebuild —|From £8,000",
+  "h1": "Mercedes S65 AMG|Engine Rebuild -|From £8,000",
   "subhead": "Specialist Mercedes S65 AMG engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
   "rating": {
     "stars": 5,
-    "label": "Rated Mercedes Engine Specialists — 1,800+ Engines Rebuilt"
+    "label": "Rated Mercedes Engine Specialists - 1,800+ Engines Rebuilt"
   },
   "trustBar": [
     {
@@ -29,7 +29,7 @@
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £8,000 —",
+    "kicker": "Starting from £8,000 -",
     "label": "Get a Fixed-Price Quote →",
     "href": "#quote-form"
   },

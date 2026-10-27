@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES ML270 CDI ENGINE",
     "paragraphs": [
-      "The ML270 CDI was introduced in 1999 as a diesel option for the first-generation M-Class. It uses the OM612 — a 2.7-litre five-cylinder diesel that was part of Mercedes' CDI (Common-rail Direct Injection) family. This engine was fitted throughout the W163 generation's production run, from 1999 until the M-Class was replaced by the W164 generation in 2005."
+      "The ML270 CDI was introduced in 1999 as a diesel option for the first-generation M-Class. It uses the OM612 - a 2.7-litre five-cylinder diesel that was part of Mercedes' CDI (Common-rail Direct Injection) family. This engine was fitted throughout the W163 generation's production run, from 1999 until the M-Class was replaced by the W164 generation in 2005."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every ML270 CDI on the road."
   },
@@ -16,7 +16,7 @@
     "cards": [
       {
         "codeHighlight": "M256",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the ML270 CDI from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 ML270 CDI",
         "codeHref": "/mercedes-m256-engine"
@@ -52,7 +52,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic M-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic M-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES ML270 CDI ",
@@ -69,7 +69,7 @@
       {
         "generation": "W163",
         "chassis": "W163",
-        "years": "1999–2005",
+        "years": "1999-2005",
         "engineCode": "OM612",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om612-engine"

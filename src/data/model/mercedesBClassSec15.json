@@ -8,17 +8,17 @@
   "partImage": "/model/sec15_part.webp",
   "generations": [
     {
-      "years": "2011–2018",
+      "years": "2011-2018",
       "code": "W246",
       "list": "2011 through 2018 Mercedes B-Class engines"
     },
     {
-      "years": "2019–present",
+      "years": "2019-present",
       "code": "W247",
       "list": "2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 Mercedes B-Class engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "Mercedes B200d Model:",
   "checklistLeft": [

@@ -9,7 +9,7 @@
     {
       "code": "M256",
       "image": "/engines/m256-engine-hero.webp",
-      "generation": "R190 (2023–present)",
+      "generation": "R190 (2023-present)",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -30,8 +30,8 @@
     "titlePre": "Mercedes G350d Swirl Flap & Injector Wear ",
     "titleHighlight": "(pre-2018, OM642)",
     "paragraphs": [
-      "If your G350d is a pre-2018 model with the OM642 diesel V6 — that's the W463 generation — swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
-      "The newer W463a generation uses a different engine, the OM656, which doesn't share this specific issue — it's a separate, more recent design."
+      "If your G350d is a pre-2018 model with the OM642 diesel V6 - that's the W463 generation - swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
+      "The newer W463a generation uses a different engine, the OM656, which doesn't share this specific issue - it's a separate, more recent design."
     ],
     "source": "Source: established specialist pattern, multiple TSBs, per VRF-mercedes-g-class.md. OM656 explicitly excluded from this claim per VRF, correctly scoped to generation"
   }

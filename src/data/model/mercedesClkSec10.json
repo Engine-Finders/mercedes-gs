@@ -2,58 +2,58 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "Mercedes CLK Rebuilds",
-  "subhead": "Full variant list below covers every Mercedes CLK engine we work on — these are simply our most requested.",
-  "image": "/cars/clk-c209-facelift-coupe-coupe-20052009-new-brilliant-silver-8b4c.webp",
+  "subhead": "Full variant list below covers every Mercedes CLK engine we work on - these are simply our most requested.",
+  "image": "/cars/card/clk-c209-facelift-coupe-coupe-20052009-new-brilliant-silver-8b4c.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "Mercedes CLK 200",
-      "spec": "1.8L–2.3L Petrol (M111 (C208) or M271 (C209))",
-      "image": "/cars/clk-c209-facelift-coupe-coupe-20052009-new-brilliant-silver-8b4c.webp",
+      "spec": "1.8L-2.3L Petrol (M111 (C208) or M271 (C209))",
+      "image": "/cars/card/clk-c209-facelift-coupe-coupe-20052009-new-brilliant-silver-8b4c.webp",
       "href": "/mercedes-clk-200-engines"
     },
     {
       "number": "02",
       "model": "Mercedes CLK 220",
-      "spec": "1.8L–2.3L Petrol (M111 (C208) or M271 (C209))",
-      "image": "/cars/clk-a209-cabriolet-convertible-20032005-new-black-separate-b-ada5.webp",
+      "spec": "1.8L-2.3L Petrol (M111 (C208) or M271 (C209))",
+      "image": "/cars/card/clk-a209-cabriolet-convertible-20032005-new-black-separate-b-ada5.webp",
       "href": "/mercedes-clk-220-engines"
     },
     {
       "number": "03",
       "model": "Mercedes CLK 320",
       "spec": "3.2L V6 Petrol (M112 (C208) or M272 (C209))",
-      "image": "/cars/clk-a209-facelift-cabriolet-convertible-20052009-new-cavansi-3d67.webp",
+      "image": "/cars/card/clk-a209-facelift-cabriolet-convertible-20052009-new-cavansi-3d67.webp",
       "href": "/mercedes-clk-320-engines"
     },
     {
       "number": "04",
       "model": "Mercedes CLK 350",
       "spec": "3.5L V6 Petrol (M272)",
-      "image": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-clk-c209-dfe7.webp",
+      "image": "/cars/card/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-clk-c209-dfe7.webp",
       "href": "/mercedes-clk-350-engines"
     },
     {
       "number": "05",
       "model": "Mercedes CLK 500",
       "spec": "5.0L / 5.5L V8 Petrol (M113 (C208) or M273 (C209))",
-      "image": "/cars/clk-c209-facelift-coupe-coupe-20052009-new-brilliant-silver-8b4c.webp",
+      "image": "/cars/card/clk-c209-facelift-coupe-coupe-20052009-new-brilliant-silver-8b4c.webp",
       "href": "/mercedes-clk-500-engines"
     },
     {
       "number": "06",
       "model": "Mercedes CLK 55 AMG",
       "spec": "5.5L V8 Petrol (M113 (C208) or M273 (C209))",
-      "image": "/cars/clk-a209-cabriolet-convertible-20032005-new-black-separate-b-ada5.webp",
+      "image": "/cars/card/clk-a209-cabriolet-convertible-20032005-new-black-separate-b-ada5.webp",
       "href": "/mercedes-clk-55-amg-engines"
     },
     {
       "number": "07",
       "model": "Mercedes CLK 63 AMG",
       "spec": "6.2L V8 Petrol (M156)",
-      "image": "/cars/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-clk-c209-dfe7.webp",
+      "image": "/cars/card/clk-c209-coupe-coupe-20022005-new-glut-red-new-generation-clk-c209-dfe7.webp",
       "href": "/mercedes-clk-63-amg-engines"
     }
   ]

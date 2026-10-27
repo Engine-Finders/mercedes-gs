@@ -3,7 +3,7 @@
   "metaTitle": "Mercedes Cylinder Head Repair & Rebuild | Mercedes Garage",
   "metaDescription": "Precision cylinder head repair and rebuild for all Mercedes-Benz engines. Full disassembly, machining, valve train overhaul, and reassembly with genuine parts.",
   "h1": "Mercedes Cylinder Head Repair & Rebuild",
-  "lede": "Precision cylinder head overhaul for all Mercedes-Benz petrol and diesel engines — from 4-cylinder to V12. Full disassembly, machine-shop work, valve train service, and reassembly with OEM-spec parts.",
+  "lede": "Precision cylinder head overhaul for all Mercedes-Benz petrol and diesel engines - from 4-cylinder to V12. Full disassembly, machine-shop work, valve train service, and reassembly with OEM-spec parts.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -52,7 +52,7 @@
         },
         {
           "title": "Reassembly & Testing",
-          "body": "New valve stem seals, lifters (if required), and all gaskets are fitted. Cylinder head bolts **must** be replaced — they are torque-to-yield and single-use. Reassembly follows the Mercedes-spec torque sequence with angle-tightening, and timing is reset using factory locking tools."
+          "body": "New valve stem seals, lifters (if required), and all gaskets are fitted. Cylinder head bolts **must** be replaced - they are torque-to-yield and single-use. Reassembly follows the Mercedes-spec torque sequence with angle-tightening, and timing is reset using factory locking tools."
         }
       ]
     },
@@ -67,11 +67,11 @@
             "Cylinder head repair and rebuild is included as part of our full engine rebuild service. **Rebuilds start from:**",
             {
               "ul": [
-                "**4-Cylinder engines** — from £2,200",
-                "**6-Cylinder engines** — from £2,800 (diesel) / £3,200 (petrol)",
-                "**V8 (non-AMG)** — from £4,500",
-                "**AMG V8** — from £6,500",
-                "**V12** — from £8,000+"
+                "**4-Cylinder engines** - from £2,200",
+                "**6-Cylinder engines** - from £2,800 (diesel) / £3,200 (petrol)",
+                "**V8 (non-AMG)** - from £4,500",
+                "**AMG V8** - from £6,500",
+                "**V12** - from £8,000+"
               ]
             },
             "[Pricing disclaimer →](/pricing-legal-disclaimer)"
@@ -222,7 +222,7 @@
     },
     {
       "kind": "steps",
-      "heading": "Our Cylinder Head Rebuild Process — In Detail",
+      "heading": "Our Cylinder Head Rebuild Process - In Detail",
       "steps": [
         {
           "title": "Inspection & Diagnosis",
@@ -257,11 +257,11 @@
         {
           "t": "ul",
           "items": [
-            "**Mercedes-specialist workshop** — we work exclusively on Mercedes-Benz engines, from A-Class to Sprinter.",
-            "**In-house machine shop** — we perform all resurfacing, valve seat machining, and guide replacement ourselves, ensuring quality control.",
-            "**OEM-correct procedures** — we follow factory torque sequences, timing locking, and use genuine or OEM-equivalent parts.",
-            "**Mercedes Star Diagnostic (Xentry)** — final adaptation and fault clearing are performed with the factory-level tool.",
-            "**12-month unlimited-mileage warranty** — [covered on every rebuild we complete](/warranty).",
+            "**Mercedes-specialist workshop** - we work exclusively on Mercedes-Benz engines, from A-Class to Sprinter.",
+            "**In-house machine shop** - we perform all resurfacing, valve seat machining, and guide replacement ourselves, ensuring quality control.",
+            "**OEM-correct procedures** - we follow factory torque sequences, timing locking, and use genuine or OEM-equivalent parts.",
+            "**Mercedes Star Diagnostic (Xentry)** - final adaptation and fault clearing are performed with the factory-level tool.",
+            "**12-month unlimited-mileage warranty** - [covered on every rebuild we complete](/warranty).",
             "[Learn more about our workshop →](/about)"
           ]
         }

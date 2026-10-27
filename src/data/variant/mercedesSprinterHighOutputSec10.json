@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES SPRINTER HIGH OUTPUT ENGINE",
     "paragraphs": [
-      "The Sprinter High Output is part of the latest VS30 facelift generation (2023–present) and represents a significant change for the model line. It uses the OM654 — a 2.0-litre twin-turbo diesel four-cylinder producing 208hp. This engine replaced the older 3.0-litre V6 diesel (OM642) that was used in previous Sprinter models. The OM654 is a modern, efficient unit that, while too new to have established a widespread failure pattern, is known from other Mercedes applications for its high-tech, complex design."
+      "The Sprinter High Output is part of the latest VS30 facelift generation (2023-present) and represents a significant change for the model line. It uses the OM654 - a 2.0-litre twin-turbo diesel four-cylinder producing 208hp. This engine replaced the older 3.0-litre V6 diesel (OM642) that was used in previous Sprinter models. The OM654 is a modern, efficient unit that, while too new to have established a widespread failure pattern, is known from other Mercedes applications for its high-tech, complex design."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every SPRINTER HIGH OUTPUT on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the SPRINTER HIGH OUTPUT from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 SPRINTER HIGH OUTPUT",
         "codeHref": "/mercedes-m256-engine"
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Sprinter quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Sprinter quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES SPRINTER HIGH OUTPUT ",
@@ -70,7 +70,7 @@
       {
         "generation": "VS30 (facelift)",
         "chassis": "VS30",
-        "years": "2023–present",
+        "years": "2023-present",
         "engineCode": "OM654",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om654-engine"

@@ -3,7 +3,7 @@
   "metaTitle": "Mercedes-Benz Trade & Fleet Engine Services | Mercedes Garage",
   "metaDescription": "Specialist engine rebuild and replacement services for Mercedes-Benz trade and fleet customers. Fast-tracked assessments, volume pricing, and minimal downtime for commercial vehicles.",
   "h1": "Mercedes-Benz Trade & Fleet Engine Services",
-  "lede": "Dedicated engine rebuild and replacement solutions for fleet operators and trade customers. We understand downtime costs – our services are designed for speed, reliability, and predictable budgeting.",
+  "lede": "Dedicated engine rebuild and replacement solutions for fleet operators and trade customers. We understand downtime costs - our services are designed for speed, reliability, and predictable budgeting.",
   "ctas": [
     {
       "label": "Request a Fleet Quote",
@@ -63,7 +63,7 @@
             "href": null
           },
           "chips": [],
-          "note": "We offer fixed-price quotes per vehicle, volume pricing agreements, and clear delivery schedules. No hidden costs – just transparent, predictable budgeting for your fleet operations."
+          "note": "We offer fixed-price quotes per vehicle, volume pricing agreements, and clear delivery schedules. No hidden costs - just transparent, predictable budgeting for your fleet operations."
         },
         {
           "t": "modelgroup",
@@ -87,11 +87,11 @@
         {
           "t": "ul",
           "items": [
-            "**Fast-tracked assessment** – We prioritise fleet vehicles for inspection, often completing the diagnosis within 24 hours of arrival.",
-            "**Volume pricing & service agreements** – Competitive rates for multiple vehicles, with flexible contract terms tailored to your usage.",
-            "**Priority scheduling** – Commercial vehicles (Sprinters, Vitos, V-Classes, Citans) are given dedicated bay time.",
-            "**Customised reporting** – We provide detailed rebuild/replacement reports, including parts replaced, machining details, and maintenance recommendations for your fleet records.",
-            "**Dedicated fleet liaison** – A single point of contact for all your vehicles, ensuring seamless communication and progress updates."
+            "**Fast-tracked assessment** - We prioritise fleet vehicles for inspection, often completing the diagnosis within 24 hours of arrival.",
+            "**Volume pricing & service agreements** - Competitive rates for multiple vehicles, with flexible contract terms tailored to your usage.",
+            "**Priority scheduling** - Commercial vehicles (Sprinters, Vitos, V-Classes, Citans) are given dedicated bay time.",
+            "**Customised reporting** - We provide detailed rebuild/replacement reports, including parts replaced, machining details, and maintenance recommendations for your fleet records.",
+            "**Dedicated fleet liaison** - A single point of contact for all your vehicles, ensuring seamless communication and progress updates."
           ]
         },
         {
@@ -207,7 +207,7 @@
         },
         {
           "title": "Authorisation & Work",
-          "body": "With your approval, we proceed with the agreed work – rebuild or replacement – following the same factory-grade procedures we use for all Mercedes engines."
+          "body": "With your approval, we proceed with the agreed work - rebuild or replacement - following the same factory-grade procedures we use for all Mercedes engines."
         },
         {
           "title": "Testing & Quality Control",
@@ -230,12 +230,12 @@
         {
           "t": "ul",
           "items": [
-            "**Commercial vehicle specialists** – Our technicians have extensive experience with Sprinter, Vito, V-Class, and Citan engines, including OM651, OM642, and OM654 units.",
-            "**Dedicated fleet bays** – We have workshop capacity to handle multiple vehicles simultaneously, reducing overall downtime.",
-            "**Transparent fixed pricing** – No hourly rate surprises; we quote per job and offer volume discounts for regular fleet work.",
-            "**Nationwide recovery** – We can collect vehicles from anywhere in the UK (from £70) and return them after repair.",
-            "**Comprehensive reporting** – Detailed job sheets and maintenance logs to help you track fleet health and plan future services.",
-            "**12-month warranty** – All rebuilds and replacements come with our unlimited-mileage warranty, giving you complete confidence."
+            "**Commercial vehicle specialists** - Our technicians have extensive experience with Sprinter, Vito, V-Class, and Citan engines, including OM651, OM642, and OM654 units.",
+            "**Dedicated fleet bays** - We have workshop capacity to handle multiple vehicles simultaneously, reducing overall downtime.",
+            "**Transparent fixed pricing** - No hourly rate surprises; we quote per job and offer volume discounts for regular fleet work.",
+            "**Nationwide recovery** - We can collect vehicles from anywhere in the UK (from £70) and return them after repair.",
+            "**Comprehensive reporting** - Detailed job sheets and maintenance logs to help you track fleet health and plan future services.",
+            "**12-month warranty** - All rebuilds and replacements come with our unlimited-mileage warranty, giving you complete confidence."
           ]
         },
         {
@@ -293,7 +293,7 @@
       "items": [
         {
           "q": "Do you offer volume discounts for multiple vehicles?",
-          "a": "Yes – we provide tailored pricing for fleets of 3 or more vehicles. Contact our fleet team to discuss your specific needs and receive a custom quote."
+          "a": "Yes - we provide tailored pricing for fleets of 3 or more vehicles. Contact our fleet team to discuss your specific needs and receive a custom quote."
         },
         {
           "q": "How quickly can you turn around a fleet engine repair?",
@@ -301,7 +301,7 @@
         },
         {
           "q": "Can you collect and return vehicles from our depot?",
-          "a": "Yes – we offer nationwide recovery for all fleet vehicles, with collection usually within a few hours of booking. We can arrange collection and return as part of a service agreement."
+          "a": "Yes - we offer nationwide recovery for all fleet vehicles, with collection usually within a few hours of booking. We can arrange collection and return as part of a service agreement."
         },
         {
           "q": "Do you provide fleet maintenance records?",
@@ -309,7 +309,7 @@
         },
         {
           "q": "Do you cover all Mercedes commercial models?",
-          "a": "Yes – from Sprinter and Vito to V-Class and Citan, and even older M-Class and GLK if they are in your fleet. We also handle petrol and diesel configurations across all years."
+          "a": "Yes - from Sprinter and Vito to V-Class and Citan, and even older M-Class and GLK if they are in your fleet. We also handle petrol and diesel configurations across all years."
         }
       ]
     }

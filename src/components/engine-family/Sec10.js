@@ -2,6 +2,7 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import MercedesLogo from "@/components/reusable/MercedesLogo";
 import AMGBadge from "@/components/reusable/AMGBadge";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 const HEX_POINTS = "50,2 96,25 96,75 50,98 4,75 4,25";
 
@@ -175,17 +176,17 @@ export default function Sec10({ data }) {
                 <p className="text-[10px] font-bold uppercase tracking-wide text-[#101828]">{data.typical.startingFromLabel}</p>
                 <p className="text-2xl font-extrabold text-hero-blue">{data.typical.startingFromPrice}</p>
               </div>
-              <a
+              <QuoteLink
                 href={data.typical.cta.href}
                 className="mt-3 flex w-full items-center justify-center gap-2 whitespace-nowrap rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-4 py-3 text-xs font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
               >
                 {data.typical.cta.label}
-              </a>
+              </QuoteLink>
             </div>
           </div>
         </div>
 
-        {/* ===== desktop — full-bleed exploded-parts photo on the right ===== */}
+        {/* ===== desktop - full-bleed exploded-parts photo on the right ===== */}
         <div className="relative hidden overflow-hidden md:block">
           <div className="absolute inset-0">
             <Image src={data.typical.image} alt="Mercedes-AMG M139 exploded engine components" fill className="object-cover" sizes="100vw" />
@@ -221,12 +222,12 @@ export default function Sec10({ data }) {
                 <p className="text-xs font-bold uppercase tracking-wide text-[#101828]">{data.typical.startingFromLabel}</p>
                 <p className="text-3xl font-extrabold text-hero-blue">{data.typical.startingFromPrice}</p>
               </div>
-              <a
+              <QuoteLink
                 href={data.typical.cta.href}
                 className="flex shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-6 py-3.5 text-sm font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
               >
                 {data.typical.cta.label}
-              </a>
+              </QuoteLink>
             </div>
           </div>
           </div>

@@ -8,17 +8,17 @@
   "partImage": "/model/sec15_part.webp",
   "generations": [
     {
-      "years": "2013–2020",
+      "years": "2013-2020",
       "code": "X156",
       "list": "2013 through 2020 Mercedes GLA-Class engines"
     },
     {
-      "years": "2020–present",
+      "years": "2020-present",
       "code": "H247",
       "list": "2020, 2021, 2022, 2023, 2024, 2025, 2026 Mercedes GLA-Class engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "Mercedes GLA220d Model:",
   "checklistLeft": [

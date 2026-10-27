@@ -9,7 +9,7 @@
     {
       "code": "M256",
       "image": "/engines/m256-engine-hero.webp",
-      "generation": "R190 (2023–present)",
+      "generation": "R190 (2023-present)",
       "price": "£3,200",
       "codeHref": "/mercedes-m256-engine"
     }
@@ -17,7 +17,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -30,8 +30,8 @@
     "titlePre": "Mercedes GLE300d Swirl Flap & Injector Wear ",
     "titleHighlight": "(W166, OM642)",
     "paragraphs": [
-      "If your GLE300d is a pre-2019 model with the OM642 diesel V6 — that's the W166 generation — swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
-      "The newer V167 generation uses different engines — the OM654 or OM656 — which don't share this specific issue. They're a separate, more recent design, and while they may show their own wear patterns at higher mileage, nothing as consistently documented as the older engine's swirl flap pattern is confirmed for this application."
+      "If your GLE300d is a pre-2019 model with the OM642 diesel V6 - that's the W166 generation - swirl flap and injector wear is a well-documented pattern on this engine, backed by multiple manufacturer technical service bulletins. We replace worn swirl flaps, injector seals and the timing chain as standard on every OM642 rebuild.",
+      "The newer V167 generation uses different engines - the OM654 or OM656 - which don't share this specific issue. They're a separate, more recent design, and while they may show their own wear patterns at higher mileage, nothing as consistently documented as the older engine's swirl flap pattern is confirmed for this application."
     ],
     "source": "Source: established specialist pattern, multiple TSBs, per VRF-mercedes-gle-class.md. OM654 and OM656 explicitly excluded from this claim per VRF"
   }

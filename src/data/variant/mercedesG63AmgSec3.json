@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "M157",
-      "generation": "W463 (2012–2018)",
+      "generation": "W463 (2012-2018)",
       "price": "£6,500",
       "codeHref": "/mercedes-m157-engine"
     }
@@ -16,7 +16,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -27,10 +27,10 @@
   "warning": {
     "bgImage": "/variant/sec3.webp",
     "titlePre": "Mercedes G63 AMG M157 Valve Seal & Coolant System Wear ",
-    "titleHighlight": "(W463, 2012–2018)",
+    "titleHighlight": "(W463, 2012-2018)",
     "paragraphs": [
-      "If your G63 AMG is a 2012–2018 W463-generation model with the M157 twin-turbo V8, valve seal and coolant system wear is a well-documented pattern on this engine. We replace valve seals, timing chains, coolant components and bearings as standard on every M157 rebuild — the same pattern confirmed across the AMG V8 family in the S-Class, CLS and E-Class.",
-      "The current-generation G63 AMG (2018–present, W463a) uses a different engine, the M177 4.0-litre V8 — a later design with its own valve seal and coolant wear pattern, but not the same unit as the M157 fitted to your 2012–2018 car."
+      "If your G63 AMG is a 2012-2018 W463-generation model with the M157 twin-turbo V8, valve seal and coolant system wear is a well-documented pattern on this engine. We replace valve seals, timing chains, coolant components and bearings as standard on every M157 rebuild - the same pattern confirmed across the AMG V8 family in the S-Class, CLS and E-Class.",
+      "The current-generation G63 AMG (2018-present, W463a) uses a different engine, the M177 4.0-litre V8 - a later design with its own valve seal and coolant wear pattern, but not the same unit as the M157 fitted to your 2012-2018 car."
     ],
     "source": "Source: established AMG specialist pattern, confirmed across the Mercedes G-BRF's AMG V8 family. M177 explicitly excluded from this M157-specific claim per VRF, correctly scoped to generation"
   }

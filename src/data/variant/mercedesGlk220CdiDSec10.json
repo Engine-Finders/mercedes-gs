@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLK220 CDI D ENGINE",
     "paragraphs": [
-      "The GLK220 CDI/d is the diesel mainstay of the GLK-Class range, produced from 2008 to 2015 across the single-generation X204 chassis. It uses the OM651 2.1-litre inline-four diesel — an engine shared widely across Mercedes models of that era, including the C-Class and E-Class families. The GLK-Class was discontinued in 2015 and succeeded by the GLC, but we continue to rebuild and replace engines for every one still on the road."
+      "The GLK220 CDI/d is the diesel mainstay of the GLK-Class range, produced from 2008 to 2015 across the single-generation X204 chassis. It uses the OM651 2.1-litre inline-four diesel - an engine shared widely across Mercedes models of that era, including the C-Class and E-Class families. The GLK-Class was discontinued in 2015 and succeeded by the GLC, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLK220 CDI D on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLK220 CDI D from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 GLK220 CDI D",
         "codeHref": "/mercedes-m256-engine"
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLK-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLK-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLK220 CDI D ",
@@ -70,7 +70,7 @@
       {
         "generation": "X204",
         "chassis": "X204",
-        "years": "2008–2015",
+        "years": "2008-2015",
         "engineCode": "OM651",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om651-engine"

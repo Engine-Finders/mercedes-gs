@@ -3,7 +3,7 @@
   "metaTitle": "Mercedes 4-Cylinder Timing Chain Repair (M270/M274) | Mercedes Garage",
   "metaDescription": "Professional Mercedes 4-cylinder timing chain repair for M270/M274 engines. Full timing chain replacement, guides, tensioner, and camshaft adjusters at our Essex workshop. Get a quote.",
   "h1": "Mercedes 4-Cylinder Timing Chain Repair (M270/M274)",
-  "lede": "Precise timing chain replacement for M270 and M274 petrol engines – carried out in-vehicle using factory procedures, specialist locking tools, and Xentry calibration.",
+  "lede": "Precise timing chain replacement for M270 and M274 petrol engines - carried out in-vehicle using factory procedures, specialist locking tools, and Xentry calibration.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -41,16 +41,16 @@
         {
           "t": "ul",
           "items": [
-            "**Access & preparation** – battery disconnect, drain oil, remove ancillaries (fan, alternator, belts, radiator if needed), remove valve cover.",
-            "**Front cover removal** – crankshaft pulley and front timing cover are removed to expose the chain.",
-            "**Timing chain replacement** – camshafts are locked using factory fixtures, adjusters removed, old chain snaked out and new chain pulled through with assembly link.",
-            "**Reassembly & timing verification** – new tensioner installed, timing marks checked, cover sealed, ancillaries refitted, fresh oil added.",
-            "**Final testing** – manual rotation to verify timing, followed by Xentry diagnostic calibration and road test."
+            "**Access & preparation** - battery disconnect, drain oil, remove ancillaries (fan, alternator, belts, radiator if needed), remove valve cover.",
+            "**Front cover removal** - crankshaft pulley and front timing cover are removed to expose the chain.",
+            "**Timing chain replacement** - camshafts are locked using factory fixtures, adjusters removed, old chain snaked out and new chain pulled through with assembly link.",
+            "**Reassembly & timing verification** - new tensioner installed, timing marks checked, cover sealed, ancillaries refitted, fresh oil added.",
+            "**Final testing** - manual rotation to verify timing, followed by Xentry diagnostic calibration and road test."
           ]
         },
         {
           "t": "p",
-          "html": "This is a high-precision job on an interference engine – timing accuracy is critical. We use the correct [M270](/mercedes-m270-engine) and [M274](/mercedes-m274-engine) engine-specific locking tools and follow the factory sequence to the letter."
+          "html": "This is a high-precision job on an interference engine - timing accuracy is critical. We use the correct [M270](/mercedes-m270-engine) and [M274](/mercedes-m274-engine) engine-specific locking tools and follow the factory sequence to the letter."
         }
       ]
     },
@@ -228,12 +228,12 @@
         {
           "t": "ul",
           "items": [
-            "**Specialist-led** – All work carried out by Mercedes-trained technicians with years of experience on M270/M274 engines.",
-            "**Factory tools & procedures** – We use the correct camshaft locking fixtures, riveting tools, and follow the official workshop manual.",
-            "**Xentry calibration** – Final adaptations are done with genuine Mercedes diagnostic software, ensuring perfect timing.",
-            "**12-month unlimited-mileage warranty** – Peace of mind on all parts and labour.",
-            "**In-vehicle repair** – No engine removal, saving time and cost while maintaining factory tolerances.",
-            "**Nationwide recovery** – We can collect your vehicle from anywhere in the UK (from £70)."
+            "**Specialist-led** - All work carried out by Mercedes-trained technicians with years of experience on M270/M274 engines.",
+            "**Factory tools & procedures** - We use the correct camshaft locking fixtures, riveting tools, and follow the official workshop manual.",
+            "**Xentry calibration** - Final adaptations are done with genuine Mercedes diagnostic software, ensuring perfect timing.",
+            "**12-month unlimited-mileage warranty** - Peace of mind on all parts and labour.",
+            "**In-vehicle repair** - No engine removal, saving time and cost while maintaining factory tolerances.",
+            "**Nationwide recovery** - We can collect your vehicle from anywhere in the UK (from £70)."
           ]
         },
         {
@@ -290,7 +290,7 @@
       "items": [
         {
           "q": "Is the timing chain repair done with the engine in the car?",
-          "a": "Yes – on M270/M274 engines, we perform the repair with the engine in the vehicle, following the Mercedes-Benz workshop manual. This avoids the extra labour of removing the engine."
+          "a": "Yes - on M270/M274 engines, we perform the repair with the engine in the vehicle, following the Mercedes-Benz workshop manual. This avoids the extra labour of removing the engine."
         },
         {
           "q": "What parts are replaced during the repair?",
@@ -298,15 +298,15 @@
         },
         {
           "q": "How long does the repair take?",
-          "a": "Typically 12–16 hours of workshop time. We aim to complete the work within 2-3 working days, depending on parts availability."
+          "a": "Typically 12-16 hours of workshop time. We aim to complete the work within 2-3 working days, depending on parts availability."
         },
         {
           "q": "Do you offer a warranty on the repair?",
-          "a": "Yes – all our timing chain repairs come with a 12-month, unlimited-mileage warranty covering parts and labour."
+          "a": "Yes - all our timing chain repairs come with a 12-month, unlimited-mileage warranty covering parts and labour."
         },
         {
           "q": "Can you collect my vehicle?",
-          "a": "Yes – we offer nationwide recovery from £70. Most vehicles are collected within a few hours of booking."
+          "a": "Yes - we offer nationwide recovery from £70. Most vehicles are collected within a few hours of booking."
         }
       ]
     }

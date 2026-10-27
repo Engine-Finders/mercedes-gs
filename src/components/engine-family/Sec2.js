@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import MercedesStripe from "@/components/reusable/MercedesStripe";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function Sec2({ data }) {
   const { specs, price } = data;
@@ -50,12 +51,12 @@ export default function Sec2({ data }) {
                 <p className="text-[11px] text-[#101828]">{specs.prompt.subtext}</p>
               </div>
             </div>
-            <a
+            <QuoteLink
               href={specs.prompt.href}
               className="mt-2.5 flex items-center justify-center gap-2 rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-4 py-3 text-xs font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
             >
               {specs.prompt.buttonLabel}
-            </a>
+            </QuoteLink>
           </div>
         </div>
 
@@ -89,19 +90,19 @@ export default function Sec2({ data }) {
             <p className="mt-1 text-4xl font-extrabold text-hero-blue">{price.startingFromPrice}</p>
             <p className="mt-2 text-xs leading-snug text-[#101828]">{price.body}</p>
 
-            <a
+            <QuoteLink
               href={price.cta.href}
               className="mx-auto mt-3 flex w-fit items-center justify-center gap-2 rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-3 py-3 text-xs font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
             >
               {price.cta.label}
-            </a>
+            </QuoteLink>
           </div>
         </div>
       </div>
 
       {/* ===== desktop ===== */}
       <div className="relative hidden space-y-3 md:block">
-        {/* specifications — floating white card over a full-bleed workshop photo */}
+        {/* specifications - floating white card over a full-bleed workshop photo */}
         <div className="relative overflow-hidden bg-[#0d0d0d] px-6 py-6">
           <div className="absolute inset-0">
             <Image src={specs.image} alt="Mercedes-AMG M139 engine" fill className="object-cover" sizes="100vw" />
@@ -139,18 +140,18 @@ export default function Sec2({ data }) {
                   <p className="text-sm font-bold text-[#101828]">{specs.prompt.titlePre}</p>
                   <p className="text-xs text-[#101828]">{specs.prompt.subtext}</p>
                 </div>
-                <a
+                <QuoteLink
                   href={specs.prompt.href}
                   className="flex shrink-0 items-center gap-2 whitespace-nowrap rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-5 py-2.5 text-sm font-bold text-white shadow-lg transition-transform hover:scale-[1.02]"
                 >
                   {specs.prompt.buttonLabel}
-                </a>
+                </QuoteLink>
               </div>
             </div>
           </div>
         </div>
 
-        {/* rebuild price — full-bleed photo (built-in empty portion on the left for text) */}
+        {/* rebuild price - full-bleed photo (built-in empty portion on the left for text) */}
         <div className="relative overflow-hidden">
           <div className="absolute inset-0">
             <Image src={price.image} alt="Mercedes-AMG M139 engine components" fill className="object-cover" sizes="100vw" />
@@ -178,12 +179,12 @@ export default function Sec2({ data }) {
               <p className="text-6xl font-extrabold text-hero-blue">{price.startingFromPrice}</p>
               <p className="mt-4 text-sm leading-relaxed text-[#101828]">{price.body}</p>
 
-              <a
+              <QuoteLink
                 href={price.cta.href}
                 className="mt-6 flex w-fit items-center justify-center gap-2 rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-4 py-4 text-sm font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
               >
                 {price.cta.label}
-              </a>
+              </QuoteLink>
             </div>
           </div>
         </div>

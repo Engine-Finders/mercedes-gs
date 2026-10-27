@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES VITO 114 CDI ENGINE",
     "paragraphs": [
-      "The Vito 114 CDI has been part of the Vito range since the W447 generation launched in 2014, and across its production run has used two distinct diesel engines. Early W447 models (2014 to around 2024) use the OM651 — a 2.0-litre four-cylinder diesel shared across a wide range of Mercedes commercial and passenger models of that era. From the 2025 refresh onwards, the Vito 114 CDI switched to the OM654, a newer 2.0-litre four-cylinder diesel that's a different unit entirely, not an evolution of the OM651. Knowing which one your van has matters, because the components, the known wear pattern, and even the rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+      "The Vito 114 CDI has been part of the Vito range since the W447 generation launched in 2014, and across its production run has used two distinct diesel engines. Early W447 models (2014 to around 2024) use the OM651 - a 2.0-litre four-cylinder diesel shared across a wide range of Mercedes commercial and passenger models of that era. From the 2025 refresh onwards, the Vito 114 CDI switched to the OM654, a newer 2.0-litre four-cylinder diesel that's a different unit entirely, not an evolution of the OM651. Knowing which one your van has matters, because the components, the known wear pattern, and even the rebuild specifics differ between them - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every VITO 114 CDI on the road."
   },
@@ -17,16 +17,16 @@
       {
         "codeHighlight": "OM651",
         "image": "/engines/om651-engine.webp",
-        "codeRest": "(W447, 2014–2024)",
-        "body": "A 2.0-litre four-cylinder diesel fitted to the Vito 114 CDI from the start of the W447 generation through to the 2024 model year. Known for injector seal leaks and timing chain wear over time — see the callout above. We replace injector seals, timing chain components and gaskets as standard on every OM651 rebuild.",
+        "codeRest": "(W447, 2014-2024)",
+        "body": "A 2.0-litre four-cylinder diesel fitted to the Vito 114 CDI from the start of the W447 generation through to the 2024 model year. Known for injector seal leaks and timing chain wear over time - see the callout above. We replace injector seals, timing chain components and gaskets as standard on every OM651 rebuild.",
         "cta": "Check Your OM651 Vito 114 CDI",
         "codeHref": "/mercedes-om651-engine"
       },
       {
         "codeHighlight": "OM654",
         "image": "/engines/om654-engine.webp",
-        "codeRest": "(W447 refresh, 2025–present)",
-        "body": "The current 2.0-litre four-cylinder diesel, fitted to the refreshed W447 from 2025 onwards. A newer design from the OM651, with its own characteristics — not independently confirmed for specific wear patterns in this application, but we service it to the same standard as our other Vito rebuilds.",
+        "codeRest": "(W447 refresh, 2025-present)",
+        "body": "The current 2.0-litre four-cylinder diesel, fitted to the refreshed W447 from 2025 onwards. A newer design from the OM651, with its own characteristics - not independently confirmed for specific wear patterns in this application, but we service it to the same standard as our other Vito rebuilds.",
         "cta": "Check Your OM654 Vito 114 CDI",
         "codeHref": "/mercedes-om654-engine"
       }
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES VITO 114 CDI ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the Vito 114 CDI spans two distinct engines across its W447 production run, fitting the wrong replacement — or assuming an OM651 part will work on a post-2025 OM654 van — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the Vito 114 CDI spans two distinct engines across its W447 production run, fitting the wrong replacement - or assuming an OM651 part will work on a post-2025 OM654 van - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Vito quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Vito quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES VITO 114 CDI ",
@@ -78,7 +78,7 @@
       {
         "generation": "W447",
         "chassis": "W447",
-        "years": "2014–2024",
+        "years": "2014-2024",
         "engineCode": "OM651",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om651-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "W447 (refresh)",
         "chassis": "W447",
-        "years": "2025–present",
+        "years": "2025-present",
         "engineCode": "OM654",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om654-engine"

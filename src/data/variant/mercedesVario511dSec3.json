@@ -8,13 +8,13 @@
   "cards": [
     {
       "code": "OM602",
-      "generation": "1996–2013",
+      "generation": "1996-2013",
       "price": "£2,200",
       "codeHref": "/mercedes-om602-engine"
     },
     {
       "code": "OM611",
-      "generation": "1996–2013",
+      "generation": "1996-2013",
       "price": "£2,200",
       "codeHref": "/mercedes-om611-engine"
     }
@@ -22,7 +22,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -35,9 +35,9 @@
     "titlePre": "Mercedes Vario 511D Timing Chain & Injector Seal Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "Vario 511D engines — OM602 and OM611 diesel units across the Vario range — commonly show timing chain, timing gear and injector seal wear. This pattern is well-documented across the equivalent-era Sprinter commercial vehicle family, and our Vario rebuilds follow the same specialist approach. We replace timing chains, timing gears, injector seals and gaskets as standard on every Vario 511D rebuild.",
+      "Vario 511D engines - OM602 and OM611 diesel units across the Vario range - commonly show timing chain, timing gear and injector seal wear. This pattern is well-documented across the equivalent-era Sprinter commercial vehicle family, and our Vario rebuilds follow the same specialist approach. We replace timing chains, timing gears, injector seals and gaskets as standard on every Vario 511D rebuild.",
       "Both the 2.9L OM602 and the 2.2L OM611 share this same pattern, so whether your Vario has the earlier or later engine, the rebuild components we replace are consistent."
     ],
-    "source": "Source: established specialist pattern (per G-BRF), shared with equivalent-era Sprinter. Applies to both OM602 and OM611 — confirmed via VRF-mercedes-vario.md"
+    "source": "Source: established specialist pattern (per G-BRF), shared with equivalent-era Sprinter. Applies to both OM602 and OM611 - confirmed via VRF-mercedes-vario.md"
   }
 }

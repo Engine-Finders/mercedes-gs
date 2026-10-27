@@ -2,7 +2,7 @@
   "kicker": "Full Breakdown",
   "headlinePre": "Mercedes G-Class",
   "headlineHighlight": "Engine Rebuild Price Guide",
-  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide - request a free quote for an exact fixed price on your specific engine.",
   "columns": [
     "Engine Code",
     "Fuel",
@@ -16,7 +16,7 @@
       "fuel": "Diesel V6",
       "size": "3.0L",
       "chassis": "W463",
-      "range": "£2,800 – £3,900",
+      "range": "£2,800 - £3,900",
       "familyHref": "/mercedes-om642-engine"
     },
     {
@@ -24,7 +24,7 @@
       "fuel": "Diesel I6",
       "size": "3.0L",
       "chassis": "W464",
-      "range": "£3,000 – £4,200",
+      "range": "£3,000 - £4,200",
       "familyHref": "/mercedes-om656-engine"
     },
     {
@@ -32,7 +32,7 @@
       "fuel": "Petrol V8",
       "size": "5.5L",
       "chassis": "W463",
-      "range": "£4,500 – £5,800",
+      "range": "£4,500 - £5,800",
       "familyHref": "/mercedes-m273-engine"
     },
     {
@@ -40,7 +40,7 @@
       "fuel": "Petrol V8",
       "size": "4.0L",
       "chassis": "W464",
-      "range": "£4,500 – £6,000",
+      "range": "£4,500 - £6,000",
       "familyHref": "/mercedes-m176-engine"
     },
     {
@@ -48,7 +48,7 @@
       "fuel": "Petrol Twin-Turbo V8",
       "size": "4.0L",
       "chassis": "W463/W464",
-      "range": "£6,500 – £9,500",
+      "range": "£6,500 - £9,500",
       "familyHref": "/mercedes-m177-engine"
     }
   ],

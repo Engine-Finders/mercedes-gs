@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLC400D ENGINE",
     "paragraphs": [
-      "The GLC400d was introduced with the X254 generation of the GLC-Class in 2022, slotting in as the top diesel option above the GLC220d and GLC300d. It uses the OM656 — a 3.0-litre inline-six diesel that's part of Mercedes' newer modular engine family, fitted with mild-hybrid technology from launch. Unlike the earlier X253 generation's diesel range (which relied on four-cylinder OM651 and OM654 units), the X254 GLC400d uses a six-cylinder diesel that's a genuinely different design — smoother and more powerful than its four-cylinder stablemates."
+      "The GLC400d was introduced with the X254 generation of the GLC-Class in 2022, slotting in as the top diesel option above the GLC220d and GLC300d. It uses the OM656 - a 3.0-litre inline-six diesel that's part of Mercedes' newer modular engine family, fitted with mild-hybrid technology from launch. Unlike the earlier X253 generation's diesel range (which relied on four-cylinder OM651 and OM654 units), the X254 GLC400d uses a six-cylinder diesel that's a genuinely different design - smoother and more powerful than its four-cylinder stablemates."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLC400D on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the GLC400D from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 GLC400D",
         "codeHref": "/mercedes-m256-engine"
@@ -27,7 +27,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLC400D ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The GLC400d uses the OM656 engine exclusively, which is specific to the X254 generation. Because this engine is a recent introduction, compatibility checks matter — particularly when sourcing replacement parts or considering a used unit from another model. Before we quote or supply anything, we confirm:",
+    "intro": "The GLC400d uses the OM656 engine exclusively, which is specific to the X254 generation. Because this engine is a recent introduction, compatibility checks matter - particularly when sourcing replacement parts or considering a used unit from another model. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -53,7 +53,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLC-Class quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLC400D ",
@@ -70,7 +70,7 @@
       {
         "generation": "X254",
         "chassis": "X254",
-        "years": "2022–present",
+        "years": "2022-present",
         "engineCode": "OM656",
         "fuel": "Diesel MHEV",
         "codeHref": "/mercedes-om656-engine"

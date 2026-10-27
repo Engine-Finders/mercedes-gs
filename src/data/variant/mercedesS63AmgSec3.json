@@ -9,21 +9,21 @@
     {
       "code": "M157",
       "image": "/variant/sec10_engine.webp",
-      "generation": "W221 (2008–2013)",
+      "generation": "W221 (2008-2013)",
       "price": "£6,500",
       "codeHref": "/mercedes-m157-engine"
     },
     {
       "code": "M157",
       "image": "/variant/sec10_engine.webp",
-      "generation": "W222 (2013–2020)",
+      "generation": "W222 (2013-2020)",
       "price": "£6,500",
       "codeHref": "/mercedes-m157-engine"
     },
     {
       "code": "M177",
       "image": "/engines/m177-m178-engine-hero.webp",
-      "generation": "W223 (2020–present)",
+      "generation": "W223 (2020-present)",
       "price": "£6,500",
       "codeHref": "/mercedes-m177-engine"
     }
@@ -31,7 +31,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {

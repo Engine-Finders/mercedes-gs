@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES GLS450 ENGINE",
     "paragraphs": [
-      "The GLS450 has been part of the GLS range since 2016, spanning two generations under the same badge. The earlier X166 generation (2016–2019) uses the M276 — a 3.0-litre V6 petrol engine with mild hybrid assistance introduced during the GLS's early years. From 2019, the X167-generation GLS450 switched to the M256, a newer 3.0-litre inline-six petrol mild hybrid that's a different unit entirely, not an evolution of the M276. Knowing which one your car has matters, because the components and the rebuild specifics differ between them — which is exactly why we confirm your exact engine by registration before quoting."
+      "The GLS450 has been part of the GLS range since 2016, spanning two generations under the same badge. The earlier X166 generation (2016-2019) uses the M276 - a 3.0-litre V6 petrol engine with mild hybrid assistance introduced during the GLS's early years. From 2019, the X167-generation GLS450 switched to the M256, a newer 3.0-litre inline-six petrol mild hybrid that's a different unit entirely, not an evolution of the M276. Knowing which one your car has matters, because the components and the rebuild specifics differ between them - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every GLS450 on the road."
   },
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "MERCEDES GLS450 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the GLS450 spans two distinct engines across two generations, fitting the wrong replacement — or assuming an M276 part will work on an M256 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the GLS450 spans two distinct engines across two generations, fitting the wrong replacement - or assuming an M276 part will work on an M256 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic GLS quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic GLS quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES GLS450 ",
@@ -78,7 +78,7 @@
       {
         "generation": "X166",
         "chassis": "X166",
-        "years": "2016–2019",
+        "years": "2016-2019",
         "engineCode": "M276",
         "fuel": "Petrol MHEV",
         "codeHref": "/mercedes-m276-engine"
@@ -86,7 +86,7 @@
       {
         "generation": "X167",
         "chassis": "X167",
-        "years": "2019–present",
+        "years": "2019-present",
         "engineCode": "M256",
         "fuel": "Petrol MHEV",
         "codeHref": "/mercedes-m256-engine"

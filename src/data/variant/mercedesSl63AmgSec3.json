@@ -9,21 +9,21 @@
     {
       "code": "M157",
       "image": "/variant/sec10_engine.webp",
-      "generation": "R230 (2006–2012)",
+      "generation": "R230 (2006-2012)",
       "price": "£6,500",
       "codeHref": "/mercedes-m157-engine"
     },
     {
       "code": "M157",
       "image": "/variant/sec10_engine.webp",
-      "generation": "R231 (2012–2021)",
+      "generation": "R231 (2012-2021)",
       "price": "£6,500",
       "codeHref": "/mercedes-m157-engine"
     },
     {
       "code": "M177",
       "image": "/engines/m177-m178-engine-hero.webp",
-      "generation": "R232 (2021–present)",
+      "generation": "R232 (2021-present)",
       "price": "£6,500",
       "codeHref": "/mercedes-m177-engine"
     }
@@ -31,7 +31,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -44,8 +44,8 @@
     "titlePre": "Mercedes SL63 AMG Valve Seal & Coolant Wear ",
     "titleHighlight": "",
     "paragraphs": [
-      "SL63 AMG engines — M157 across R230 and R231 generations, and M177 on the current R232 — commonly show valve seal and coolant system wear over time. We replace valve seals, coolant components, timing chains and bearings as standard on every SL63 AMG rebuild.",
-      "The R232 generation (2021–present) marked a significant structural shift for the SL range — moving to Mercedes-AMG exclusivity — but the M177 engine's known wear pattern is consistent with the established AMG V8 pattern across both the M157 and M177."
+      "SL63 AMG engines - M157 across R230 and R231 generations, and M177 on the current R232 - commonly show valve seal and coolant system wear over time. We replace valve seals, coolant components, timing chains and bearings as standard on every SL63 AMG rebuild.",
+      "The R232 generation (2021-present) marked a significant structural shift for the SL range - moving to Mercedes-AMG exclusivity - but the M177 engine's known wear pattern is consistent with the established AMG V8 pattern across both the M157 and M177."
     ],
     "source": "Source: established AMG specialist pattern, per G-BRF and VRF-mercedes-sl.md"
   }

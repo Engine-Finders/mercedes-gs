@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES CITAN 110 CDI ENGINE",
     "paragraphs": [
-      "The Citan 110 CDI is the mid-range diesel option in the Mercedes Citan range, part of the W420 generation introduced in 2021. It uses the OM608 — a 1.5-litre four-cylinder diesel engine, developed as a collaboration between Mercedes and Renault, and shared across the commercial vehicle segment. The OM608 replaced the earlier Renault-sourced K9K unit used in the W415 generation (2012–2021), bringing updated emissions technology and improved efficiency. For owners of the current-generation Citan, this is the engine that balances power and economy for everyday commercial use."
+      "The Citan 110 CDI is the mid-range diesel option in the Mercedes Citan range, part of the W420 generation introduced in 2021. It uses the OM608 - a 1.5-litre four-cylinder diesel engine, developed as a collaboration between Mercedes and Renault, and shared across the commercial vehicle segment. The OM608 replaced the earlier Renault-sourced K9K unit used in the W415 generation (2012-2021), bringing updated emissions technology and improved efficiency. For owners of the current-generation Citan, this is the engine that balances power and economy for everyday commercial use."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every CITAN 110 CDI on the road."
   },
@@ -16,7 +16,7 @@
     "cards": [
       {
         "codeHighlight": "M256",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the CITAN 110 CDI from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 CITAN 110 CDI",
         "codeHref": "/mercedes-m256-engine"
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "MERCEDES CITAN 110 CDI ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The Citan 110 CDI uses the OM608 engine exclusively across the W420 generation (2021–present). Before we quote or supply anything, we confirm:",
+    "intro": "The Citan 110 CDI uses the OM608 engine exclusively across the W420 generation (2021-present). Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_mobile.webp",
     "badge": {
@@ -52,12 +52,12 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Citan quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Citan quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES CITAN 110 CDI ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
+    "image": "/cars/card/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -68,9 +68,9 @@
     "rows": [
       {
         "generation": "W420",
-        "image": "/cars/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
+        "image": "/cars/card/citan-w420-tourer-mpv-2021-new-steel-blue-passenger-body-citan-w420-to-9f47.webp",
         "chassis": "W420",
-        "years": "2021–present",
+        "years": "2021-present",
         "engineCode": "OM608",
         "fuel": "Diesel",
         "codeHref": "/mercedes-om608-engine"

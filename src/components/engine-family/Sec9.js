@@ -89,7 +89,7 @@ export default function Sec9({ data }) {
           <p className="mt-4 text-xs leading-relaxed text-white">{byModel.body}</p>
         </div>
 
-        {/* ===== desktop — full-bleed, shifted right, solid dark block on the left so the ===== */}
+        {/* ===== desktop - full-bleed, shifted right, solid dark block on the left so the ===== */}
         {/* ===== image's own dark background blends seamlessly into the section bg      ===== */}
         <div className="relative hidden overflow-hidden md:block">
           <div className="absolute inset-0">
@@ -101,7 +101,7 @@ export default function Sec9({ data }) {
               style={{ objectPosition: "85% center" }}
               sizes="100vw"
             />
-            {/* solid block — flat-matches the section's #0d0d0d, not a fade, so there's no visible seam */}
+            {/* solid block - flat-matches the section's #0d0d0d, not a fade, so there's no visible seam */}
             <div className="absolute inset-y-0 left-0 w-[46%]" style={{ background: "#0d0d0d" }} aria-hidden="true" />
             {/* short blend zone at the edge of the block into the visible photo */}
             <div

@@ -1,13 +1,13 @@
 {
   "headlinePre": "Your ",
-  "headlineHighlight": "Mercedes Sprinter 313–319 CDI",
+  "headlineHighlight": "Mercedes Sprinter 313-319 CDI",
   "headlinePost": " Engine",
   "image": "/engines/om651-engine.webp",
   "specs": [
     {
       "icon": "car",
       "label": "Vehicle",
-      "value": "Mercedes Sprinter 313–319 CDI"
+      "value": "Mercedes Sprinter 313-319 CDI"
     },
     {
       "icon": "layers",
@@ -17,7 +17,7 @@
     {
       "icon": "sliders",
       "label": "Variant",
-      "value": "Sprinter 313–319 CDI"
+      "value": "Sprinter 313-319 CDI"
     },
     {
       "icon": "fuel",
@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generation",
-      "value": "NCV3 (2006–2018)"
+      "value": "NCV3 (2006-2018)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The SPRINTER 313–319 CDI uses the M256 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The SPRINTER 313-319 CDI uses the M256 3.0-litre inline-six mild-hybrid engine - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

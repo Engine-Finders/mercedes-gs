@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "MERCEDES AMG GT C ENGINE",
     "paragraphs": [
-      "The AMG GT C is part of the first-generation AMG GT range, produced from 2015 to 2023 under the C190 chassis code. It uses the M178 — a 4.0-litre twin-turbo V8, hand-built at Mercedes-AMG's Affalterbach facility. The M178 is a hot-vee design, with the turbos positioned between the cylinder banks, and was developed specifically for the AMG GT sports car platform. The AMG GT C sits between the GT S and GT R in the range, offering a more focused setup than the base GT while remaining more road-oriented than the hardcore GT R."
+      "The AMG GT C is part of the first-generation AMG GT range, produced from 2015 to 2023 under the C190 chassis code. It uses the M178 - a 4.0-litre twin-turbo V8, hand-built at Mercedes-AMG's Affalterbach facility. The M178 is a hot-vee design, with the turbos positioned between the cylinder banks, and was developed specifically for the AMG GT sports car platform. The AMG GT C sits between the GT S and GT R in the range, offering a more focused setup than the base GT while remaining more road-oriented than the hardcore GT R."
     ],
     "boldParagraph": "We continue to rebuild and replace M256 engines for every AMG GT C on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "M256",
         "image": "/engines/m256-engine-hero.webp",
-        "codeRest": "(R190, 2023–present)",
+        "codeRest": "(R190, 2023-present)",
         "body": "A 3.0-litre inline-six petrol mild-hybrid engine fitted to the AMG GT C from 2023 to present. The M256 features an integrated starter-generator (ISG) and electric auxiliary compressor, making it a more modern and efficient design than the older M276 V6. We replace timing chains, bearings, water pump and gaskets as standard on every M256 rebuild.",
         "cta": "Check Your M256 AMG GT C",
         "codeHref": "/mercedes-m256-engine"
@@ -53,12 +53,12 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic AMG GT quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic AMG GT quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "MERCEDES AMG GT C ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/amg-gt-c190-gt-coupe-20142016-new-iridium-silver-metallic-original-amg-6308.webp",
+    "image": "/cars/card/amg-gt-c190-gt-coupe-20142016-new-iridium-silver-metallic-original-amg-6308.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "C190",
-        "image": "/cars/amg-gt-c190-gt-coupe-20142016-new-iridium-silver-metallic-original-amg-6308.webp",
+        "image": "/cars/card/amg-gt-c190-gt-coupe-20142016-new-iridium-silver-metallic-original-amg-6308.webp",
         "chassis": "C190",
-        "years": "2015–2023",
+        "years": "2015-2023",
         "engineCode": "M178",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/mercedes-m178-engine"
