@@ -40,13 +40,13 @@ function build(p) {
 }
 
 const PRESETS = {
-  // sec11 desktop: silver + gold diagonal between the light panel and the workshop photo
+  // sec11 desktop: two flat bands side by side - silver, then gold - between the light panel and the workshop photo
   sec11: {
     w: 1024,
     h: 576,
     bands: [
-      { top: [552, 586], bottom: [335, 371], y: [0, 576], fill: [[0, "#dcdad6"], [0.45, "#cfcdc9"], [0.62, "#9b9894"], [0.85, "#bdbbb6"], [1, "#d6d3ce"]] },
-      { top: [585, 615], bottom: [368, 398], y: [0, 576], fill: [[0, "#c4a06b"], [1, "#b08a58"]] },
+      { top: [552, 586], bottom: [335, 371], y: [0, 576], fill: "#cfcdc9" },
+      { top: [586, 616], bottom: [371, 400], y: [0, 576], fill: "#b8935f" },
     ],
   },
   // sec3 desktop: silver + gold bands that end behind the car's windscreen

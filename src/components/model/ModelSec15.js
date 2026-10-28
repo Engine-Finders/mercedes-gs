@@ -140,8 +140,8 @@ export default function ModelSec15({ data }) {
           <div className="flex flex-col">
             <div className="flex flex-1 flex-col justify-center divide-y divide-black/10 rounded-2xl border border-black/5 bg-white shadow-[0_20px_50px_-25px_rgba(16,24,40,0.3)]">
               {data.generations.map((g) => (
-                <div key={g.years} className="grid grid-cols-[auto_1fr] items-center gap-4 px-5 py-5">
-                  <Icon name="car" className="h-8 w-8 shrink-0 text-hero-blue" />
+                <div key={g.years} className="grid flex-1 grid-cols-[auto_1fr] items-center gap-4 px-5 py-5">
+                  <Icon name="car" className="h-14 w-14 shrink-0 text-hero-blue" />
                   <div className="grid grid-cols-2 items-center gap-3">
                     <p className="border-r border-black/10 pr-3">
                       <span className="block text-base font-extrabold text-hero-blue">{g.years}</span>
@@ -201,7 +201,7 @@ export default function ModelSec15({ data }) {
               </div>
               <span className="relative mt-3 block h-0.5 w-full bg-linear-to-r from-bmw-red via-bmw-red/40 to-transparent" />
 
-              <div className="relative mt-3 space-y-5">
+              <div className="relative mt-3 grid grid-flow-col grid-cols-2 gap-x-6 gap-y-5" style={{ gridTemplateRows: `repeat(${Math.ceil(data.checklistLeft.length / 2)}, auto)` }}>
                 {data.checklistLeft.map((item) => (
                   <div key={item} className="flex items-center gap-2.5">
                     <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-hero-blue text-white">

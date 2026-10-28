@@ -60,9 +60,9 @@ export default function ModelSec11({ data }) {
             <span className="block text-hero-blue">{line2}</span>
           </div>
 
-          <div className="mt-3 divide-y divide-black/10 border-t border-black/10">
+          <div className="mt-3 w-fit divide-y divide-black/10">
             {data.checklist.map((item) => (
-              <div key={item} className="flex items-center gap-2.5 py-2">
+              <div key={item} className="flex items-center gap-2.5 py-2 pr-8">
                 <span className="flex h-5.5 w-5.5 shrink-0 items-center justify-center rounded-full border border-hero-blue/60 bg-hero-blue/10">
                   <Icon name="check" className="h-3 w-3 text-hero-blue" />
                 </span>

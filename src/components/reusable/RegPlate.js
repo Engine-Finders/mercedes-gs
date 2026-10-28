@@ -23,7 +23,8 @@ export default function RegPlate({
   className = "",
   ariaLabel = "Vehicle registration",
   readOnly = false,
-  yellowPlate = false,
+  required = false,
+  yellowPlate = true,
 }) {
   return (
     <div
@@ -44,6 +45,7 @@ export default function RegPlate({
       <input
         type="text"
         readOnly={readOnly}
+        required={required}
         value={value}
         onChange={(e) => onChange(e.target.value.toUpperCase())}
         onBlur={onBlur}
