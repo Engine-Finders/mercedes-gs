@@ -16,7 +16,7 @@ export default function ModelSec16({ data }) {
   return (
     <section className="relative overflow-hidden text-white">
       {/* ===== mobile ===== */}
-      <div className="relative md:hidden" style={{ background: "linear-gradient(135deg, #15100a 0%, #0a0806 100%)" }}>
+      <div className="relative md:hidden" style={{ background: "linear-gradient(135deg, #15100a 0%, #0a0806 100%)", paddingBottom: "1.25rem" }}>
         <div className="relative px-4 pb-8 pt-10">
           {/* engine sizes */}
           <SectionHeader icon={data.engineSizes.icon} title={data.engineSizes.title} />
@@ -71,7 +71,7 @@ export default function ModelSec16({ data }) {
         </div>
 
         {/* services available */}
-        <div className="relative mt-2 rounded-t-3xl bg-(--color-light-surface) px-4 pb-16 pt-6">
+        <div className="mx-3 relative mt-2 rounded-3xl bg-(--color-light-surface) px-4 pb-5 pt-6">
           <SectionHeader icon="cog" title={data.services.title} dark={false} />
 
           <div className="mt-5 grid grid-cols-5 divide-x divide-black/10">
