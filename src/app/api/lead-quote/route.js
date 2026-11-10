@@ -1,6 +1,5 @@
 import { Resend } from "resend";
 
-const RESEND_API_KEY = process.env.RESEND_API_KEY || "";
 const RESEND_FROM_EMAIL =
   process.env.RESEND_FROM_EMAIL || "Quote Sales <sales@enginesmarket.co.uk>";
 const LEAD_RECIPIENT_EMAIL =
@@ -10,7 +9,10 @@ const SUPABASE_WEBHOOK_URL =
   "https://gfrnxvolaqbfalerfhsr.supabase.co/functions/v1/receive-lead";
 const SUPABASE_ANON_KEY = process.env.SUPABASE_ANON_KEY || "";
 
-const resend = new Resend(RESEND_API_KEY);
+function getResendClient() {
+  const apiKey = process.env.RESEND_API_KEY;
+  return apiKey ? new Resend(apiKey) : null;
+}
 
 export async function POST(req) {
   try {
@@ -79,25 +81,31 @@ export async function POST(req) {
     let emailStatus = "Pending";
     let resendData = null;
 
-    try {
-      const { data, error } = await resend.emails.send({
-        from: RESEND_FROM_EMAIL,
-        to: [LEAD_RECIPIENT_EMAIL],
-        replyTo: email,
-        subject: `New Quote Request${VRM ? ` - ${VRM}` : ""} - ${siteName}`,
-        html: emailHtml,
-      });
+    const resend = getResendClient();
+    if (!resend) {
+      emailStatus = "Resend is not configured: RESEND_API_KEY is missing.";
+      console.error("[RESEND ERROR]: RESEND_API_KEY is not configured.");
+    } else {
+      try {
+        const { data, error } = await resend.emails.send({
+          from: RESEND_FROM_EMAIL,
+          to: [LEAD_RECIPIENT_EMAIL],
+          replyTo: email,
+          subject: `New Quote Request${VRM ? ` - ${VRM}` : ""} - ${siteName}`,
+          html: emailHtml,
+        });
 
-      if (error) {
-        emailStatus = `Resend Error: ${error.message}`;
-        console.error("[RESEND ERROR]:", error);
-      } else {
-        emailSent = true;
-        resendData = data;
-        emailStatus = `Email successfully sent via Resend to ${LEAD_RECIPIENT_EMAIL}`;
+        if (error) {
+          emailStatus = `Resend Error: ${error.message}`;
+          console.error("[RESEND ERROR]:", error);
+        } else {
+          emailSent = true;
+          resendData = data;
+          emailStatus = `Email successfully sent via Resend to ${LEAD_RECIPIENT_EMAIL}`;
+        }
+      } catch (resendErr) {
+        emailStatus = `Resend Exception: ${resendErr.message}`;
       }
-    } catch (resendErr) {
-      emailStatus = `Resend Exception: ${resendErr.message}`;
     }
 
     // 2. Optional Supabase / Webhook forwarding
