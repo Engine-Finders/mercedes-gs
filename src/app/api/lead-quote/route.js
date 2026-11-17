@@ -8,6 +8,8 @@ const SUPABASE_WEBHOOK_URL =
   process.env.SUPABASE_WEBHOOK_URL ||
   "https://gfrnxvolaqbfalerfhsr.supabase.co/functions/v1/receive-lead";
 const SUPABASE_ANON_KEY = process.env.SUPABASE_ANON_KEY || "";
+const SUPABASE_SECONDARY_WEBHOOK_URL = process.env.SUPABASE_SECONDARY_WEBHOOK_URL || "";
+const SUPABASE_SECONDARY_ANON_KEY = process.env.SUPABASE_SECONDARY_ANON_KEY || "";
 
 function getResendClient() {
   const apiKey = process.env.RESEND_API_KEY;
@@ -109,34 +111,44 @@ export async function POST(req) {
     }
 
     // 2. Optional Supabase / Webhook forwarding
-    const supabaseWebhookUrl = process.env.SUPABASE_WEBHOOK_URL;
-    const supabaseAnonKey = process.env.SUPABASE_ANON_KEY;
-    if (supabaseWebhookUrl) {
-      try {
-        await fetch(supabaseWebhookUrl, {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            ...(supabaseAnonKey ? { Authorization: `Bearer ${supabaseAnonKey}` } : {}),
-          },
-          body: JSON.stringify({
-            name,
-            email,
-            number: phone,
-            postcode: postal,
-            vehicle_reg: VRM,
-            vehicle_brand: vehicle_make,
-            vehicle_model: vehicle_model,
-            vehicle_year: vehicle_year,
-            fuel_type: vehicle_fuel,
-            engine_capacity: vehicle_fuel_capacity,
-            description: note,
-            source: siteName,
-            source_page: pageUrl,
-          }),
-        });
-      } catch {}
-    }
+    const leadPayload = {
+      name,
+      email,
+      number: phone,
+      postcode: postal,
+      vehicle_reg: VRM,
+      vehicle_brand: vehicle_make,
+      vehicle_model: vehicle_model,
+      vehicle_year: vehicle_year,
+      fuel_type: vehicle_fuel,
+      engine_capacity: vehicle_fuel_capacity,
+      description: note,
+      source: siteName,
+      source_page: pageUrl,
+    };
+    const supabaseTargets = [
+      { url: SUPABASE_WEBHOOK_URL, key: SUPABASE_ANON_KEY },
+      { url: SUPABASE_SECONDARY_WEBHOOK_URL, key: SUPABASE_SECONDARY_ANON_KEY },
+    ].filter(({ url }) => url);
+    await Promise.all(
+      supabaseTargets.map(async ({ url, key }) => {
+        try {
+          const response = await fetch(url, {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              ...(key ? { Authorization: `Bearer ${key}`, apikey: key } : {}),
+            },
+            body: JSON.stringify(leadPayload),
+          });
+          if (!response.ok && response.status !== 409) {
+            console.error(`[SUPABASE ERROR] ${response.status} from ${url}`);
+          }
+        } catch (error) {
+          console.error(`[SUPABASE ERROR] ${error.message}`);
+        }
+      }),
+    );
 
     return Response.json({
       success: true,
